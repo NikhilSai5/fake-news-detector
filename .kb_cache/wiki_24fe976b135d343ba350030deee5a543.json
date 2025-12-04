@@ -1,0 +1,188 @@
+[
+  {
+    "source": "wikipedia",
+    "text": "Greenwich Mean Time (GMT) is the local mean time at the Royal Observatory in Greenwich, London, counted from midnight. At different times in the past, it has been calculated in different ways, including being calculated from noon; as a consequence, it cannot be used to specify a particular time unless a context is given. The term \"GMT\" is also used as one of the names for the time zone UTC+00:00 and, in UK law, is the basis for civil time in the United Kingdom.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Because of Earth's uneven angular velocity in its elliptical orbit and its axial tilt, noon (12:00:00) GMT is rarely the exact moment the Sun crosses the Greenwich Meridian and reaches its highest point in the sky there. This event may occur up to 16 minutes before or after noon GMT, a discrepancy described by the equation of time. Noon GMT is the annual average (the arithmetic mean) moment of this event, which accounts for the word \"mean\" in \"Greenwich Mean Time\".",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Originally, astronomers considered a GMT day to start at noon, while for almost everyone else it started at midnight. To avoid confusion, the name Universal Time was introduced in 1928 to denote GMT as counted from midnight. Today, Universal Time usually refers to Coordinated Universal Time (UTC) or else to UT1; English speakers often use GMT as a synonym for UTC. For navigation, it is considered equivalent to UT1 (the modern form of mean solar time at 0\u00b0 longitude); but this meaning can differ from UTC by up to 0.9 s. The term \"GMT\" should thus not be used for purposes that require precision.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The term \"GMT\" is especially used by institutional bodies within the United Kingdom, such as the BBC World Service, the Royal Navy, and the Met Office; and others particularly in Arab countries, such as the Middle East Broadcasting Centre and Dubai-based OSN.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As the United Kingdom developed into an advanced maritime nation, British mariners kept at least one chronometer on GMT to calculate their longitude from the Greenwich meridian,  which was considered to have longitude zero degrees, by a convention adopted in the International Meridian Conference of 1884. Synchronisation of the chronometer on GMT did not affect shipboard time, which was still solar time. But this practice, combined with mariners from other nations drawing from Nevil Maskelyne's method of lunar distances based on observations at Greenwich, led to GMT being used worldwide as a standard time independent of location. Most time zones were based upon GMT, as an offset of a number of hours (and occasionally half or quarter hours) \"ahead of GMT\" or \"behind GMT\".",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Greenwich Mean Time was adopted across the island of Great Britain by the Railway Clearing House in 1847 and by almost all railway companies by the following year, from which the term railway time is derived. It was gradually adopted for other purposes, but a legal case in 1858 held \"local mean time\" to be the official time. On 14 May 1880, a letter signed by \"Clerk to Justices\" appeared in The Times, stating that \"Greenwich time is now kept almost throughout England, but it appears that Greenwich time is not legal time. For example, our polling booths were opened, say, at 8 13 and closed at 4 13 p.m.\" This was changed later in 1880, when Greenwich Mean Time was legally adopted throughout the island of Great Britain. GMT was adopted in the Isle of Man in 1883, in Jersey in 1898 and in Guernsey in 1913. Ireland adopted GMT in 1916, supplanting Dublin Mean Time. Hourly time signals from Greenwich Observatory were first broadcast by shortwave radio on 5 February 1924 at 17:30:00 UTC, providing a rival accurate time-source to the time ball at the Greenwich Observatory.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The daily rotation of the Earth is irregular (see \u0394T) and has a slowing trend; therefore atomic clocks constitute a much more stable timebase. On 1 January 1972, GMT as the international civil time standard was superseded by Coordinated Universal Time (UTC), maintained by an ensemble of atomic clocks around the world. Universal Time (UT), a term introduced in 1928, initially represented mean time at Greenwich determined in the traditional way to accord with the originally defined universal day; from 1 January 1956 (as decided by the International Astronomical Union in Dublin in 1955, at the initiative of William Markowitz) this \"raw\" form of UT was re-labelled UT0 and effectively superseded by refined forms UT1 (UT0 equalised for the effects of polar wandering) and UT2 (UT1 further equalised for annual seasonal variations in Earth rotation rate).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Indeed, even the Greenwich meridian itself is not quite what it used to be\u2014defined by \"the centre of the transit instrument at the Observatory at Greenwich\". Although that instrument still survives in working order, it is no longer in use and now the meridian of origin of the world's longitude and time is not strictly defined in material form but from a statistical solution resulting from observations of all time-determination stations which the BIPM takes into account when co-ordinating the world's time signals. Nevertheless, the line in the old observatory's courtyard today differs no more than a few metres from that imaginary line which is now the prime meridian of the world.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Historically, GMT has been used with two different conventions for numbering hours. The long-standing astronomical convention, dating from the work of Ptolemy, was to refer to noon as zero hours (see Julian day). This contrasted with the civil convention of referring to midnight as zero hours dating from the Roman Empire. The latter convention was adopted on and after 1 January 1925 for astronomical purposes, resulting in a discontinuity of 12 hours, or half a day. The instant that was designated as \"December 31.5 GMT\" in 1924 almanacs became \"January 1.0 GMT\" in 1925 almanacs. The term Greenwich Mean Astronomical Time (GMAT) was introduced to unambiguously refer to the previous noon-based astronomical convention for GMT. The more specific terms UT and UTC do not share this ambiguity, always referring to midnight as zero hours.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Legally, the civil time used in the UK is called \"Greenwich mean time\" (without capitalisation), with an exception made for those periods when the Summer Time Act 1972 orders an hour's shift for daylight saving. The Interpretation Act 1978, section 9, provides that whenever an expression of time occurs in any Act, the time referred to shall (unless otherwise specifically stated) be held to be Greenwich mean time. Under subsection 23, the same rule applies to deeds and other instruments.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "During the experiment of 1968 to 1971, when the British Isles did not revert to Greenwich Mean Time during the winter, the all-year British Summer Time was called British Standard Time (BST).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In the UK, UTC+00:00 is disseminated to the general public in winter and UTC+01:00 in summer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "BBC radio stations broadcast the \"six pips\" of the Greenwich Time Signal. It is named from its original generation at the Royal Greenwich Observatory but is calibrated to UTC. If announced (such as near the start of summer time or of winter time), announcers on domestic channels declare the time as GMT or BST as appropriate. As the BBC World Service is broadcast to all time zones, the announcers use the term \"Greenwich Mean Time\" consistently throughout the year.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Several countries define their local time by reference to Greenwich Mean Time. Some examples are:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Belgium: Decrees of 1946 and 1947 set legal time as one hour ahead of GMT.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Ireland: \"Standard Time\" (Irish: Am Caighde\u00e1nach) is defined as being one hour in advance of GMT. \"Winter Time\" (Am Geimhridh) is defined as being the same as GMT.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Canada: Interpretation Act, R.S.C. 1985, c. I-21, section 35(1). This refers to \"standard time\" for the several provinces, defining each in relation to \"Greenwich time\", but does not use the expression \"Greenwich mean time\". Several provinces, such as Nova Scotia (Time Definition Act. R.S., c. 469, s. 1), have their own legislation which specifically mentions either \"Greenwich Mean Time\" or \"Greenwich mean solar time\".",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Greenwich Mean Time (UTC+00:00) is defined in law as standard time in the following countries and areas, which also advance their clocks one hour to UTC+01:00 in summer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "United Kingdom, where the summer time is called British Summer Time (BST)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Ireland, where it is called 'Winter Time', changing to 'Standard Time' in summer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Greenwich Mean Time is used during the summer in the following areas, which switch their clocks to UTC-01:00 during the winter months:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Greenwich Mean Time is used as standard time all year round in the following countries and areas:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Ruth Belville \u2013 \"the Greenwich Time Lady\", daughter of John Henry Belville, who was in the business of daily personal distribution of Greenwich Mean Time via a watch",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Greenwich Time Signal \u2013 Series of six pips broadcast by the BBC",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Marine chronometer \u2013 Clock used on ships to aid in navigation",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Radio clock \u2013 Clock which synchronizes its time using radio transmitters",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Western European Time \u2013 Time zone in Europe equal to UTC",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The original BBC World Service GMT time signal in MP3 format",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rodgers, Lucy (20 October 2009). \"At the centre of time\". BBC News. Retrieved 20 October 2009.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "GMT or Greenwich Mean Time is the mean solar time at the Royal Observatory in Greenwich, London.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Giant Magellan Telescope, a telescope under construction in Chile 11",
+    "date": null,
+    "verdict": null
+  }
+]

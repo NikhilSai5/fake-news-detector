@@ -1,0 +1,4172 @@
+[
+  {
+    "source": "wikipedia",
+    "text": "1000 or one thousand is the natural number following 999 and preceding 1001. In most English-speaking countries, it can be written with or without a comma or sometimes a period separating the thousands digit: 1,000.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A group of one thousand units is sometimes known, from Ancient Greek, as a chiliad. A period of one thousand years may be known as a chiliad or, more often from Latin, as a millennium. The number 1000 is also sometimes described as a short thousand in medieval contexts where it is necessary to distinguish the Germanic concept of 1200 as a long thousand. It is the first 4-digit integer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1000\u2014a one followed by three zeros, in the general notation;",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1 \u00d7 103\u2014in engineering notation, which for this number coincides with:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The SI prefix for a thousand units is \"kilo-\", abbreviated to \"k\"\u2014for instance, a kilogram or \"kg\" is a thousand grams. This is sometimes extended to non-SI contexts, such as \"ka\" (kiloannum) being used as a shorthand for periods of 1000 years. In computer science, however, \"kilo-\" is used more loosely to mean 2 to the 10th power (1024 or 210).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In the SI writing style, a non-breaking space can be used as a thousands separator, i.e., to separate the digits of a number at every power of 1000.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Multiples of thousands are occasionally represented by replacing their last three zeros with the letter \"K\" or \"k\": for instance, writing \"$30k\" for $30,000 or using \"Y2K\" to denote the Year 2000 computer problem.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A thousand units of currency, especially dollars or pounds, are colloquially called a grand. In the United States, this is sometimes abbreviated with a \"G\" suffix.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1001 = sphenic number (7 \u00d7 11 \u00d7 13), pentagonal number, pentatope number, palindromic number",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1002 = sphenic number, Mertens function zero, abundant number, number of partitions of 22",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1003 = the product of some prime p and the pth prime, namely p = 17.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1006 = semiprime, product of two distinct isolated primes (2 and 503); unusual number; square-free number; number of compositions (ordered partitions) of 22 into squares; sum of two distinct pentatope numbers (5 and 1001); number of undirected Hamiltonian paths in 4 by 5 square grid graph; record gap between twin primes; number that is the sum of 7 positive 5th powers. In decimal: equidigital number; when turned around, the number looks like a prime, 9001; its cube can be concatenated from other cubes, 1_0_1_8_1_0_8_216 (\"_\" indicates concatenation, 0 = 03, 1 = 13, 8 = 23, 216 = 63)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1007 = number that is the sum of 8 positive 5th powers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1008 = divisible by the number of primes below it",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1009 = smallest four-digit prime, palindromic in bases 11, 15, 19, 24 and 28: (83811, 47415, 2F219, 1I124, 18128). It is also a Lucky prime and Chen prime.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1011 = the largest n such that 2n contains 101 and does not contain 11011, Harshad number in bases 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75 (and 202 other bases), number of partitions of 1 into reciprocals of positive integers <= 16 Egyptian fraction",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1012 = ternary number, (3210) quadruple triangular number (triangular number is 253), number of partitions of 1 into reciprocals of positive integers <= 17 Egyptian fraction",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1013 = Sophie Germain prime, centered square number, Mertens function zero",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1014 = 210-10, Mertens function zero, sum of the nontriangular numbers between successive triangular numbers 78 and 91",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1016 = member of the Mian\u2013Chowla sequence, stella octangula number, number of surface points on a cube with edge-length 14",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1018 = Mertens function zero, 101816 + 1 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1021 = twin prime with 1019. It is also a Lucky prime.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1023 = sum of five consecutive primes (193 + 197 + 199 + 211 + 223); the number of three-dimensional polycubes with 7 cells; number of elements in a 9-simplex; highest number one can count to on one's fingers using binary; magic number used in Global Positioning System signals.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1024 = 322 = 45 = 210, the number of bytes in a kilobyte (in 1999, the IEC coined kibibyte to use for 1024 with kilobyte being 1000, but this convention has not been widely adopted). 1024 is the smallest 4-digit square and also a Friedman number.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1025 = Proth number 210 + 1; member of Moser\u2013de Bruijn sequence, because its base-4 representation (1000014) contains only digits 0 and 1, or it's a sum of distinct powers of 4 (45 + 40); Jacobsthal-Lucas number; hypotenuse of primitive Pythagorean triangle",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1026 = sum of two distinct powers of 2 (1024 + 2)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1027 = sum of the squares of the first eight primes; can be written from base 2 to base 18 using only the digits 0 to 9.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1028 = sum of totient function for first 58 integers; can be written from base 2 to base 18 using only the digits 0 to 9; number of primes <= 213.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1029 = can be written from base 2 to base 18 using only the digits 0 to 9.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1031 = exponent and number of ones for the fifth base-10 repunit prime, Sophie Germain prime, super-prime, Chen prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1032 = sum of two distinct powers of 2 (1024 + 8)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1038 = even integer that is an unordered sum of two primes in exactly 40 ways",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1039 = prime of the form 8n+7, number of partitions of 30 that do not contain 1 as a part, Chen prime, Lucky prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1040 = 45 + 42: sum of distinct powers of 4. The number of pieces that could be seen in a 6 \u00d7 6 \u00d7 6\u00d7 6 Rubik's Tesseract.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1043 = number whose sum of even digits and sum of odd digits are even",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1046 = coefficient of f(q) (3rd order mock theta function)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1047 = number of ways to split a strict composition of 18 into contiguous subsequences that have the same sum",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1048 = number of partitions of 27 into squarefree parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1049 = Sophie Germain prime, highly cototient number, Chen prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1050 = 10508 to decimal becomes a pronic number (55210), number of parts in all partitions of 29 into distinct parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1058 = sum of 4 positive 5th powers, area of a square with diagonal 46",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1059 = number n such that n4 is written in the form of a sum of four positive 4th powers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1060 = sum of the first twenty-five primes from 2 through 97 (the number of primes less than 100), and sixth sum of 10 consecutive primes, starting with 23 through 131.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1061 = emirp, twin prime with 1063, number of prime numbers between 1000 and 10000 (or, number of four-digit primes in decimal representation)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1062 = number that is not the sum of two palindromes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1063 = super-prime, sum of seven consecutive primes (137 + 139 + 149 + 151 + 157 + 163 + 167); near-wall-sun-sun prime. It is also a twin prime with 1061.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1066 = number whose sum of their divisors is a square",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1067 = number of strict integer partitions of 45 in which are empty or have smallest part not dividing the other ones",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1068 = number that is the sum of 7 positive 5th powers, total number of parts in all partitions of 15",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1070 = number that is the sum of 9 positive 5th powers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1073 = number that is the sum of 12 positive 5th powers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1074 = number that is not the sum of two palindromes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1077 = number where 7 outnumbers every other digit in the number",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1079 = every positive integer is the sum of at most 1079 tenth powers.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1083 = three-quarter square, number of partitions of 53 into prime parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1084 = third spoke of a hexagonal spiral, 108464 + 1 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1085 = number of partitions of n into distinct parts > or = 2",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1086 = Smith number, sum of totient function for first 59 integers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1088 = octo-triangular number, (triangular number result being 136) sum of two distinct powers of 2, (1024 + 64) number that is divisible by exactly seven primes with the inclusion of multiplicity",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1089 = 332, nonagonal number, centered octagonal number, first natural number whose digits in its decimal representation get reversed when multiplied by 9.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1092 = divisible by the number of primes below it",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1093 = the smallest Wieferich prime (the only other known Wieferich prime is 3511), twin prime with 1091 and star number",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1094 = sum of 9 positive 5th powers, 109464 + 1 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1095 = sum of 10 positive 5th powers, number that is not the sum of two palindromes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1096 = hendecagonal number, number of strict solid partitions of 18",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1098 = multiple of 9 containing digit 9 in its base-10 representation",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1100 = number of partitions of 61 into distinct squarefree parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1102 = sum of totient function for first 60 integers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1105 = 332 + 42 = 322 + 92 = 312 + 122 = 232 + 242, Carmichael number, magic constant of n \u00d7 n normal magic square and n-queens problem for n = 13, decagonal number, centered square number, Fermat pseudoprime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1106 = number of regions into which the plane is divided when drawing 24 ellipses",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1107 = number of non-isomorphic strict T0 multiset partitions of weight 8",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1108 = number k such that k64 + 1 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1110 = k such that 2k + 3 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1111 = 11 \u00d7 101, palindrome that is a product of two palindromic primes, repunit",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1112 = k such that 9k - 2 is a prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1114 = number of ways to write 22 as an orderless product of orderless sums",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1115 = number of partitions of 27 into a prime number of parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1116 = divisible by the number of primes below it",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1117 = number of diagonally symmetric polyominoes with 16 cells, Chen prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1118 = number of unimodular 2 \u00d7 2 matrices having all terms in {0,1,...,21}",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1120 = number k such that k64 + 1 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1122 = pronic number, divisible by the number of primes below it",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1124 = Leyland number using 2 & 10 (210 + 102), spy number",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1126 = number of 2 \u00d7 2 non-singular integer matrices with entries from {0, 1, 2, 3, 4, 5}",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1127 = maximal number of pieces that can be obtained by cutting an annulus with 46 cuts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1128 = 47th triangular number, 24th hexagonal number, divisible by the number of primes below it (188 \u00d7 6). 1128 is the dimensional representation of the largest vertex operator algebra with central charge of 24, D24.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1129 = number of lattice points inside a circle of radius 19",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1131 = number of edges in the hexagonal triangle T(26)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1132 = number of simple unlabeled graphs with 9 nodes of 2 colors whose components are complete graphs",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1133 = number of primitive subsequences of {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15}",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1134 = divisible by the number of primes below it, triangular matchstick number",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1136 = number of independent vertex sets and vertex covers in the 7-sunlet graph",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1137 = sum of values of vertices at level 5 of the hyperbolic Pascal pyramid",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1138 = recurring number in the works of George Lucas and his companies, beginning with his first feature film \u2013 THX 1138; particularly, a special code for Easter eggs on Star Wars DVDs.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1142 = n such that n32 + 1 is prime, spy number",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1143 = number of set partitions of 8 elements with 2 connectors",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1144 is not the sum of a pair of twin primes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1146 is not the sum of a pair of twin primes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1147 = 31 \u00d7 37 (a product of 2 successive primes)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1148 is not the sum of a pair of twin primes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1151 = first prime following a prime gap of 22, Chen prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1152 = highly totient number, 3-smooth number (27\u00d732), area of a square with diagonal 48, Achilles number",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1154 = 2 \u00d7 242 + 2 = number of points on surface of tetrahedron with edge length 24",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1155 = number of edges in the join of two cycle graphs, both of order 33, product of first four odd primes (3*5*7*11)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1156 = 342, octahedral number, centered pentagonal number, centered hendecagonal number.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1157 = smallest number that can be written as n^2+1 without any prime factors that can be written as a^2+1.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1158 = number of points on surface of octahedron with edge length 17",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1159 = member of the Mian\u2013Chowla sequence, a centered octahedral number",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1162 = pentagonal number, sum of totient function for first 61 integers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1163 = smallest prime > 342. See Legendre's conjecture. Chen prime.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1164 = number of chains of multisets that partition a normal multiset of weight 8, where a multiset is normal if it spans an initial interval of positive integers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1167 = number of rational numbers which can be constructed from the set of integers between 1 and 43",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1170 = highest possible score in a National Academic Quiz Tournaments (NAQT) match",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1172 = number of subsets of first 14 integers that have a sum divisible by 14",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1173 = number of simple triangulation on a plane with 9 nodes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1174 = number of widely totally strongly normal compositions of 16",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1175 = maximal number of pieces that can be obtained by cutting an annulus with 47 cuts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1178 = number of surface points on a cube with edge-length 15",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1179 = number of different permanents of binary 7*7 matrices",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1180 = smallest number of non-integral partitions into non-integral power >1000.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1181 = smallest k over 1000 such that 8*10^k-49 is prime.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1182 = number of necklaces possible with 14 beads of 2 colors (that cannot be turned over)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1185 = number of partitions of 45 into pairwise relatively prime parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1186 = number of diagonally symmetric polyominoes with 15 cells, number of partitions of 54 into prime parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1187 = safe prime, Stern prime, balanced prime, Chen prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1188 = first 4 digit multiple of 18 to contain 18",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1190 = pronic number, number of cards to build a 28-tier house of cards",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1191 = 352 - 35 + 1 = H35 (the 35th Hogben number)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1192 = sum of totient function for first 62 integers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1193 = a number such that 41193 - 31193 is prime, Chen prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1194 = number of permutations that can be reached with 8 moves of 2 bishops and 1 rook on a 3 \u00d7 3 chessboard",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1195 = smallest four-digit number for which a\u22121(n) is an integer is a(n) is 2*a(n-1) - (-1)n",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1200 = the long thousand, ten \"long hundreds\" of 120 each, the traditional reckoning of large numbers in Germanic languages, the number of households the Nielsen ratings sample, number k such that k64 + 1 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1202 = number of regions the plane is divided into by 25 ellipses",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1203: first 4 digit number in the coordinating sequence for the (2,6,\u221e) tiling of the hyperbolic plane",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1204: magic constant of a 7 \u00d7 7 \u00d7 7 magic cube",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1205 = number of partitions of 28 such that the number of odd parts is a part",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1208 = number of strict chains of divisors starting with the superprimorial A006939(3)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1209 = The product of all ordered non-empty subsets of {3,1} if {a,b} is a||b: 1209=1*3*13*31",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1214 = sum of first 39 composite numbers, spy number",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1215 = number of edges in the hexagonal triangle T(27)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1220 = Mertens function zero, number of binary vectors of length 16 containing no singletons",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1221 = product of the first two digit, and three digit repdigit",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1223 = Sophie Germain prime, balanced prime, 200th prime number",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1224 = number of edges in the join of two cycle graphs, both of order 34",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1225 = 352, 49th triangular number, 2nd nontrivial square triangular number, 25th hexagonal number, and the smallest number >1 to be all three. Additionally a centered octagonal number, icosienneagonal, hexacontagonal, and hecatonicositetragonal (124-gonal) number, and the sum of 5 consecutive odd cubes (13 + 33 + 53 + 73 + 93)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1226 = number of rooted identity trees with 15 nodes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1227 = smallest number representable as the sum of 3 triangular numbers in 27 ways",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1228 = sum of totient function for first 63 integers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1229 = Sophie Germain prime, number of primes under 10,000, emirp",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1231 = smallest mountain emirp, as 121, smallest mountain number is 11 \u00d7 11",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1232 = number of labeled ordered set of partitions of a 7-set into odd parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1234 = number of parts in all partitions of 30 into distinct parts, smallest whole number containing all numbers from 1 to 4",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1235 = excluding duplicates, contains the first four Fibonacci numbers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1236 = 617 + 619: sum of twin prime pair",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1238 = number of partitions of 31 that do not contain 1 as a part",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1245 = Number of labeled spanning intersecting set-systems on 5 vertices.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1246 = number of partitions of 38 such that no part occurs more than once",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1248 = the first four powers of 2 concatenated together",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1251 = 2 \u00d7 252 + 1 = number of different 2 \u00d7 2 determinants with integer entries from 0 to 25",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1252 = 2 \u00d7 252 + 2 = number of points on surface of tetrahedron with edgelength 25",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1253 = number of partitions of 23 with at least one distinct part",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1254 = number of partitions of 23 into relatively prime parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1255 = Mertens function zero, number of ways to write 23 as an orderless product of orderless sums, number of partitions of 23",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1256 = 1 \u00d7 2 \u00d7 (52)2 + 6, Mertens function zero",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1257 = number of lattice points inside a circle of radius 20",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1258 = 1 \u00d7 2 \u00d7 (52)2 + 8, Mertens function zero",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1260 = the 16th highly composite number, pronic number, the smallest vampire number, sum of totient function for first 64 integers, number of strict partions of 41 and appears twice in the Book of Revelation",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1262 = maximal number of regions the plane is divided into by drawing 36 circles",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1263 = rounded total surface area of a regular tetrahedron with edge length 27",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1265 = number of rooted trees with 43 vertices in which vertices at the same level have the same degree",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1268 = number of partitions of 37 into prime power parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1269 = least number of triangles of the Spiral of Theodorus to complete 11 revolutions",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1270 = 25 + 24\u00d726 + 23\u00d727, Mertens function zero",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1274 = sum of the nontriangular numbers between successive triangular numbers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1275 = 50th triangular number, equivalently the sum of the first 50 natural numbers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1276 = number of irredundant sets in the 25-cocktail party graph",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1277 = the start of a prime constellation of length 9 (a \"prime nonuple\")",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1278 = number of Narayana's cows and calves after 20 years",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1280 = Mertens function zero, number of parts in all compositions of 9",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1282 = Mertens function zero, number of partitions of 46 into pairwise relatively prime parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1284 = 641 + 643: sum of twin prime pair",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1285 = Mertens function zero, number of free nonominoes, number of parallelogram polyominoes with 10 cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1286 = number of inequivalent connected planar figures that can be formed from five 1 X 2 rectangles (or dominoes) such that each pair of touching rectangles shares exactly one edge, of length 1, and the adjacency graph of the rectangles is a tree",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1292 = number such that phi(1292) = phi(sigma(1292)), Mertens function zero",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1294 = rounded volume of a regular octahedron with edge length 14",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1295 = number of edges in the join of two cycle graphs, both of order 35",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1296 = 362 = 64, sum of the cubes of the first eight positive integers, the number of rectangles on a normal 8 \u00d7 8 chessboard, also the maximum font size allowed in Adobe InDesign, number of combinations of 2 characters(00-ZZ)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1298 = number of partitions of 55 into prime parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1299 = Mertens function zero, number of partitions of 52 such that the smallest part is greater than or equal to number of parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1300 = Sum of the first 4 fifth powers, Mertens function zero, largest possible win margin in an NAQT match; smallest even odd-factor hyperperfect number",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1301 = centered square number, Honaker prime, number of trees with 13 unlabeled nodes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1302 = Mertens function zero, number of edges in the hexagonal triangle T(28)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1304 = sum of 13046 and 1304 9 which is 328+976",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1306 = Mertens function zero. In base 10, raising the digits of 1306 to powers of successive integers equals itself: 1306 = 11 + 32 + 03 + 64. 135, 175, 518, and 598 also have this property. Centered triangular number.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1308 = sum of totient function for first 65 integers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1309 = the first sphenic number followed by two consecutive such number",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1310 = smallest number in the middle of a set of three sphenic numbers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1311 = number of integer partitions of 32 with no part dividing all the others",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1313 = sum of all parts of all partitions of 14",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1314 = number of integer partitions of 41 whose distinct parts are connected",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1317 = 1317 Only odd four digit number to divide the concatenation of all number up to itself in base 25",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1320 = 659 + 661: sum of twin prime pair",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1324 = if D(n) is the nth representation of 1, 2 arranged lexicographically. 1324 is the first non-1 number which is D(D(x))",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1326 = 51st triangular number, hexagonal number, Mertens function zero",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1327 = first prime followed by 33 consecutive composite numbers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1328 = sum of totient function for first 66 integers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1329 = Mertens function zero, sum of first 41 composite numbers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1330 = tetrahedral number, forms a Ruth\u2013Aaron pair with 1331 under second definition",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1331 = 113, centered heptagonal number, forms a Ruth\u2013Aaron pair with 1330 under second definition. This is the only non-trivial cube of the form x2 + x \u2212 1, for x = 36.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1333 = 372 - 37 + 1 = H37 (the 37th Hogben number)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1334 = maximal number of regions the plane is divided into by drawing 37 circles",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1336 = sum of gcd(x, y) for 1 <= x, y <= 24, Mertens function zero",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1337 = Used in the novel form of spelling called leet. Approximate melting point of gold in kelvins.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1338 = atomic number of the noble element of period 18, Mertens function zero",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1339 = First 4 digit number to appear twice in the sequence of sum of cubes of primes dividing n",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1340 = k such that 5 \u00d7 2k - 1 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1341 = First mountain number with 2 jumps of more than one.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1344 = 372 - 52, the only way to express 1344 as a difference of prime squares",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1345 = k such that k, k+1 and k+2 are products of two primes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1346 = number of locally disjointed rooted trees with 10 nodes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1348 = number of ways to stack 22 pennies such that every penny is in a stack of one or two",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1351 = number of partitions of 28 into a prime number of parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1352 = number of surface points on a cube with edge-length 16, Achilles number",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1353 = 2 \u00d7 262 + 1 = number of different 2 \u00d7 2 determinants with integer entries from 0 to 26",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1354 = 2 \u00d7 262 + 2 = number of points on surface of tetrahedron with edgelength 26",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1355 appears for the first time in the Recam\u00e1n's sequence at n = 325,374,625,245. Or in other words A057167(1355) = 325,374,625,245",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1356 is not the sum of a pair of twin primes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1357 = number of nonnegative solutions to x2 + y2 \u2264 412",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1358 = rounded total surface area of a regular tetrahedron with edge length 28",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1360 = 372 - 32, the only way to express 1360 as a difference of prime squares",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1361 = first prime following a prime gap of 34, centered decagonal number, 3rd Mills' prime, Honaker prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1363 = the number of ways to modify a circular arrangement of 14 objects by swapping one or more adjacent pairs",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1366 = Arima number, after Yoriyuki Arima who in 1769 constructed this sequence as the number of moves of the outer ring in the optimal solution for the Chinese Rings puzzle",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1367 = safe prime, balanced prime, sum of three, nine, and eleven consecutive primes (449 + 457 + 461, 131 + 137 + 139 + 149 + 151 + 157 + 163 + 167 + 173, and 101 + 103 + 107 + 109 + 113 + 127 + 131 + 137 + 139 + 149 + 151),",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1368 = number of edges in the join of two cycle graphs, both of order 36",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1370 = \u03c32(37): sum of squares of divisors of 37",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1373 = number of lattice points inside a circle of radius 21",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1374 = number of unimodular 2 \u00d7 2 matrices having all terms in {0,1,...,23}",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1376 = primitive abundant number (abundant number all of whose proper divisors are deficient numbers)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1377 = maximal number of pieces that can be obtained by cutting an annulus with 51 cuts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1379 = magic constant of n \u00d7 n normal magic square and n-queens problem for n = 14.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1383 = 3 \u00d7 461. 101383 + 7 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1387 = 5th Fermat pseudoprime of base 2, 22nd centered hexagonal number and the 19th decagonal number, second Super-Poulet number.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1388 = 4 \u00d7 192 - 3 \u00d7 19 + 1 and is therefore on the x-axis of Ulams spiral",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1391 = number of rational numbers which can be constructed from the set of integers between 1 and 47",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1392 = number of edges in the hexagonal triangle T(29)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1394 = sum of totient function for first 67 integers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1395 = vampire number, member of the Mian\u2013Chowla sequence triangular matchstick number",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1398 = number of integer partitions of 40 whose distinct parts are connected",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1400 = number of sum-free subsets of {1, ..., 15}",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1402 = number of integer partitions of 48 whose augmented differences are distinct, number of signed trees with 8 nodes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1403 = smallest x such that M(x) = 11, where M() is Mertens function",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1405 = 262 + 272, 72 + 82 + ... + 162, centered square number",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1407 = 382 - 38 + 1 = H38 (the 38th Hogben number)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1408 = maximal number of regions the plane is divided into by drawing 38 circles",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1409 = super-prime, Sophie Germain prime, smallest number whose eighth power is the sum of 8 eighth powers, Proth prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1414 = smallest composite that when added to sum of prime factors reaches a prime after 27 iterations",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1417 = number of partitions of 32 in which the number of parts divides 32",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1418 = smallest x such that M(x) = 13, where M() is Mertens function",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1420 = Number of partitions of 56 into prime parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1421 = maximum dimension of Euclidean spaces which suffice for every smooth compact Riemannian 29-manifold to be realizable as a sub-manifold, spy number",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1422 = number of partitions of 15 with two parts marked",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1423 = 200 + 1223 and the 200th prime is 1223",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1424 = number of nonnegative solutions to x2 + y2 \u2264 422",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1426 = sum of totient function for first 68 integers, pentagonal number, number of strict partions of 42",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1428 = number of complete ternary trees with 6 internal nodes, or 18 edges",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1429 = number of partitions of 53 such that the smallest part is greater than or equal to number of parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1433 = super-prime, Honaker prime, typical port used for remote connections to Microsoft SQL Server databases",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1434 = rounded volume of a regular tetrahedron with edge length 23",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1435 = vampire number; the standard railway gauge in millimetres, equivalent to 4 feet 8+1\u20442 inches (1.435 m)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1437 = smallest number of complexity 20: smallest number requiring 20 1's to build using +, * and ^",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1438 = k such that 5 \u00d7 2k - 1 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1440 = a highly totient number, a largely composite number and a 481-gonal number. Also, the number of minutes in one day, the size in kibibytes (units of 1,024 bytes) of a standard \u20603+1/2\u2060 floppy disk, and the horizontal resolution of WXGA(II) computer displays",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1442 = number of parts in all partitions of 31 into distinct parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1443 = the sum of the second trio of three-digit permutable primes in decimal: 337, 373, and 733. Also the number of edges in the join of two cycle graphs, both of order 37",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1446 = number of points on surface of octahedron with edge length 19",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1448 = number k such that phi(prime(k)) is a square",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1450 = \u03c32(34): sum of squares of divisors of 34",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1452 = first Zagreb index of the complete graph K12",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1454 = 3 \u00d7 222 + 2 = number of points on surface of square pyramid of side-length 22",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1455 = k such that geometric mean of phi(k) and sigma(k) is an integer",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1456 = number of regions in regular 15-gon with all diagonals drawn",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1457 = 2 \u00d7 272 \u2212 1 = a twin square",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1458 = maximum determinant of an 11 by 11 matrix of zeroes and ones, 3-smooth number (2\u00d736)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1459 = Sexy prime with 1453, sum of nine consecutive primes (139 + 149 + 151 + 157 + 163 + 167 + 173 + 179 + 181), Pierpont prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1460 = The number of years that would have to pass in the Julian calendar in order to accrue a full year's worth of leap days.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1461 = number of partitions of 38 into prime power parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1462 = (35 - 1) \u00d7 (35 + 8) = the first Zagreb index of the wheel graph with 35 vertices",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1463 = total number of parts in all partitions of 16",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1464 = rounded total surface area of a regular icosahedron with edge length 13",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1467 = number of partitions of 39 with zero crank",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1468 = number of polyhexes with 11 cells that tile the plane by translation",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1470 = pentagonal pyramidal number, sum of totient function for first 69 integers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": ": triangular number plus quarter square (i.e., A000217(44) + A002620(44))",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1475 = number of partitions of 33 into parts each of which is used a different number of times",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1478 = total number of largest parts in all compositions of 11",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1482 = pronic number, number of unimodal compositions of 15 where the maximal part appears once",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1483 = 392 - 39 + 1 = H39 (the 39th Hogben number)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1484 = maximal number of regions the plane is divided into by drawing 39 circles",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1488 = triangular matchstick number, commonly used as a hate symbol",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1492 = discriminant of a totally real cubic field, Mertens function zero",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1494 = sum of totient function for first 70 integers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1502 = number of pairs of consecutive integers x, x+1 such that all prime factors of both x and x+1 are at most 47",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1503 = least number of triangles of the Spiral of Theodorus to complete 12 revolutions",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1504 = primitive abundant number (abundant number all of whose proper divisors are deficient numbers)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1505 = number of integer partitions of 41 with distinct differences between successive parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1507 = number of partitions of 32 that do not contain 1 as a part",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1512 = k such that geometric mean of phi(k) and sigma(k) is an integer",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1515 = maximum dimension of Euclidean spaces which suffice for every smooth compact Riemannian 30-manifold to be realizable as a sub-manifold",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1517 = number of lattice points inside a circle of radius 22",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1518 = sum of first 32 semiprimes, Mertens function zero",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1519 = number of polyhexes with 8 cells, Mertens function zero",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1520 = pentagonal number, Mertens function zero, forms a Ruth\u2013Aaron pair with 1521 under second definition",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1521 = 392, Mertens function zero, centered octagonal number, forms a Ruth\u2013Aaron pair with 1520 under second definition",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1522 = k such that 5 \u00d7 2k - 1 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1523 = super-prime, Mertens function zero, safe prime, member of the Mian\u2013Chowla sequence",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1524 = Mertens function zero, k such that geometric mean of phi(k) and sigma(k) is an integer",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1526 = number of conjugacy classes in the alternating group A27",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1527 = number of 2-dimensional partitions of 11, Mertens function zero",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1528 = Mertens function zero, rounded total surface area of a regular octahedron with edge length 21",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1531 = prime number, centered decagonal number, Mertens function zero",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1532 = number of series-parallel networks with 9 unlabeled edges, Mertens function zero",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1533 = 21 \u00d7 73 = 21 \u00d7 21st prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1536 = a common size of microplate, 3-smooth number (29\u00d73), number of threshold functions of exactly 4 variables",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1538 = number of surface points on a cube with edge-length 17",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1539 = maximal number of pieces that can be obtained by cutting an annulus with 54 cuts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1540 = 55th triangular number, hexagonal number, decagonal number, tetrahedral number",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1543 = prime dividing all Fibonacci sequences, Mertens function zero",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1544 = Mertens function zero, number of partitions of integer partitions of 17 where all parts have the same length",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1545 = number of reversible string structures with 9 beads using exactly three different colors",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1546 = number of 5 X 5 binary matrices with at most one 1 in each row and column, Mertens function zero",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "= number of cards needed to build a 31-tier house of cards with a flat, one-card-wide roof",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1551 = 6920 - 5369 = A169952(24) - A169952(23) = A169942(24) = number of Golomb rulers of length 24",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1552 = Number of partitions of 57 into prime parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1553 = 509 + 521 + 523 = a prime that is the sum of three consecutive primes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1554 = 2 \u00d7 3 \u00d7 7 \u00d7 37 = product of four distinct primes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1556 = sum of the squares of the first nine primes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1557 = number of graphs with 8 nodes and 13 edges",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1558 = number k such that k64 + 1 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1561 = a centered octahedral number, number of series-reduced trees with 19 nodes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1562 = maximal number of regions the plane is divided into by drawing 40 circles",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1564 = sum of totient function for first 71 integers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1566 = number k such that k64 + 1 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1567 = number of partitions of 24 with at least one distinct part",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1569 = 2 \u00d7 282 + 1 = number of different 2 \u00d7 2 determinants with integer entries from 0 to 28",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1570 = 2 \u00d7 282 + 2 = number of points on surface of tetrahedron with edgelength 28",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1575 = odd abundant number, sum of the nontriangular numbers between successive triangular numbers, number of partitions of 24",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1579 = number of partitions of 54 such that the smallest part is greater than or equal to number of parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1581 = number of edges in the hexagonal triangle T(31)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1582 = a number such that the integer triangle [A070080(1582), A070081(1582), A070082(1582)] has an integer area",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1587 = 3 \u00d7 232 = number of edges of a complete tripartite graph of order 69, K23,23,23",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1588 = sum of totient function for first 72 integers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1590 = rounded volume of a regular icosahedron with edge length 9",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1591 = rounded volume of a regular octahedron with edge length 15",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1592 = sum of all divisors of the first 36 odd numbers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1594 = minimal cost of maximum height Huffman tree of size 17",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1598 = number of unimodular 2 \u00d7 2 matrices having all terms in {0,1,...,25}",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1599 = number of edges in the join of two cycle graphs, both of order 39",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1600 = 402, structured great rhombicosidodecahedral number, repdigit in base 7 (44447), street number on Pennsylvania Avenue of the White House, length in meters of a common High School Track Event, perfect score on SAT (except from 2005 to 2015)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1601 = Sophie Germain prime, Proth prime, the novel 1601 (Mark Twain)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1602 = number of points on surface of octahedron with edgelength 20",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1603 = number of partitions of 27 with nonnegative rank",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1604 = number of compositions of 22 into prime parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1605 = number of polyominoes consisting of 7 regular octagons",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1607 = member of prime triple with 1609 and 1613",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1611 = number of rational numbers which can be constructed from the set of integers between 1 and 51",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1612 = maximum dimension of Euclidean spaces which suffice for every smooth compact Riemannian 31-manifold to be realizable as a sub-manifold",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1614 = number of ways of refining the partition 8^1 to get 1^8",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1615 = composite number such that the square mean of its prime factors is a nonprime integer",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1620 = 809 + 811: sum of twin prime pair",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1623 is not the sum of two triangular numbers and a fourth power",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1624 = number of squares in the Aztec diamond of order 28",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1627 = prime and 2 \u00d7 1627 - 1 = 3253 is also prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1629 = rounded volume of a regular tetrahedron with edge length 24",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1630 = number k such that k^64 + 1 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1632 = number of acute triangles made from the vertices of a regular 18-polygon",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1634 = the smallest four-digit Narcissistic number in base 10",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1635 = number of partitions of 56 whose reciprocal sum is an integer",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1636 = number of nonnegative solutions to x2 + y2 \u2264 452",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1637 = prime island: least prime whose adjacent primes are exactly 30 apart",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1638 = harmonic divisor number, 5 \u00d7 21638 - 1 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1641 = 412 - 41 + 1 = H41 (the 41st Hogben number)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1642 = maximal number of regions the plane is divided into by drawing 41 circles",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1644 = 821 + 823: sum of twin prime pair",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1645 = number of 16-celled pseudo still lifes in Conway's Game of Life, up to rotation and reflection",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1646 = number of graphs with 8 nodes and 14 edges",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1648 = number of partitions of 343 into distinct cubes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1649 = highly cototient number, Leyland number using 4 & 5 (45 + 54)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1650 = number of cards to build an 33-tier house of cards",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1652 = number of partitions of 29 into a prime number of parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1653 = 57th triangular number, hexagonal number, number of lattice points inside a circle of radius 23",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1654 = number of partitions of 42 into divisors of 42",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1655 = rounded volume of a regular dodecahedron with edge length 6",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1656 = 827 + 829: sum of twin prime pair",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1658 = smallest composite that when added to sum of prime factors reaches a prime after 25 iterations",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1659 = number of rational numbers which can be constructed from the set of integers between 1 and 52",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1660 = sum of totient function for first 73 integers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1661 = 11 \u00d7 151, palindrome that is a product of two palindromic primes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1662 = number of partitions of 49 into pairwise relatively prime parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1663 = a prime number and 51663 - 41663 is a 1163-digit prime number",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1664 = k such that k, k+1 and k+2 are sums of 2 squares",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1666 = largest efficient pandigital number in Roman numerals (each symbol occurs exactly once)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1667 = 228 + 1439 and the 228th prime is 1439",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1668 = number of partitions of 33 into parts all relatively prime to 33",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1669 = super-prime, smallest prime with a gap of exactly 24 to the next prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1670 = number of compositions of 12 such that at least two adjacent parts are equal",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1671 divides the sum of the first 1671 composite numbers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1672 = 412 - 32, the only way to express 1672 as a difference of prime squares",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1674 = k such that geometric mean of phi(k) and sigma(k) is an integer",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1676 = number of partitions of 34 into parts each of which is used a different number of times",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1677 = 412 - 22, the only way to express 1677 as a difference of prime squares",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1678 = n such that n32 + 1 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1679 = highly cototient number, semiprime (23 \u00d7 73, see also Arecibo message), number of parts in all partitions of 32 into distinct parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1680 = the 17th highly composite number, number of edges in the join of two cycle graphs, both of order 40",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1681 = 412, smallest number yielded by the formula n2 + n + 41 that is not a prime; centered octagonal number",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1682 = and 1683 is a member of a Ruth\u2013Aaron pair (first definition)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1688 = number of finite connected sets of positive integers greater than one with least common multiple 72",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1690 = number of compositions of 14 into powers of 2",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1691 = the same upside down, which makes it a strobogrammatic number",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1694 = number of unimodular 2 \u00d7 2 matrices having all terms in {0,1,...,26}",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1695 = magic constant of n \u00d7 n normal magic square and n-queens problem for n = 15. Number of partitions of 58 into prime parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1696 = sum of totient function for first 74 integers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1698 = number of rooted trees with 47 vertices in which vertices at the same level have the same degree",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1699 = number of rooted trees with 48 vertices in which vertices at the same level have the same degree",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1700 = \u03c32(39): sum of squares of divisors of 39",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": ", decagonal number, hull number of the U.S.S. Enterprise on Star Trek",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1702 = palindromic in 3 consecutive bases: 89814, 78715, 6A616",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1703 = 1703131131 / 1000077 and the divisors of 1703 are 1703, 131, 13 and 1",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1704 = sum of the squares of the parts in the partitions of 18 into two distinct parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1706 = 1 + 4 + 16 + 64 + 256 + 1024 + 256 + 64 + 16 + 4 + 1 sum of fifth row of triangle of powers of 4",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1707 = number of partitions of 30 in which the number of parts divides 30",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1708 = 22 \u00d7 7 \u00d7 61 a number whose product of prime indices 1 \u00d7 1 \u00d7 4 \u00d7 18 is divisible by its sum of prime factors 2 + 2 + 7 + 61",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1709 = first of a sequence of eight primes formed by adding 57 in the middle. 1709, 175709, 17575709, 1757575709, 175757575709, 17575757575709, 1757575757575709 and 175757575757575709 are all prime, but 17575757575757575709 = 232433 \u00d7 75616446785773",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1710 = maximal number of pieces that can be obtained by cutting an annulus with 57 cuts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1712 = number of irredundant sets in the 29-cocktail party graph",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1713 = number of aperiodic rooted trees with 12 nodes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1714 = number of regions formed by drawing the line segments connecting any two of the 18 perimeter points of an 3 \u00d7 6 grid of squares",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1715 = k such that geometric mean of phi(k) and sigma(k) is an integer",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1716 = 857 + 859: sum of twin prime pair",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1721 = twin prime; number of squares between 422 and 424.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1724 = maximal number of regions the plane is divided into by drawing 42 circles",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1726 = number of partitions of 44 into distinct and relatively prime parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1728 = the quantity expressed as 1000 in duodecimal, that is, the cube of twelve (called a great gross), and so, the number of cubic inches in a cubic foot, palindromic in base 11 (133111) and 23 (36323)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1729 = taxicab number, Carmichael number, Zeisel number, centered cube number, Hardy\u2013Ramanujan number. In the decimal expansion of e the first time all 10 digits appear in sequence starts at the 1729th digit (or 1728th decimal place). In 1979 the rock musical Hair closed on Broadway in New York City after 1729 performances. Palindromic in bases 12, 32, 36.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1730 = 3 \u00d7 242 + 2 = number of points on surface of square pyramid of side-length 24",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1731 = k such that geometric mean of phi(k) and sigma(k) is an integer",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1733 = Sophie Germain prime, palindromic in bases 3, 18, 19.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1734 = surface area of a cube of edge length 17",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1735 = number of partitions of 55 such that the smallest part is greater than or equal to number of parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1736 = sum of totient function for first 75 integers, number of surface points on a cube with edge-length 18",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1739 = number of 1s in all partitions of 30 into odd parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1740 = number of squares in the Aztec diamond of order 29",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1742 = number of regions the plane is divided into by 30 ellipses",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1744 = k such that k, k+1 and k+2 are sums of 2 squares",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1748 = number of partitions of 55 into distinct parts in which the number of parts divides 55",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1749 = number of integer partitions of 33 with no part dividing all the others",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1752 = 792 - 672, the only way to express 1752 as a difference of prime squares",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1754 = k such that 5*2k - 1 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1755 = number of integer partitions of 50 whose augmented differences are distinct",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1757 = least number of triangles of the Spiral of Theodorus to complete 13 revolutions",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1761 = k such that k, k+1 and k+2 are products of two primes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1762 = number of binary sequences of length 12 and curling number 2",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1763 = number of edges in the join of two cycle graphs, both of order 41",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1765 = number of stacks, or planar partitions of 15",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1766 = number of points on surface of octahedron with edge length 21",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1768 = number of nonequivalent dissections of an hendecagon into 8 polygons by nonintersecting diagonals up to rotation",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1769 = maximal number of pieces that can be obtained by cutting an annulus with 58 cuts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1770 = 59th triangular number, hexagonal number, Seventeen Seventy, town in Australia",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1772 = centered heptagonal number, sum of totient function for first 76 integers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1773 = number of words of length 5 over the alphabet {1,2,3,4,5} such that no two even numbers appear consecutively",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1774 = number of rooted identity trees with 15 nodes and 5 leaves",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1776 = 24th square star number. The number of pieces that could be seen in a 7 \u00d7 7 \u00d7 7\u00d7 7 Rubik's Tesseract.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1778 = least k >= 1 such that the remainder when 6k is divided by k is 22",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1780 = number of lattice paths from (0, 0) to (7, 7) using E (1, 0) and N (0, 1) as steps that horizontally cross the diagonal y = x with even many times",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1781 = the first 1781 digits of e form a prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1784 = number of subsets of {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12} such that every pair of distinct elements has a different quotient",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1787 = super-prime, sum of eleven consecutive primes (137 + 139 + 149 + 151 + 157 + 163 + 167 + 173 + 179 + 181 + 191)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1789 = number of wiggly sums adding to 17 (terms alternately increase and decrease or vice versa)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1790 = number of partitions of 50 into pairwise relatively prime parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1791 = largest natural number that cannot be expressed as a sum of at most four hexagonal numbers.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1793 = number of lattice points inside a circle of radius 24",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1794 = nonagonal number, number of partitions of 33 that do not contain 1 as a part",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1796 = k such that geometric mean of phi(k) and sigma(k) is an integer",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1797 = number k such that phi(prime(k)) is a square",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1798 = 2 \u00d7 29 \u00d7 31 = 102 \u00d7 111012 \u00d7 111112, which yield zero when the prime factors are xored together",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1799 = 2 \u00d7 302 \u2212 1 = a twin square",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1800 = pentagonal pyramidal number, Achilles number, also, in da Ponte's Don Giovanni, the number of women Don Giovanni had slept with so far when confronted by Donna Elvira, according to Leporello's tally",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1801 = cuban prime, sum of five and nine consecutive primes (349 + 353 + 359 + 367 + 373 and 179 + 181 + 191 + 193 + 197 + 199 + 211 + 223 + 227)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1802 = 2 \u00d7 302 + 2 = number of points on surface of tetrahedron with edge length 30, number of partitions of 30 such that the number of odd parts is a part",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1803 = number of decahexes that tile the plane isohedrally but not by translation or by 180-degree rotation (Conway criterion)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1804 = number k such that k^64 + 1 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1806 = pronic number, product of first four terms of Sylvester's sequence, primary pseudoperfect number, only number for which n equals the denominator of the nth Bernoulli number, Schr\u00f6der number",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1808 = maximal number of regions the plane is divided into by drawing 43 circles",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1812 = n such that n32 + 1 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1813 = number of polyominoes with 26 cells, symmetric about two orthogonal axes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1814 = 1 + 6 + 36 + 216 + 1296 + 216 + 36 + 6 + 1 = sum of 4th row of triangle of powers of six",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1817 = total number of prime parts in all partitions of 20",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1818 = n such that n32 + 1 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1819 = sum of the first 32 primes, minus 32",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1820 = pentagonal number, pentatope number, number of compositions of 13 whose run-lengths are either weakly increasing or weakly decreasing",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1822 = number of integer partitions of 43 whose distinct parts are connected",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1824 = 432 - 52, the only way to express 1824 as a difference of prime squares",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1828 = meandric number, open meandric number, appears twice in the first 10 decimal digits of e",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1831 = smallest prime with a gap of exactly 16 to next prime (1847)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1832 = sum of totient function for first 77 integers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1833 = number of atoms in a decahedron with 13 shells",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1834 = octahedral number, sum of the cubes of the first five primes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1836 = factor by which a proton is more massive than an electron",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1838 = number of unimodular 2 \u00d7 2 matrices having all terms in {0,1,...,27}",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1840 = 432 - 32, the only way to express 1840 as a difference of prime squares",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1841 = solution to the postage stamp problem with 3 denominations and 29 stamps, Mertens function zero",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1842 = number of unlabeled rooted trees with 11 nodes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1843 = k such that phi(k) is a perfect cube, Mertens function zero",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1845 = number of partitions of 25 containing at least one prime, Mertens function zero",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1848 = number of edges in the join of two cycle graphs, both of order 42",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1849 = 432, palindromic in base 6 (= 123216), centered octagonal number",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1850 = Number of partitions of 59 into prime parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1852 = number of quantales on 5 elements, up to isomorphism",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1853 = sum of primitive roots of 27-th prime, Mertens function zero",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1854 = number of permutations of 7 elements with no fixed points, Mertens function zero",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1855 = rencontres number: number of permutations of [7] with exactly one fixed point",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1856 = sum of totient function for first 78 integers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1860 = number of squares in the Aztec diamond of order 30",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1862 = Mertens function zero, forms a Ruth\u2013Aaron pair with 1863 under second definition",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1863 = Mertens function zero, forms a Ruth\u2013Aaron pair with 1862 under second definition",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1865 = 123456: Largest senary metadrome (number with digits in strict ascending order in base 6)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1866 = Mertens function zero, number of plane partitions of 16 with at most two rows",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1868 = smallest number of complexity 21: smallest number requiring 21 1's to build using +, * and ^",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1871 = the first prime of the 2 consecutive twin prime pairs: (1871, 1873) and (1877, 1879)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1872 = first Zagreb index of the complete graph K13",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1873 = number of Narayana's cows and calves after 21 years",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1876 = number k such that k^64 + 1 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1877 = number of partitions of 39 where 39 divides the product of the parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1878 = n such that n32 + 1 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1880 = the 10th element of the self convolution of Lucas numbers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1882 = number of linearly separable Boolean functions in 4 variables",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1883 = number of conjugacy classes in the alternating group A28",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1884 = k such that 5*2k - 1 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1886 = number of partitions of 64 into fourth powers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1887 = number of edges in the hexagonal triangle T(34)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1888 = primitive abundant number (abundant number all of whose proper divisors are deficient numbers)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1891 = 61st triangular number, sum of 5 consecutive primes (367 + 373 + 379 + 383 + 389) hexagonal number, centered pentagonal number, centered triangular number",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1893 = 442 - 44 + 1 = H44 (the 44th Hogben number)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1894 = maximal number of regions the plane is divided into by drawing 44 circles",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1897 = member of Padovan sequence, number of triangle-free graphs on 9 vertices",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1898 = smallest multiple of n whose digits sum to 26",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1906 = number n such that 3n - 8 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1910 = number of compositions of 13 having exactly one fixed point",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1912 = size of 6th maximum raising after one blind in pot-limit poker",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1914 = number of bipartite partitions of 12 white objects and 3 black ones",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1917 = number of partitions of 51 into pairwise relatively prime parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1919 = smallest number with reciprocal of period length 36 in base 10",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1920 = sum of the nontriangular numbers between successive triangular numbers 120 and 136,",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1923 = 2 \u00d7 312 + 1 = number of different 2 X 2 determinants with integer entries from 0 to 31",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1924 = 2 \u00d7 312 + 2 = number of points on surface of tetrahedron with edge length 31, sum of the first 36 semiprimes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1925 = number of ways to write 24 as an orderless product of orderless sums",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1928 = number of distinct values taken by 2^2^...^2 (with 13 2's and parentheses inserted in all possible ways)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1929 = Mertens function zero, number of integer partitions of 42 whose distinct parts are connected",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1930 = number of pairs of consecutive integers x, x+1 such that all prime factors of both x and x+1 are at most 53",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1932 = number of partitions of 40 into prime power parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1934 = sum of totient function for first 79 integers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1935 = number of edges in the join of two cycle graphs, both of order 43",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1937 = number of chiral n-ominoes in 12-space, one cell labeled",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1938 = Mertens function zero, number of points on surface of octahedron with edge length 22",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1941 = maximal number of regions obtained by joining 16 points around a circle by straight lines",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1942 = number k for which 10k + 1, 10k + 3, 10k + 7, 10k + 9 and 10k + 13 are primes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1943 = largest number not the sum of distinct tetradecagonal numbers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1945 = number of partitions of 25 into relatively prime parts such that multiplicities of parts are also relatively prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1946 = number of surface points on a cube with edge-length 19",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1947 = k such that 5\u00b72k + 1 is a prime factor of a Fermat number 22m + 1 for some m",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "{\\displaystyle 1\\cdot 2\\cdot 3+4\\cdot 5\\cdot 6+7\\cdot 8\\cdot 9+10\\cdot 11\\cdot 12}",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": ", largest number not the sum of distinct pentadecagonal numbers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1952 = number of covers of {1, 2, 3, 4}",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1954 = number of sum-free subsets of {1, ..., 16}",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1955 = number of partitions of 25 with at least one distinct part",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "= total number of ordered k-tuples (k=0,1,2,3,4,5,6) of distinct elements from an 6-element set",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1960 = number of parts in all partitions of 33 into distinct parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1961 = number of lattice points inside a circle of radius 25",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1962 = number of edges in the join of the complete graph K36 and the cycle graph C36",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1964 = number of linear forests of planted planar trees with 8 nodes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1965 = total number of parts in all partitions of 17",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1966 = sum of totient function for first 80 integers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1967 = least edge-length of a square dissectable into at least 30 squares in the Mrs. Perkins's quilt problem",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1969 = Only value less than four million for which a \"mod-ification\" of the standard Ackermann Function does not stabilize",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1970 = number of compositions of two types of 9 having no even parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1974 = number of binary vectors of length 17 containing no singletons",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1975 = number of partitions of 28 with nonnegative rank",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1977 = number of non-isomorphic multiset partitions of weight 9 with no singletons",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1978 = n such that n | (3n + 5)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1979 = number of squares between 452 and 454, smallest number that is the sum of 4 positive cubes in at least 4 ways",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1980 = pronic number, highly abundant number with a greater sum of proper divisors than all smaller numbers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1982 = maximal number of regions the plane is divided into by drawing 45 circles, a number with the property that 31982 - 1982 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1984 = 11111000000 in binary, nonunitary perfect number, see also: 1984 (disambiguation)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1986 = number of ways to write 25 as an orderless product of orderless sums",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1988 = sum of the first 33 primes, sum of the first 51 composite numbers",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1989 = number of balanced primes less than 100,000, number of 9-step mappings with 4 inputs",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1991 = 11 \u00d7 181, the 46th Gullwing number, palindromic composite number with only palindromic prime factors",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1992 = number of nonisomorphic sets of nonempty subsets of a 4-set",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1993 = a number with the property that 41993 - 31993 is prime, number of partitions of 30 into a prime number of parts",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1995 = number of unlabeled graphs on 9 vertices with independence number 6",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1996 = a number with the property that (1996! + 3)/3 is prime",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1999 = centered triangular number, number of regular forms in a myriagram.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1009, 1013, 1019, 1021, 1031, 1033, 1039, 1049, 1051, 1061, 1063, 1069, 1087, 1091, 1093, 1097, 1103, 1109, 1117, 1123, 1129, 1151, 1153, 1163, 1171, 1181, 1187, 1193, 1201, 1213, 1217, 1223, 1229, 1231, 1237, 1249, 1259, 1277, 1279, 1283, 1289, 1291, 1297, 1301, 1303, 1307, 1319, 1321, 1327, 1361, 1367, 1373, 1381, 1399, 1409, 1423, 1427, 1429, 1433, 1439, 1447, 1451, 1453, 1459, 1471, 1481, 1483, 1487, 1489, 1493, 1499, 1511, 1523, 1531, 1543, 1549, 1553, 1559, 1567, 1571, 1579, 1583, 1597, 1601, 1607, 1609, 1613, 1619, 1621, 1627, 1637, 1657, 1663, 1667, 1669, 1693, 1697, 1699, 1709, 1721, 1723, 1733, 1741, 1747, 1753, 1759, 1777, 1783, 1787, 1789, 1801, 1811, 1823, 1831, 1847, 1861, 1867, 1871, 1873, 1877, 1879, 1889, 1901, 1907, 1913, 1931, 1933, 1949, 1951, 1973, 1979, 1987, 1993, 1997, 1999",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rwanda, officially the Republic of Rwanda, is a landlocked country in East Africa. Known as the \"Land of a Thousand Hills\" for its high elevation and rolling terrain, its geography is dominated by mountains in the west and savanna in the southeast. The largest and most notable lakes are mainly in the western and northern regions of the country, and several volcanoes that form part of the Virunga volcanic chain are primarily in the northwest. The climate is considered tropical highland, with two rainy seasons and two dry seasons each year. Its capital and largest city is Kigali, located at the centre of the country, at 1,567 metres above sea level.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rwanda lies a few degrees south of the Equator in the Great Rift Valley of East Africa, where the African Great Lakes and Southeast Africa converge. Going clockwise Rwanda is bordered by Uganda to the north, Tanzania to the east, Burundi to the south, and the Democratic Republic of the Congo to the west.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "With a population of about 14 million people living within a total area of 26,338 square kilometres (10,169 sq mi), of which land accounts for about 93.7%, Rwanda is the 21st most densely populated country in the world, with an average of about 578 people per square kilometre (1,500 per square mile).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hunter-gatherers settled the territory in the Stone and Iron Ages, followed later by Bantu peoples. The population coalesced first into clans, and then into kingdoms. In the 15th century, one kingdom, under King Gihanga, managed to incorporate several of its close neighbor territories establishing the Kingdom of Rwanda. The Kingdom of Rwanda dominated from the mid-eighteenth century, with its Tutsi kings conquering others militarily, centralising power, and enacting unifying policies. In 1897, Germany colonized Rwanda as part of German East Africa, followed by Belgium, which took control in 1916 during World War I. Both European nations ruled through the Rwandan king and perpetuated a pro-Tutsi policy.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Hutu population revolted in 1959. They massacred numerous Tutsi and ultimately established an independent, Hutu-dominated republic in 1962 led by President Gr\u00e9goire Kayibanda. A 1973 military coup overthrew Kayibanda and brought Juv\u00e9nal Habyarimana to power, who retained the pro-Hutu policy. The Tutsi-led Rwandan Patriotic Front (RPF) launched a civil war in 1990. Habyarimana was assassinated in April 1994 by unknown parties. Social tensions erupted in the Rwandan genocide carried out by Hutu Power extremists against the Tutsis. RPF ended the genocide with a military victory in July 1994.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rwanda has been governed by the RPF as a de facto one-party state since 1994 with former commander Paul Kagame as president since 2000. The country has been governed by a series of centralized authoritarian governments since precolonial times. Although Rwanda has low levels of corruption compared with neighbouring countries, it ranks among the lowest in international measurements of government transparency and civil liberties, despite recent gains that have elevated it to the medium category on the Human Development Index. The population is young and predominantly rural; Rwanda has one of the youngest populations in the world. Rwandans are drawn from just one cultural and linguistic group, the Banyarwanda. However, within this group there are three subgroups: the Hutu, Tutsi, and Twa. The Twa are a forest-dwelling Central African foragers and are often considered descendants of Rwanda's earliest inhabitants. Christianity is the largest religion in the country; the principal and national language is Kinyarwanda, spoken by native Rwandans, with English, French, and Swahili serving as additional official foreign languages.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rwanda's economy is based on services, agricultural exports, and manufacturing. Coffee and tea are the major cash crops that it exports, although it is surpassed in banana production. Tourism is a fast-growing sector and is now the country's leading foreign exchange earner. As of the most recent survey in 2024, 30.5% of the population is affected by multidimensional poverty with 27.4% under the national poverty line. The country is a member of the African Union, the United Nations, the Commonwealth of Nations (one of few member states that does not have any historical links with the British Empire), COMESA, OIF, and the East African Community.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The name Rwanda derives from the word Ku-aanda, meaning \"expansion\" or \"spreading out from the centre\", reflecting the historical growth of the Kingdom of Rwanda.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Modern human settlement of what is now Rwanda dates from, at the latest, the last glacial period, either in the Neolithic period around 8,000 BC, or in the long humid period which followed, up to around 3,000 BC. Archaeological excavations have revealed evidence of sparse settlement by hunter-gatherers in the late Stone Age, followed by a larger population of early Iron Age settlers, who produced dimpled pottery and iron tools. These early inhabitants were the ancestors of the Twa, aboriginal pygmy hunter-gatherers who remain in Rwanda today. Then by 3,000 BC, Central Sudanic and Kuliak farmers and herders began settling into Rwanda, followed by South Cushitic\u2013speaking herders in 2,000 BC. The forest-dwelling Twa lost much of their habitat and moved to the mountain slopes. Between 800 BC and 1500 AD, a number of Bantu groups migrated into Rwanda, clearing forest land for agriculture. Historians have several theories regarding the nature of the Bantu migrations; one theory is that the first settlers were Hutu, while the Tutsi migrated later to form a distinct racial group, possibly of Nilo-hamitic origin. An alternative theory is that the migration was slow and steady, with incoming groups integrating into rather than conquering the existing society. Under this theory, the Hutu and Tutsi distinction arose later and was a class distinction rather than a racial one.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The earliest form of social organisation in the area was the clan (ubwoko). The clans were not limited to genealogical lineages or geographical area, and most included Hutu, Tutsi, and Twa. From the 15th century, the clans began to merge into kingdoms. One kingdom, under King Gihanga, managed to incorporate several of its close neighbor territories establishing the Kingdom of Rwanda. By 1700, around eight kingdoms had existed in the present-day Rwanda. One of these, the Kingdom of Rwanda ruled by the Tutsi Nyiginya clan, became increasingly dominant from the mid-18th century. The kingdom reached its greatest extent during the 19th century under the reign of King Kigeli Rwabugiri. Rwabugiri conquered several smaller states, expanded the kingdom west and north, and initiated administrative reforms; these included ubuhake, in which Tutsi patrons ceded cattle, and therefore privileged status, to Hutu or Tutsi clients in exchange for economic and personal service, and uburetwa, a corv\u00e9e system in which Hutu were forced to work for Tutsi chiefs. Rwabugiri's changes caused a rift to grow between the Hutu and Tutsi populations. The Twa were better off than in pre-Kingdom days, with some becoming dancers in the royal court, but their numbers continued to decline.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Berlin Conference of 1884 assigned the territory to the German Empire, who declared it to be part of German East Africa. In 1894, explorer Gustav Adolf von G\u00f6tzen was the first European to cross the entire territory of Rwanda; he crossed from the south-east to Lake Kivu and met the king. In 1897, Germany established a presence in Rwanda with the formation of an alliance with the king, beginning the colonial era. The Germans did not significantly alter the social structure of the country, but exerted influence by supporting the king and the existing hierarchy, and delegating power to local chiefs.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Belgian forces invaded Rwanda and Burundi in 1916, during World War I, and later, in 1922, they started to rule both Rwanda and Burundi as a League of Nations mandate called Ruanda-Urundi and started a period of more direct colonial rule. The Belgians simplified and centralised the power structure, introduced large-scale projects in education, health, public works, and agricultural supervision, including new crops and improved agricultural techniques to try to reduce the incidence of famine. Both the Germans and the Belgians, in the wake of New Imperialism, promoted Tutsi supremacy, considering the Hutu and Tutsi different races. In 1935, Belgium introduced an identity card system, which labelled each individual as either Tutsi, Hutu, Twa or Naturalised. While it had been previously possible for particularly wealthy Hutu to become honorary Tutsi, the identity cards prevented any further movement between the classes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Belgium continued to rule Ruanda-Urundi (of which Rwanda formed the northern part) as a UN trust territory after the Second World War, with a mandate to oversee eventual independence. Tensions escalated between the Tutsi, who favoured early independence, and the Hutu emancipation movement, culminating in the 1959 Rwandan Revolution: Hutu activists began killing Tutsi and destroying their houses, forcing more than 100,000 people to seek refuge in neighbouring countries. In 1961, the suddenly pro-Hutu Belgians held a referendum in which the country voted to abolish the monarchy. Rwanda was separated from Burundi and gained independence on 1 July 1962, which is commemorated as Independence Day, a national holiday. Cycles of violence followed, with mainly Tutsi exile rebels attacking from neighbouring countries and the Hutu-led government retaliating with large-scale slaughter and repression of the Tutsi civilians inside Rwanda. In 1973, Juv\u00e9nal Habyarimana took power in a military coup. Pro-Hutu discrimination continued, but there was greater economic prosperity and a reduced amount of violence against the Tutsi. The Twa remained marginalised, and by 1990 were almost entirely forced out of the forests by the government; many became beggars. Rwanda's population had increased from 1.6 million people in 1934 to 7.1 million in 1989, leading to competition for land.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 1990, the Rwandan Patriotic Front (RPF), a rebel group composed of Tutsi refugees, invaded northern Rwanda from their base in Uganda, initiating the Rwandan Civil War. The group condemned the Hutu-dominated government for failing to democratize and confront the problems facing these refugees. Neither side was able to gain a decisive advantage in the war, but by 1992 it had weakened Habyarimana's authority; mass demonstrations forced him into a coalition with the domestic opposition and eventually to sign the 1993 Arusha Accords with the RPF.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The cease-fire ended on 6 April 1994 when Habyarimana's plane was shot down near Kigali Airport, killing him. The shooting down of the plane served as the catalyst for the Rwandan genocide, which began within a few hours. Over the course of approximately 100 days, between 500,000 and 1,000,000 Tutsi and politically moderate Hutu were killed in well-planned attacks on the orders of the interim government. Many Twa were also killed, despite not being directly targeted.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Tutsi RPF restarted their offensive, and took control of the country methodically, gaining control of the whole country by mid-July. The international response to the genocide was limited, with major powers reluctant to strengthen the already overstretched UN peacekeeping force. When the RPF took over, approximately two million Hutu fled to neighbouring countries, in particular Za\u00efre, fearing reprisals; additionally, the RPF-led army was a key belligerent in the First and Second Congo Wars. Within Rwanda, a period of reconciliation and justice began, with the establishment of the International Criminal Tribunal for Rwanda (ICTR) and the reintroduction of Gacaca, a traditional village court system. Since 2000 Rwanda's economy, tourist numbers, and Human Development Index have grown rapidly; between 2006 and 2011 the poverty rate reduced from 57% to 45%, while life expectancy rose from 46.6 years in 2000 to 65.4 years in 2021.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2009, Rwanda joined the Commonwealth of Nations, although the country was never part of the British Empire.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 25 January 2025, Rwanda broke off diplomatic ties with its neighbor, the Democratic Republic of the Congo, in support of the country's rebel groups, including the M23 Movement.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rwanda is a de facto one-party state ruled by the Rwandan Patriotic Front (RPF) and its leader Paul Kagame continuously since the end of the civil war in 1994. Although Rwanda is nominally democratic, elections are manipulated in various ways, which include banning opposition parties, arresting or assassinating critics, and electoral fraud. The RPF is a Tutsi-dominated party but receives support from other communities as well.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The constitution was adopted following a national referendum in 2003, replacing the transitional constitution which had been in place since 1994. The constitution mandates a multi-party system of government, with politics based on democracy and elections. However, the constitution places conditions on how political parties may operate. Article 54 states that \"political organizations are prohibited from basing themselves on race, ethnic group, tribe, clan, region, sex, religion or any other division which may give rise to discrimination\". The president of Rwanda is the head of state, and has broad powers including creating policy in conjunction with the Cabinet of Rwanda, commanding the Rwandan Defence Force, negotiating and ratifying treaties, signing presidential orders, and declaring war or a state of emergency. The president is elected every four years, and appoints the prime minister and all other members of the Cabinet. The Parliament consists of two chambers. It makes legislation and is empowered by the constitution to oversee the activities of the president and the Cabinet. The lower chamber is the Chamber of Deputies, which has 80 members serving five-year terms. Twenty-four of these seats are reserved for women, elected through a joint assembly of local government officials; another three seats are reserved for youth and disabled members; the remaining 53 are elected by universal suffrage under a proportional representation system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rwanda's legal system is largely based on German and Belgian civil law systems and customary law. The judiciary is independent of the executive branch, although the president and the Senate are involved in the appointment of Supreme Court judges. Human Rights Watch has praised the Rwandan government for progress made in the delivery of justice including the abolition of the death penalty, but also alleges interference in the judicial system by members of the government, such as the politically motivated appointment of judges, misuse of prosecutorial power, and pressure on judges to make particular decisions. The constitution provides for two types of courts: ordinary and specialised. Ordinary courts are the Supreme Court, the High Court, and regional courts, while specialised courts are military courts and a system of commercial courts created in 2011 to expedite commercial litigations. Between 2004 and 2012, a system of Gacaca courts was in operation. Gacaca, a Rwandan traditional court operated by villages and communities, was revived to expedite the trials of genocide suspects. The court succeeded in clearing the backlog of genocide cases, but was criticised by human rights groups as not meeting legal fair standard.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rwanda has low corruption levels relative to most other African countries; in 2014, Transparency International ranked Rwanda as the fifth-cleanest out of 47 countries in Sub-Saharan Africa and 55th-cleanest out of 175 in the world. The constitution provides for an ombudsman, whose duties include prevention and fighting of corruption. Public officials (including the president) are required by the constitution to declare their wealth to the ombudsman and to the public; those who do not comply are suspended from office. Despite this, Human Rights Watch notes extensive political repression throughout the country, including illegal and arbitrary detention, threats or other forms of intimidation, disappearances, politically motivated trials, and the massacre of peacefully protesting civilians.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rwanda is a member of the United Nations, African Union, Francophonie, East African Community, and the Commonwealth of Nations. For many years during the Habyarimana regime, the country maintained close ties with France, as well as Belgium, the former colonial power. Under the RPF government, however, Rwanda has sought closer ties with neighbouring countries in the East African Community and with the English-speaking world. Diplomatic relations with France were suspended in 2006 following the indictment of Rwandan officials by a French judge, and despite their restoration in 2010, as of 2015 relations between the countries remain strained. Relations with the Democratic Republic of the Congo were tense following Rwanda's involvement in the First and Second Congo Wars; the Congolese army alleged Rwandan attacks on their troops, while Rwanda blamed the Congolese government for failing to suppress Hutu rebels in North and South Kivu provinces. In 2010, the United Nations released a report accusing the Rwandan army of committing wide scale human rights violations and crimes against humanity in the Democratic Republic of the Congo during the First and Second Congo Wars, charges denied by the Rwandan government. Relations soured further in 2012, as Kinshasa accused Rwanda of supporting the M23 rebellion, an insurgency in the eastern Congo. In 2015 peace had been restored and relations were improving, but by January 2025 renewed Rwandan support for the M23 rebellion caused DR Congo to sever diplomatic relations in the wake of the 2025 Goma offensive.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rwanda's relationship with Uganda was also tense for much of the 2000s following a 1999 clash between the two countries' armies as they backed opposing rebel groups in the Second Congo War, but improved significantly in the early 2010s. In 2019, relations between the two countries deteriorated, with Rwanda closing its borders with Uganda.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Before western colonization, the Rwandan government system had a quasi-system of political pluralism and power sharing. Despite there being a strict hierarchy, the pre-colonial system achieved an established, combined system of \"centralized power and decentralized autonomous units.\" Under the monarch, the elected Chief governed a province that was divided into multiple districts. Two other officials appointed by head Chief governed the districts; one official was allocated power over the land while the other oversaw cattle. The king (mwami) exercised control through a system of provinces, districts, hills, and neighbourhoods.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As of 2003, the constitution divided Rwanda into provinces (intara), districts (uturere), cities, municipalities, towns, sectors (imirenge), cells (utugari), and villages (imidugudu); the larger divisions, and their borders, are established by Parliament. In January 2006, Rwanda was reorganized such that twelve provinces were merged to create five, and 106 districts were merged into thirty. The present borders drawn in 2006 aimed at decentralising power and removing associations with the old system and the genocide. The previous structure of twelve provinces associated with the largest cities was replaced with five provinces based primarily on geography. These are Northern Province, Southern Province, Eastern Province, Western Province, and the Municipality of Kigali in the centre.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The five provinces act as intermediaries between the national government and their constituent districts to ensure that national policies are implemented at the district level. The Rwanda Decentralisation Strategic Framework developed by the Ministry of Local Government assigns to provinces the responsibility for \"coordinating governance issues in the Province, as well as monitoring and evaluation\". Each province is headed by a governor, appointed by the president and approved by the Senate. The districts are responsible for coordinating public service delivery and economic development. They are divided into sectors, which are responsible for the delivery of public services as mandated by the districts. Districts and sectors have directly elected councils, and are run by an executive committee selected by that council. The cells and villages are the smallest political units, providing a link between the people and the sectors. All adult resident citizens are members of their local cell council, from which an executive committee is elected. The city of Kigali is a provincial-level authority, which coordinates urban planning within the city.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rwanda is located in east\u2013central Africa, between 1\u00b0 and 3\u00b0 S latitude and between 29\u00b0 and 31\u00b0 E longitude. Its geography is characterized by rolling highlands, mountains, and numerous lakes. At 26,338 square kilometres (10,169 sq mi), Rwanda is the world's 144th-largest country, and the fourth smallest on the African mainland after Gambia, Eswatini, and Djibouti. It is comparable in size to Burundi, Haiti and Albania. The entire country is at a high altitude: the lowest point is the Rusizi River at 950 metres (3,117 ft) above sea level.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The watershed between the major Congo and Nile drainage basins runs from north to south through Rwanda, with around 80% of the country's area draining into the Nile and 20% into the Congo via the Rusizi River and Lake Tanganyika. The country's longest river is the Nyabarongo, which rises in the south-west, flows north, east, and southeast before merging with the Ruvubu to form the Kagera; the Kagera then flows due north along the eastern border with Tanzania. The Nyabarongo-Kagera eventually drains into Lake Victoria, and its source in Nyungwe Forest is a contender for the as-yet undetermined overall source of the Nile. Rwanda has many lakes, the largest being Lake Kivu. This lake occupies the floor of the Albertine Rift along most of the length of Rwanda's western border, and with a maximum depth of 480 metres (1,575 ft), it is one of the twenty deepest lakes in the world. Other sizeable lakes include Burera, Ruhondo, Muhazi, Rweru, and Ihema, the last being the largest of a string of lakes in the eastern plains of Akagera National Park.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Mountains dominate central and western Rwanda and the country is sometimes called \"Pays des mille collines\" in French (\"Land of a thousand hills\"). They are part of the Albertine Rift Mountains that flank the Albertine branch of the East African Rift, which runs from north to south along Rwanda's western border. The highest peaks are found in the Virunga volcano chain in the northwest; this includes Mount Karisimbi, Rwanda's highest point, at 4,507 metres (14,787 ft). This western section of the country lies within the Albertine Rift montane forests ecoregion. It has an elevation of 1,500 to 2,500 metres (4,921 to 8,202 ft). The centre of the country is predominantly rolling hills, while the eastern border region consists of savanna, plains and swamps.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rwanda has a temperate tropical highland climate, with lower temperatures than are typical for equatorial countries because of its high elevation. Precipitation usually ranges from 1,000 to 1,400 millimetres per year, depending on the area. Kigali, in the centre of the country, has a typical daily temperature range between 15 and 28 \u00b0C (59 and 82 \u00b0F), with little variation through the year. There are some temperature variations across the country; the mountainous west and north are generally cooler than the lower-lying east. There are two rainy seasons in the year; the first runs from February to June and the second from September to December. These are separated by two dry seasons: the major one from June to September, during which there is often no rain at all, and a shorter and less severe one from December to February. Rainfall varies geographically, with the west and northwest of the country receiving more precipitation annually than the east and southeast. Global warming has caused a change in the pattern of the rainy seasons. According to a report by the Strategic Foresight Group, change in climate has reduced the number of rainy days experienced during a year, but has also caused an increase in frequency of torrential rains. Both changes have caused difficulty for farmers, decreasing their productivity. Strategic Foresight also characterise Rwanda as a fast warming country, with an increase in average temperature of between 0.7 \u00b0C to 0.9 \u00b0C over fifty years.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In prehistoric times, montane forest occupied one-third of the territory of present-day Rwanda. Naturally occurring vegetation is now mostly restricted to the three national parks, with terraced agriculture dominating the rest of the country. Nyungwe, the largest remaining tract of forest, contains 200 species of tree as well as orchids and begonias. Vegetation in the Volcanoes National Park is mostly bamboo and moorland, with small areas of forest. By contrast, Akagera has a savanna ecosystem in which acacia dominates the flora. There are several rare or endangered plant species in Akagera, including Markhamia lutea and Eulophia guineensis.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The greatest diversity of large mammals is found in the three national parks, which are designated conservation areas. Akagera contains typical savanna animals such as giraffes and elephants, while Volcanoes is home to an estimated one-third of the worldwide mountain gorilla population. Nyungwe Forest boasts thirteen primate species including common chimpanzees and Ruwenzori colobus arboreal monkeys; the Ruwenzori colobus move in groups of up to 400 individuals, the largest troop size of any primate in Africa.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rwanda's population of lions was destroyed in the aftermath of the genocide of 1994, as national parks were turned into camps for displaced people and the remaining animals were poisoned by cattle herders. In June 2015, two South African parks donated seven lions to Akagera National Park, reestablishing a lion population in Rwanda. The lions were held initially in a fenced-off area of the park, and then collared and released into the wild a month later.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Eighteen endangered black rhinos were brought to Rwanda in 2017 from South Africa. After positive results, five more black rhinos were delivered to Akagera National Park from zoos all over Europe in 2019.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Similarly, the white rhino population is growing in Rwanda. In 2021, Rwanda received 30 white rhinos from South Africa with the goal of Akagera being a safe breeding ground for the near-threatened species.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "There are 670 bird species in Rwanda, with variation between the east and the west. Nyungwe Forest, in the west, has 280 recorded species, of which 26 are endemic to the Albertine Rift; endemic species include the Rwenzori turaco and handsome spurfowl. Eastern Rwanda, by contrast, features savanna birds such as the black-headed gonolek and those associated with swamps and lakes, including storks and cranes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Recent entomological work in the country has revealed a rich diversity of praying mantises, including a new species Dystacta tigrifrutex, dubbed the \"bush tiger mantis\".",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rwanda contains three terrestrial ecoregions: Albertine Rift montane forests, Victoria Basin forest-savanna mosaic, and Ruwenzori-Virunga montane moorlands. The country had a 2019 Forest Landscape Integrity Index mean score of 3.85/10, ranking it 139th globally out of 172 countries.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The economy of Rwanda has expanded consistently since the 1994 genocide, with real GDP growth of 8.2% in 2023 and 8.9% in 2024, according to the National Institute of Statistics of Rwanda. Growth is projected at 7.1% in 2025 and 7.5% in 2026, and the government is actively pursuing policies to encourage industrial growth, such as the \"Made In Rwanda\".",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As of the most recent survey in 2024, 30.5% of the population are affected by multidimensional poverty with 27.4% of the population under the national poverty line (monetary poverty), a significant drop from the monetary poverty of 60.3% in 2000. Rwanda was classified in 2024 on the list of Least developed countries by the United Nations, despite its graduation in the human assets aspect, Rwanda's GNI per capita (as an average over three years) and Economic Vulnerability Index (agricultural dependence and landlocked status) are below the graduation threshold.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rwanda's economy is mainly driven by services, agriculture and industry, although agriculture (subsistence and cash crops) holds a larger share of employment than the other sectors (64.5%). The share of GDP from different sectors (2024) is as follows: Services constituted 44.3%, Industry constituted 21.5% and agriculture constituted 27.1%.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2023 its major export partners include United Arab Emirates, Democratic Republic of the Congo, China, India and the United States, with the major exports being precious stones/metals, coffee, ores, oil and manufactured goods (agro-processing, cement, furniture, textiles and plastic pipes). Its major import partners were China, Tanzania, Kenya, India and the United Arab Emirates, with its major imports being oil, electric machinery, metals and industrial machinery. Its monetary policy and financial management is controlled by the central National Bank of Rwanda and the currency is the Rwandan franc; in August 2025, the exchange rate was 1445 francs to one United States dollar, a currency which it created in 1964 Rwanda joined the East African Community in 2007, and has ratified a plan for monetary union amongst the seven member nations, which could eventually lead to a common East African shilling.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rwanda's economy suffered heavily during the 1994 genocide, with widespread loss of life, failure to maintain infrastructure, looting, and neglect of important cash crops. This caused a large drop in GDP and heavily damaged the country's ability to attract private and external investment. However, in the 2000s Rwanda witnessed an economic boom which improved the standard of living for many Rwandans.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Agriculture is prominent in Rwanda and approximately 59% of the land is used for agricultural processes. Farming techniques are basic, with small plots of land and steep slopes. Despite at least five agriculture-related institutes, mechanisation levels are moderate to low. Although Rwanda has experienced notable growth in agricultural output, rapid population growth has placed more pressure on food security and increased the population's reliance on food imports. Despite a fertile landscape, the country possesses limited natural resources.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Crops grown in the country include matoke (green bananas), which occupy more than a third of the country's farmland, potatoes, beans, sweet potatoes, cassava, wheat and maize. Coffee and tea are the major cash crops for export, with the high altitudes, steep slopes and volcanic soils providing favourable conditions. Reports have established that more than 400,000 Rwandans make their living from coffee plantation. Reliance on agricultural exports makes Rwanda vulnerable to shifts in their prices. Animals raised in Rwanda include cows, goats, sheep, pigs, chicken, and rabbits, with geographical variation in the numbers of each. Production systems are mostly traditional, although there are a few intensive dairy farms around Kigali. Shortages of land and water, insufficient and poor-quality feed, and regular disease epidemics with insufficient veterinary services are major constraints that restrict output. Fishing takes place on the country's lakes, but stocks are very depleted, and live fish are being imported in an attempt to revive the industry.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The industrial sector is currently experiencing growth, contributing 21.5% of GDP in 2014. Products manufactured include cement, agricultural products, small-scale beverages, soap, furniture, shoes, plastic goods, textiles and cigarettes. Rwanda's mining industry is an important contributor, generating US$93 million in 2008. Minerals mined include cassiterite, wolframite, gold, and coltan, which is used in the manufacture of electronic and communication devices such as mobile phones.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rwanda's service sector suffered during the late-2000s recession as bank lending, foreign aid projects and investment were reduced. The sector rebounded in 2010, becoming the country's largest sector by economic output and contributing 43.6% of the country's GDP. Key tertiary contributors include banking and finance, wholesale and retail trade, hotels and restaurants, transport, storage, communication, insurance, real estate, business services and public administration including education and health.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rwanda was ranked 104th in the Global Innovation Index in 2025.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Tourism is one of Rwanda\u2019s fastest-growing economic sectors and remains the country\u2019s leading foreign exchange earner. In 2023, Rwanda recorded over 1.4 million international visitors, generating about US$620 million in revenue, according to the Rwanda Development Board. The World Travel & Tourism Council reported that in 2024, the sector supported nearly 386,000 jobs in Rwanda and contributed over 10% of GDP.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A major draw for visitors is mountain gorilla tracking in Volcanoes National Park, one of only three places worldwide where mountain gorillas can be seen in the wild. Other attractions include Nyungwe Forest National Park, known for its chimpanzees and canopy walkway, the resorts of Lake Kivu, and Akagera National Park, a savanna reserve in the east home to elephants, lions, and giraffes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The government, through the Rwanda Development Board, has promoted tourism as a pillar of economic growth. Visitor numbers have increased steadily since the early 2000s, with international arrivals often linked to conferences in Kigali as well as ecotourism. In 2018, Rwanda launched the Visit Rwanda campaign, including sponsorship deals with European football clubs such as Arsenal F.C., Paris Saint-Germain F.C., and Atl\u00e9tico Madrid, to raise the country\u2019s profile as a travel destination.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2025, Visit Rwanda expanded its sports marketing into the United States, entering multi-year agreements with the Los Angeles Clippers (NBA) and the Los Angeles Rams (NFL). As part of the Clippers partnership, Visit Rwanda became the exclusive jersey patch sponsor and the official coffee sponsor of the team\u2019s Intuit Dome arena. In the Rams deal, Visit Rwanda is an official international tourism sponsor of the team, SoFi Stadium, and Hollywood Park, and will secure prominent advertising and entitlement placements within the stadium complex.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Tourism in Rwanda has been praised for its emphasis on sustainability and conservation.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The largest radio and television stations are state-run, and the majority of newspapers are owned by the government. Most Rwandans have access to radio; during the 1994 genocide, the radio station Radio T\u00e9l\u00e9vision Libre des Mille Collines broadcast across the country, and helped to fuel the killings through anti-Tutsi propaganda. As of 2015, the state-run Radio Rwanda was the largest station and the main source of news throughout the country. Television access was limited, with most homes not having their own set. The government rolled out digital television in 2014, and a year later there were seven national stations operating, up from just one in the pre-2014 analogue era. The press is tightly restricted, and newspapers routinely self-censor to avoid government reprisals. Nonetheless, publications in Kinyarwanda, English, and French critical of the government are widely available in Kigali. Restrictions were increased in the run-up to the Rwandan presidential election of 2010, with two independent newspapers, Umuseso and Umuvugizi, being suspended for six months by the High Media Council.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The country's oldest telecommunications group, Rwandatel, went into liquidation in 2011, having been 80% owned by Libyan company LAP Green. The company was acquired in 2013 by Liquid Telecom, a company providing telecommunications and fibre optic networks across eastern and southern Africa. In 2015, Liquid Telecom provided landline service to 30,968 subscribers, with mobile operator MTN Rwanda serving an additional 15,497 fixed line subscribers. Landlines are mostly used by government institutions, banks, NGOs and embassies, with private subscription levels low. In 2015, mobile phone penetration in the country was 72.6%, up from 41.6% in 2011. MTN Rwanda is the leading provider, with 3,957,986 subscribers, followed by Tigo with 2,887,328, and Bharti Airtel with 1,336,679. Rwandatel has also previously operated a mobile phone network, but the industry regulator revoked its licence in April 2011, following the company's failure to meet agreed investment commitments. Internet penetration is low but rising rapidly; in 2015 there were 12.8 internet users per 100 people, up from 2.1 in 2007. In 2011, a 2,300-kilometre (1,400 mi) fibre-optic telecommunications network was completed, intended to provide broadband services and facilitate electronic commerce. This network is connected to SEACOM, a submarine fibre-optic cable connecting communication carriers in southern and eastern Africa. Within Rwanda the cables run along major roads, linking towns around the country. Mobile provider MTN also runs a wireless internet service accessible in most areas of Kigali via pre-paid subscription. As of 2024, the largest internet providers are MTN and Airtel. MTN Rwanda has shown impressive growth in its subscriber base. As of the first quarter of 2024, MTN Rwanda had approximately 7.4 million mobile subscribers. (Additionally, their Mobile Money platform, MoMo, had around 5.1 million users), compared to Airtel Rwanda's 5,792,046 active mobile-cellular telephone subscriptions.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In October 2019, Mara Corporation launched the first African-made smartphone in Rwanda. Following its launch in 2024, Airtel Rwanda, in cooperation with the Rwandan government, released the most affordable smartphone in the world, the Airtel Imagine 4G. The phone was introduced as part of the ConnectRwanda 2.0 initiative. It costs only 20,000 RWF (approximately US$14.49).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Rwandan government prioritised funding of water supply development during the 2000s, significantly increasing its share of the national budget. This funding, along with donor support, caused a rapid increase in access to safe water; in 2015, 74% of the population had access to safe water, up from about 55% in 2005; the government has committed to increasing this to 100% by 2017. The country's water infrastructure consists of urban and rural systems that deliver water to the public, mainly through standpipes in rural areas and private connections in urban areas. In areas not served by these systems, hand pumps and managed springs are used. Despite rainfall exceeding 750 millimetres (30 in) annually in most of the country, little use is made of rainwater harvesting, and residents are forced to use water very sparingly, relative to usage in other African countries. Access to sanitation remains low; the United Nations estimates that in 2006, 34% of urban and 20% of rural dwellers had access to improved sanitation, with this statistic increasing to 92% for the total population (95% urban and 91% rural) in 2022. Kigali is one of the cleanest cities in Africa. Government policy measures to improve sanitation are limited, focusing only on urban areas. The majority of the population, both urban and rural, use public shared pit latrines.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rwanda's electricity supply was, until the early 2000s, generated almost entirely from hydroelectric sources; power stations on Lakes Burera and Ruhondo provided 90% of the country's electricity. A combination of below average rainfall and human activity, including the draining of the Rugezi wetlands for cultivation and grazing, caused the two lakes' water levels to fall from 1990 onwards; by 2004 levels were reduced by 50%, leading to a sharp drop in output from the power stations. This, coupled with increased demand as the economy grew, precipitated a shortfall in 2004 and widespread loadshedding. As an emergency measure, the government installed diesel generators north of Kigali; by 2006 these were providing 56% of the country's electricity, but were very costly. The government enacted a number of measures to alleviate this problem, including rehabilitating the Rugezi wetlands, which supply water to Burera and Ruhondo and investing in a scheme to extract methane gas from Lake Kivu, expected in its first phase to increase the country's power generation by 40%. Only 18% of the population had access to electricity in 2012, though this had risen from 10.8% in 2009. The government's Economic Development and Poverty Reduction Strategy for 2013\u201318 aims to increase access to electricity to 70% of households by 2017.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The government has increased investment in the transport infrastructure of Rwanda since the 1994 genocide, with aid from the United States, European Union, Japan, and others. The transport system consists primarily of the road network, with paved roads between Kigali and most other major cities and towns in the country. Rwanda is linked by road to other countries in the East African Community, namely Uganda, Tanzania, Burundi and Kenya, as well as to the eastern Congolese cities of Goma and Bukavu; the country's most important trade route is the road to the port of Mombasa via Kampala and Nairobi, which is known as the Northern Corridor. The principal form of public transport in the country is the minibus, accounting for more than half of all passenger carrying capacity. Some minibuses, particularly in Kigali, operate an unscheduled service, under a shared taxi system, while others run to a schedule, offering express routes between the major cities. There are a smaller number of large buses, which operate a scheduled service around the country. The principal private hire vehicle is the motorcycle taxi; in 2013 there were 9,609 registered motorcycle taxis in Rwanda, compared with just 579 taxicabs. Coach services are available to various destinations in neighbouring countries. The country has an international airport at Kigali that serves several international destinations, the busiest routes being those to Nairobi and Entebbe; there is one domestic route, between Kigali and Kamembe Airport near Cyangugu. In 2017, construction began on the Bugesera International Airport, to the south of Kigali, which will become the country's largest when it opens, complementing the existing Kigali airport. The national carrier is RwandAir, and the country is served by seven foreign airlines. As of 2015 the country had no railways, but there is a project underway, in conjunction with Burundi and Tanzania, to extend the Tanzanian Central Line into Rwanda; the three countries have invited expressions of interest from private firms to form a public private partnership for the scheme. There is no public water transport between the port cities on Lake Kivu, although a limited private service exists and the government has initiated a programme to develop a full service. The Ministry of Infrastructure is also investigating the feasibility of linking Rwanda to Lake Victoria via shipping on the Akagera River.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As of 2025, Rwanda's estimated population is around 14.6 million, although estimates vary. A decade earlier, in 2015, the estimated population was 11,262,564 (according to the National Institute of Statistics of Rwanda), and the 2012 census recorded a population of 10,515,973. The population is young: as of 2024\u20132025, estimates of the median age ranged from 19.9 to 20.8, with 42.9% of the population under the age of 15, and 54.7% between 15 and 64. In 2015, according to the CIA World Factbook, the annual birth rate was estimated at 40.2 births per 1,000 inhabitants, and the death rate at 14.9. The current life expectancy is between 68.2 and 70.54 years (71 years for females and 66 years for males), placing it 156th out of 224 countries and territories. The overall sex ratio of the country is 95.9 males per 100 females.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "At 445 inhabitants per square kilometre (1,150/sq mi), Rwanda's population density is amongst the highest in Africa. Historians such as G\u00e9rard Prunier believe that the 1994 genocide can be partly attributed to the population density. The population is predominantly rural, with a few large towns; dwellings are evenly spread throughout the country. The only sparsely populated area of the country is the savanna land in the former province of Umutara and Akagera National Park in the east. Kigali is the largest city, with a population of around one million. Its rapidly increasing population challenges its infrastructural development. According to the 2012 census, the second largest city is Gisenyi, which lies adjacent to Lake Kivu and the Congolese city of Goma, and has a population of 126,000. Other major towns include Ruhengeri, Butare, and Muhanga, all with populations below 100,000. The urban population rose from 6% of the population in 1990, to 16.6% in 2006; by 2011, however, the proportion had dropped slightly, to 14.8%.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rwanda has been a unified state since pre-colonial times, and the population is drawn from just one cultural and linguistic group, the Banyarwanda; this contrasts with most modern African states, whose borders were drawn by colonial powers and did not correspond to ethnic boundaries or pre-colonial kingdoms. Within the Banyarwanda people, there are three separate groups, the Hutu, Tutsi and Twa. The CIA World Factbook gives estimates that the Hutu made up 84% of the population in 2009, the Tutsi 15% and Twa 1%. The Twa are a pygmy people who descend from Rwanda's earliest inhabitants, but scholars do not agree on the origins of and differences between the Hutu and Tutsi. Anthropologist Jean Hiernaux contends that the Tutsi are a separate race, with a tendency towards \"long and narrow heads, faces and noses\"; others, such as Villia Jefremovas, believe there is no discernible physical difference and the categories were not historically rigid. In precolonial Rwanda the Tutsi were the ruling class, from whom the kings and the majority of chiefs were derived, while the Hutu were agriculturalists. The current government discourages the Hutu/Tutsi/Twa distinction, and has removed such classification from identity cards. The 2002 census was the first since 1933 which did not categorise Rwandan population into the three groups.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Prior to 2012, the Rwandan government provided nine years of free basic education in state-run schools, consisting of six years of primary and three years of lower secondary education (known as the Tronc Commun). In 2012, this policy was expanded to cover twelve years of free basic education, including upper secondary.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A 2015 study noted that while primary school enrollment was nearly universal, completion rates remained low and repetition rates high. Although schooling is officially fee free, parents are expected to contribute to certain costs such as school materials, teacher support, and infrastructure maintenance. The government maintains that these contributions should not prevent any child from attending school.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "There are also many private and church affiliated schools that follow the national curriculum but charge tuition fees. From 1994 until 2009, secondary education was offered in either French or English. Following Rwanda\u2019s accession to the East African Community and the Commonwealth, English became the main medium of instruction from 2009 onward.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The country has several institutions of higher learning. In 2013, the government established the University of Rwanda (UR) through the merger of the National University of Rwanda and other public higher education institutions. In 2023, the gross enrollment ratio for tertiary education was 8.89%, up from 3.6% in 2006. Rwanda\u2019s adult literacy rate, defined as the share of those aged 15 and above who can read and write, rose from 38% in 1978 to 58% in 1991, 71% in 2009, and 78.8% in 2022.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The quality of healthcare in Rwanda has historically been very low, both before and immediately after the 1994 genocide. In 1998, more than one in five children died before their fifth birthday, often from malaria.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "President Kagame has made healthcare one of the priorities for the Vision 2020 development programme, boosting spending on health care to 6.5% of the country's gross domestic product in 2013, compared with 1.9% in 1996. The government has devolved the financing and management of healthcare to local communities, through a system of health insurance providers called mutuelles de sant\u00e9. The mutuelles were piloted in 1999, and were made available nationwide by the mid-2000s, with the assistance of international development partners. Premiums under the scheme were initially US$2 per annum; since 2011 the rate has varied on a sliding scale, with the poorest paying nothing, and maximum premiums rising to US$8 per adult. As of 2014, more than 90% of the population was covered by the scheme. The government has also set up training institutes including the Kigali Health Institute (KHI), which was established in 1997 and is now part of the University of Rwanda. In 2005, President Kagame also launched a program known as The Presidents' Malaria Initiative. This initiative aimed to help get the most necessary materials for prevention of malaria to the most rural areas of Rwanda, such as mosquito nets and medication.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In recent years Rwanda has seen improvement on a number of key health indicators. Between 2005 and 2013, life expectancy increased from 55.2 to 64.0, under-5 mortality decreased from 106.4 to 52.0 per 1,000 live births, and incidence of tuberculosis has dropped from 101 to 69 per 100,000 people. The country's progress in healthcare has been cited by the international media and charities. The Atlantic devoted an article to \"Rwanda's Historic Health Recovery\". Partners In Health described the health gains \"among the most dramatic the world has seen in the last 50 years\".",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Despite these improvements, however, the country's health profile remains dominated by communicable diseases, and the United States Agency for International Development has described \"significant health challenges\", including the rate of maternal mortality, which it describes as \"unacceptably high\", as well as the ongoing HIV/AIDS epidemic. According to the American Centers for Disease Control and Prevention, travellers to Rwanda are highly recommended to take preventive malaria medication as well as make sure they are up to date with vaccines such as yellow fever.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rwanda also has a shortage of medical professionals, with only 0.84 physicians, nurses, and midwives per 1,000 residents. The United Nations Development Programme (UNDP) is monitoring the country's health progress towards Millennium Development Goals 4\u20136, which relate to healthcare. A mid-2015 UNDP report noted that the country was not on target to meet goal 4 on infant mortality, despite it having \"fallen dramatically\"; the country is \"making good progress\" towards goal 5, which is to reduce by three quarters the maternal mortality ratio, while goal 6 is not yet met as HIV prevalence has not started falling.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The largest faith in Rwanda is Catholicism, but there have been significant changes in the nation's religious demographics since the genocide, with many conversions to evangelical Christianity, and, to a lesser degree, Islam. According to the 2012 census, Catholic Christians represented 43.7% of the population, Protestants (excluding Seventh-day Adventists) 37.7%, Seventh-day Adventists 11.8%, and Muslims 2.0%; 0.2% claimed no religious beliefs and 1.3% did not state a religion. Traditional religion, despite officially being followed by only 0.1% of the population, retains an influence. Many Rwandans view the Christian God as synonymous with the traditional Rwandan God Imana.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The country's principal and national language is Kinyarwanda, which is spoken by almost the entire population (about 98%). Inhabitants of Rwanda's Nkombo Island speak Mashi, a language closely related to Kinyarwanda.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "During the colonial era, German was the first European language introduced to Rwanda, though it was never widely used or taught. After 1916, French became dominant under Belgian administration and was used in government and education. The 1962 Constitution made French an official language alongside Kinyarwanda. Dutch was also used in limited administrative contexts during the Belgian period.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The return of English-speaking Rwandan refugees from Uganda, Kenya, and Tanzania in the 1990s reshaped the country's linguistic landscape and accelerated the shift toward English. As Rwanda deepened its ties with the East African Community and joined the Commonwealth, English became increasingly important in education, business, and administration. In 2008, the government changed the medium of instruction in schools from French to English to strengthen regional integration. Since then, the starting point of English instruction in schools has been adjusted several times. Private schools may still choose to teach in either English or French.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Today, Kinyarwanda, English, French, and Swahili are all official languages. Kinyarwanda serves as the national and unifying language, while English is now the primary language of government, education, and business. French remains in limited use in diplomacy and cultural contexts, and Swahili, the lingua franca of the East African Community, is taught in schools and used in regional trade. Swahili was introduced as a compulsory subject in secondary schools in 2015.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "According to the 2012 Census of Rwanda, literacy among residents aged 15 and above was 67.7% in Kinyarwanda, 14.7% in English, and 11.4% in French. A decade later, the 2022 Census showed notable shifts: literacy in Kinyarwanda had risen to 78.3%, English to 21.2%, French had decreased to 8.2%, and Swahili reached 4.0%. These results reflect the steady growth of English and Swahili literacy and a continuing decline in the proportion of French-literate speakers. Kinyarwanda remains the mother tongue of nearly all Rwandans, while English and Swahili use continue to expand, particularly in urban areas and schools. As in many postcolonial societies, proficiency in European languages is closely linked to education, migration background, and social class.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Homosexuality is generally considered a taboo topic, and there is no significant public discussion of this issue in any region of the country. Some lesbian, gay, bisexual and transgender (LGBT) Rwandans have reported being harassed and blackmailed. Same-sex sexual activity is not specifically illegal in Rwanda. Some cabinet-level government officials have expressed support for the rights of LGBT people; however, no special legislative protections are afforded to LGBT people, who may be arrested by the police under various laws dealing with public order and morality. Same-sex marriages are not recognized by the state, as the constitution provides that \"[o]nly civil monogamous marriage between a man and a woman is recognized\".",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Since 2006, Human Rights Watch has documented that Rwandan authorities round up and detain street children, street vendors, sex workers, homeless people, and beggars. They have also documented the use of torture in safe houses and other facilities, such as Kami military camp, Kwa Gacinya and Gikondo prison.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The culture of Rwanda is varied. Unlike many other countries in Africa, Rwanda has been a unified state since precolonial times, populated by the Banyarwanda people who share a single language and cultural heritage.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Music and dance are an integral part of Rwandan ceremonies, festivals, social gatherings and storytelling. The most famous traditional dance is a highly choreographed routine consisting of three components: the umushagiriro, or cow dance, performed by women; the intore, or dance of heroes, performed by men; and the drumming, also traditionally performed by men, on drums known as ingoma. The best-known dance group is the National Ballet. It was established by President Habyarimana in 1974, and performs nationally and internationally. Traditionally, music is transmitted orally, with styles varying between the social groups. Drums are of great importance; the royal drummers enjoyed high status within the court of the King (Mwami). Drummers play together in groups of varying sizes, usually between seven and nine in number. The country has a growing popular music industry, influenced by African Great Lakes, Congolese, and American music. The most popular genre is hip hop, with a blend of dancehall, rap, ragga, R&B and dance-pop.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Traditional arts and crafts are produced throughout the country, although most originated as functional items rather than purely for decoration. Woven baskets and bowls are especially common, notably the basket style of the agaseke. Imigongo, a unique cow dung art, is produced in the southeast of Rwanda, with a history dating back to when the region was part of the independent Gisaka kingdom. The dung is mixed with natural soils of various colours and painted into patterned ridges to form geometric shapes. Other crafts include pottery and wood carving. Traditional housing styles make use of locally available materials; circular or rectangular mud homes with grass-thatched roofs (known as nyakatsi) are the most common. The government has initiated a programme to replace these with more modern materials such as corrugated iron.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rwanda does not have a long history of written literature, but there is a strong oral tradition ranging from poetry to folk stories. Many of the country's moral values and details of history have been passed down through the generations. The most famous Rwandan literary figure was Alexis Kagame (1912\u20131981), who carried out and published research into oral traditions as well as writing his own poetry. The Rwandan Genocide resulted in the emergence of a literature of witness accounts, essays and fiction by a new generation of writers such as Benjamin Sehene and Mfuranzima Fred. A number of films have been produced about the Rwandan Genocide, including the Golden Globe-nominated Hotel Rwanda, 100 Days, Shake Hands with the Devil, Sometimes in April, and Shooting Dogs, the last four having been filmed in Rwanda and having featured survivors as cast members.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Fourteen regular national holidays are observed throughout the year, with others occasionally inserted by the government. The week following Genocide Memorial Day on 7 April is designated an official week of mourning. The victory for the RPF over the Hutu extremists is celebrated as Liberation Day on 4 July. The last Saturday of each month is umuganda, a national morning of mandatory community service lasting from 8 am to 11 am, during which all able bodied people between 18 and 65 are expected to carry out community tasks such as cleaning streets or building homes for vulnerable people. Most normal services close down during umuganda, and public transportation is limited.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rwanda's cuisine consists of staple foods produced by subsistence agriculture (plantains, pulses, sweet potatoes, beans, cassava) and reflects other East African foods (mandazi, chapati). For those who live near lakes and have access to fish, tilapia is popular. The potato, thought to have been introduced to Rwanda by German and Belgian colonialists, is very popular. Ugali, locally known as Ubugari (or umutsima) is common, a paste made from cassava or maize and water to form a porridge-like consistency that is eaten throughout the African Great Lakes. Isombe is made from mashed cassava leaves and can be served with dried fish, rice, ugali, potatoes etc. Lunch is usually a buffet known as m\u00e9lange, consisting of the above staples and sometimes meat. Brochettes are the most popular food when eating out in the evening, usually made from goat but sometimes tripe, beef, or fish. It's important to note however that many children in Rwanda are malnourished (1/3rd for children under five).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In rural areas, many bars have a brochette seller responsible for tending and slaughtering the goats, skewering and barbecuing the meat, and serving it with grilled bananas. Milk, particularly in a fermented yoghurt form called ikivuguto, is a common drink throughout the country. Other drinks include a traditional beer called Ikigage made from sorghum and urwagwa, made from bananas, and a soft drink called Umutobe which is banana juice; these popular drinks feature in traditional rituals and ceremonies. The major drinks manufacturer in Rwanda is Bralirwa, which was established in the 1950s, a Heineken partner, and is now listed on the Rwandan Stock Exchange. Bralirwa manufactures soft drink products from The Coca-Cola Company, under licence, including Coca-Cola, Fanta, and Sprite, and a range of beers including Primus, M\u00fctzig, Amstel, and Turbo King. In 2009 a new brewery, Brasseries des Mille Collines (BMC) opened, manufacturing Skol beer and a local version known as Skol Gatanu; BMC is now owned by Belgian company Unibra. East African Breweries also operate in the country, importing Guinness, Tusker, and Bell, as well as whisky and spirits.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Rwandan government, through its Sports Development Policy, promotes sport as a strong avenue for \"development and peace building\", and the government has made commitments to advancing the use of sport for a variety of development objectives, including education. The most popular sports in Rwanda are association football, volleyball, basketball, athletics and Paralympic sports. Cricket has been growing in popularity, as a result of refugees returned from Kenya, where they had learned to play the game.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Cycling, traditionally seen largely as a mode of transport in Rwanda, is also growing in popularity as a sport; and Team Rwanda have been the subject of a book, Land of Second Chances: The Impossible Rise of Rwanda's Cycling Team and a film, Rising from Ashes.  The UCI Road World Championships took place in Kigali in September 2025.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rwandans have been competing at the Olympic Games since 1984, and the Paralympic Games since 2004. The country sent seven competitors to the 2012 Summer Olympics in London, representing it in athletics, swimming, mountain biking and judo, and 15 competitors to the London Summer Paralympics to compete in athletics, powerlifting and sitting volleyball. The country has also participated in the Commonwealth Games since joining the Commonwealth in 2009. The country's national basketball team has been growing in prominence since the mid-2000s, with the men's team qualifying for the final stages of the African Basketball Championship four times in a row since 2007. The country bid unsuccessfully to host the 2013 tournament. Rwanda's national football team has appeared in the African Cup of Nations once, in the 2004 edition of the tournament, but narrowly failed to advance beyond the group stages. The team have failed to qualify for the competition since, and have never qualified for the World Cup. Rwanda's highest domestic football competition is the Rwanda National Football League; as of 2015, the dominant team is APR FC of Kigali, having won 13 of the last 17 championships. Rwandan clubs participate in the Kagame Interclub Cup for Central and East African teams, sponsored since 2002 by President Kagame.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rwanda web resources provided by GovPubs at the University of Colorado Boulder Libraries",
+    "date": null,
+    "verdict": null
+  }
+]

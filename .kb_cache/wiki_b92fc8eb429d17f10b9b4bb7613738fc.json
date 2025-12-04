@@ -1,0 +1,1232 @@
+[
+  {
+    "source": "wikipedia",
+    "text": "Leukemia (also spelled leukaemia; pronounced  loo-KEE-mee-\u0259) is a group of blood cancers that usually begin in the bone marrow and produce high numbers of abnormal blood cells. These blood cells are not fully developed and are called blasts or leukemia cells. Symptoms may include bleeding and bruising, bone pain, fatigue, fever, and an increased risk of infections. These symptoms occur due to a lack of normal blood cells. Diagnosis is typically made by blood tests or bone marrow biopsy.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The exact cause of leukemia is unknown. A combination of genetic factors and environmental (non-inherited) factors are believed to play a role. Risk factors include smoking, ionizing radiation, petrochemicals (such as benzene), prior chemotherapy, and Down syndrome. People with a family history of leukemia are also at higher risk. There are four main types of leukemia\u2014acute lymphoblastic leukemia (ALL), acute myeloid leukemia (AML), chronic lymphocytic leukemia (CLL) and chronic myeloid leukemia (CML)\u2014and a number of less common types. Leukemias and lymphomas both belong to a broader group of tumors that affect the blood, bone marrow, and lymphoid system, known as tumors of the hematopoietic and lymphoid tissues.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Treatment may involve some combination of chemotherapy, radiation therapy, targeted therapy, and bone marrow transplant, with supportive and palliative care provided as needed. Certain types of leukemia may be managed with watchful waiting. The success of treatment depends on the type of leukemia and the age of the person. Outcomes have improved in the developed world. Five-year survival rate was 67% in the United States in the period from 2014 to 2020. In children under 15 in first-world countries, the five-year survival rate is greater than 60% or even 90%, depending on the type of leukemia. For infants (those diagnosed under the age of 1), the survival rate is around 40%. In children who are cancer-free five years after diagnosis of acute leukemia, the cancer is unlikely to return.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2015, leukemia was present in 2.3 million people worldwide and caused 353,500 deaths. In 2012, it had newly developed in 352,000 people. It is the most common type of cancer in children, with three-quarters of leukemia cases in children being the acute lymphoblastic type. However, over 90% of all leukemias are diagnosed in adults, CLL and AML being most common. It occurs more commonly in the developed world.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Clinically and pathologically, leukemia is subdivided into a variety of large groups. The first division is between its acute and chronic forms:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Acute leukemia is characterized by a rapid increase in the number of immature blood cells. The crowding that results from such cells makes the bone marrow unable to produce healthy blood cells resulting in low hemoglobin and low platelets. Immediate treatment is required in acute leukemia because of the rapid progression and accumulation of the malignant cells, which then spill over into the bloodstream and spread to other organs of the body. Acute forms of leukemia are the most common forms of leukemia in children.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Chronic leukemia is characterized by the excessive buildup of relatively mature, but still abnormal, white blood cells (or, more rarely, red blood cells). Typically taking months or years to progress, the cells are produced at a much higher rate than normal, resulting in many abnormal white blood cells. Whereas acute leukemia must be treated immediately, chronic forms are sometimes monitored for some time before treatment to ensure maximum effectiveness of therapy. Chronic leukemia mostly occurs in older people but can occur in any age group.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Additionally, the diseases are subdivided according to which kind of blood cell is affected. This divides leukemias into lymphoblastic or lymphocytic leukemias and myeloid or myelogenous leukemias:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In lymphoblastic or lymphocytic leukemias, the cancerous change takes place in a type of marrow cell that normally goes on to form lymphocytes, which are infection-fighting immune system cells. Most lymphocytic leukemias involve a specific subtype of lymphocyte, the B cell.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In myeloid or myelogenous leukemias, the cancerous change takes place in a type of marrow cell that normally goes on to form red blood cells, some other types of white cells, and platelets.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Combining these two classifications provides a total of four main categories. Within each of these main categories, there are typically several subcategories. Finally, some rarer types are usually considered to be outside of this classification scheme.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Acute lymphoblastic leukemia (ALL) is the most common type of leukemia in young children. It also affects adults, especially those 65 and older. Standard treatments involve chemotherapy and radiotherapy. Subtypes include precursor B acute lymphoblastic leukemia, precursor T acute lymphoblastic leukemia, Burkitt's leukemia, and acute biphenotypic leukemia. While most cases of ALL occur in children, 80% of deaths from ALL occur in adults.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Chronic lymphocytic leukemia (CLL) most often affects adults over the age of 55. It sometimes occurs in younger adults, but it almost never affects children. Two-thirds of affected people are men. The five-year survival rate is 85%. It is incurable, but there are many effective treatments. One subtype is B-cell prolymphocytic leukemia, a more aggressive disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Acute myelogenous leukemia (AML) occurs far more commonly in adults than in children, and more commonly in men than women. It is treated with chemotherapy. The five-year survival rate is 20%. Subtypes of AML include acute promyelocytic leukemia, acute myeloblastic leukemia, and acute megakaryoblastic leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Chronic myelogenous leukemia (CML) occurs mainly in adults; a very small number of children also develop this disease. It is treated with imatinib (Gleevec in United States, Glivec in Europe) or other drugs. The five-year survival rate is 90%. One subtype is chronic myelomonocytic leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hairy cell leukemia (HCL) is sometimes considered a subset of chronic lymphocytic leukemia, but does not fit neatly into this category. About 80% of affected people are adult men. No cases in children have been reported. HCL is incurable but easily treatable. Survival is 96% to 100% at ten years.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "T-cell prolymphocytic leukemia (T-PLL) is a very rare and aggressive leukemia affecting adults; somewhat more men than women are diagnosed with this disease. Despite its overall rarity, it is the most common type of mature T cell leukemia; nearly all other leukemias involve B cells. It is difficult to treat, and the median survival is measured in months.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Large granular lymphocytic leukemia may involve either T-cells or NK cells; like hairy cell leukemia, which involves solely B cells, it is a rare and indolent (not aggressive) leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Adult T-cell leukemia is caused by human T-lymphotropic virus (HTLV), a virus similar to HIV. Like HIV, HTLV infects CD4+ T-cells and replicates within them; however, unlike HIV, it does not destroy them. Instead, HTLV \"immortalizes\" the infected T-cells, giving them the ability to proliferate abnormally. Human T-cell lymphotropic virus types I and II (HTLV-I/II) are endemic in certain areas of the world.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Clonal eosinophilias (also called clonal hypereosinophilias) are a group of blood disorders characterized by the growth of eosinophils in the bone marrow, blood, and/or other tissues.   They may be pre-cancerous or cancerous. Clonal eosinophilias involve a \"clone\" of eosinophils, i.e., a group of genetically identical eosinophils that all grew from the same mutated ancestor cell. These disorders may evolve into chronic eosinophilic leukemia or may be associated with various forms of myeloid neoplasms, lymphoid neoplasms, myelofibrosis, or the myelodysplastic syndrome.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Transient myeloproliferative disease, also termed transient leukemia, involves the abnormal proliferation of a clone of non-cancerous megakaryoblasts. The disease is restricted to individuals with Down syndrome or genetic changes similar to those in Down syndrome, develops in a baby during pregnancy or shortly after birth, and resolves within 3 months or, in ~10% of cases, progresses to acute megakaryoblastic leukemia. Transient myeloid leukemia is a pre-leukemic condition.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Clonal hematopoiesis is a common age-related phenomenon with a low risk of progression to myelodysplastic syndrome (MDS) and leukemia. Once MDS has developed, the risk of progression to acute leukemia can be assessed using the International Prognostic Scoring System (IPSS).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Monoclonal B-cell lymphocytosis has a low risk of progression to B-cell leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The most common symptoms in children are easy bruising, pale skin, fever, and an enlarged spleen or liver.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Damage to the bone marrow, by way of displacing the normal bone marrow cells with higher numbers of immature white blood cells, results in a lack of blood platelets, which are important in the blood clotting process. This means people with leukemia may easily become bruised, bleed excessively, or develop pinprick bleeds (petechiae).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "White blood cells, which are involved in fighting pathogens, may be suppressed or dysfunctional. This could cause the person's immune system to be unable to fight off a simple infection or to start attacking other body cells. Because leukemia prevents the immune system from working normally, some people experience frequent infection, ranging from infected tonsils, sores in the mouth, or diarrhea to life-threatening pneumonia or opportunistic infections.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Finally, the red blood cell deficiency leads to anemia, which may cause dyspnea and pallor.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Some people experience other symptoms, such as fevers, chills, night sweats, weakness in the limbs, feeling fatigued and other common flu-like symptoms. Some people experience nausea or a feeling of fullness due to an enlarged liver and spleen; this can result in unintentional weight loss. Blasts affected by the disease may come together and become swollen in the liver or in the lymph nodes causing pain and leading to nausea.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "If the leukemic cells invade the central nervous system, then neurological symptoms (notably headaches) can occur. Uncommon neurological symptoms like migraines, seizures, or coma can occur as a result of brain stem pressure. All symptoms associated with leukemia can be attributed to other diseases. Consequently, leukemia is always diagnosed through medical tests.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The word leukemia, which means 'white blood', is derived from the characteristic high white blood cell count that presents in most affected people before treatment. The high number of white blood cells is apparent when a blood sample is viewed under a microscope, with the extra white blood cells frequently being immature or dysfunctional. The excessive number of cells can also interfere with the level of other cells, causing further harmful imbalance in the blood count.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Some people diagnosed with leukemia do not have high white blood cell counts visible during a regular blood count. This less-common condition is called aleukemia. The bone marrow still contains cancerous white blood cells that disrupt the normal production of blood cells, but they remain in the marrow instead of entering the bloodstream, where they would be visible in a blood test. For a person with aleukemia, the white blood cell counts in the bloodstream can be normal or low. Aleukemia can occur in any of the four major types of leukemia, and is particularly common in hairy cell leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Studies in 2009 and 2010 have shown a positive correlation between exposure to formaldehyde and the development of leukemia, particularly myeloid leukemia. The different leukemias likely have different causes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Leukemia, like other cancers, results from mutations in the DNA. Certain mutations can trigger leukemia by activating oncogenes or deactivating tumor suppressor genes, and thereby disrupting the regulation of cell death, differentiation or division. These mutations may occur spontaneously or as a result of exposure to radiation or carcinogenic substances.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Among adults, the known causes are natural and artificial ionizing radiation and petrochemicals, notably benzene and alkylating chemotherapy agents for previous malignancies. Use of tobacco is associated with a small increase in the risk of developing acute myeloid leukemia in adults. Cohort and case-control studies have linked exposure to some petrochemicals and hair dyes to the development of some forms of leukemia. Diet has very limited or no effect, although eating more vegetables may confer a small protective benefit.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Viruses have also been linked to some forms of leukemia.  For example, human T-lymphotropic virus (HTLV-1) causes adult T-cell leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A few cases of maternal-fetal transmission (a baby acquires leukemia because its mother had leukemia during the pregnancy) have been reported. Children born to mothers who use fertility drugs to induce ovulation are more than twice as likely to develop leukemia during their childhoods than other children.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In a recent systematic review and meta-analysis of any type of leukemia in neonates using phototherapy, typically to treat neonatal jaundice, a statistically significant association was detected between using phototherapy and myeloid leukemia. However, it is still questionable whether phototherapy is genuinely the cause of cancer or simply a result of the same underlying factors that gave rise to cancer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Large doses of Sr-90 (called a bone seeking radioisotope) from nuclear reactor accidents, increases the risk of bone cancer and leukemia in animals and is presumed to do so in people.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Some people have a genetic predisposition towards developing leukemia. This predisposition is demonstrated by family histories and twin studies. The affected people may have a single gene or multiple genes in common. In some cases, families tend to develop the same kinds of leukemia as other members; in other families, affected people may develop different forms of leukemia or related blood cancers.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In addition to these genetic issues, people with chromosomal abnormalities or certain other genetic conditions have a greater risk of leukemia. For example, people with Down syndrome have a significantly increased risk of developing forms of acute leukemia (especially acute myeloid leukemia), and Fanconi anemia is a risk factor for developing acute myeloid leukemia. Mutation in SPRED1 gene has been associated with a predisposition to childhood leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Inherited bone marrow failure syndromes represent a kind of premature aging of the bone marrow. In people with these syndromes and in older adults, mutations associated with clonal hematopoiesis may arise as an adaptive response to a progressively deteriorating hematopoietic niche, i.e., a depleting pool of Hematopoietic stem cells. The mutated stem cells then acquire a self-renewal advantage.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Chronic myelogenous leukemia is associated with a genetic abnormality called the Philadelphia translocation; 95% of people with CML carry the Philadelphia mutation, although this is not exclusive to CML and can be observed in people with other types of leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Whether or not non-ionizing radiation causes leukemia has been studied for several decades. The International Agency for Research on Cancer expert working group undertook a detailed review of all data on static and extremely low frequency electromagnetic energy, which occurs naturally and in association with the generation, transmission, and use of electrical power. They concluded that there is limited evidence that high levels of ELF magnetic (but not electric) fields might cause some cases of childhood leukemia. No evidence for a relationship to leukemia or another form of malignancy in adults has been demonstrated. Since exposure to such levels of ELFs is relatively uncommon, the World Health Organization concludes that ELF exposure, if later proven to be causative, would account for just 100 to 2400 cases worldwide each year, representing 0.2 to 4.9% of the total incidence of childhood leukemia for that year (about 0.03 to 0.9% of all leukemias).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Diagnosis is usually based on repeated complete blood counts and a bone marrow examination following observations of the symptoms.  Sometimes, blood tests may not show that a person has leukemia, especially in the early stages of the disease or during remission.  A lymph node biopsy can be performed to diagnose certain types of leukemia in certain situations.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Following diagnosis, blood chemistry tests can be used to determine the degree of liver and kidney damage or the effects of chemotherapy on the person. When concerns arise about other damages due to leukemia, doctors may use an X-ray, MRI, or ultrasound.  These can potentially show leukemia's effects on such body parts as bones (X-ray), the brain (MRI), or the kidneys, spleen, and liver (ultrasound).  CT scans can be used to check lymph nodes in the chest, though this is uncommon.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Despite the use of these methods to diagnose whether or not a person has leukemia, many people have not been diagnosed because many of the symptoms are vague, non-specific, and can refer to other diseases.  For this reason, the American Cancer Society estimates that at least one-fifth of the people with leukemia have not yet been diagnosed.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Most forms of leukemia are treated with pharmaceutical medication, typically combined into a multi-drug chemotherapy regimen. Some are also treated with radiation therapy. In some cases, a bone marrow transplant is effective.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Management of ALL is directed towards control of bone marrow and systemic (whole-body) disease. Additionally, treatment must prevent leukemic cells from spreading to other sites, particularly the central nervous system (CNS); periodic lumbar punctures are used for diagnostic purposes and to administer intrathecal prophylactic methotrexate. In general, ALL treatment is divided into several phases:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Induction chemotherapy to bring about bone marrow remission. For adults, standard induction plans include prednisone, vincristine, and an anthracycline drug; other drug plans may include L-asparaginase or cyclophosphamide. For children with low-risk ALL, standard therapy usually consists of three drugs (prednisone, L-asparaginase, and vincristine) for the first month of treatment.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Consolidation therapy or intensification therapy to eliminate any remaining leukemia cells. There are many different approaches to consolidation, but it is typically a high-dose, multi-drug treatment that is undertaken for a few months. People with low- to average-risk ALL receive therapy with antimetabolite drugs such as methotrexate and 6-mercaptopurine (6-MP). People who are high-risk receive higher drug doses of these drugs, plus additional drugs.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CNS prophylaxis (preventive therapy) to stop cancer from spreading to the brain and nervous system in high-risk people. Standard prophylaxis may include radiation of the head and/or drugs delivered directly into the spine.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Maintenance treatments with chemotherapeutic drugs to prevent disease recurrence once remission has been achieved. Maintenance therapy usually involves lower drug doses and may continue for up to three years.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Alternatively, allogeneic bone marrow transplantation may be appropriate for high-risk or relapsed people.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hematologists base CLL treatment on both the stage and symptoms of the individual person. A large group of people with CLL have low-grade disease, which does not benefit from treatment. Individuals with CLL-related complications or more advanced disease often benefit from treatment. In general, the indications for treatment are:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Most CLL cases are incurable by present treatments, so treatment is directed towards suppressing the disease for many years, rather than curing it. The primary chemotherapeutic plan is combination chemotherapy with chlorambucil or cyclophosphamide, plus a corticosteroid such as prednisone or prednisolone. The use of a corticosteroid has the additional benefit of suppressing some related autoimmune diseases, such as immunohemolytic anemia or immune-mediated thrombocytopenia. In resistant cases, single-agent treatments with nucleoside drugs such as fludarabine, pentostatin, or cladribine may be successful. Younger and healthier people may choose allogeneic or autologous bone marrow transplantation in the hope of a permanent cure.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Many different anti-cancer drugs are effective for the treatment of AML. Treatments vary somewhat according to the age of the person and according to the specific subtype of AML. Overall, the strategy is to control bone marrow and systemic (whole-body) disease, while offering specific treatment for the central nervous system (CNS), if involved.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In general, most oncologists rely on combinations of drugs for the initial, induction phase of chemotherapy. Such combination chemotherapy usually offers the benefits of early remission and a lower risk of disease resistance. Consolidation and maintenance treatments are intended to prevent disease recurrence. Consolidation treatment often entails a repetition of induction chemotherapy or the intensification of chemotherapy with additional drugs. By contrast, maintenance treatment involves drug doses that are lower than those administered during the induction phase.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "There are many possible treatments for CML, but the standard of care for newly diagnosed people is imatinib (Gleevec) therapy. Compared to most anti-cancer drugs, it has relatively few side effects and can be taken orally at home. With this drug, more than 90% of people will be able to keep the disease in check for at least five years, so that CML becomes a chronic, manageable condition.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In a more advanced, uncontrolled state, when the person cannot tolerate imatinib, or if the person wishes to attempt a permanent cure, then an allogeneic bone marrow transplantation may be performed. This procedure involves high-dose chemotherapy and radiation followed by infusion of bone marrow from a compatible donor. Approximately 30% of people die from this procedure.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "People with hairy cell leukemia who are symptom-free typically do not receive immediate treatment. Treatment is generally considered necessary when the person shows signs and symptoms such as low blood cell counts (e.g., infection-fighting neutrophil count below 1.0 K/\u03bcL), frequent infections, unexplained bruises, anemia, or fatigue that is significant enough to disrupt the person's everyday life.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "People who need treatment usually receive either one week of cladribine, given daily by intravenous infusion or a simple injection under the skin, or six months of pentostatin, given every four weeks by intravenous infusion. In most cases, one round of treatment will produce a prolonged remission.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Other treatments include rituximab infusion or self-injection with Interferon-alpha. In limited cases, the person may benefit from splenectomy (removal of the spleen). These treatments are not typically given as the first treatment because their success rates are lower than cladribine or pentostatin.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Most people with T-cell prolymphocytic leukemia, a rare and aggressive leukemia with a median survival of less than one year, require immediate treatment.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "T-cell prolymphocytic leukemia is difficult to treat, and it does not respond to most available chemotherapeutic drugs. Many different treatments have been attempted, with limited success in certain people: purine analogues (pentostatin, fludarabine, cladribine), chlorambucil, and various forms of combination chemotherapy (cyclophosphamide, doxorubicin, vincristine, prednisone CHOP, cyclophosphamide, vincristine, prednisone [COP], vincristine, doxorubicin, prednisone, etoposide, cyclophosphamide, bleomycin VAPEC-B). Alemtuzumab (Campath), a monoclonal antibody that attacks white blood cells, has been used in treatment with greater success than previous options.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Some people who successfully respond to treatment also undergo stem cell transplantation to consolidate the response.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Treatment for juvenile myelomonocytic leukemia can include splenectomy, chemotherapy, and bone marrow transplantation.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The success of treatment depends on the type of leukemia and the age of the person. Outcomes have improved in the developed world. The average five-year survival rate is 65% in the United States. In children under 15, the five-year survival rate is greater (60 to 85%), depending on the type of leukemia. In children with acute leukemia who are cancer-free after five years, the cancer is unlikely to return.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Outcomes depend on whether it is acute or chronic, the specific abnormal white blood cell type, the presence and severity of anemia or thrombocytopenia, the degree of tissue abnormality, the presence of metastasis and lymph node and bone marrow infiltration, the availability of therapies and the skills of the health care team. Treatment outcomes may be better when people are treated at larger centers with greater experience.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2010, globally, approximately 281,500 people died of leukemia. In 2000, approximately 256,000 children and adults around the world developed a form of leukemia, and 209,000 died from it. This represents about 3% of the almost seven million deaths due to cancer that year, and about 0.35% of all deaths from any cause. Of the sixteen separate sites the body compared, leukemia was the 12th most common class of neoplastic disease and the 11th most common cause of cancer-related death. Leukemia occurs more commonly in the developed world.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "About 245,000 people in the United States are affected with some form of leukemia, including those that have achieved remission or cure. Rates from 1975 to 2011 have increased by 0.7% per year among children. Approximately 44,270 new cases of leukemia were diagnosed in the year 2008 in the US. This represents 2.9% of all cancers (excluding simple basal cell and squamous cell skin cancers) in the United States, and 30.4% of all blood cancers.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Among children with some form of cancer, about a third have a type of leukemia, most commonly acute lymphoblastic leukemia. A type of leukemia is the second most common form of cancer in infants (under the age of 12 months) and the most common form of cancer in older children. Boys are somewhat more likely to develop leukemia than girls, and white American children are almost twice as likely to develop leukemia than black American children. Only about 3% cancer diagnoses among adults are for leukemias, but because cancer is much more common among adults, more than 90% of all leukemias are diagnosed in adults.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Race is a risk factor in the United States.  Hispanics, especially those under the age of 20, are at the highest risk for leukemia, while whites, Native Americans, Asian Americans, and Alaska Natives are at higher risk than African Americans.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "More men than women are diagnosed with leukemia and die from the disease. Around 30 percent more men than women have leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In Australia, leukemia is the eleventh most common cancer. In 2014\u20132018, Australians diagnosed with leukemia had a 64% chance (65% for males and 64% for females) of surviving for five years compared to the rest of the Australian population\u2013there was a 21% increase in survival rates between 1989 and 1993.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Overall, leukemia is the eleventh most common cancer in the UK (around 8,600 people were diagnosed with the disease in 2011), and it is the ninth most common cause of cancer death (around 4,800 people died in 2012).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Leukemia was first described by anatomist and surgeon Alfred-Armand-Louis-Marie Velpeau in 1827. A more complete description was given by pathologist Rudolf Virchow in 1845. Around ten years after Virchow's findings, pathologist Franz Ernst Christian Neumann found that the bone marrow of a deceased person with leukemia was colored \"dirty green-yellow\" as opposed to the normal red. This finding allowed Neumann to conclude that a bone marrow problem was responsible for the abnormal blood of people with leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "By 1900, leukemia was viewed as a family of diseases as opposed to a single disease. By 1947, Boston pathologist Sidney Farber believed from past experiments that aminopterin, a folic acid mimic, could potentially cure leukemia in children. The majority of the children with ALL who were tested showed signs of improvement in their bone marrow, but none of them were actually cured. Nevertheless, this result did lead to further experiments.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 1962, researchers Emil J. Freireich Jr. and Emil Frei III used combination chemotherapy to attempt to cure leukemia. The tests were successful with some people surviving long after the tests.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Observing an abnormally large number of white blood cells in a blood sample from a person, Virchow called the condition Leuk\u00e4mie in German, which he formed from the two Greek words leukos (\u03bb\u03b5\u03c5\u03ba\u03cc\u03c2), meaning 'white', and haima (\u03b1\u1f37\u03bc\u03b1), meaning 'blood'. It was formerly also called leucemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "According to Susan Sontag, leukemia was often romanticized in 20th-century fiction, portrayed as a joy-ending, clean disease whose fair, innocent and gentle victims die young or at the wrong time. As such, it was the cultural successor to tuberculosis, which held this cultural position until it was discovered to be an infectious disease. The 1970 romance novel Love Story is an example of this romanticization of leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In the United States, around $5.4 billion is spent on treatment a year.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Significant research into the causes, prevalence, diagnosis, treatment, and prognosis of leukemia is being performed. Hundreds of clinical trials are being planned or conducted at any given time. Studies may focus on effective means of treatment, better ways of treating the disease, improving the quality of life for people, or appropriate care in remission or after cures.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In general, there are two types of leukemia research: clinical or translational research and basic research. Clinical/translational research focuses on studying the disease in a defined and generally immediately applicable way, such as testing a new drug in people.  By contrast, basic science research studies the disease process at a distance, such as seeing whether a suspected carcinogen can cause leukemic changes in isolated cells in the laboratory or how the DNA changes inside leukemia cells as the disease progresses.  The results from basic research studies are generally less immediately useful to people with the disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Treatment through gene therapy is currently being pursued. One such approach used genetically modified T cells, known as chimeric antigen receptor T cells (CAR-T cells), to attack cancer cells. In 2011, a year after treatment, two of the three people with advanced chronic lymphocytic leukemia were reported to be cancer-free and in 2013, three of five subjects who had acute lymphocytic leukemia were reported to be in remission for five months to two years. Subsequent studies with a variety of CAR-T types continue to be promising. As of 2018, two CAR-T therapies have been approved by the Food and Drug Administration. CAR-T treatment has significant side effects, and loss of the antigen targeted by the CAR-T cells is a common mechanism for relapse. The stem cells that cause different types of leukemia are also being researched.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Leukemia is rarely associated with pregnancy, affecting only about 1 in 10,000 pregnant women. How it is handled depends primarily on the type of leukemia. Nearly all leukemias appearing in pregnant women are acute leukemias. Acute leukemias normally require prompt, aggressive treatment, despite significant risks of pregnancy loss and birth defects, especially if chemotherapy is given during the developmentally sensitive first trimester. Chronic myelogenous leukemia can be treated with relative safety at any time during pregnancy with Interferon-alpha hormones. Treatment for chronic lymphocytic leukemias, which are rare in pregnant women, can often be postponed until after the end of the pregnancy.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hematologic diseases, the large class of blood-related disorders, including leukemia",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Human papillomavirus infection (HPV infection) is an infection caused by a DNA virus from the Papillomaviridae family. Many HPV infections cause no symptoms and 90% resolve spontaneously within two years. Sometimes an HPV infection persists and results in warts or precancerous lesions. Many warts are caused by HPV. These lesions, depending on the site affected, increase the risk of cancer of the cervix, vulva, vagina, penis, anus, mouth, tonsils, or throat. Nearly all cervical cancer is due to HPV and two strains, HPV16 and HPV18, account for 70% of all cases. HPV16 is responsible for almost 90% of HPV-related cancers of the mouth, throat, or tonsils. Between 60% and 90% of the other cancers listed above are also linked to HPV. HPV6 and HPV11 are common causes of genital warts and laryngeal papillomatosis.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Over 200 types of HPV have been described. An individual can become infected with more than one type of HPV and the disease is only known to affect humans. More than 40 types may be spread through sexual contact and infect the anus and genitals. Risk factors for persistent infection by sexually transmitted types include early age of first sexual intercourse, multiple sexual partners, smoking and poor immune function. These types are typically spread by direct skin-to-skin contact, with vaginal and anal sex being the most common methods. HPV infection can spread from a mother to baby during pregnancy. There is limited evidence that HPV can spread indirectly, but some studies suggest it is theoretically possible to spread via contact with contaminated surfaces. HPV is not killed by common hand sanitizers or disinfectants, increasing the possibility of the virus being transferred via non-living infectious agents called fomites.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "HPV vaccines can prevent the most common types of infection. Many public health organisations now test directly for HPV. Screening allows for early treatment, which results in better outcomes. Nearly every sexually active individual is infected with HPV at some point in their lives. HPV is the most common sexually transmitted infection (STI), globally.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "High-risk HPVs cause about 5% of all cancers worldwide and about 37,300 cases of cancer in the United States each year. Cervical cancer is among the most common cancers worldwide, causing an estimated 604,000 new cases and 342,000 deaths in 2020. About 90% of these new cases and deaths of cervical cancer occurred in low and middle income countries. Roughly 1% of sexually active adults have genital warts.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "HPV is a group of more than 200 viruses, which are designated by a number for each virus type. Some HPV types, such as HPV5, may establish infections that persist for the lifetime of the individual, without manifesting any clinical symptoms. HPV types 1 and 2 can cause warts in some infected individuals. HPV types 6 and 11 can cause genital warts and laryngeal papillomatosis.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Many HPV types are carcinogenic. About twelve HPV types (including types 16, 18, 31, and 45) are called \"high-risk\" types because persistent infection has been linked to cancer of the oropharynx, larynx, vulva, vagina, cervix, penis, and anus. These cancers all involve sexually transmitted infection of HPV to the stratified epithelial tissue. HPV type 16 is the strain most likely to cause cancer and is present in about 47% of all cervical cancers, and in many vaginal and vulvar cancers, penile cancers, anal cancers and cancers of the head and neck.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The table below lists common symptoms of HPV infection and the associated types of HPV.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Skin infection (\"cutaneous\" infection) with HPV is common and can cause noncancerous skin growths called warts (verrucae). Warts are caused by the rapid growth of cells on the outer layer of the skin.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "While cases of warts have been described since ancient Greece, their viral cause was not known until 1907, when Dr. Giuseppe Ciuffo showed their viral nature by inoculating a wart extract into the skin.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Skin warts are most common in childhood and typically appear and regress spontaneously over weeks to months. Recurrence is common.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Common warts are usually found on the hands and feet, but can also occur in other areas, such as the elbows or knees. Cutaneous HPV types can cause genital warts but are not associated with the development of cancer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Plantar warts are found on the soles of the feet; they grow inward, generally causing pain when walking.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Subungual or periungual warts form under the fingernail (subungual), around the fingernail, or on the cuticle (periungual). They are more difficult to treat than warts in other locations.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Flat warts are most commonly found on the arms, face, or forehead. Like common warts, flat warts occur most frequently in children and teens. In people with normal immune function, flat warts are not associated with the development of cancer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "HPV infection of the skin in the genital area is the most common sexually transmitted infection worldwide. Such infections are associated with genital or anal warts (medically known as condylomata acuminata or venereal warts) and these warts can be diagnosed on visual inspection and confirmed by biopsy.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The strains of HPV that can cause genital warts are usually different from those that cause warts on other parts of the body. A wide variety of HPV types can cause genital warts, but types 6 and 11 together account for about 90% of all cases.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The great majority of genital HPV infections never cause any overt symptoms and are cleared by the immune system in a matter of months. People may transmit the virus to others even if they do not display overt symptoms of infection.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Most people acquire genital HPV infections at some point in their lives, and about 10% of women are currently infected.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In addition to genital warts, infection by HPV types 6 and 11 can cause a rare condition known as recurrent laryngeal papillomatosis, in which warts form on the larynx or other areas of the respiratory tract.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "These warts can recur frequently, may interfere with breathing, and in extremely rare cases can progress to cancer. For these reasons, repeated surgery to remove the warts may be advisable.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Cervical cancer is among the most common cancers worldwide, causing an estimated 604,000 new cases and 342,000 deaths in 2020. About 90% of these new cases and deaths occurred in low and middle income countries, where screening tests and treatment of early cervical cell changes are not readily available.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In the USA, cervical cancer accounts for 0.7% of new cancer cases. Oral cavity and pharynx cancer accounts for 2.9% of new cancer cases and predominantly affects men. HPV is thought to cause 60% to 70% of oropharyngeal cancers. 37,300 cases of cancer, caused by HPV, occur each year.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In some infected individuals, their immune systems may fail to control HPV. Lingering infection with high-risk HPV types, such as types 16, 18, 31, and 45, can favor the development of cancer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Co-factors such as cigarette smoke can also enhance the risk of HPV-related cancers.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "HPV is believed to cause cancer by integrating its genome into nuclear DNA. Some of the early genes expressed by HPV, such as E6 and E7, act as oncogenes that promote tumor growth and malignant transformation. HPV genome integration can also cause carcinogenesis by promoting genomic instability associated with alterations in DNA copy number.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "E6 produces a protein (also called E6) that simultaneously binds to two host cell proteins called p53 and E6-Associated Protein (E6-AP). E6AP is an E3 Ubiquitin ligase, an enzyme whose purpose is to tag proteins with a post-translational modification called Ubiquitin. By binding both proteins, E6 induces E6AP to attach a chain of ubiquitin molecules to p53, thereby flagging p53 for proteosomal degradation. Normally, p53 acts to prevent cell growth and promotes cell death in the presence of DNA damage. p53 also upregulates the p21 protein, which blocks the formation of the cyclin D/Cdk4 complex, thereby preventing the phosphorylation of retinoblastoma protein (RB), and in turn, halting cell cycle progression by preventing the activation of E2F. In short, p53 is a tumor-suppressor protein that arrests the cell cycle and prevents cell growth and survival when DNA damage occurs. Thus, the degradation of p53, induced by E6, promotes unregulated cell division, cell growth, and cell survival, all characteristics of cancer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "It is important to note that although the interaction between E6, E6AP, and p53 was the first to be characterized, several other proteins in the host cell interact with E6, supporting the induction of cancer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Studies have also shown a link between a wide range of HPV types and squamous cell carcinoma of the skin. In such cases, in vitro studies suggest that the E6 protein of the HPV virus may inhibit apoptosis induced by ultraviolet light.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Nearly all cases of cervical cancer are associated with HPV infection, with two types, HPV16 and HPV18, present in 70% of cases. In 2012, twelve HPV types were considered carcinogenic for cervical cancer by the International Agency for Research on Cancer: 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, and 59. One study found that 74% of squamous cell carcinomas and 78% of adenocarcinomas tested positive for HPV types 16 or 18. Persistent HPV infection increases the risk for developing cervical carcinoma. Individuals who have an increased incidence of these types of infection are women with HIV/AIDS, who are at a 22-fold increased risk of cervical cancer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The carcinogenic HPV types in cervical cancer belong to the alphapapillomavirus genus. They can be grouped further into HPV clades. The two major carcinogenic HPV clades, alphapapillomavirus-9 (A9) and alphapapillomavirus-7 (A7), contain HPV16 and HPV18, respectively. These two HPV clades were shown to have different effects on tumour molecular characteristics and patient prognosis, with clade A7 being associated with more aggressive pathways and an inferior prognosis.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2020, about 604,000 new cases and 342,000 deaths from cervical cancer occurred worldwide. Around 90% of these occurred in the developing world.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Most HPV infections of the cervix are cleared rapidly by the immune system and do not progress to cervical cancer (see below the Clearance subsection in Virology). Because the process of transforming normal cervical cells into cancerous ones is slow, cancer occurs in people who have been infected with HPV for a long time, usually over a decade or more (persistent infection). Furthermore, both the HPV infection and cervical cancer drive metabolic modifications that may be correlated with the aberrant regulation of enzymes related to metabolic pathways.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Non-European (NE) HPV16 variants are significantly more carcinogenic than European (E) HPV16 variants.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Initially, cervical cancer is often asymptomatic. Symptoms of more advanced cervical cancer include pain during sex, unusual vaginal bleeding, changes to vaginal discharge, lower back pain, and pelvic pain.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Women and men who have HPV are at increased risk of developing anal cancer. Most cases (90%) are linked HPV infection.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The risk for anal cancer is 17 to 31 times higher among HIV-positive individuals who were co-infected with high-risk HPV, and 80 times higher for HIV-positive men who have sex with men.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A literature review of studies and meta-analysis concluded that HPV16 was most carcinogenic, regardless of whether a person is HIV positive or negative, and that detecting the presence of HPV16 should be a priority for anal cancer prevention.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "HPV is associated with approximately 50% of penile cancers. In the United States, penile cancer accounts for about 0.5% of all cancer cases in men. HPV16 is the most commonly detected associated type. The risk of penile cancer increases 2- to 3-fold for individuals who are infected with HIV as well as HPV.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Oral infection with high-risk carcinogenic HPV types (most commonly HPV 16) is associated with an increasing number of head and neck cancers. This association is independent of tobacco and alcohol use.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The local percentage varies widely, from 70% in the United States to 4% in Brazil. Engaging in anal or oral sex with an HPV-infected partner may increase the risk of developing these types of cancers.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In the United States, the number of newly diagnosed, HPV-associated head and neck cancers has surpassed that of cervical cancer cases. The rate of such cancers has increased from an estimated 0.8 cases per 100,000 people in 1988 to 4.5 per 100,000 in 2012, and, as of 2021, the rate has continued to increase. Researchers explain these recent data by an increase in oral sex. This type of cancer is more common in men than in women.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The mutational profile of HPV-positive and HPV-negative head and neck cancer has been reported, further demonstrating that they are fundamentally distinct diseases.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Some evidence links HPV to benign and malignant tumors of the upper respiratory tract. The International Agency for Research on Cancer  has found that people with lung cancer were significantly more likely to have several high-risk forms of HPV antibodies compared to those who did not have lung cancer. Researchers looking for HPV among 1,633 lung cancer patients and 2,729 people without the lung disease found that people with lung cancer had more types of HPV than noncancer patients did, and among lung cancer patients, the chances of having eight types of serious HPV were significantly increased. In addition, expression of HPV structural proteins by immunohistochemistry and in vitro studies suggest HPV presence in bronchial cancer and its precursor lesions. Another study detected HPV in the exhaled breath condensate (EBC), bronchial brushing and neoplastic lung tissue of cases, and found a presence of an HPV infection in 16.4% of the subjects affected by nonsmall cell lung cancer, but in none of the controls. The reported average frequencies of HPV in lung cancers were 17% and 15% in Europe and the Americas, respectively, and the mean number of HPV in Asian lung cancer samples was 35.7%, with considerable heterogeneity between certain countries and regions.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In very rare cases, HPV may cause epidermodysplasia verruciformis (EV) in individuals with a weakened immune system. The virus, unchecked by the immune system, causes the overproduction of keratin by skin cells, resulting in lesions resembling warts or cutaneous horns which can ultimately transform into skin cancer, but the development is not well understood. The specific types of HPV that are associated with EV are HPV5, HPV8, and HPV14.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Sexually transmitted HPV is divided into two categories: low-risk and high-risk. Low-risk HPVs cause warts on or around the genitals. Types 6 and 11 cause 90% of all genital warts and recurrent respiratory papillomatosis, which causes benign tumors in the air passages. High-risk HPVs cause cancer and consist of about twelve identified types. Types 16 and 18 are responsible for causing most of the HPV-caused cancers. These high-risk HPVs cause 5% of the cancers in the world. In the United States, high-risk HPVs cause 3% of all cancer cases in women and 2% in men.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Risk factors for persistent genital HPV infections, which increase the risk of developing cancer, include early age of first sexual intercourse, multiple partners, smoking, and immunosuppression. Genital HPV is spread by sustained direct skin-to-skin contact, with vaginal, anal, and oral sex being the most common methods. Occasionally, it can spread from manual sex or from a mother to her baby during pregnancy. HPV is difficult to remove via standard hospital disinfection techniques and may be transmitted in a healthcare setting on re-usable gynecological equipment, such as vaginal ultrasound transducers. The period of communicability is still unknown, but likely at least as long as visible HPV lesions persist. HPV may still be transmitted even after lesions are treated and no longer visible or present.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Although genital HPV types can be transmitted from mother to child during birth, the appearance of genital HPV-related diseases in newborns is rare. However, the lack of appearance does not rule out asymptomatic latent infection, as the virus has proven to be capable of hiding for decades. Perinatal transmission of HPV types 6 and 11 can result in the development of juvenile-onset recurrent respiratory papillomatosis (JORRP). JORRP is very rare, with rates of about 2 cases per 100,000 children in the United States. Although JORRP rates are substantially higher if a woman presents with genital warts at the time of giving birth, the risk of JORRP in such cases is still less than 1%.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Genital HPV infections are transmitted primarily by contact with the genitals, anus, or mouth of an infected sexual partner.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Of the 120 known human papillomaviruses, 51 species and three subtypes infect the genital mucosa. Fifteen are classified as high-risk types (16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, 68, 73, and 82), three as probable high-risk (26, 53, and 66), and twelve as low-risk (6, 11, 40, 42, 43, 44, 54, 61, 70, 72, 81, and 89).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Condoms do not completely protect from the virus because the areas around the genitals, including the inner thigh area, are not covered, thus exposing these areas to the infected person's skin.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Studies have shown HPV transmission between the hands and genitals of the same person and sexual partners. Hernandez tested the genitals and dominant hand of each person in 25 heterosexual couples every other month for an average of seven months. She found two couples where the man's genitals infected the woman's hand with high-risk HPV, two where her hand infected his genitals, one where her genitals infected his hand, two each where he infected his own hand, and she infected her own hand. Hands were not the main source of transmission in these 25 couples, but they were significant.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Partridge reports men's fingertips became positive for high-risk HPV at more than half the rate (26% per two years) as their genitals (48%). Winer reports 14% of fingertip samples from sexually active women were positive.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Non-sexual hand contact seems to have little or no role in HPV transmission. Winer found all fourteen fingertip samples from virgin women negative at the start of her fingertip study. In a separate report on genital HPV infection, 1% of virgin women (1 of 76) with no sexual contact tested positive for HPV, while 10% of virgin women reporting non-penetrative sexual contact were positive (7 of 72).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Sharing of possibly contaminated objects, for example, razors, may transmit HPV. Although possible, transmission by routes other than sexual intercourse is less common for female genital HPV infection. Fingers-genital contact is a possible way of transmission, but unlikely to be a significant source.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Though it has traditionally been assumed that HPV is not transmissible via blood, as it is thought to infect only cutaneous and mucosal tissues, recent studies have called this notion into question. Historically, HPV DNA has been detected in the blood of cervical cancer patients. In 2005, a group reported that, in frozen blood samples of 57 sexually naive pediatric patients who had vertical or transfusion-acquired HIV infection, 8 (14.0%) of these samples also tested positive for HPV-16. This seems to indicate that it may be possible for HPV to be transmitted via blood transfusion. However, as non-sexual transmission of HPV by other means is not uncommon, this could not be definitively proven. In 2009, a group tested Australian Red Cross blood samples from 180 healthy male donors for HPV, and subsequently found DNA of one or more strains of the virus in 15 (8.3%) of the samples. However, it is important to note that detecting the presence of HPV DNA in blood is not the same as detecting the virus itself in blood, and whether or not the virus itself can or does reside in blood in infected individuals is still unknown. As such, it remains to be determined whether HPV can or cannot be transmitted via blood. This is of concern, as blood donations are not currently screened for HPV, and at least some organizations, such as the American Red Cross and other Red Cross societies, do not presently appear to disallow HPV-positive individuals from donating blood.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hospital transmission of HPV, especially to surgical staff, has been documented. Surgeons, including urologists and/or anyone in the room, are subject to HPV infection by inhalation of noxious viral particles during electrocautery or laser ablation of a condyloma (wart). There has been a case report of a laser surgeon who developed extensive laryngeal papillomatosis after providing laser ablation to patients with anogenital condylomata.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "HPV infection is limited to the basal cells of stratified epithelium, the only tissue in which they replicate. The virus cannot bind to live tissue; instead, it infects epithelial tissues through micro-abrasions or other epithelial trauma that exposes segments of the basement membrane. The infectious process is slow, taking 12\u201324 hours for initiation of transcription. It is believed that the involved antibodies play a major neutralizing role while the virions still reside on the basement membrane and cell surfaces.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "HPV lesions are thought to arise from the proliferation of infected basal keratinocytes. Infection typically occurs when basal cells in the host are exposed to the infectious virus through a disturbed epithelial barrier, as would occur during sexual intercourse or after minor skin abrasions. HPV infections are not cytolytic; rather, viral particles are released as a result of the degeneration of desquamating cells. HPV can survive for many months and at low temperatures without a host; therefore, an individual with plantar warts can spread the virus by walking barefoot.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "HPV is a small double-stranded circular DNA virus with a genome of approximately 8000 base pairs. The HPV life cycle strictly follows the differentiation program of the host keratinocyte. It is thought that the HPV virion infects epithelial tissues through micro-abrasions, whereby the virion associates with putative receptors such as alpha integrins, laminins, and annexin A2 leading to the entry of the virions into basal epithelial cells through clathrin-mediated endocytosis and/or caveolin-mediated endocytosis depending on the type of HPV. At this point, the viral genome is transported to the nucleus by unknown mechanisms and establishes itself at a copy number of 10-200 viral genomes per cell. A sophisticated transcriptional cascade then occurs as the host keratinocyte begins to divide and become increasingly differentiated in the upper layers of the epithelium.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The phylogeny of the various strains of HPV generally reflects the migration patterns of Homo sapiens and suggests that HPV may have diversified along with the human population. Studies suggest that HPV evolved along five major branches that reflect the ethnicity of human hosts, and diversified along with the human population.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Researchers initially identified two major variants of HPV16, European (HPV16-E), and Non-European (HPV16-NE). More recent analyses based on thousands of HPV16 genomes show that indeed two major clades exist, that are further subdivided into four lineages (designated A-D) and even further subdivided into 16 sublineages (A1\u20134, B1\u20134, C1\u20134 and D1\u20134). The A1-A3 sublineages constitute the European variant, A4 the Asian variant, B1-B4 the African type I variant, C1\u2013C4 the African type II variant, D1 the North American variant, D2 the Asian American type I variant, D3 the Asian American type II variant. The various lineages and sublineages have different oncogenic capacity, where overall, the non-European lineages are considered to increase the risk for cancer. Although HPV16 is a DNA virus, there are signs of recombination among the different lineages. Based on an analysis of more than 3600 genomes, between 0.3 and 1.2% of them could be recombinant. Thus, ideally, genotyping (for cancer-risk assessment) of HPV16 should not be based only on certain genes, but on all genes from the entire genome.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A bioinformatics tool named HPV16-Genotyper performs i) HPV16 lineage genotyping, ii) detects potential recombination events, iii) identifies, within the submitted sequences, mutations/SNPs that have been reported (in literature) to increase the risk for cancer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The two primary oncoproteins of high-risk HPV types are E6 and E7. The \"E\" designation indicates that these two proteins are early proteins (expressed early in the HPV life cycle). The \"L\" designation indicates that they are late proteins (late expression). The HPV genome is composed of six early (E1, E2, E4, E5, E6, and E7) open reading frames (ORF), two late (L1 and L2) ORFs, and a non-coding long control region (LCR). After the host cell is infected viral early promoter is activated. A polycistronic primary RNA containing all six early ORFs is transcribed. This polycistronic RNA then undergoes active RNA splicing to generate multiple isoforms of mRNAs. One of the spliced isoform RNAs, E6*I, serves as an E7 mRNA to translate E7 protein. However, viral early transcription subjects to viral E2 regulation and high E2 levels repress the transcription. HPV genomes integrate into the host genome by disruption of the E2 ORF, preventing E2 repression of E6 and E7. Thus, viral genome integration into the host DNA genome increases E6 and E7 expression to promote cellular proliferation and the chance of malignancy. The degree to which E6 and E7 are expressed is correlated with the type of cervical lesion that can ultimately develop.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Sometimes papillomavirus genomes are found integrated into the host genome, and this is especially noticeable with oncogenic HPVs. The E6/E7 proteins inactivate two tumor suppressor proteins, p53 (inactivated by E6) and pRb (inactivated by E7). The viral oncogenes E6 and E7 are thought to modify the cell cycle so as to retain the differentiating host keratinocyte in a state that is favourable to the amplification of viral genome replication and consequent late gene expression. E6, in association with the host E6-associated protein, which has ubiquitin ligase activity, acts to ubiquitinate p53, leading to its proteosomal degradation. E7 (in oncogenic HPVs) acts as the primary transforming protein. E7 competes for retinoblastoma protein (pRb) binding, freeing the transcription factor E2F to transactivate its targets, thus pushing the cell cycle forward. All HPV strains can induce transient proliferation, but only strains 16 and 18 can immortalize cell lines in vitro. It has also been shown that HPV 16 and 18 cannot immortalize primary rat cells alone; there needs to be activation of the ras oncogene. In the upper layers of the host epithelium, the late genes L1 and L2 are transcribed/translated and serve as structural proteins that encapsidate the amplified viral genomes. Once the genome is encapsidated, the capsid appears to undergo a redox-dependent assembly/maturation event, which is tied to a natural redox gradient that spans both suprabasal and cornified epithelial tissue layers. This assembly/maturation event stabilizes virions and increases their specific infectivity. Virions can then be sloughed off in the dead squames of the host epithelium and the viral lifecycle continues. A 2010 study has found that E6 and E7 are involved in beta-catenin nuclear accumulation and activation of Wnt signaling in HPV-induced cancers.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Once an HPV virion invades a cell, an active infection occurs, and the virus can be transmitted. Several months to years may elapse before squamous intraepithelial lesions (SIL) develop and can be clinically detected. The time from active infection to clinically detectable disease may make it difficult for epidemiologists to establish which partner was the source of infection.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Most people clear HPV infections without medical action or consequences. The table provides data for high-risk types (i.e., the types found in cancers).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Clearing an infection does not always create immunity if there is a new or continuing source of infection. Hernandez's 2005-6 study of 25 couples reports \"A number of instances indicated apparent reinfection [from partner] after viral clearance.\"",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Researchers have identified over 200 types of HPV, and classify them by numbers. They may be divided into \"low-risk\" and \"high-risk\" types. Low-risk types cause warts, and high-risk types can cause lesions or cancer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Guidelines from the American Cancer Society recommend different screening strategies for cervical cancer based on a woman's age, screening history, risk factors, and choice of tests. Because of the link between HPV and cervical cancer, the ACS currently recommends early detection of cervical cancer in average-risk asymptomatic adults primarily with cervical cytology by Pap smear, regardless of HPV vaccination status. Women aged 30\u201365 should preferably be tested every 5 years with both the HPV test and the Pap test. In other age groups, a Pap test alone can suffice unless they have been diagnosed with atypical squamous cells of undetermined significance (ASC-US). Co-testing with a Pap test and HPV test is recommended because it decreases the rate of false-negatives. According to the National Cancer Institute, \"The most common test detects DNA from several high-risk HPV types, but it cannot identify the types that are present. Another test is specific for DNA from HPV types 16 and 18, the two types that cause most HPV-associated cancers. A third test can detect DNA from several high-risk HPV types and can indicate whether HPV-16 or HPV-18 is present. A fourth test detects RNA from the most common high-risk HPV types. These tests can detect HPV infections before cell abnormalities are evident.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\"Theoretically, the HPV DNA and RNA tests could be used to identify HPV infections in cells taken from any part of the body. However, the tests are approved by the FDA for only two indications: for follow-up testing of women who seem to have abnormal Pap test results and for cervical cancer screening in combination with a Pap test among women over age 30.\"",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Guidelines for oropharyngeal cancer screening by the Preventive Services Task Force and American Dental Association in the U.S. suggest conventional visual examination. Since some parts of the oropharynx are hard to see, this cancer is often only detected in later stages.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The diagnosis of oropharyngeal cancer is made using a biopsy of exfoliated cells or tissues. The National Comprehensive Cancer Network and College of American Pathologists recommend testing for HPV in oropharyngeal cancer. The FDA in the United States does not recommend a specific type of test to detect HPV from oral tumors, even though they recommend HPV testing of people with oropharyngeal cancer. Because HPV type 16 is the most common type found in oropharyngeal cancer, p16 immunohistochemistry is one test option used to determine if HPV is present, which can help determine course of treatment since tumors that are negative for p16 have worse outcomes. Another option that has emerged as a reliable option is HPV DNA in situ hybridization (ISH), which allows for visualization of the HPV.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "There is not a wide range of tests available, even though HPV is common; most studies of HPV used tools and custom analysis not available to the general public. Clinicians often depend on the vaccine among young people and high clearance rates (see Clearance subsection in Virology) to create a low risk of disease and mortality, and treat the cancers when they appear. Others believe that reducing HPV infection in more men and women, even when it has no symptoms, is important (herd immunity) to prevent more cancers rather than just treating them. Where tests are used, negative test results show safety from transmission, and positive test results show where shielding (condoms, gloves) is needed to prevent transmission until the infection clears.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Studies have tested for and found HPV in men, including high-risk types (i.e., the types found in cancers), on fingers, mouth, saliva, anus, urethra, urine, semen, blood, scrotum, and penis.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The aforementioned Qiagen/Digene kit was successfully used off-label to test the penis, scrotum, and anus of men in long-term relationships with women who were positive for high-risk HPV. Of these men, 60% were found to carry the virus, primarily on the penis. Similar studies have been conducted on women using cytobrushes - an endocervical brush for sampling the cervix in females - and custom analysis.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In one study, researchers sampled subjects' urethra, scrotum, and penis. Samples taken from the urethra added less than 1% to the HPV rate. Studies like this led Giuliano to recommend sampling the glans, shaft, and crease between them, along with the scrotum, since sampling the urethra or anus added very little to the diagnosis. Dunne recommends the glans, shaft, their crease, and the foreskin.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In one study, the subjects were asked not to wash their genitals for 12 hours before sampling, including the urethra as well as the scrotum and the penis. Other studies are silent on washing \u2013 a particular gap in studies of the hands.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "One small study used wet cytobrushes, rather than wetting the skin. It found a higher proportion of men to be HPV-positive when the skin was rubbed with a 600-grit emery paper before being swabbed with the brush, rather than swabbed with no preparation. It's unclear whether the emery paper collected the virions or loosened them for the swab to collect.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Studies have found self-collection (with emery paper and Dacron swabs) as effective as collection done by a clinician, and sometimes more so, since patients were more willing than a clinician to scrape vigorously. Women had similar success in self-sampling using tampons, swabs, cytobrushes, and lavage.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Several studies used cytobrushes to sample fingertips and under fingernails, without wetting the area or the brush.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Other studies analyzed urine, semen, and blood and found varying amounts of HPV, but there is not a publicly available test for those yet.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Although it is possible to test for HPV DNA in other kinds of infections, there are no FDA-approved tests for general screening in the United States or tests approved by the Canadian government, since the testing is inconclusive and considered medically unnecessary.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Genital warts are the only visible sign of low-risk genital HPV and can be identified with a visual check. These visible growths, however, are the result of non-carcinogenic HPV types. Five percent acetic acid (vinegar) is used to identify both warts and squamous intraepithelial neoplasia (SIL) lesions with limited success by causing abnormal tissue to appear white, but most doctors have found this technique helpful only in moist areas, such as the female genital tract. At this time, HPV tests for males are used only in research.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Research into testing for HPV by antibody presence has been done. The approach is looking for an immune response in blood, which would contain antibodies for HPV if the patient is HPV positive. The reliability of such tests has not been proven, as there has not been a FDA approved product as of August 2018; testing by blood would be a less invasive test for screening purposes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "HPV vaccines can prevent high-risk types of infection. HPV testing can be completed to identify people who carry high-risk HPV strains, who may go on to develop cancer. Cervical cancer screening with the Papanicolaou test or looking at the cervix after using acetic acid, can detect abnormal cells that may go on to develop into cancer or early cancer. Screening has reduced both the number of cases and deaths from cervical cancer in the developed world. Warts can be removed by freezing.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "HPV vaccines protect against either two, four, or nine types of HPV. There are six prophylactic HPV vaccines licensed for use: the bivalent vaccines Cervarix, Cecolin, and Walrinvax; the quadrivalent vaccines Cervavax and Gardasil; and the nonavalent vaccine Gardasil 9. All HPV vaccines protect against HPV types 16 and 18, which cause the greatest risk of cervical cancer. The quadrivalent vaccines also protect against HPV types 6 and 11. The nonavalent vaccine Gardasil 9 protects against those four types (6, 11, 16 and 18), along with five other high-risk HPV types responsible for 20% of cervical cancers (types 31, 33, 45, 52, and 58).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The vaccines provide little benefit to women already infected with HPV types 16 and 18. For this reason, the vaccine is recommended primarily for those women not yet having been exposed to HPV during sex. The World Health Organization position paper on HPV vaccination clearly outlines appropriate, cost-effective strategies for using the HPV vaccine in public sector programs.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "To be most effective, vaccination should occur before the onset of sexual activity and is recommended between the ages of 9\u201313 years. For children between the ages of 9\u201314 years, vaccination effectiveness is reported to range between 74% and 93%, decreasing to 12% to 90% for 15\u201318\u2009year old adolescents.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "There is high-certainty evidence that HPV vaccines protect against precancerous cervical lesions in young women, particularly those vaccinated aged 15 to 26. HPV vaccines do not increase the risk of serious adverse events. Longer follow-up is needed to monitor the impact of HPV vaccines on cervical cancer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The CDC recommends the vaccines be delivered in two shots at an interval of at least 6 months for those aged 11\u201312, and three doses for those 13 and older. In most countries, they are funded only for female use. They are approved for male use in many countries and funded for teenage boys in Australia. The vaccine does not have any therapeutic effect on existing HPV infections or cervical lesions.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Following studies suggesting that the vaccine is more effective in younger girls than in older teenagers, the United Kingdom, Switzerland, Mexico, the Netherlands, and Quebec began offering the vaccine in a two-dose schedule for girls aged under 15 in 2014.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Cervical cancer screening recommendations have not changed for females who receive the HPV vaccine. It remains a recommendation that women continue cervical screening, such as Pap smear testing, even after receiving the vaccine, since it does not prevent all types of cervical cancer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Both men and women are carriers of HPV. The Gardasil vaccine also protects men against anal cancers and warts and genital warts.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The duration of both vaccines' efficacy has been observed since they were first developed, and is expected to be long-lasting.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In December 2014, the FDA approved a nine-valent Gardasil-based vaccine, Gardasil 9, to protect against infection with the four strains of HPV covered by the first generation of Gardasil as well as five other strains responsible for 20% of cervical cancers (HPV-31, HPV-33, HPV-45, HPV-52, and HPV-58).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Centers for Disease Control and Prevention says that male \"condom use may reduce the risk for genital human papillomavirus (HPV) infection\" but provides a lesser degree of protection compared with other sexual transmitted infections \"because HPV also may be transmitted by exposure to areas (e.g., infected skin or mucosal surfaces) that are not covered or protected by the condom.\"",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The virus is unusually hardy and is immune to most common disinfectants. It is the first virus ever shown to be resistant to inactivation by glutaraldehyde, which is among the most common strong disinfectants used in hospitals. Diluted sodium hypochlorite bleach is effective, but cannot be used on some types of re-usable equipment, such as ultrasound transducers. As a result of these difficulties, there is developing concern about the possibility of transmitting the virus on healthcare equipment, particularly reusable gynecological equipment that cannot be autoclaved. For such equipment, some health authorities encourage use of UV disinfection or a non-hypochlorite \"oxidizing\u2010based high\u2010level disinfectant [bleach] with label claims for non\u2010enveloped viruses\", such as a strong hydrogen peroxide solution or chlorine dioxide wipes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "There is currently no specific treatment for HPV infection. However, the viral infection is usually cleared to undetectable levels by the immune system. According to the Centers for Disease Control and Prevention, the body's immune system clears HPV naturally within two years for 90% of cases (see Clearance subsection in Virology for more detail). However, experts disagree on whether the virus is eliminated or reduced to undetectable levels, and it is difficult to know when it is contagious.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Follow-up care is usually recommended and practiced by many health clinics. Follow-up is sometimes not successful because a portion of those treated do not return to be evaluated. In addition to the normal methods of phone calls and mail, text messaging and email can improve the number of people who return for care. As of 2015 it is unclear the best method of follow up following treatment of cervical intraepithelial neoplasia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Globally, 12% of women are positive for HPV DNA, with rates varying by age and country. The highest rates of HPV are in younger women, with a rate of 24% in women under 25 years. Rates decline in older age groups in Europe and the Americas, but less so in Africa and Asia. The rates are highest in Sub-Saharan Africa (24%) and Eastern Europe (21%) and lowest in North America (5%) and Western Asia (2%).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The most common types of HPV worldwide are HPV16 (3.2%), HPV18 (1.4%), HPV52 (0.9%), HPV31 (0.8%), and HPV58 (0.7%). High-risk types of HPV are also distributed unevenly, with HPV16 having a rate of around 13% in Africa and 30% in West and Central Asia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Like many diseases, HPV disproportionately affects low-income and resource-poor countries. The higher rates of HPV in Sub-Saharan Africa, for example, may be related to high exposure to human immunodeficiency virus (HIV) in the region. Other factors that impact the global spread of the disease are sexual behavior, including age of sexual debut and number of sexual partners, and ease of access to barrier contraception, all of which vary globally.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The papilloma virus is not only widespread among women, but is also behind most cases of oropharyngeal cancer, which is the fastest growing cancer among young adults in Western countries. Moreover, as of 2025, papillomavirus is the most prevalent sexually transmitted infection in the world.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "HPV is estimated to be the most common sexually transmitted infection in the United States. Most sexually active men and women will probably acquire genital HPV infection at some point in their lives. The American Social Health Association estimates that about 75\u201380% of sexually active Americans will be infected with HPV at some point in their lifetime. By the age of 50 more than 80% of American women will have contracted at least one strain of genital HPV. It was estimated that, in the year 2000, there were approximately 6.2 million new HPV infections among Americans aged 15\u201344; of these, an estimated 74% occurred to people between ages of 15 and 24. Of the STIs studied, genital HPV was the most commonly acquired. In the United States, it is estimated that 10% of the population has an active HPV infection, 4% has an infection that has caused cytological abnormalities, and an additional 1% has an infection causing genital warts.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Estimates of HPV prevalence vary from 14% to more than 90%. One reason for the difference is that some studies report women who currently have a detectable infection, while other studies report women who have ever had a detectable infection. Another cause of discrepancy is the difference in strains that were tested for.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "One study found that, in the US, during 2003\u20132004, at any given time, 26.8% of women aged 14 to 59 were infected with at least one type of HPV. This was higher than previous estimates; 15.2% were infected with one or more of the high-risk types that can cause cancer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The prevalence of high-risk and low-risk types is roughly similar over time.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Human papillomavirus is not included among the diseases that are typically reportable to the CDC as of 2011.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On average, 538 cases of HPV-associated cancers were diagnosed per year in Ireland during the period 2010 to 2014. Cervical cancer was the most frequent HPV-associated cancer with on average 292 cases per year (74% of the female total, and 54% of the overall total of HPV-associated cancers). A study of 996 cervical cytology samples in an Irish urban female, opportunistically screened population, found an overall HPV prevalence of 19.8%, HPV 16 at 20% and HPV 18 at 12% were the commonest high-risk types detected. In Europe, types 16 and 18 are responsible for over 70% of cervical cancers. Overall rates of HPV-associated invasive cancers may be increasing. Between 1994 and 2014, there was a 2% increase in the rate of HPV-associated invasive cancers per year for both sexes in Ireland.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As HPV is known to be associated with anogenital warts, these are notifiable to the Health Protection Surveillance Centre (HPSC). Genital warts are the second most common STI in Ireland. There were 1,281 cases of anogenital warts notified in 2017, which was a decrease on the 2016 figure of 1,593. The highest age-specific rate for both male and female was in the 25\u201329 year old age range; 53% of cases were among males.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In Sri Lanka, the prevalence of HPV is 15.5% regardless of cytological abnormalities.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In the Autonomous Region of Inner Mongolia, overall HPV prevalence is 14.5% but shows substantial ethnical disparity, the prevalence in Mongolian women (14.9%) being much higher than that of Han participants (4.3%). Urbanization, the number of sex partners, and PAP history appear as risk factors for HPV infection in Han, but not in Mongolian women. The region is thus an important example that the epidemiology of HPV is more related to cultural and ethnical factors and not to geography per se.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "One of the first studies linking the risk of uterine carcinoma with the number of sexual activities was performed in 1842, in Verona. Dr. Domenico Rigoni-Stern observed that uterine cancer incidence among Catholic nuns living in convents in the countryside was lower than in women living in the city. Highest incidence was seen for prostitutes, thereby linking uterine cancer prevalence to the number of sexual partners, and suggesting that this disease might have a sexually transmissible component.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 1972, the association of the human papillomaviruses with skin cancer in epidermodysplasia verruciformis was proposed by Stefania Jab\u0142o\u0144ska in Poland. In 1976, Harald zur Hausen published the hypothesis that human papillomavirus plays an important role in the cause of cervical cancer. In 1978, Jab\u0142o\u0144ska and G\u00e9rard Orth at the Pasteur Institute discovered HPV-5 in skin cancer. In 1983 and 1984 zur Hausen and his collaborators identified HPV16 and HPV18 in cervical cancer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The HeLa cell line contains extra DNA in its genome that originated from HPV type 18.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Ludwig-McGill HPV Cohort is one of the world's largest longitudinal studies of the natural history of human papillomavirus (HPV) infection and cervical cancer risk. It was established in 1993 by Ludwig Cancer Research and McGill University in Montreal, Canada.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Nelson CW, Mirabello L (1 June 2023). \"Human papillomavirus genomics: Understanding carcinogenicity\". Tumour Virus Research. 15 200258. doi:10.1016/j.tvr.2023.200258. ISSN 2666-6790. PMC 10063409. PMID 36812987.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoppe-Seyler K, Bossler F, Braun JA, Herrmann AL, Hoppe-Seyler F (1 February 2018). \"The HPV E6/E7 Oncogenes: Key Factors for Viral Carcinogenesis and Therapeutic Targets\". Trends in Microbiology. 26 (2): 158\u2013168. doi:10.1016/j.tim.2017.07.007. ISSN 0966-842X. PMID 28823569.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "HPV Fact sheets at the Centers for Disease Control and Prevention",
+    "date": null,
+    "verdict": null
+  }
+]

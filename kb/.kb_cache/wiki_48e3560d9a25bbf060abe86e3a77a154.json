@@ -1,0 +1,698 @@
+[
+  {
+    "source": "wikipedia",
+    "text": "A lymphocyte is a type of white blood cell (leukocyte) in the immune system of most vertebrates. Lymphocytes include T cells (for cell-mediated and cytotoxic adaptive immunity), B cells (for humoral, antibody-driven adaptive immunity), and innate lymphoid cells (ILCs; \"innate T cell-like\" cells involved in mucosal immunity and homeostasis), of which natural killer cells are an important subtype (which functions in cell-mediated, cytotoxic innate immunity). They are the main type of cell found in lymph, which prompted the name \"lymphocyte\" (with cyte meaning cell). Lymphocytes make up between 18% and 42% of circulating white blood cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The three major types of lymphocyte are T cells, B cells and natural killer (NK) cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "They can also be classified as small lymphocytes and large lymphocytes based on their size and appearance.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "T cells (thymus cells) and B cells (bone marrow- or bursa-derived cells) are the major cellular components of the adaptive immune response. T cells are involved in cell-mediated immunity, whereas B cells are primarily responsible for humoral immunity (relating to antibodies). The function of T cells and B cells is to recognize specific \"non-self\" antigens, during a process known as antigen presentation. Once they have identified an invader, the cells generate specific responses that are tailored maximally to eliminate specific pathogens or pathogen-infected cells. B cells respond to pathogens by producing large quantities of antibodies which then neutralize foreign objects like bacteria and viruses. In response to pathogens some T cells, called T helper cells, produce cytokines that direct the immune response, while other T cells, called cytotoxic T cells, produce toxic granules that contain powerful enzymes which induce the death of pathogen-infected cells. Following activation, B cells and T cells leave a lasting legacy of the antigens they have encountered, in the form of memory cells. Throughout the lifetime of an animal, these memory cells will \"remember\" each specific pathogen encountered, and are able to mount a strong and rapid response if the same pathogen is detected again; this is known as acquired immunity.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "NK cells are a part of the innate immune system and play a major role in defending the host from tumors and virally infected cells. NK cells modulate the functions of other cells, including macrophages and T cells, and distinguish infected cells and tumors from normal and uninfected cells by recognizing changes of a surface molecule called major histocompatibility complex (MHC) class I. NK cells are activated in response to a family of cytokines called interferons. Activated NK cells release cytotoxic (cell-killing) granules which then destroy the altered cells. They are named \"natural killer cells\" because they do not require prior activation in order to kill cells which are missing MHC class I.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The X lymphocyte is a reported cell type expressing both a B-cell receptor and T-cell receptor and is hypothesized to be implicated in type 1 diabetes.  Its existence as a cell type has been challenged by two studies. However, the authors of original article pointed to the fact that the two studies have detected X cells by imaging microscopy and FACS as described. Additional studies are required to determine the nature and properties of X cells (also called dual expressers).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Mammalian stem cells differentiate into several kinds of blood cell within the bone marrow. This process is called haematopoiesis. All lymphocytes originate, during this process, from a common lymphoid progenitor before differentiating into their distinct lymphocyte types. The differentiation of lymphocytes follows various pathways in a hierarchical fashion as well as in a more plastic fashion. The formation of lymphocytes is known as lymphopoiesis. In mammals, B cells mature in the bone marrow, which is at the core of most bones. In birds, B cells mature in the bursa of Fabricius, a lymphoid organ where they were first discovered by Chang and Glick, (B for bursa) and not from bone marrow as commonly believed. T cells migrate to the blood stream and mature in a distinct primary organ, called the thymus. Following maturation, the lymphocytes enter the circulation and peripheral lymphoid organs (e.g. the spleen and lymph nodes) where they survey for invading pathogens and/or tumor cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The lymphocytes involved in adaptive immunity (i.e. B and T cells) differentiate further after exposure to an antigen; they form effector and memory lymphocytes. Effector lymphocytes function to eliminate the antigen, either by releasing antibodies (in the case of B cells), cytotoxic granules (cytotoxic T cells) or by signaling to other cells of the immune system (helper T cells). Memory T cells remain in the peripheral tissues and circulation for an extended time ready to respond to the same antigen upon future exposure; they live weeks to several years, which is very long compared to other leukocytes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Microscopically, in a Wright's stained peripheral blood smear, a normal lymphocyte has a large, dark-staining nucleus with little to no eosinophilic cytoplasm. In normal situations, the coarse, dense nucleus of a lymphocyte is approximately the size of a red blood cell (about 7 \u03bcm in diameter). Some lymphocytes show a clear perinuclear zone (or halo) around the nucleus or could exhibit a small clear zone to one side of the nucleus. Polyribosomes are a prominent feature in the lymphocytes and can be viewed with an electron microscope. The ribosomes are involved in protein synthesis, allowing the generation of large quantities of cytokines and immunoglobulins by these cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "It is impossible to distinguish between T cells and B cells in a peripheral blood smear. Normally, flow cytometry testing is used for specific lymphocyte population counts. This can be used to determine the percentage of lymphocytes that contain a particular combination of specific cell surface proteins, such as immunoglobulins or cluster of differentiation (CD) markers or that produce particular proteins (for example, cytokines using intracellular cytokine staining (ICCS)). In order to study the function of a lymphocyte by virtue of the proteins it generates, other scientific techniques like the ELISPOT or secretion assay techniques can be used.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In the circulatory system, they move from lymph node to lymph node. This contrasts with macrophages, which are rather stationary in the nodes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A lymphocyte count is usually part of a peripheral complete blood cell count and is expressed as the percentage of lymphocytes to the total number of white blood cells counted.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A general increase in the number of lymphocytes is known as lymphocytosis, whereas a decrease is known as lymphocytopenia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "An increase in lymphocyte concentration is usually a sign of a viral infection (in some rare cases, leukemias are found through an abnormally raised lymphocyte count in an otherwise normal person). A high lymphocyte count with a low neutrophil count might be caused by lymphoma. Pertussis toxin (PTx) of Bordetella pertussis, formerly known as lymphocytosis-promoting factor, causes a decrease in the entry of lymphocytes into lymph nodes, which can lead to a condition known as lymphocytosis, with a complete lymphocyte count of over 4000 per \u03bcl in adults or over 8000 per \u03bcl in children. This is unique in that many bacterial infections illustrate neutrophil-predominance instead.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Lymphoproliferative disorders (LPD) encompass a diverse group of diseases marked by uncontrolled lymphocyte production, leading to issues like lymphocytosis, lymphadenopathy, and bone marrow infiltration. These disorders are common in immunocompromised individuals and involve abnormal proliferation of T and B cells, often resulting in immunodeficiency and immune system dysfunction. Various gene mutations, both iatrogenic and acquired, are implicated in LPD. One subtype, X-linked LPD, is linked to mutations in the X chromosome, predisposing individuals to natural killer cell LPD and T-cell LPD. Additionally, conditions like common variable immunodeficiency (CVID), severe combined immunodeficiency (SCID), and certain viral infections elevate the risk of LPD. Treatment methods, such as immunosuppressive drugs and tissue transplantation, can also increase susceptibility. LPDs encompass a wide array of disorders involving B-cell (e.g., chronic lymphocytic leukemia) and T-cell (e.g., Sezary syndrome) abnormalities, each presenting distinct challenges in diagnosis and management.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A low normal to low absolute lymphocyte concentration is associated with increased rates of infection after surgery or trauma.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "One basis for low T cell lymphocytes occurs when the human immunodeficiency virus (HIV) infects and destroys T cells (specifically, the CD4+ subgroup of T lymphocytes, which become helper T cells). Without the key defense that these T cells provide, the body becomes susceptible to opportunistic infections that otherwise would not affect healthy people. The extent of HIV progression is typically determined by measuring the percentage of CD4+ T cells in the patient's blood \u2013 HIV ultimately progresses to acquired immune deficiency syndrome (AIDS). The effects of other viruses or lymphocyte disorders can also often be estimated by counting the numbers of lymphocytes present in the blood.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In some cancers, such as melanoma and colorectal cancer, lymphocytes can migrate into and attack the tumor. This can sometimes lead to regression of the primary tumor.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Histology image: 01701ooa \u2013 Histology Learning System at Boston University",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\"Overcoming the Rejection Factor: MUSC's First Organ Transplant\". Waring Historical Library.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hodgkin lymphoma (HL) is a cancer where multinucleated Reed\u2013Sternberg cells (RS cells) are present in the lymph nodes. As it affects a subgroup of white blood cells called lymphocytes, it is a lymphoma. The condition was named after the English physician Thomas Hodgkin, who first described it in 1832. Symptoms may include fever, night sweats, and weight loss. Often, non-painful enlarged lymph nodes occur in the neck, under the arm, or in the groin. People affected may feel tired or be itchy.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The two major types of Hodgkin lymphoma are classic Hodgkin lymphoma and nodular lymphocyte-predominant Hodgkin lymphoma. About half of cases of Hodgkin lymphoma are due to Epstein\u2013Barr virus (EBV) and these are generally the classic form. Other risk factors include a family history of the condition and having HIV/AIDS. Diagnosis is conducted by confirming the presence of cancer and identifying Reed\u2013Sternberg cells in lymph node biopsies. The virus-positive cases are classified as a form of the Epstein\u2013Barr virus-associated lymphoproliferative diseases.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hodgkin lymphoma may be treated with chemotherapy, radiation therapy, and stem-cell transplantation. The choice of treatment often depends on how advanced the cancer has become and whether or not it has favorable features. If the disease is detected early, a cure is often possible. In the United States, 88% of people diagnosed with Hodgkin lymphoma survive for five years or longer. For those under the age of 20, rates of survival are 97%. Radiation and some chemotherapy drugs, however, increase the risk of other cancers, heart disease, or lung disease over the subsequent decades.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2015, about 574,000 people globally had Hodgkin lymphoma, and 23,900 (4.2%) died. In the United States, 0.2% of people are affected at some point in their life. Most people are diagnosed with the disease between the ages of 20 and 40.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Lymphadenopathy: The most common symptom of Hodgkin lymphoma is the painless enlargement of one or more lymph nodes. The nodes may also feel rubbery and swollen when examined. The nodes of the neck, armpits and groin (cervical and supraclavicular) are most frequently involved (80\u201390% of the time, on average). The lymph nodes of the chest are often affected, and these may be noticed on a chest radiograph.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Systemic symptoms: About one-third of people with Hodgkin lymphoma may also present with systemic symptoms, including:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Unexplained weight loss of at least 10% of the person's total body mass in six months or less",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Systemic symptoms such as fever, night sweats, and weight loss are known as B symptoms; thus, presence of these indicate that the person's stage is, for example, 2B instead of 2A.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Splenomegaly: Enlargement of the spleen is often present in people with Hodgkin lymphoma. The enlargement is seldom massive, and the size of the spleen may fluctuate during the course of treatment.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hepatomegaly: Enlargement of the liver, due to liver involvement, is infrequent in people with Hodgkin lymphoma.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hepatosplenomegaly: The enlargement of both the liver and spleen can be caused by the same disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Pain following alcohol consumption: Classically, involved nodes are painful after alcohol consumption, though this phenomenon is very uncommon, occurring in only two to three percent of people with Hodgkin lymphoma, thus having a low sensitivity. On the other hand, its positive predictive value is high enough for it to be regarded as a pathognomonic sign of Hodgkin lymphoma. The pain typically has an onset within minutes after ingesting alcohol, and is usually felt as coming from the vicinity where there is an involved lymph node. The pain has been described as either sharp and stabbing or dull and aching.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Back pain: Nonspecific back pain (pain that cannot be localised or its cause determined by examination or scanning techniques) has been reported in some cases of Hodgkin lymphoma. The lower back is most often affected.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Cyclical fever: People may also present with a cyclical high-grade fever known as the Pel\u2013Ebstein fever, or more simply \"P-E fever\". However, there is debate as to whether the P-E fever truly exists.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Nephrotic syndrome can occur in individuals with Hodgkin lymphoma and is most commonly caused by minimal change disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "May present with airway obstruction, pleural/pericardial effusion, hepatocellular dysfunction, or bone-marrow infiltration.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hodgkin lymphoma must be distinguished from noncancerous causes of lymph node swelling (such as various infections) and from other types of cancer. Definitive diagnosis is by lymph node biopsy (usually excisional biopsy with microscopic examination). Blood tests are also performed to assess function of major organs and safety for chemotherapy. Positron emission tomography (PET) is used to detect small deposits that do not show on CT scanning. PET scans are also useful in functional imaging (by using a radiolabeled glucose to image tissues of high metabolism). In some cases, a gallium scan may be used instead of a PET scan.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The two main types of Hodgkin lymphoma are classic Hodgkin lymphoma and nodular lymphocyte-predominant Hodgkin lymphoma. The prevalence of classic Hodgkin lymphoma and nodular-lymphocyte Hodgkin lymphoma are about 90% and 10%, respectively. The morphology, phenotype, molecular features, and, therefore, the clinical behaviour and presentation of the two types differ.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Classic Hodgkin lymphoma (excluding nodular lymphocyte predominant Hodgkin lymphoma) can be subclassified into four pathologic subtypes based upon Reed\u2013Sternberg cell morphology and the composition of the reactive cell infiltrate seen in the lymph node biopsy specimen (the cell composition around the Reed\u2013Sternberg cell(s)). Presence of EBV in Reed-Sternberg cells is most commonly found in the subtypes lymphocyte depleted HL (>70%) and mixed cellularity HL (70%), whilst being less prevalent in lymphocyte-rich HL (40%) and relatively uncommon by comparison in nodular sclerosing HL.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "For the other forms, although the traditional B-cell markers (such as CD20) are not expressed on all cells, Reed\u2013Sternberg cells are usually of B cell origin. Although Hodgkin lymphoma is now frequently grouped with other B-cell malignancies, some T-cell markers (such as CD2 and CD4) are occasionally expressed.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hodgkin cells produce interleukin-21 (IL-21), which was once thought to be exclusive to T-cells. This feature may explain the behavior of classic Hodgkin lymphoma, including clusters of other immune cells gathered around HL cells (infiltrate) in cultures.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Nodular lymphocyte predominant Hodgkin lymphoma (NLPHL) is another subtype of Hodgkin lymphoma distinct from classic Hodgkin lymphoma and is characterized by the presence of popcorn cells which express CD20. Due to these differences, among others, NLPHL is often treated differently from classic Hodgkin lymphoma, including using rituximab in combination with AVBD chemotherapy, though individual cases vary and clinical trials are ongoing.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The staging is the same for both Hodgkin and non-Hodgkin lymphomas.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "After Hodgkin lymphoma is diagnosed, a person will be staged by undergoing a series of tests and procedures that will determine what areas of the body are affected. These procedures may include documentation of their histology, a physical examination, blood tests, chest X-ray radiographs, computed tomography (CT)/positron emission tomography (PET)/magnetic resonance imaging (MRI) scans of the chest, abdomen and pelvis, and usually a bone marrow biopsy. PET scan is now used instead of the gallium scan for staging. On the PET scan, sites involved with lymphoma light up very brightly enabling accurate and reproducible imaging. In the past, a lymphangiogram or surgical laparotomy (which involves opening the abdominal cavity and visually inspecting for tumors) were performed. Lymphangiograms or laparotomies are very rarely performed, having been supplanted by improvements in imaging with the CT scan and PET scan.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On the basis of this staging, the person will be classified according to a staging classification (the Ann Arbor staging classification scheme is a common one):",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Stage I is involvement of a single lymph node region (I) (mostly the cervical region) or single extralymphatic site (Ie);",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Stage II is involvement of two or more lymph node regions on the same side of the diaphragm (II) or of one lymph node region and a contiguous extralymphatic site (IIe);",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Stage III is involvement of lymph node regions on both sides of the diaphragm, which may include the spleen (IIIs) or limited contiguous extralymphatic organ or site (IIIe, IIIes);",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Stage IV is disseminated involvement of one or more extralymphatic organs.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The absence of systemic symptoms is signified by adding \"A\" to the stage; the presence of systemic symptoms is signified by adding \"B\" to the stage. For localized extranodal extension from mass of nodes that does not advance the stage, subscript \"E\" is added. Splenic involvement is signified by adding \"S\" to the stage. The inclusion of \"bulky disease\" is signified by \"X\".",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Affected lymph nodes (most often, laterocervical lymph nodes) are enlarged, but their shape is preserved because the capsule is not invaded. Usually, the cut surface is white-grey and uniform; in some histological subtypes (e.g. nodular sclerosis) a nodular aspect may appear.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Microscopic examination of the lymph node biopsy reveals complete or partial effacement of the lymph node architecture by scattered large malignant cells known as Reed-Sternberg cells (RSC) (typical and variants) admixed within a reactive cell infiltrate composed of variable proportions of lymphocytes, histiocytes, eosinophils, and plasma cells. The Reed\u2013Sternberg cells are identified as large often bi-nucleated cells with prominent nucleoli and an unusual CD45\u2212, CD30+, CD15+/\u2212 immunophenotype. In approximately 50% of cases, the Reed\u2013Sternberg cells are infected by the Epstein\u2013Barr virus.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Characteristics of classic Reed\u2013Sternberg cells include large size (20\u201350 micrometres), abundant, amphophilic, finely granular/homogeneous cytoplasm; two mirror-image nuclei (owl eyes) each with an eosinophilic nucleolus and a thick nuclear membrane (chromatin is distributed close to the nuclear membrane). Almost all of these cells have an increased copy number of chromosome 9p/9p24.1.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hodgkin cell (atypical mononuclear RSC) is a variant of RS cell, which has the same characteristics but is mononucleated.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Lacunar RSC is large, with a single hyperlobulated nucleus, multiple, small nucleoli and eosinophilic cytoplasm which is retracted around the nucleus, creating an empty space (\"lacunae\").",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\"Popcorn\" RSC (lympho-histiocytic variant) is a small cell, with a very lobulated nucleus, small nucleoli.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\"Mummy\" RSC has a compact nucleus with no nucleolus and basophilic cytoplasm.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hodgkin lymphoma can be sub-classified by histological type. The cell histology in Hodgkin lymphoma is not as important as it is in non-Hodgkin lymphoma: the treatment and prognosis in classic Hodgkin lymphoma usually depends on the stage of disease rather than the histotype.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The approach for treatment aims to reduce the acute and long-term toxicities associated with Hodgkin lymphoma (e.g. cardiac damage and secondary cancers) and increase overall survival.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "People with early stage disease (IA or IIA) can be treated effectively with radiation therapy or chemotherapy. The choice of treatment depends on the age, sex, bulk and the histological subtype of the disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Adding localised radiation therapy after the chemotherapy regimen may provide a longer progression-free survival compared with chemotherapy treatment alone. People with later disease (III, IVA, or IVB) are treated with combination chemotherapy alone. People of any stage with a large mass in the chest are usually treated with combined chemotherapy and radiation therapy.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The common non-Hodgkin treatment, rituximab (which is a monoclonal antibody against CD20) is not routinely used to treat Hodgkin lymphoma due to the lack of CD20 surface antigens in most cases. The use of rituximab in Hodgkin lymphoma, including the lymphocyte predominant subtype has been reviewed. The evidence is uncertain about the effect of nivolumab for people with a Hodgkin lymphoma e.g. on the overall survival.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Increased age is an adverse risk factor for Hodgkin lymphoma, but in general elderly people (\u2265 60 years of age) without major comorbidities are sufficiently fit to tolerate therapy with curative intent. Despite this, treatment outcome in the elderly patient is not comparable to that of younger people and the disease is a different entity in older people where different considerations enter into treatment decisions.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Two novel targeted drugs have been developed for relapsing and refractory HL patients; brentuximab vedotin, a CD30 antibody conjugated with a cytotoxic component MMAE, and the checkpoint inhibitors, nivolumab and pembrolizumab. This has been an important step in the treatment for the few, but still existing refractory patients.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "For Hodgkin lymphomas, radiation oncologists typically use external beam radiation therapy (sometimes shortened to EBRT or XRT). Radiation oncologists deliver external beam radiation therapy to the lymphoma from a machine called a linear accelerator which produces high energy X-rays and electrons. People usually describe treatments as painless and similar to getting an X-ray. Treatments last less than 30 minutes each.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "For lymphomas, there are a few different ways radiation oncologists target the cancer cells. Involved site radiation is when the radiation oncologists give radiation only to those parts of the person's body known to have the cancer. Very often, this is combined with chemotherapy. Radiation therapy directed above the diaphragm to the neck, chest or underarms is called mantle field radiation. Radiation to below the diaphragm to the abdomen, spleen or pelvis is called inverted-Y field radiation. Total nodal irradiation is when the therapist gives radiation to all the lymph nodes in the body to destroy cells that may have spread.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The high cure rates and long survival of many people with Hodgkin lymphoma has led to a high concern with late adverse effects of treatment, including cardiovascular disease and second malignancies such as acute leukemias, lymphomas, and solid tumors within the radiation therapy field. Most people with early-stage disease are now treated with abbreviated chemotherapy and involved site radiation therapy rather than with radiation therapy alone. Clinical research strategies are exploring reduction of the duration of chemotherapy and dose and volume of radiation therapy in an attempt to reduce late morbidity and mortality of treatment while maintaining high cure rates. Hospitals are also treating those who respond quickly to chemotherapy with no radiation.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In childhood cases of Hodgkin lymphoma, long-term endocrine adverse effects are a major concern, mainly gonadal dysfunction and growth retardation. Gonadal dysfunction seems to be the most severe endocrine long-term effect, especially after treatment with alkylating agents or pelvic radiotherapy.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "It is possible that patients undergoing a chemotherapy need a platelet transfusion. If a stem cell transplantation is necessary for the treatment of a relapse, graft-versus-host diseases might occur.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Adding physical exercises to the standard treatment for adult patients with haematological malignancies like Hodgkin lymphoma may result in little to no difference in the mortality, the quality of life and the physical functioning. These exercises may result in a slight reduction in depression. Furthermore, aerobic physical exercises probably reduce fatigue. The evidence is very uncertain about the effect on anxiety and serious adverse events.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Treatment of Hodgkin lymphoma has been improving. Types of chemotherapy have resulted in higher survival rates than have previously been seen. In a 2007 European trial, among early-stage patients the five-year survival rate for those people with a favorable prognosis (FFP) was 98%, while that for people with worse outlooks was at least 85%.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 1998, an international effort identified seven prognostic factors that accurately predict the success rate of conventional treatment in people with locally extensive or advanced-stage Hodgkin lymphoma. Freedom from progression (FFP) at five years was directly related to the number of factors present in a person. The five-year FFP for people with zero factors is 84%. Each additional factor lowers the five-year FFP rate by 7%, such that the five-year FFP for a person with five or more factors is 42%.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The adverse prognostic factors identified in the international study are:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Other studies have reported the following to be the most important adverse prognostic factors: mixed-cellularity or lymphocyte-depleted histologies, male sex, large number of involved nodal sites, advanced stage, age of 40 years or more, the presence of B symptoms, high erythrocyte sedimentation rate, and bulky disease (widening of the mediastinum by more than one third, or the presence of a nodal mass measuring more than 10 cm in any dimension.)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The use of positron emission tomography (PET) early after commencing chemotherapy has demonstrated to have powerful prognostic ability. This enables assessment of an individual's response to chemotherapy as the PET activity switches off rapidly in people who are responding. In this study, after two cycles of ABVD chemotherapy, 83% of people were free of disease at 3 years if they had a negative PET versus only 28% in those with positive PET scans. This prognostic method improves on FFP estimates based on the seven conventional factors. Several trials are underway to see if PET-based risk adapted response can be used to improve a person's outcomes by changing chemotherapy early in people who are not responding.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The evidence is uncertain about the effect of negative (= good prognosis) or positive (= bad prognosis) interim PET scan results for people with a Hodgkin lymphoma on the progression-free survival. Negative interim PET scan results may result in an increase in progression-free survival compared if the adjusted result was measured. Negative interim PET scan results probably result in a large increase in the overall survival compared to those with a positive interim PET scan result,",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Unlike some other lymphomas, whose number of new cases per year increases with age, Hodgkin lymphoma has a bimodal distribution curve for the number of cases; that is, it occurs most frequently in two separate age groups, the first being young adulthood (age 15\u201335) and the second being in those over 55 years of age although these peaks may vary slightly with nationality. Overall, it is more common in males, except for the nodular sclerosis variant, which is slightly more common in females. The annual number of cases of Hodgkin lymphoma is 2.7 per 100,000 per persons per year, and the disease accounts for slightly less than 1% of all cancers worldwide.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2010, globally it resulted in about 18,000 deaths down from 19,000 in 1990. In 2012, there were an estimated 65,950 cases and 25,469 deaths from Hodgkin lymphoma worldwide, with 28,852 and 37,098 cases occurring in developed and developing countries, respectively. However, the age-standardized rates were higher in developed regions, with the greatest rates in the Americas (1.5 per 100,000), East Mediterranean Region (1.5 per 100,000), and Europe (2.0 per 100,000). The East Mediterranean Region also has the highest age-standardized mortality rate of 1.0 per 100,000, which is mainly attributed to lifestyle and environmental risk factors associated with transitional economies such as smoking, obesity, physical inactivity, and reproductive behaviors, as well as availability of diagnostic practices and awareness of the disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The number of cases of Hodgkin lymphoma is increased in people with infected with HIV.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hodgkin lymphoma accounts for less than 1% of all cancer cases and deaths in the United Kingdom. Around 1,800 people were diagnosed with the disease in 2011, and around 330 people died in 2012.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2016, there were 8,389 new cases and 1,000 mortalities attributed to Hodgkin lymphoma, a decrease from the 8,625 new cases and 1,120 mortalities in 2015. As of January 2016, the five-year limited duration prevalence of Hodgkin lymphoma was 37,513 representing 0.71% of all diagnosed cancers in the United States.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hodgkin lymphoma was first described in an 1832 report by Thomas Hodgkin, although Hodgkin noted that perhaps an earlier reference to the condition was provided by Marcello Malpighi in 1666. While occupied as museum curator at Guy's Hospital, London, Hodgkin studied seven people with painless lymph node enlargement. Of the seven cases, two were under the care of Richard Bright, one was of Thomas Addison, and one was of Robert Carswell. Carswell's report of the seventh case was accompanied by numerous illustrations that aided early descriptions of the disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hodgkin's report on the seven cases, entitled \"On some morbid appearances of the absorbent glands and spleen\", was presented to the Medical and Chirurgical Society of London in January 1832 and was subsequently published in the society's journal, Medical-Chirurgical Society Transactions. Hodgkin's paper went largely unnoticed, however, even though Bright highlighted it in an 1838 publication. Indeed, Hodgkin himself did not view his contribution as particularly significant.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 1856, Samuel Wilks independently reported on a series of patients with the same disease that Hodgkin had previously described. Wilks, a successor to Hodgkin at Guy's Hospital, was unaware of Hodgkin's prior work on the subject. Bright informed Wilks of Hodgkin's contribution and in 1865, Wilks published a second paper, entitled \"Cases of enlargement of the lymphatic glands and spleen\", in which he named the illness \"Hodgkin's disease\" in honor of his predecessor.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Theodor Langhans and WS Greenfield first described the microscopic characteristics of Hodgkin lymphoma in 1872 and 1878, respectively. In 1898 and 1902, respectively, Carl Sternberg and Dorothy Reed independently described the cytogenetic features of the malignant cells of Hodgkin lymphoma, now called Reed\u2013Sternberg cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Tissue specimens from Hodgkin's seven cases were preserved at Guy's Hospital. Nearly 100 years after Hodgkin's initial publication, histopathologic reexamination confirmed Hodgkin lymphoma in only three of seven of these people. The remaining cases included non-Hodgkin lymphoma, tuberculosis, and syphilis.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Paul Allen, co-founder of Microsoft was diagnosed with Hodgkin lymphoma in 1982. He later died from non-Hodgkin lymphoma, in October 2018.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Eric Berry, All-Pro strong safety for the Kansas City Chiefs of the National Football League, diagnosed in 2014.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "David Brooks, Welsh professional footballer, diagnosed in 2021, while playing for AFC Bournemouth.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Dale Carnegie, public speaker and author of How to Win Friends and Influence People.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Howard Carter, Egyptologist and discoverer of the Tomb of Tutankhamun, died in 1939 from Hodgkin's disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Starchild Abraham Cherrix, a teenager whose refusal to undergo further conventional treatment after relapsing in 2006 resulted in a court battle and a change to Virginia laws about medical neglect.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "James Conner, running back and 2014 ACC Player of the Year for the Arizona Cardinals.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Michael Cuccione, Canadian child actor, was diagnosed in 1994 at age 9. Treatments that rendered him cancer-free, including chemotherapy, a bone marrow transplant, and radiation, left him with permanent lung and respiratory problems and he died in 2001 just after turning 16.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Gerald Finzi, British composer, was diagnosed in 1951 and died in 1956.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Mist Edvardsd\u00f3ttir, Icelandic football player and member of the Icelandic women's national team. Diagnosed in June 2014 at the age of 23. Continued to play until becoming too ill due to chemotherapy. Made recovery in early 2015.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Delta Goodrem, Australian singer, songwriter, and actress. She was diagnosed in July 2003 at the age of 18.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hank Green, one of the cofounders of the Vlogbrothers, VidCon and production company Complexly, announced that he was diagnosed with Hodgkin lymphoma in a video he released on 19 May 2023. Green would announce his entrance into remission on 25 August 2023.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Michael C. Hall (born 1 February 1971), American actor, best known for his lead role as Dexter Morgan, in Showtime's crime series Dexter. In 2010, aged 38, Hall announced he was undergoing treatment for Hodgkin lymphoma; within two years, the disease was in full remission.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Richard Harris, Irish actor who portrayed Albus Dumbledore in the first two Harry Potter movies, died on 25 October 2002, after being diagnosed earlier that year.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Daniel Hauser, whose mother fled with him in 2009 in order to prevent him from undergoing chemotherapy.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Sean Kent, American stand up comedian and actor. Was diagnosed in 2002 while writing on The Best Damn Sports Show Period. After three months of chemotherapy and one month of radiation, the cancer went into remission.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Mario Lemieux, Hall of Fame NHL player, co-owner of the Pittsburgh Penguins and founder of the Mario Lemieux Foundation, diagnosed in 1993.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Dinu Lipatti (1917\u20131950), Romanian classical pianist and composer. Diagnosed in 1947, received cortisone treatment in 1949; died from a burst abscess on his one lung.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Jack Lisowski, English snooker player, diagnosed in 2008 at the age of 16.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Mamta Mohandas, Indian film actress and producer, diagnosed in 2010.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Laura Packard, health care activist diagnosed in 2017, spoke at the 2020 Democratic National Convention.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Anthony Rizzo, MLB All-Star first baseman for the New York Yankees, diagnosed in May 2008 while signed as a minor league player for the Boston Red Sox.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Dave Roberts, MLB outfielder and manager of the Los Angeles Dodgers. Diagnosed in March 2010 while he was a coach for the San Diego Padres.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Flip Saunders, head coach of the NBA team Minnesota Timberwolves, announced in August 2015 that he was diagnosed with Hodgkin's disease. He died of the disease in October 2015.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Arlen Specter, United States Senator from Pennsylvania (1981\u20132011), diagnosed in 2005. He later died from non-Hodgkin lymphoma in 2012.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Brandon Tartikoff, American television executive, diagnosed around 1974, died in 1997.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Bernardo Tengarrinha, Portuguese professional footballer, diagnosed in 2017 Tengarrinha died on 30 October 2021, at the age of 32. Hours later, his former teams FC Porto and Boavista FC paid tribute to him before the local derby. playing for FC Porto.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Ethan Zohn, American professional soccer player and a winner of the Survivor reality television series. Zohn was diagnosed twice (in 2009 and 2011).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Richard Holliday, American professional wrestler, reported to be ill with diagnosis from June 2022, completed treatment 17 February 2023",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Jacobs CD (2010). Henry Kaplan and the Story of Hodgkin's Disease. Stanford University Press. ISBN 978-0-8047-7448-2. OCLC 648759629; combines a biography of the American radiation oncologist (1918\u201384) with a history of the lymphatic cancer whose treatment he helped to transform.",
+    "date": null,
+    "verdict": null
+  }
+]

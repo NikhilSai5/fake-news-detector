@@ -1,0 +1,530 @@
+[
+  {
+    "source": "wikipedia",
+    "text": "The 9K38 Igla (Russian: \u0418\u0433\u043b\u0430\u0301, \"needle\", NATO reporting name SA-18 Grouse) is a Soviet/Russian man-portable infrared homing surface-to-air missile (SAM) system. A simplified, earlier version is known as the 9K310 Igla-1 (NATO: SA-16 Gimlet), and the latest variant is the 9K338 Igla-S (SA-24 Grinch).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Igla-1 entered service in 1981, the Igla in 1983, and the Igla-S in 2004. The Igla has been supplemented by the 9K333 Verba since 2014.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The development of the Igla short-range man-portable air defense system (MANPADS) began in the Kolomna OKB in 1972. Contrary to what is commonly reported, the Igla is not an improved version of the earlier Strela family (Strela-2 and Strela-3), but an all-new project. The main goals were to create a missile with better resistance to countermeasures and wider engagement envelope than the earlier Strela series MANPADS systems.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Technical difficulties in the development quickly made it obvious that the development would take far longer than anticipated, however, and in 1978 the program split in two: while the development of the full-capability Igla would continue, a simplified version (Igla-1) with a simpler IR seeker based on that of the earlier Strela-3 would be developed to enter service earlier than the full-capability version could be finished.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The 9K310 Igla-1 system and its 9M313 missile were accepted into service in the Soviet Army on 11 March 1981. The main differences from the Strela-3 included an optional Identification Friend or Foe system to prevent firing on friendly aircraft, an automatic lead and super elevation to simplify shooting and reduce minimum firing range, a slightly larger rocket, reduced drag and better guidance system extend maximum range and improve performance against fast and maneuverable targets, an improved lethality on target achieved by a combination of delayed impact fuzing, terminal maneuver to hit the fuselage rather than jet nozzle, an additional charge to set off the remaining rocket fuel (if any) on impact, an improved resistance to infrared countermeasures (both decoy flares and ALQ-144 series jamming emitters), and slightly improved seeker sensitivity.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The seeker has two detectors \u2013 a cooled MWIR InSb detector for detection of the target and uncooled PbS SWIR detector for detection of IR decoys (flares). The built-in logic determines whether the detected object is a target or a decoy. The latest version (Igla-S) is reported to have additional detectors around the main seeker to provide further resistance against pulsed IRCM devices commonly used on helicopters.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The 9M313 missile features a drag-reducing aerospike mounted on a tripod (Igla's 9M39 missile has an aerospike attached directly to the seeker dome, resembling a needle, which is perhaps not coincidentally the translation of its codename, Russian: \u0438\u0433\u043b\u0430), which reduces a shock wave, thus providing less dome heating and greater range. The name Igla is derived from these devices.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Like many other MANPADS, Igla-1 and Igla feature so-called rolling airframe missiles. These missiles roll in flight (900\u20131,200 rpm) so steering the missile requires just a single pair of control surfaces, unlike roll-stabilized missiles, which require separate control surfaces for pitch and yaw. Both 9M313 and 9M39 missiles contain a gas generator, which drives a small gas turbine to provide electrical power, and the pistons, which move the canards used to steer the missile in a bang-bang mode. In addition to that, two exhaust tubes of the gas generator are placed perpendicular to the steering canards to provide maneuverability immediately after launch when the missile airspeed is too low for canards to be effective. Later versions of Igla are reported to use proportional control to drive the canards, which enables greater precision and less oscillation of the flight path.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "According to the manufacturer, South African tests have shown the Igla's superiority over the contemporary (1982 service entry) but smaller and lighter American FIM-92A Stinger missile. According to Kolomna OKB, the Igla-1 has a Pk (probability of kill) of 0.30 to 0.48 against unprotected targets which is reduced to 0.24 in the presence of decoy flares and jamming. In another report, the manufacturer claimed a Pk of 0.59 against an approaching and 0.44 against receding F-4 Phantom II fighter not employing infrared countermeasures or evasive maneuvers.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The full-capability 9K38 Igla with its 9M39 missile was finally accepted into service in the Soviet Army in 1983. The main improvements over the Igla-1 included much improved resistance against flares and jamming, a more sensitive seeker, expanding forward-hemisphere engagement, capability to include a tandem charge against armored targets, capability to engage straight-approaching fighters (all-aspect capability) under favourable circumstances, a slightly longer range, a higher-impulse, shorter-burning rocket with higher peak velocity (but approximately same time of flight to maximum range). The new 9E410 seeker operated in both IR and UV wavelengths, which decreased its susceptibility to flares, and was effective in countering lamp-style IR jammers (but not shutter-types). The Finnish Defense Forces--which operated the Igla in the army and the French Mistral in the navy--felt that the Igla's seeker was superior over the Mistral's.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The naval variant of 9K38 Igla has the NATO reporting name SA-N-10 Grouse.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Igla\u20131M missile consists of a Ground Power Supply Source (GPSS), Launching Tube, Launching Mechanism & Missile (9M313\u20131).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "There is also a two-barrel 9K38 missile launcher called Dzhigit.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The newest variant, which is a substantially improved variant with longer range, more sensitive seeker, improved resistance to latest countermeasures, and a heavier warhead. Manufacturer reports hit probability of 0.8\u20130.9. State tests were completed in December 2001 and the system entered service in 2002. Series produced by the Degtyarev plant since 1 December 2004.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Since 2014 the Igla is being replaced in Russian service by the new 9K333 Verba (Willow) MANPADS. The Verba's primary feature is its multispectral optical seeker, using three sensors as opposed to the Igla-S' two. Cross-checking sensors against one another better discriminates between relevant targets and decoys, and decreases the chance of disruption from countermeasures, including lasers that attempt to blind missiles.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "From 28 July 1992 to 2 August 1992 the Indian Army mounted Operation Trishul Shakti to protect the Bahadur post in Chulung when it was attacked by a large Pakistani assault team. On 1 August 1992, Pakistani helicopters were attacked by an Indian Igla missile and Brig. Masood Navid Anwari (PA 10117) then Force Commander Northern Areas and other accompanying troops were killed. This led to a loss of momentum on the Pakistani side and the assault stalled.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The first combat use of the Igla-1E was during the Gulf War Operation GRANBY. On 17 January 1991, a Panavia Tornado bomber of the Royal Air Force was shot down by an Iraqi MANPADS that may have been an Igla-1E (or Strela-3) after an unsuccessful bombing mission.  The crew, Flt Lts J G Peters and A J Nichol, were both captured and held as prisoners of war (POWs) until the cessation of hostilities.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In addition, an Igla-1E shot down an American F-16 on 27 February 1991. The pilot was captured.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "It is uncertain if an AC-130H lost was hit by a 'Strela' missile or a more recent Igla since Iraq had SA-7, SA-14 and SA-16 missiles at the time, according to the SIPRI database.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Among the Coalition force losses to MANPADS during the Iraq War some were reported as losses to Igla-1E (SA-16) missiles.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Igla-1E missiles were used in the 1994 shoot down of a Rwandan government flight, killing the presidents of Rwanda and Burundi and sparking the Rwandan genocide.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "During the Cenepa War between Ecuador and Peru, both the Ecuadorian Army and the Peruvian Army (which had 90 functioning firing units) utilized Igla-1E missiles against aircraft and helicopters.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A Peruvian Air Force Mi-25 attack helicopter was shot down on 7 February 1995 around Base del Sur, killing the three crewmen, while an Ecuadorian Air Force A-37 Dragonfly was hit but managed to land on 11 February. Hits on additional Ecuadorian aircraft were claimed but could not be confirmed.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 16 April 1994 during the Siege of Gora\u017ede, while attempting to bomb a Serbian tank an RAF Sea Harrier was shot down by an Igla fired by the Army of Republika Srpska. The pilot ejected and was rescued by the Army of the Republic of Bosnia and Herzegovina.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "During Operation Deliberate Force, on 30 August 1995; a French Mirage 2000D was shot down over Pale by an Igla fired by air defence units of the Army of Republika Srpska. The pilots, Lt. Jose-Manuel Souvignet (pilot) and Capt. Frederic Chiffot (back-seater), were captured and freed in December 1995.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "During Operation Allied Force, two A-10 Thunderbolt II aircraft were hit by Igla-1E missiles. On 2 May 1999, one A-10 was hit over Kosovo and was forced to make an emergency landing at Skopje Airport in north Macedonia due to damage. The following day, an A-10 was hit beneath the cockpit, however serious damage was avoided due to the warhead failing to detonate.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The 2002 Khankala Mi-26 crash occurred on 19 August 2002 when a team of Chechen separatists brought down a Russian Mil Mi-26 helicopter in a minefield with an Igla; this resulted in the death of 127 Russian soldiers in the greatest loss of life in the history of helicopter aviation. It was also the most deadly aviation disaster ever suffered by the Russian armed forces.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 26 January 2014, the militant group Ansar Bait al-Maqdis shot down an Egyptian Mi-17 over the northern Sinai peninsula using a suspected Igla-1E or Igla. How the group came to obtain the weapon is currently unknown.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "During the 2011 military intervention in Libya, Libyan loyalist forces engaged coalition aircraft with a certain number of Igla-S. Three Igla-S were fired against British Apache attack helicopters of the 656 Squadron Army Air Corps operating from the amphibious assault ship HMS Ocean. According to the squadron commander at the time, they were all dodged by insistent use of decoy flares by the gunships who in exchange successfully engaged the shooters.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 23 March 2015, a Libya Dawn-operated MiG-23UB was shot down with an Igla-S (reportedly a truck-mounted Strelets variant) while bombing Al Watiya airbase (near Zintan), controlled by forces from the internationally recognized House of Representatives. Both pilots were killed.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 12 August 2003, as a result of a sting operation arranged as a result of cooperation between the American, British and Russian intelligence agencies, Hemant Lakhani, a British national, was intercepted attempting to bring what he had thought was an older-generation Igla into the United States. He is said to have intended the missile to be used in an attack on Air Force One, the American presidential plane, or on a commercial US airliner, and is understood to have planned to buy 50 more of these weapons.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "After the FSB detected the dealer in Russia, he was approached by US undercover agents posing as terrorists wanting to shoot down a commercial plane. He was then provided with an inert Igla by undercover Russian agents, and arrested in Newark, New Jersey, when making the delivery to the undercover US agent. An Indian citizen residing in Malaysia, Moinuddeen Ahmed Hameed and an American Yehuda Abraham who allegedly provided money to buy the missile were also arrested. Yehuda Abraham is president and CEO of Ambuy Gem Corp. Lakhani was convicted by jury in April 2005, and was sentenced to 47 years in prison.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Video has surfaced showing rebels using an Igla-1E on a Syrian government helicopter. Such weapons were believed to have been looted from a Syrian army base in Aleppo in February 2013. In 2014, a member of the rebel group Harakat Hazm was filmed aiming an Igla-1E into the air on the same day that the group was filmed operating BGM-71 TOW missiles. Whether these weapons were raided from regime stockpiles or supplied via overseas is unknown. However, Russia reportly denied Syrian demand for Iglas in 2005 and 2007, fearing these weapons to be used by Hezbollah.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 14 June 2014, Russian separatist forces near Luhansk International Airport in Eastern Ukraine shot down an IL-76 of the Ukrainian Airforce probably using an Igla MANPADS, killing all 49 Ukrainian service personnel on board.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Igla saw extensive use by Ukrainian forces during the early stages of the Russian invasion of Ukraine.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On March 22, 2022, the Ukrainian 80th Air Assault Brigade claimed to have shot down a Russian cruise missile over the Mykolaiv Oblast with an Igla system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On April 17, 2022, Ukrainian forces reported shooting down a Ka-52 attack helicopter with an Igla MANPADS.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On April 21, 2022, Ukrainian forces located in the Kharkiv Oblast reportedly shot down a Russian Su-34 aircraft with an Igla system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On May 22, 2022, Ukrainian paratroopers from Lviv downed a Russian Su-25 attack aircraft with an Igla system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On June 18, 2022, Ukraine's 72nd Separate Mechanized Brigade downed a Russian Sukhoi Su-25 attack aircraft with an Igla system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On October 10, 2022, Ukrainian soldiers claimed to have shot down a Russian",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On June 28, 2024, the National Guard of Ukraine claimed to have shot down a Russian Su-25 fighter jet over Donetsk Oblast using an Igla missile.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On February 8, 2025, the Ukrainian Defense Ministry announced the destruction of a Su-25 near Toretsk in Donetsk Oblast, probably with an Igla MANPADS.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 12 November 2014, Azerbaijani forces shot down an Armenian Army Mi-24 of a formation of two which were flying near the Azerbaijani border. All three on board died when the helicopter was hit by an Igla-S MANPADS fired by Azerbaijani soldiers while flying at low altitude, and crashed.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "During the 2020 conflict, reports suggest that Armenian air defence units used Igla-S and Igla-E1 to shootdown a multitude of Azerbaijani aircraft, including several Bayraktar TB2 unmanned combat aerial vehicle (UCAV).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 13 May 2016, PKK militants shot down a Turkish Army Bell AH-1W SuperCobra attack helicopter using 9K38 Igla (SA-18 Grouse) version of this missile system. The missile severed the tail section from the rest of the helicopter, causing it to fragment in midair and crash, killing the two pilots on board. The Turkish government first claimed that it fell due to technical failure before it became clear that it was shot down. The PKK later released video footage of the rocket being fired and striking the helicopter.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Igla-1 is a simplified early production version. It is known in the West as SA-16 Gimlet. It had a maximum range of 5000 m and could reach targets at a maximum altitude of 2500 m.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Igla-1E is an export version. It has been exported to a number of countries.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Igla (SA-18 Grouse) is a standard production version. It was adopted in 1983. Currently it is in service with more than 30 countries, including Russia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Igla-D, version developed specially for the Soviet airborne troops. Its launch tube can be disassembled and carried in two separate sections in order to reduce dimensions.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Igla-M is a naval version for the naval boats. Its Western designation is SA-N-10 Grouse.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Igla-N is a version with much larger and more powerful warhead.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Igla-S, sometimes referred as Igla-Super. It is an improved variant in the Igla, which entered service with Russian Army in 2004. It is known in the West as SA-24 Grinch.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Igla and Igla-1 SAMs have been exported from the former Soviet Union to over 30 countries, including Angola, Bosnia and Herzegovina, Botswana, Brazil, Bulgaria,peshmarga, Croatia, Cuba, East Germany, Egypt, Hamas, Ecuador, Eritrea, Finland, Hungary, India, Iran, Iraq, Malaysia, Mexico, Morocco, North Korea, North Macedonia, Peru, Poland, Serbia, Singapore, Slovakia, Slovenia, South Korea, Sri Lanka, Thailand, Turkey, Ukraine, United Arab Emirates, Vietnam and Zimbabwe. Several guerrilla and terrorist organizations are also known to have Iglas. Alleged Operatives of the Liberation Tigers of Tamil Eelam a terrorist organization fighting for a homeland for Tamils in the island of Sri Lanka were arrested in August 2006 by undercover agents of the FBI posing as arms dealers, while trying to purchase the Igla. In 2003 the unit cost was approximately US$60,000\u201380,000.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Large numbers have been sold to the government of Venezuela, raising United States concerns that they may end up in the hands of Colombian guerrillas. Photo evidence of the truck mounted twin version in service with the Libyan Army emerged in March 2011. 482 Igla-S missiles were imported from Russia in 2004. Some were unaccounted at the end of the civil war and they could have ended up in Iranian inventory. Israeli officials say Igla-S systems were looted from Libyan warehouses in 2011 and transported by Iranians through Sudan and turned over to militants in Gaza and Lebanon.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "East Germany: Received around 1988\u20131989, passed on to successor states.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hungary Last units fired during an exercise in 2011, phased out without successor.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Poland: It was planned to implement the production of the 9K310 Igla-1E at the Mesko plant. Due to the political changes and the lack of transfer of some documentation by the Soviet side, it was decided to develop its own systems of a portable anti-aircraft missile launcher called Grom and later Piorun.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Turkey: Bought 40 launchers for evaluation by ASELSAN SAM launch system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "First order (2021): Order for 24 missile launchers and 216 missiles placed in 2021 under Emergency Procurement. All delivered in April 2023.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Second order (2023): Another contract for 120 launchers and 400 missiles placed in November 2023. From second batch onwards, the system is to be assembled in India by Adani Defence Systems And Technologies Limited (ADSTL) after ToT from Rosoboronexport.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "First batch of 24 launchers and 100 missiles delivered in April 2024.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Russia: Used by ground units, marine units, and airborne units.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Syrian rebels: Photo evidence of SA-24 MANPADS (man-portable) in the possession of Syrian rebels was first reported on 13 November 2012. \"As far as I know, this is the first SA-24 MANPADS ever photographed outside of state control\", said one expert.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Venezuela More than 5,000 missiles reportedly as of October 2025.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Vietnam: locally assembled and confirmed to be localized (named as Project KC-I), a model designated as TL-01 is suspected to be an indigenous derivative of the Igla-S.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Argentina: Russia offered the Igla-S to the Argentine Military as part of a bigger deal to modernize Argentina Air Defence.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Finland: Newer models were offered to the Finnish Army to replace older models in service, but American FIM-92 Stinger was selected instead.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The GLL-8 (Gll-VK) Igla is a recent Russian scramjet project conducted by TsIAM.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "International Institute for Strategic Studies (February 2021). The Military Balance 2021. Vol. 121. Routledge. ISBN 9781032012278.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Gibka 3M-47 naval turret mount, air defense missile system on armyrecognition.com",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "SA-18 Igla 9K38 man-portable air defence missile system on armyrecognition.com",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The below is a list of current infantry equipment of the Indian Army and its future equipment procurements.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The major ongoing weapons programmes of the Indian Army are as follows:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Ballistic helmet - The MoD in 2019 has approved procurement of 1,70,000 ballistic helmets.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Bullet-resistant vest - The MoD in 2018 ordered approximately 186,138 bulletproof vests on 9 April 2018. These will be manufactured in India by SMPP Pvt Ltd. This is in addition to the 50,000 vests ordered in 2016 under emergency procurement.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Carbine - On 23 September 2022, the Ministry of Defence (MoD) issued the Request for Information (RFI) for the procuring 5.56\u00d745mm NATO-compatible Close Quarter Battle (CQB) Carbines for the Indian Army and the Indian Navy. On 29 November 2022, the MoD released Request for Proposal for the procurement following the Acceptance of Necessity (AoN) from the Defence Acquisition Council (DAC) under MoD. The requirement is for 425,213 units of carbine (418,455 for the Army and 6,758 for the Navy). The order will be split between the two of the lowest bidders, L1 (255,128 units) and L2 (170,085 units). The carbine mass must be within the range of 3-3.5 kg and must have a range of more than 200 m and a cyclic rate of firing 600 rounds/min. The procurement is under Buy 'Indian' category, that is the guns must have more than 60% indigenous content. As of June 2024, 15 vendors are competing for the contract and summer trials of the products are underway while winter trials will be conducted later this year. In June 2025, the DRDO-Bharat Forge's Close Quarter Battle (CQB) Carbine had emerged as the lowest bidder for the tender. The carbines will be manufactured by Kalyani Strategic Systems Limited (KSSL) in its Khed City or Jejuri facility, both near Pune. The gun has an effective range of 200 m (660 ft), weight of 3.3 kg (7.3 lb) and supports a 30-round magazine compatible with both NATO-standard and INSAS ammunition. Meanwhile, Adani Defence & Aerospace became the L2 bidder and is expected to deliver its Jeet carbine, a derivative of IWI Galil ACE design, from its Gwalior facility earlier acquired from Punj Lloyd Raksha. The contracts would be worth \u20b91,700 crore (US$200 million) and \u20b91,100 crore (US$130 million), respectively. The contracts, with a combined worth of \u20b92,770 crore (US$330 million), was signed in September 2025 and deliveries are expected to commence in 2026.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The first attempt to acquire a carbine was made in 2008 when both DRDO and OFB failed to meet the Indian Army's requirements. The nwly acquired carbine would replace the to replace legacy SAF Carbine 1A1/2A1 models which had been license manufactured by OFB since 1963 and 1977, respectively.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A global tender was launched in 2011 for a requirement of 44,618 CQB carbines. Though four companies \u2014 Israel\u2019s IWI, Italian Beretta, and American firms Colt and Sig Sauer \u2014 had responded to the tender, only IWI could qualify while rest of the participants failed at the night vision mounting system criteria. The Ministry again cancelled the tender due to single vendor situation.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Another global Request for Information (RFI) was launched in 2017. The pre-tender documents issued a requirement for around 2 lakh carbines while the Ministry cleared a Fast Track Procurement (FTP) for 93,895 carbines in 2018. An estimation of an overall requirement of 5 lakh carbines was estimated. In September 2018, Caracal was selected as the lowest bidder against Thales Australia under the FTP. Further contract negotiations was expected for over three months while the deliveries were to be completed within a year following the signing of the contract. However, the contract for CAR 816 was formally cancelled in September 2020 due to overpricing concerns and as the DRDO and the Indian industry wanted to take part in such a tender.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Light machine gun - On 25 August 2023, the Defence Acquisition Council (DAC) approved the Acceptance of Necessity (AoN) for the induction of new 7.62\u00d751mm LMGs for the Indian Army.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Sniper Rifles - The MoD released the Request for Proposal in October 2022 to 30 vendors for 4,849 (including 4,549 for the Army, 212 for the Air Force and 88 for the Navy) new sniper rifles in the .338 Lapua Magnum rifle cartridge and for 7,841,575 rounds. These rifles will replace the older Dragunov SVD.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Anti-materiel rifles - 1000 new anti-material rifles are to be acquired for which the MoD has issued global RFIs.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "MPATGM - Ground and air launched variants. On 10 October 2024, the Indian Army released an Request for Information (RFI) for the acquisition of 20,000 ATGM missiles along with 1,500 next generation ATGM launchers from Indian firms. The information received will be utilised to formulate Army's General Service Quality Requirements (GSQRs) for the ATGM procurement programme. The ATGMs will be procured under the Buy (Indian-IDDM) category, and must be indigenously designed, developed and manufactured with over 60% indigenous content. It should have all-weather and all-terrain firing capability (plains, deserts, high-altitude up to 5,500 m (18,000 ft), coastal as well as island areas). The ATGM probable should be able to destroy enemy tanks, armoured personnel carriers, combat vehicles, low-flying helicopters, concrete structures and other vehicle-based weapon platforms.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Top-attack anti-tank mine \u2014 A Request for Information (RFI) for 4,000 such mines were released on 5 June 2025. Top-attack mines are designed to engage armoured vehicles from above, where protection is typically weaker. They employ a combination of seismic, acoustic, and infrared sensors to detect and classify targets. Upon detection, the mine launches a submunition\u2014such as an explosively formed penetrator (EFP) or shaped charge\u2014in a near-vertical trajectory to penetrate the vehicle\u2019s top armour. Some variants use explosively generated shock waves to achieve a similar effect. These mines are effective against heavily armoured platforms that are resistant to conventional underbelly mines and can be deployed in various terrains, including urban environments. The mine should also feature remote activation, deactivation, or self-destruction capabilities to reduce the risk of civilian casualties.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "DRDO VSHORADS \u2014 The Ministry of Defence released a Request for Proposal (RfP) for the procurement of 48 launchers, 48 night vision sights, 85 missiles, and one missile test station of the infrared (IR) homing-based VSHORADS, designated VSHORADS (New Generation) or VSHORAD (NG). The missile should have flexible deployment including \"Manportable configuration or Para dropped operations method, on land and ship based platforms\". The system could be used by all three services for day-night terminal and point air defence.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Laser beam riding VSHORAD \u2014 DRDO VSHORAD is being built concurrently with another Indian VSHORAD project as a joint venture between a public sector entity based in Hyderabad (possibly Bharat Dynamics Limited) and a private sector entity based in Pune. To counter drones, helicopters, and fighter jets flying at low altitude, the latter missile will be laser beam riding VSHORAD system. An order of 200 launchers and 1200 missiles is expected for this project, which is valued at \u20b94,800 crore (US$570 million). While Indian Army will procure 700 missiles, the Indian Air Force will procure the rest of it.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "International Institute for Strategic Studies (15 February 2023). The Military Balance 2023. Taylor & Francis. ISBN 978-1-000-91070-4.",
+    "date": null,
+    "verdict": null
+  }
+]

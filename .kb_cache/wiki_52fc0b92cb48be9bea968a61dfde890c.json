@@ -1,0 +1,914 @@
+[
+  {
+    "source": "wikipedia",
+    "text": "Acute myeloid leukemia (AML) is a cancer of the myeloid line of blood cells, characterized by the rapid growth of abnormal cells that build up in the bone marrow and blood and interfere with normal blood cell production. Symptoms may include feeling tired, shortness of breath, easy bruising and bleeding, and increased risk of infection. Occasionally, spread may occur to the brain, skin, or gums. As an acute leukemia, AML progresses rapidly, and is typically fatal within weeks or months if left untreated.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Risk factors include getting older, being male, smoking, previous chemotherapy or radiation therapy, myelodysplastic syndrome, and exposure to the chemical benzene. The underlying mechanism involves replacement of normal bone marrow with leukemia cells, which results in a drop in red blood cells, platelets, and normal white blood cells. Diagnosis is generally based on bone marrow aspiration and specific blood tests. AML has several subtypes for which treatments and outcomes may vary.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The first-line treatment of AML is usually chemotherapy, with the aim of inducing remission. People may then go on to receive additional chemotherapy, radiation therapy, or a stem cell transplant. The specific genetic mutations present within the cancer cells may guide therapy, as well as determine how long that person is likely to survive.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Between 2017 and 2025, 12 new agents have been approved for AML in the U.S., including venetoclax (BCL2 inhibitor), gemtuzumab ozogamicin (CD33 antibody-drug conjugate), and several inhibitors targeting FMS-like tyrosine kinase 3, isocitrate dehydrogenase, and other pathways. Additionally, therapies like CPX351 and oral formulations of azacitidine and decitabine-cedazuridine have been introduced. Ongoing research is exploring menin inhibitors and other antibody-drug conjugates.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Low-intensity treatment with azacitidine plus venetoclax has emerged as the most effective option for older or unfit AML patients, based on a network meta-analysis of 26 trials involving 4,920 participants. It showed the highest survival and remission rates, with low-dose cytarabine (LDAC) plus glasdegib and LDAC plus venetoclax also showing clinical benefit.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2015, AML affected about one million people, and resulted in 147,000 deaths globally. It most commonly occurs in older adults. Males are affected more often than females. The five-year survival rate is about 35% in people under 60 years old and 10% in people over 60 years old. Older people whose health is too poor for intensive chemotherapy have a typical survival of five to ten months. It accounts for roughly 1.1% of all cancer cases, and 1.9% of cancer deaths in the United States.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Most signs and symptoms of AML are caused by the crowding out in bone marrow of space for normal blood cells to develop. A lack of normal white blood cell production makes people more susceptible to infections. A low red blood cell count (anemia) can cause fatigue, paleness, shortness of breath and palpitations. A lack of platelets can lead to easy bruising, bleeding from the nose (epistaxis), small blood vessels on the skin (petechiae) or gums, or bleeding with minor trauma. Other symptoms may include fever, fatigue worse than what can be attributed to anaemia alone, weight loss and loss of appetite.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Enlargement of the spleen may occur in AML, but it is typically mild and asymptomatic. Lymph node swelling is rare in most types of AML, except for acute myelomonocytic leukemia (AMML). The skin can be involved in the form of leukemia cutis; Sweet's syndrome; or non-specific findings: flat lesions (macules), raised lesion papules, pyoderma gangrenosum and vasculitis.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Some people with AML may experience swelling of the gums because of infiltration of leukemic cells into the gum tissue. Involvement of other parts of the body such as the gastrointestinal tract, respiratory tract and other parts is possible but less common. One area which has particular importance for treatment is whether there is involvement of the meninges around the central nervous system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Most cases of AML do not have exposure to any identified risk factors. However, a number of risk factors for developing AML have been identified. These include other blood disorders, chemical exposures, ionizing radiation, and genetic risk factors. Where a defined exposure to past chemotherapy, radiotherapy, toxin or hematologic malignancy is known, this is termed secondary AML.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Other blood disorders, particularly myelodysplastic syndrome (MDS) and less commonly myeloproliferative neoplasms (MPN), can evolve into AML; the exact risk depends on the type of MDS/MPN. The presence of asymptomatic clonal hematopoiesis also raises the risk of transformation into AML.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Exposure to chemotherapy, in particular alkylating antineoplastic agents, can increase the risk of subsequently developing AML. Other chemotherapy agents, including fludarabine, and topoisomerase II inhibitors are also associated with the development of AML; most commonly after 4\u20136 years and 1\u20133 years respectively. These are often associated with specific chromosomal abnormalities in the leukemic cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Other chemical exposures associated with the development of AML include benzene, chloramphenicol and phenylbutazone. The use of Agent Orange, a militarized herbicide used in the Vietnam War has been associated with the risk of AML due to the herbicide regularly having been contaminated by 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD), the most toxic dioxin known.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "High amounts of ionizing radiation exposure, such as that used for radiotherapy used to treat some forms of cancer, can increase the risk of AML. People treated with ionizing radiation after treatment for prostate cancer, non-Hodgkin lymphoma, lung cancer, and breast cancer have the highest chance of acquiring AML, but this increased risk returns to the background risk observed in the general population after 12 years. Historically, survivors of the atomic bombings of Hiroshima and Nagasaki had an increased rate of AML, as did radiologists exposed to high levels of X-rays prior to the adoption of modern radiation safety practices.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Traditionally, AML was considered as sporadic, with only few exceptions associated with rare hereditary conditions such as Down syndrome, Fanconi anaemia and telomere biology disorders. With the introduction of Next Generation Sequencing (NGS) in clinical work-up, it is now estimated that up to 5 - 15% of all AML cases carries a pathogenic variant in a cancer susceptibility genes. Myeloid neoplasm with germline predisposition is recognized as a distinct category in the WHO 2022 classification of haematolymphoid tumours.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Being overweight and obese increase the risk of developing AML, as does any amount of active smoking. For reasons that may relate to substance or radiation exposure, certain occupations have a higher rate of AML; particularly work in the nuclear power industry, electronics or computer manufacturing, fishing and animal slaughtering and processing.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The malignant cell in AML is the myeloblast. In normal development of blood cells (hematopoiesis), the myeloblast is an immature precursor of myeloid white blood cells; a normal myeloblast will mature into a white blood cell such as an eosinophil, basophil, neutrophil or monocyte. In AML, though, a single myeloblast accumulates genetic changes which stop maturation, increase its proliferation, and protect it from programmed cell death (apoptosis). Much of the diversity and heterogeneity of AML is because leukemic transformation can occur at a number of different steps along the differentiation pathway. Genetic abnormalities or the stage at which differentiation was halted form part of modern classification systems.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Specific cytogenetic abnormalities can be found in many people with AML; the types of chromosomal abnormalities often have prognostic significance. The chromosomal translocations encode abnormal fusion proteins, usually transcription factors whose altered properties may cause the \"differentiation arrest\". For example, in APL, the t(15;17) translocation produces a PML-RARA fusion protein which binds to the retinoic acid receptor element in the promoters of several myeloid-specific genes and inhibits myeloid differentiation.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The clinical signs and symptoms of AML result from the growth of leukemic clone cells, which tends to interfere with the development of normal blood cells in the bone marrow. This leads to neutropenia, anemia, and thrombocytopenia. Other symptoms can arise from the infiltration of malignant cells into parts of the body, such as the gingiva and skin.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Many cells develop mutations in genes that affect epigenetics, such as DNA methylation. When these mutations occur, it is likely in the early stages of AML. Such mutations include in the DNA demethylase TET2 and the metabolic enzymes IDH1 and IDH2, which lead to the generation of a novel oncometabolite, D-2-hydroxyglutarate, which inhibits the activity of epigenetic enzymes such as TET2. Epigenetic mutations may lead to the silencing of tumor suppressor genes and/or the activation of proto-oncogenes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A complete blood count, which is a blood test, is one of the initial steps in the diagnosis of AML. It may reveal both an excess of white blood cells (leukocytosis) or a decrease (leukopenia), and a low red blood cell count (anemia) and low platelets (thrombocytopenia) can also be commonly seen. A blood film may show leukemic blast cells. Inclusions within the cells called Auer rods, when seen, make the diagnosis highly likely. A definitive diagnosis requires a bone marrow aspiration and biopsy.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Bone marrow is examined under light microscopy, as well as flow cytometry, to diagnose the presence of leukemia, to differentiate AML from other types of leukemia (e.g. acute lymphoblastic leukemia), and to provide information about how mature or immature the affected cells are that can assist in classifying the subtype of disease. A sample of marrow or blood is typically also tested for chromosomal abnormalities by routine cytogenetics or fluorescent in situ hybridization. Genetic studies may also be performed to look for specific mutations in genes such as FLT3, nucleophosmin, and KIT, which may influence the outcome of the disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Cytochemical stains on blood and bone marrow smears are helpful in the distinction of AML from ALL, and in subclassification of AML. The combination of a myeloperoxidase or Sudan black stain and a nonspecific esterase stain will provide the desired information in most cases. The myeloperoxidase or Sudan black reactions are most useful in establishing the identity of AML and distinguishing it from ALL. The nonspecific esterase stain is used to identify a monocytic component in AMLs and to distinguish a poorly differentiated monoblastic leukemia from ALL.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The standard classification scheme for AML is the World Health Organization (WHO) system. According to the WHO criteria, the diagnosis of AML is established by demonstrating involvement of more than 20% of the blood and/or bone marrow by leukemic myeloblasts, except in three forms of acute myeloid leukemia with recurrent genetic abnormalities: t(8;21), inv(16) or t(16;16), and acute promyelocytic leukemia with PML-RARA, in which the presence of the genetic abnormality is diagnostic irrespective of blast percent. Myeloid sarcoma is also considered a subtype of AML independently of the blast count. The older French\u2013American\u2013British (FAB) classification, which is no longer widely used, is a bit more stringent, requiring a blast percentage of at least 30% in bone marrow or peripheral blood for the diagnosis of AML.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Because acute promyelocytic leukemia has the highest curability and requires a unique form of treatment, it is important to quickly establish or exclude the diagnosis of this subtype of leukemia. Fluorescent in situ hybridization performed on blood or bone marrow is often used for this purpose, as it readily identifies the chromosomal translocation [t(15;17)(q22;q12);] that characterizes APL. There is also a need to molecularly detect the presence of PML/RARA fusion protein, which is an oncogenic product of that translocation.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The WHO classification of AML attempts to be more clinically useful and to produce more meaningful prognostic information than the FAB criteria. The French\u2013American\u2013British (FAB) classification system is based on morphology to define specific immunotypes. The World Health Organization (WHO) classification reviews chromosome translocations and evidence of dysplasia. See French\u2013American\u2013British (FAB) classification system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Each of the WHO categories contains numerous descriptive subcategories of interest to the hematopathologist and oncologist; however, most of the clinically significant information in the WHO schema is communicated via categorization into one of the subtypes listed below.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The revised fourth edition of the WHO Classification of Tumours of Haematopoietic and Lymphoid Tissues was released in 2016. This classification, which is based on a combination of genetic and immunophenotypic markers and morphology, defined the subtypes of AML and related neoplasms as shown below. In 2022, a new classification was published.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Acute leukemias of ambiguous lineage (also known as mixed phenotype or biphenotypic acute leukemia) occur when the leukemic cells can not be classified as either myeloid or lymphoid cells, or where both types of cells are present.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The French\u2013American\u2013British (FAB) classification system provides terminology that is still sometimes used, and it remains a valuable diagnostic tool in areas without access to genetic testing, this system has largely become obsolete in favor of the WHO classification, which correlates more strongly with treatment outcomes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The FAB system divides AML into eight subtypes, M0 through to M7, based on the type of cell from which the leukemia developed and its degree of maturity. AML of types M0 to M2 may be called acute myeloblastic leukemia. Classification is done by examining the appearance of the malignant cells with light microscopy and/or by using cytogenetics to characterize any underlying chromosomal abnormalities. The subtypes have varying prognoses and responses to therapy.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Six FAB subtypes (M1 through to M6) were initially proposed in 1976, although later revisions added M7 in 1985 and M0 in 1987.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The morphologic subtypes of AML also include rare types not included in the FAB system, such as acute basophilic leukemia, which was proposed as a ninth subtype, M8, in 1999.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The first-line treatment of acute myeloid leukemia consists primarily of chemotherapy, and is divided into two phases: induction and consolidation. The goal of induction therapy is to achieve a complete remission by reducing the number of leukemic cells to an undetectable level; the goal of consolidation therapy is to eliminate any residual undetectable disease and achieve a cure. Hematopoietic stem cell transplantation is usually considered if induction chemotherapy fails or after a person relapses, although transplantation is also sometimes used as front-line therapy for people with high-risk disease. Efforts to use targeted therapies such as tyrosine kinase inhibitors in AML continue. Various induction strategies are used, most of which center on daunorubicin (or a closely related drug) and cytarabine.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Ziftomenib (Komzifti) was approved for medical use in the United States in November 2025.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The goal and purpose of the induction phase is to reach a complete remission. Complete remission does not mean the disease has been cured; rather, it signifies no disease can be detected with available diagnostic methods. All subtypes except acute promyelocytic leukemia are usually given induction chemotherapy with cytarabine and an anthracycline such as daunorubicin or idarubicin. This induction chemotherapy regimen is known as \"7+3\" (or \"3+7\"), because the cytarabine is given as a continuous IV infusion for seven consecutive days while the anthracycline is given for three consecutive days as an IV push. Response to this treatment varies with age, with people aged less than 60 years having better remission rates between 60% and 80%, while older people having lower remission rates between 33% and 60%. Because of the toxic effects of therapy and a greater chance of AML resistance to this induction therapy, different treatment, such as that in clinical trials might be offered to people 60\u201365 years or older.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Acute promyelocytic leukemia is treated with all-trans-retinoic acid (ATRA) and either arsenic trioxide (ATO) monotherapy or an anthracycline. A syndrome similar to disseminated intravascular coagulation can develop during the initial few days of treatment or at the time the leukemia is diagnosed, and treatment can be complicated by a differentiation syndrome characterised by fever, fluid overload and low oxygen levels. Acute promyelocytic leukemia is considered curable. There is insufficient evidence to determine if prescribing ATRA in addition to chemotherapy to adults who have other subtypes of acute myeloid leukaemia is helpful.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Even after complete remission is achieved, leukemic cells likely remain in numbers too small to be detected with current diagnostic techniques. If no consolidation therapy or further postremission is given, almost all people with AML will eventually relapse.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The specific type of postremission therapy is individualized based on a person's prognostic factors (see above) and general health. For good-prognosis leukemias (i.e. inv(16), t(8;21), and t(15;17)), people will typically undergo an additional three to five courses of intensive chemotherapy, known as consolidation chemotherapy. This generally involves cytarabine, with the doses administered being higher in younger patients, who are less likely to develop toxicity related to this treatment.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Stem cell transplantation from a donor, called allogenic stem cell transplantation, is usually pursued if the prognosis is not considered favourable, a person can tolerate a transplant and has a suitable donor. The basis of allogenic stem cell transplantation is on a graft versus leukemia effect whereby graft cells stimulate an immune response against leukemia cells. Unfortunately, this is accompanied by immune responses against other host organs, called a graft versus host disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Theoretical therapies have been proposed based on the idea of using stem cell transplantation to replace blood stem cells with genetically modified versions with altered molecular markers, including CD45, which is present on most blood cells. A treatment would then be applied, such as an antibody-drug conjugate targeting the healthy version of the marker, in order to kill all blood cells with unmodified markers, including the original cells and the cancerous ones. Theoretical therapies have also been proposed to use genetic engineering to attach synthetic chimeric antigen receptors to T-cells. These would bind to markers present in high levels in AML cells, which include CD123 and CD135. T-cells could also be modified to target normal CD45 markers, but this requires also modifying the CD-45 of T-cells as well so that they do not target themselves. T-cell immunotherapies are being tested in mice and in early-phase clinical trials, but none has been approved as a standard of care for AML.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Support is necessary throughout treatment because of problems associated with AML and also arising from treatment. Blood transfusions, including of red blood cells and platelets, are necessary to maintain health levels, preventing complications of anemia (from low red blood cells) and bleeding (from low platelets). AML leads to an increased risk of infections, particularly drug-resistant strains of bacteria and fungi. Antibiotics and antifungals can be used both to treat and to prevent these infections, particularly quinolones.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Adding aerobic physical exercises to the standard of care may result in little to no difference in the mortality, in the quality of life and in the physical functioning. These exercises may result in a slight reduction in depression. Furthermore, aerobic physical exercises probably reduce fatigue.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Recent research into the role that epigenetic regulators play in hematopoietic malignancies has yielded new insights in the development of targeted epigenetic therapies as a supportive treatment for AML. The FDA has approved certain epigenetic modifying drugs like ivosidenib and enasidenib, which are used in patients that can no longer receive intensive induction chemotherapy; specifically, they are involved in the therapy of IDH1 and IDH2 mutations. Further research must be done to prove the efficacy of epigenetic treatments, but the development of new epigenetic therapies along with immunotherapies holds potential in the future treatment of AML.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Acute myeloid leukemia is rare in pregnancy, affecting about 1 in 75,000 to 100,000 pregnant women. It is diagnosed and treated similarly to AML in non pregnancy, with a recommendation that it is treated urgently. However, treatment has significant implications for the pregnancy. First trimester pregnancy is considered unlikely to be viable; pregnancy during weeks 24 \u2013 36 requires consideration of the benefits of chemotherapy to the mother against the risks to the fetus; and there is a recommendation to consider delaying chemotherapy in very late pregnancy (> 36 weeks). Some elements of supportive care, such as which antibiotics to prevent or treat infections, also change in pregnancy.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Multiple factors influence prognosis in AML, including the presence of specific mutations, and a person with AML's age. In the United States between 2011 and 2016, the median survival of a person with AML was 8.5 months, with the 5 year survival being 24%. This declines with age, with the poorer prognosis being associated with an age greater than 65 years, and the poorest prognosis seen in those aged 75\u201384.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As of 2001, cure rates in clinical trials have ranged from 20 to 45%; although clinical trials often include only younger people and those able to tolerate aggressive therapies. The overall cure rate for all people with AML (including the elderly and those unable to tolerate aggressive therapy) is likely lower. Cure rates for APL can be very high in some clinical trials.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As of 2021, \"[I]n APL, therapy with all-trans retinoic acid and arsenic trioxide results in estimated 10-year survival rates of \u226580% ... Ongoing research in acute myeloid leukemia (AML) is progressing rapidly\". Arsenic trioxide and ATRA are the \"most effective anti-APL agents\" as shown by studies from China, India and Iran.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Secondary AML has a worse prognosis, as does treatment-related AML arising after chemotherapy for another previous malignancy. Both of these entities are associated with a high rate of unfavorable genetic mutations.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Different genetic mutations are associated with a difference in outcomes. Certain cytogenetic abnormalities are associated with very good outcomes (for example, the (15;17) translocation in APL). About half of people with AML have \"normal\" cytogenetics lacking identifiable translocations or other large-scale anomalies; they fall into an intermediate risk group. A number of other cytogenetic abnormalities are known to associate with a poor prognosis and a high risk of relapse after treatment.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A large number of molecular alterations are under study for their prognostic impact in AML. However, only FLT3-ITD, NPM1, CEBPA and c-KIT are currently included in validated international risk stratification schema. These are expected to increase rapidly in the near future. FLT3 internal tandem duplications (ITDs) have been shown to confer a poorer prognosis in AML with normal cytogenetics. Several FLT3 inhibitors have undergone clinical trials, with mixed results. Two other mutations \u2013 NPM1 and biallelic CEBPA are associated with improved outcomes, especially in people with normal cytogenetics and are used in current risk stratification algorithms.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Researchers are investigating the clinical significance of c-KIT mutations in AML. These are prevalent, and potentially clinically relevant because of the availability of tyrosine kinase inhibitors, such as imatinib and sunitinib that can block the activity of c-KIT pharmacologically. It is expected that additional markers (e.g., RUNX1, ASXL1, and TP53) that have consistently been associated with an inferior outcome will soon be included in these recommendations. The prognostic importance of other mutated genes (e.g., DNMT3A, IDH1, IDH2) is less clear.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Elevated lactate dehydrogenase level were also associated with poorer outcomes. Use of tobacco is associated with a person having a poorer prognosis, and people who are married and live together have a better prognosis. People who are treated at place with a higher volume of AML have a better prognosis than those who are treated at those in the lowest quartile. As with most forms of cancer, performance status (i.e. the general physical condition and activity level of the person) plays a major role in prognosis as well.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "For people in remission after induction chemotherapy, residual leukemic cells (minimal residual disease) are associated with higher relapse rates and decreased survival. Furthermore, the presence of specific leukemic cells that are capable of initiating a relapse, the leukemia stem cell (a type of cancer stem cell) is associated with impaired survival and higher incidence of relapse.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "AML is a relatively rare cancer. There were 19,950 new cases in the United States in 2016. In 2018, AML accounted for 1.2% of all cancer deaths in the United States.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The incidence of AML increases with age and varies between countries. The median age when AML is diagnosed ranges between 63 and 71 years in the UK, Canada, Australia and Sweden, compared with 40 to 45 years in India, Brazil and Algeria.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "According to 2002 statistics, AML accounts for about 90% of all acute leukemias in adults and is rare in children. Acute leukemias consist of serious medical conditions relating to an original diagnosis of leukemia, where the abnormal blood cells are immature blood cells (blasts). They are mostly classified in terms of myeloid cells or lymphoid cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Based on data from United States Cancer Statistics (USCS) Public Use Database for 2001\u20132017, the 2021 estimate for new cases of AML and acute lymphoblastic leukemia (ALL) are following:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Based on these estimates, AML is about 78% of the total cases.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The rate of therapy-related AML (AML caused by previous chemotherapy) is expected to rise with an increase in the use of chemotherapy, an ageing population and more patients surviving their initial chemotherapy treatment; therapy-related disease accounts for just under 10% of all cases of AML. AML is slightly more common in men, with a male-to-female ratio of 1.3:1 to 1.4:1. Incidence is also seen to differ by ethnicity, with caucasians having higher recorded incidences and the lowest recorded incidences being in Pacific Islanders and native Alaskans.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In the UK, AML accounts for 31% of all leukemia cases, and around 3,100 people were diagnosed with the disease each year in 2016\u20132018.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The first published description of a case of leukemia in medical literature dates to 1827 when French physician Alfred-Armand-Louis-Marie Velpeau described a 63-year-old florist who developed an illness characterized by fever, weakness, urinary stones, and substantial enlargement of the liver and spleen. Velpeau noted the blood of this person had a consistency \"like gruel\", and speculated the appearance of the blood was due to white corpuscles. In 1845, a series of people who died with enlarged spleens and changes in the \"colors and consistencies of their blood\" was reported by the Edinburgh-based pathologist J.H. Bennett; he used the term \"leucocythemia\" to describe this pathological condition.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The term \"leukemia\" was coined by Rudolf Virchow, the renowned German pathologist, in 1856. As a pioneer in the use of the light microscope in pathology, Virchow was the first to describe the abnormal excess of white blood cells in people with the clinical syndrome described by Velpeau and Bennett. As Virchow was uncertain of the etiology of the white blood cell excess, he used the purely descriptive term \"leukemia\" (Greek: \"white blood\") to refer to the condition.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Further advances in the understanding of AML occurred rapidly with the development of new technology. In 1877, Paul Ehrlich developed a technique of staining blood films which allowed him to describe in detail normal and abnormal white blood cells. Wilhelm Ebstein introduced the term \"acute leukemia\" in 1889 to differentiate rapidly progressive and fatal leukemias from the more indolent chronic leukemias. The term \"myeloid\" was coined by Franz Ernst Christian Neumann in 1869, as he was the first to recognize white blood cells were made in the bone marrow (Greek: \u03bc\u03c5\u0454\u03bb\u03cc\u03c2, myelos, lit.\u2009'(bone) marrow') as opposed to the spleen. The technique of bone marrow examination to diagnose leukemia was first described in 1879 by Mosler. Finally, in 1900, the myeloblast, which is the malignant cell in AML, was characterized by Otto Naegeli, who divided the leukemias into myeloid and lymphocytic.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2008, AML became the first cancer genome to be fully sequenced. DNA extracted from leukemic cells were compared to unaffected skin. The leukemic cells contained acquired mutations in several genes that had not previously been associated with the disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Childhood Acute Myeloid Leukemia Treatment at the US National Cancer Institute",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Leukemia (also spelled leukaemia; pronounced  loo-KEE-mee-\u0259) is a group of blood cancers that usually begin in the bone marrow and produce high numbers of abnormal blood cells. These blood cells are not fully developed and are called blasts or leukemia cells. Symptoms may include bleeding and bruising, bone pain, fatigue, fever, and an increased risk of infections. These symptoms occur due to a lack of normal blood cells. Diagnosis is typically made by blood tests or bone marrow biopsy.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The exact cause of leukemia is unknown. A combination of genetic factors and environmental (non-inherited) factors are believed to play a role. Risk factors include smoking, ionizing radiation, petrochemicals (such as benzene), prior chemotherapy, and Down syndrome. People with a family history of leukemia are also at higher risk. There are four main types of leukemia\u2014acute lymphoblastic leukemia (ALL), acute myeloid leukemia (AML), chronic lymphocytic leukemia (CLL) and chronic myeloid leukemia (CML)\u2014and a number of less common types. Leukemias and lymphomas both belong to a broader group of tumors that affect the blood, bone marrow, and lymphoid system, known as tumors of the hematopoietic and lymphoid tissues.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Treatment may involve some combination of chemotherapy, radiation therapy, targeted therapy, and bone marrow transplant, with supportive and palliative care provided as needed. Certain types of leukemia may be managed with watchful waiting. The success of treatment depends on the type of leukemia and the age of the person. Outcomes have improved in the developed world. Five-year survival rate was 67% in the United States in the period from 2014 to 2020. In children under 15 in first-world countries, the five-year survival rate is greater than 60% or even 90%, depending on the type of leukemia. For infants (those diagnosed under the age of 1), the survival rate is around 40%. In children who are cancer-free five years after diagnosis of acute leukemia, the cancer is unlikely to return.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2015, leukemia was present in 2.3 million people worldwide and caused 353,500 deaths. In 2012, it had newly developed in 352,000 people. It is the most common type of cancer in children, with three-quarters of leukemia cases in children being the acute lymphoblastic type. However, over 90% of all leukemias are diagnosed in adults, CLL and AML being most common. It occurs more commonly in the developed world.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Clinically and pathologically, leukemia is subdivided into a variety of large groups. The first division is between its acute and chronic forms:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Acute leukemia is characterized by a rapid increase in the number of immature blood cells. The crowding that results from such cells makes the bone marrow unable to produce healthy blood cells resulting in low hemoglobin and low platelets. Immediate treatment is required in acute leukemia because of the rapid progression and accumulation of the malignant cells, which then spill over into the bloodstream and spread to other organs of the body. Acute forms of leukemia are the most common forms of leukemia in children.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Chronic leukemia is characterized by the excessive buildup of relatively mature, but still abnormal, white blood cells (or, more rarely, red blood cells). Typically taking months or years to progress, the cells are produced at a much higher rate than normal, resulting in many abnormal white blood cells. Whereas acute leukemia must be treated immediately, chronic forms are sometimes monitored for some time before treatment to ensure maximum effectiveness of therapy. Chronic leukemia mostly occurs in older people but can occur in any age group.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Additionally, the diseases are subdivided according to which kind of blood cell is affected. This divides leukemias into lymphoblastic or lymphocytic leukemias and myeloid or myelogenous leukemias:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In lymphoblastic or lymphocytic leukemias, the cancerous change takes place in a type of marrow cell that normally goes on to form lymphocytes, which are infection-fighting immune system cells. Most lymphocytic leukemias involve a specific subtype of lymphocyte, the B cell.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In myeloid or myelogenous leukemias, the cancerous change takes place in a type of marrow cell that normally goes on to form red blood cells, some other types of white cells, and platelets.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Combining these two classifications provides a total of four main categories. Within each of these main categories, there are typically several subcategories. Finally, some rarer types are usually considered to be outside of this classification scheme.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Acute lymphoblastic leukemia (ALL) is the most common type of leukemia in young children. It also affects adults, especially those 65 and older. Standard treatments involve chemotherapy and radiotherapy. Subtypes include precursor B acute lymphoblastic leukemia, precursor T acute lymphoblastic leukemia, Burkitt's leukemia, and acute biphenotypic leukemia. While most cases of ALL occur in children, 80% of deaths from ALL occur in adults.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Chronic lymphocytic leukemia (CLL) most often affects adults over the age of 55. It sometimes occurs in younger adults, but it almost never affects children. Two-thirds of affected people are men. The five-year survival rate is 85%. It is incurable, but there are many effective treatments. One subtype is B-cell prolymphocytic leukemia, a more aggressive disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Acute myelogenous leukemia (AML) occurs far more commonly in adults than in children, and more commonly in men than women. It is treated with chemotherapy. The five-year survival rate is 20%. Subtypes of AML include acute promyelocytic leukemia, acute myeloblastic leukemia, and acute megakaryoblastic leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Chronic myelogenous leukemia (CML) occurs mainly in adults; a very small number of children also develop this disease. It is treated with imatinib (Gleevec in United States, Glivec in Europe) or other drugs. The five-year survival rate is 90%. One subtype is chronic myelomonocytic leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hairy cell leukemia (HCL) is sometimes considered a subset of chronic lymphocytic leukemia, but does not fit neatly into this category. About 80% of affected people are adult men. No cases in children have been reported. HCL is incurable but easily treatable. Survival is 96% to 100% at ten years.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "T-cell prolymphocytic leukemia (T-PLL) is a very rare and aggressive leukemia affecting adults; somewhat more men than women are diagnosed with this disease. Despite its overall rarity, it is the most common type of mature T cell leukemia; nearly all other leukemias involve B cells. It is difficult to treat, and the median survival is measured in months.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Large granular lymphocytic leukemia may involve either T-cells or NK cells; like hairy cell leukemia, which involves solely B cells, it is a rare and indolent (not aggressive) leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Adult T-cell leukemia is caused by human T-lymphotropic virus (HTLV), a virus similar to HIV. Like HIV, HTLV infects CD4+ T-cells and replicates within them; however, unlike HIV, it does not destroy them. Instead, HTLV \"immortalizes\" the infected T-cells, giving them the ability to proliferate abnormally. Human T-cell lymphotropic virus types I and II (HTLV-I/II) are endemic in certain areas of the world.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Clonal eosinophilias (also called clonal hypereosinophilias) are a group of blood disorders characterized by the growth of eosinophils in the bone marrow, blood, and/or other tissues.   They may be pre-cancerous or cancerous. Clonal eosinophilias involve a \"clone\" of eosinophils, i.e., a group of genetically identical eosinophils that all grew from the same mutated ancestor cell. These disorders may evolve into chronic eosinophilic leukemia or may be associated with various forms of myeloid neoplasms, lymphoid neoplasms, myelofibrosis, or the myelodysplastic syndrome.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Transient myeloproliferative disease, also termed transient leukemia, involves the abnormal proliferation of a clone of non-cancerous megakaryoblasts. The disease is restricted to individuals with Down syndrome or genetic changes similar to those in Down syndrome, develops in a baby during pregnancy or shortly after birth, and resolves within 3 months or, in ~10% of cases, progresses to acute megakaryoblastic leukemia. Transient myeloid leukemia is a pre-leukemic condition.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Clonal hematopoiesis is a common age-related phenomenon with a low risk of progression to myelodysplastic syndrome (MDS) and leukemia. Once MDS has developed, the risk of progression to acute leukemia can be assessed using the International Prognostic Scoring System (IPSS).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Monoclonal B-cell lymphocytosis has a low risk of progression to B-cell leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The most common symptoms in children are easy bruising, pale skin, fever, and an enlarged spleen or liver.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Damage to the bone marrow, by way of displacing the normal bone marrow cells with higher numbers of immature white blood cells, results in a lack of blood platelets, which are important in the blood clotting process. This means people with leukemia may easily become bruised, bleed excessively, or develop pinprick bleeds (petechiae).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "White blood cells, which are involved in fighting pathogens, may be suppressed or dysfunctional. This could cause the person's immune system to be unable to fight off a simple infection or to start attacking other body cells. Because leukemia prevents the immune system from working normally, some people experience frequent infection, ranging from infected tonsils, sores in the mouth, or diarrhea to life-threatening pneumonia or opportunistic infections.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Finally, the red blood cell deficiency leads to anemia, which may cause dyspnea and pallor.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Some people experience other symptoms, such as fevers, chills, night sweats, weakness in the limbs, feeling fatigued and other common flu-like symptoms. Some people experience nausea or a feeling of fullness due to an enlarged liver and spleen; this can result in unintentional weight loss. Blasts affected by the disease may come together and become swollen in the liver or in the lymph nodes causing pain and leading to nausea.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "If the leukemic cells invade the central nervous system, then neurological symptoms (notably headaches) can occur. Uncommon neurological symptoms like migraines, seizures, or coma can occur as a result of brain stem pressure. All symptoms associated with leukemia can be attributed to other diseases. Consequently, leukemia is always diagnosed through medical tests.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The word leukemia, which means 'white blood', is derived from the characteristic high white blood cell count that presents in most affected people before treatment. The high number of white blood cells is apparent when a blood sample is viewed under a microscope, with the extra white blood cells frequently being immature or dysfunctional. The excessive number of cells can also interfere with the level of other cells, causing further harmful imbalance in the blood count.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Some people diagnosed with leukemia do not have high white blood cell counts visible during a regular blood count. This less-common condition is called aleukemia. The bone marrow still contains cancerous white blood cells that disrupt the normal production of blood cells, but they remain in the marrow instead of entering the bloodstream, where they would be visible in a blood test. For a person with aleukemia, the white blood cell counts in the bloodstream can be normal or low. Aleukemia can occur in any of the four major types of leukemia, and is particularly common in hairy cell leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Studies in 2009 and 2010 have shown a positive correlation between exposure to formaldehyde and the development of leukemia, particularly myeloid leukemia. The different leukemias likely have different causes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Leukemia, like other cancers, results from mutations in the DNA. Certain mutations can trigger leukemia by activating oncogenes or deactivating tumor suppressor genes, and thereby disrupting the regulation of cell death, differentiation or division. These mutations may occur spontaneously or as a result of exposure to radiation or carcinogenic substances.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Among adults, the known causes are natural and artificial ionizing radiation and petrochemicals, notably benzene and alkylating chemotherapy agents for previous malignancies. Use of tobacco is associated with a small increase in the risk of developing acute myeloid leukemia in adults. Cohort and case-control studies have linked exposure to some petrochemicals and hair dyes to the development of some forms of leukemia. Diet has very limited or no effect, although eating more vegetables may confer a small protective benefit.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Viruses have also been linked to some forms of leukemia.  For example, human T-lymphotropic virus (HTLV-1) causes adult T-cell leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A few cases of maternal-fetal transmission (a baby acquires leukemia because its mother had leukemia during the pregnancy) have been reported. Children born to mothers who use fertility drugs to induce ovulation are more than twice as likely to develop leukemia during their childhoods than other children.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In a recent systematic review and meta-analysis of any type of leukemia in neonates using phototherapy, typically to treat neonatal jaundice, a statistically significant association was detected between using phototherapy and myeloid leukemia. However, it is still questionable whether phototherapy is genuinely the cause of cancer or simply a result of the same underlying factors that gave rise to cancer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Large doses of Sr-90 (called a bone seeking radioisotope) from nuclear reactor accidents, increases the risk of bone cancer and leukemia in animals and is presumed to do so in people.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Some people have a genetic predisposition towards developing leukemia. This predisposition is demonstrated by family histories and twin studies. The affected people may have a single gene or multiple genes in common. In some cases, families tend to develop the same kinds of leukemia as other members; in other families, affected people may develop different forms of leukemia or related blood cancers.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In addition to these genetic issues, people with chromosomal abnormalities or certain other genetic conditions have a greater risk of leukemia. For example, people with Down syndrome have a significantly increased risk of developing forms of acute leukemia (especially acute myeloid leukemia), and Fanconi anemia is a risk factor for developing acute myeloid leukemia. Mutation in SPRED1 gene has been associated with a predisposition to childhood leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Inherited bone marrow failure syndromes represent a kind of premature aging of the bone marrow. In people with these syndromes and in older adults, mutations associated with clonal hematopoiesis may arise as an adaptive response to a progressively deteriorating hematopoietic niche, i.e., a depleting pool of Hematopoietic stem cells. The mutated stem cells then acquire a self-renewal advantage.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Chronic myelogenous leukemia is associated with a genetic abnormality called the Philadelphia translocation; 95% of people with CML carry the Philadelphia mutation, although this is not exclusive to CML and can be observed in people with other types of leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Whether or not non-ionizing radiation causes leukemia has been studied for several decades. The International Agency for Research on Cancer expert working group undertook a detailed review of all data on static and extremely low frequency electromagnetic energy, which occurs naturally and in association with the generation, transmission, and use of electrical power. They concluded that there is limited evidence that high levels of ELF magnetic (but not electric) fields might cause some cases of childhood leukemia. No evidence for a relationship to leukemia or another form of malignancy in adults has been demonstrated. Since exposure to such levels of ELFs is relatively uncommon, the World Health Organization concludes that ELF exposure, if later proven to be causative, would account for just 100 to 2400 cases worldwide each year, representing 0.2 to 4.9% of the total incidence of childhood leukemia for that year (about 0.03 to 0.9% of all leukemias).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Diagnosis is usually based on repeated complete blood counts and a bone marrow examination following observations of the symptoms.  Sometimes, blood tests may not show that a person has leukemia, especially in the early stages of the disease or during remission.  A lymph node biopsy can be performed to diagnose certain types of leukemia in certain situations.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Following diagnosis, blood chemistry tests can be used to determine the degree of liver and kidney damage or the effects of chemotherapy on the person. When concerns arise about other damages due to leukemia, doctors may use an X-ray, MRI, or ultrasound.  These can potentially show leukemia's effects on such body parts as bones (X-ray), the brain (MRI), or the kidneys, spleen, and liver (ultrasound).  CT scans can be used to check lymph nodes in the chest, though this is uncommon.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Despite the use of these methods to diagnose whether or not a person has leukemia, many people have not been diagnosed because many of the symptoms are vague, non-specific, and can refer to other diseases.  For this reason, the American Cancer Society estimates that at least one-fifth of the people with leukemia have not yet been diagnosed.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Most forms of leukemia are treated with pharmaceutical medication, typically combined into a multi-drug chemotherapy regimen. Some are also treated with radiation therapy. In some cases, a bone marrow transplant is effective.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Management of ALL is directed towards control of bone marrow and systemic (whole-body) disease. Additionally, treatment must prevent leukemic cells from spreading to other sites, particularly the central nervous system (CNS); periodic lumbar punctures are used for diagnostic purposes and to administer intrathecal prophylactic methotrexate. In general, ALL treatment is divided into several phases:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Induction chemotherapy to bring about bone marrow remission. For adults, standard induction plans include prednisone, vincristine, and an anthracycline drug; other drug plans may include L-asparaginase or cyclophosphamide. For children with low-risk ALL, standard therapy usually consists of three drugs (prednisone, L-asparaginase, and vincristine) for the first month of treatment.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Consolidation therapy or intensification therapy to eliminate any remaining leukemia cells. There are many different approaches to consolidation, but it is typically a high-dose, multi-drug treatment that is undertaken for a few months. People with low- to average-risk ALL receive therapy with antimetabolite drugs such as methotrexate and 6-mercaptopurine (6-MP). People who are high-risk receive higher drug doses of these drugs, plus additional drugs.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CNS prophylaxis (preventive therapy) to stop cancer from spreading to the brain and nervous system in high-risk people. Standard prophylaxis may include radiation of the head and/or drugs delivered directly into the spine.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Maintenance treatments with chemotherapeutic drugs to prevent disease recurrence once remission has been achieved. Maintenance therapy usually involves lower drug doses and may continue for up to three years.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Alternatively, allogeneic bone marrow transplantation may be appropriate for high-risk or relapsed people.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hematologists base CLL treatment on both the stage and symptoms of the individual person. A large group of people with CLL have low-grade disease, which does not benefit from treatment. Individuals with CLL-related complications or more advanced disease often benefit from treatment. In general, the indications for treatment are:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Most CLL cases are incurable by present treatments, so treatment is directed towards suppressing the disease for many years, rather than curing it. The primary chemotherapeutic plan is combination chemotherapy with chlorambucil or cyclophosphamide, plus a corticosteroid such as prednisone or prednisolone. The use of a corticosteroid has the additional benefit of suppressing some related autoimmune diseases, such as immunohemolytic anemia or immune-mediated thrombocytopenia. In resistant cases, single-agent treatments with nucleoside drugs such as fludarabine, pentostatin, or cladribine may be successful. Younger and healthier people may choose allogeneic or autologous bone marrow transplantation in the hope of a permanent cure.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Many different anti-cancer drugs are effective for the treatment of AML. Treatments vary somewhat according to the age of the person and according to the specific subtype of AML. Overall, the strategy is to control bone marrow and systemic (whole-body) disease, while offering specific treatment for the central nervous system (CNS), if involved.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In general, most oncologists rely on combinations of drugs for the initial, induction phase of chemotherapy. Such combination chemotherapy usually offers the benefits of early remission and a lower risk of disease resistance. Consolidation and maintenance treatments are intended to prevent disease recurrence. Consolidation treatment often entails a repetition of induction chemotherapy or the intensification of chemotherapy with additional drugs. By contrast, maintenance treatment involves drug doses that are lower than those administered during the induction phase.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "There are many possible treatments for CML, but the standard of care for newly diagnosed people is imatinib (Gleevec) therapy. Compared to most anti-cancer drugs, it has relatively few side effects and can be taken orally at home. With this drug, more than 90% of people will be able to keep the disease in check for at least five years, so that CML becomes a chronic, manageable condition.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In a more advanced, uncontrolled state, when the person cannot tolerate imatinib, or if the person wishes to attempt a permanent cure, then an allogeneic bone marrow transplantation may be performed. This procedure involves high-dose chemotherapy and radiation followed by infusion of bone marrow from a compatible donor. Approximately 30% of people die from this procedure.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "People with hairy cell leukemia who are symptom-free typically do not receive immediate treatment. Treatment is generally considered necessary when the person shows signs and symptoms such as low blood cell counts (e.g., infection-fighting neutrophil count below 1.0 K/\u03bcL), frequent infections, unexplained bruises, anemia, or fatigue that is significant enough to disrupt the person's everyday life.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "People who need treatment usually receive either one week of cladribine, given daily by intravenous infusion or a simple injection under the skin, or six months of pentostatin, given every four weeks by intravenous infusion. In most cases, one round of treatment will produce a prolonged remission.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Other treatments include rituximab infusion or self-injection with Interferon-alpha. In limited cases, the person may benefit from splenectomy (removal of the spleen). These treatments are not typically given as the first treatment because their success rates are lower than cladribine or pentostatin.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Most people with T-cell prolymphocytic leukemia, a rare and aggressive leukemia with a median survival of less than one year, require immediate treatment.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "T-cell prolymphocytic leukemia is difficult to treat, and it does not respond to most available chemotherapeutic drugs. Many different treatments have been attempted, with limited success in certain people: purine analogues (pentostatin, fludarabine, cladribine), chlorambucil, and various forms of combination chemotherapy (cyclophosphamide, doxorubicin, vincristine, prednisone CHOP, cyclophosphamide, vincristine, prednisone [COP], vincristine, doxorubicin, prednisone, etoposide, cyclophosphamide, bleomycin VAPEC-B). Alemtuzumab (Campath), a monoclonal antibody that attacks white blood cells, has been used in treatment with greater success than previous options.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Some people who successfully respond to treatment also undergo stem cell transplantation to consolidate the response.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Treatment for juvenile myelomonocytic leukemia can include splenectomy, chemotherapy, and bone marrow transplantation.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The success of treatment depends on the type of leukemia and the age of the person. Outcomes have improved in the developed world. The average five-year survival rate is 65% in the United States. In children under 15, the five-year survival rate is greater (60 to 85%), depending on the type of leukemia. In children with acute leukemia who are cancer-free after five years, the cancer is unlikely to return.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Outcomes depend on whether it is acute or chronic, the specific abnormal white blood cell type, the presence and severity of anemia or thrombocytopenia, the degree of tissue abnormality, the presence of metastasis and lymph node and bone marrow infiltration, the availability of therapies and the skills of the health care team. Treatment outcomes may be better when people are treated at larger centers with greater experience.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2010, globally, approximately 281,500 people died of leukemia. In 2000, approximately 256,000 children and adults around the world developed a form of leukemia, and 209,000 died from it. This represents about 3% of the almost seven million deaths due to cancer that year, and about 0.35% of all deaths from any cause. Of the sixteen separate sites the body compared, leukemia was the 12th most common class of neoplastic disease and the 11th most common cause of cancer-related death. Leukemia occurs more commonly in the developed world.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "About 245,000 people in the United States are affected with some form of leukemia, including those that have achieved remission or cure. Rates from 1975 to 2011 have increased by 0.7% per year among children. Approximately 44,270 new cases of leukemia were diagnosed in the year 2008 in the US. This represents 2.9% of all cancers (excluding simple basal cell and squamous cell skin cancers) in the United States, and 30.4% of all blood cancers.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Among children with some form of cancer, about a third have a type of leukemia, most commonly acute lymphoblastic leukemia. A type of leukemia is the second most common form of cancer in infants (under the age of 12 months) and the most common form of cancer in older children. Boys are somewhat more likely to develop leukemia than girls, and white American children are almost twice as likely to develop leukemia than black American children. Only about 3% cancer diagnoses among adults are for leukemias, but because cancer is much more common among adults, more than 90% of all leukemias are diagnosed in adults.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Race is a risk factor in the United States.  Hispanics, especially those under the age of 20, are at the highest risk for leukemia, while whites, Native Americans, Asian Americans, and Alaska Natives are at higher risk than African Americans.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "More men than women are diagnosed with leukemia and die from the disease. Around 30 percent more men than women have leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In Australia, leukemia is the eleventh most common cancer. In 2014\u20132018, Australians diagnosed with leukemia had a 64% chance (65% for males and 64% for females) of surviving for five years compared to the rest of the Australian population\u2013there was a 21% increase in survival rates between 1989 and 1993.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Overall, leukemia is the eleventh most common cancer in the UK (around 8,600 people were diagnosed with the disease in 2011), and it is the ninth most common cause of cancer death (around 4,800 people died in 2012).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Leukemia was first described by anatomist and surgeon Alfred-Armand-Louis-Marie Velpeau in 1827. A more complete description was given by pathologist Rudolf Virchow in 1845. Around ten years after Virchow's findings, pathologist Franz Ernst Christian Neumann found that the bone marrow of a deceased person with leukemia was colored \"dirty green-yellow\" as opposed to the normal red. This finding allowed Neumann to conclude that a bone marrow problem was responsible for the abnormal blood of people with leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "By 1900, leukemia was viewed as a family of diseases as opposed to a single disease. By 1947, Boston pathologist Sidney Farber believed from past experiments that aminopterin, a folic acid mimic, could potentially cure leukemia in children. The majority of the children with ALL who were tested showed signs of improvement in their bone marrow, but none of them were actually cured. Nevertheless, this result did lead to further experiments.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 1962, researchers Emil J. Freireich Jr. and Emil Frei III used combination chemotherapy to attempt to cure leukemia. The tests were successful with some people surviving long after the tests.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Observing an abnormally large number of white blood cells in a blood sample from a person, Virchow called the condition Leuk\u00e4mie in German, which he formed from the two Greek words leukos (\u03bb\u03b5\u03c5\u03ba\u03cc\u03c2), meaning 'white', and haima (\u03b1\u1f37\u03bc\u03b1), meaning 'blood'. It was formerly also called leucemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "According to Susan Sontag, leukemia was often romanticized in 20th-century fiction, portrayed as a joy-ending, clean disease whose fair, innocent and gentle victims die young or at the wrong time. As such, it was the cultural successor to tuberculosis, which held this cultural position until it was discovered to be an infectious disease. The 1970 romance novel Love Story is an example of this romanticization of leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In the United States, around $5.4 billion is spent on treatment a year.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Significant research into the causes, prevalence, diagnosis, treatment, and prognosis of leukemia is being performed. Hundreds of clinical trials are being planned or conducted at any given time. Studies may focus on effective means of treatment, better ways of treating the disease, improving the quality of life for people, or appropriate care in remission or after cures.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In general, there are two types of leukemia research: clinical or translational research and basic research. Clinical/translational research focuses on studying the disease in a defined and generally immediately applicable way, such as testing a new drug in people.  By contrast, basic science research studies the disease process at a distance, such as seeing whether a suspected carcinogen can cause leukemic changes in isolated cells in the laboratory or how the DNA changes inside leukemia cells as the disease progresses.  The results from basic research studies are generally less immediately useful to people with the disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Treatment through gene therapy is currently being pursued. One such approach used genetically modified T cells, known as chimeric antigen receptor T cells (CAR-T cells), to attack cancer cells. In 2011, a year after treatment, two of the three people with advanced chronic lymphocytic leukemia were reported to be cancer-free and in 2013, three of five subjects who had acute lymphocytic leukemia were reported to be in remission for five months to two years. Subsequent studies with a variety of CAR-T types continue to be promising. As of 2018, two CAR-T therapies have been approved by the Food and Drug Administration. CAR-T treatment has significant side effects, and loss of the antigen targeted by the CAR-T cells is a common mechanism for relapse. The stem cells that cause different types of leukemia are also being researched.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Leukemia is rarely associated with pregnancy, affecting only about 1 in 10,000 pregnant women. How it is handled depends primarily on the type of leukemia. Nearly all leukemias appearing in pregnant women are acute leukemias. Acute leukemias normally require prompt, aggressive treatment, despite significant risks of pregnancy loss and birth defects, especially if chemotherapy is given during the developmentally sensitive first trimester. Chronic myelogenous leukemia can be treated with relative safety at any time during pregnancy with Interferon-alpha hormones. Treatment for chronic lymphocytic leukemias, which are rare in pregnant women, can often be postponed until after the end of the pregnancy.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hematologic diseases, the large class of blood-related disorders, including leukemia",
+    "date": null,
+    "verdict": null
+  }
+]

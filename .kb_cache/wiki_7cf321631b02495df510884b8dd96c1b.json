@@ -1,0 +1,950 @@
+[
+  {
+    "source": "wikipedia",
+    "text": "Chronic lymphocytic leukemia (CLL) is a type of cancer that affects the blood and bone marrow. In CLL, the bone marrow makes too many lymphocytes, which are a type of white blood cell. In patients with CLL, B cell lymphocytes can begin to collect in their blood, spleen, lymph nodes, and bone marrow. These cells do not function well and crowd out healthy blood cells. CLL is divided into two main types:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Many people do not have any symptoms when they are first diagnosed. Those with symptoms (about 5-10% of patients with CLL) may experience the following:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "While the exact cause of CLL is unknown, having a family member with CLL increases one's risk of developing the disease. Environmental risk factors include exposure to Agent Orange, ionizing radiation, and certain insecticides. The use of tobacco is also associated with an increased risk of having CLL.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Diagnosis is typically based on blood tests that find high numbers of mature lymphocytes and smudge cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "When patients with CLL are not experiencing symptoms (i.e. are asymptomatic), they only need careful observation. This is because there is currently no evidence that early intervention can alter the course of the disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Patients with CLL have an increased risk of developing serious infections. Doctors often routinely monitor patients for infections, treating them with antibiotics if a bacterial infection is present.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In patients with significant signs or symptoms, treatment can involve chemotherapy, immunotherapy, or chemoimmunotherapy. The most appropriate treatment is based on the individual's age, physical condition, and whether they have the del(17p) or TP53 mutation.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Bruton tyrosine kinase inhibitors (BTKi), such as ibrutinib, zanubrutinib, and acalabrutinib",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "B-cell lymphoma-2 (BCL-2) inhibitor, venetoclax, plus a CD20 antibody obinutuzumab, OR",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CLL is the most common type of leukemia in the Western world. It most commonly affects individuals over the age of 65, due to the accumulation of genetic mutations that occur over time. CLL is rarely seen in individuals less than 40 years old. Men are more commonly affected than women, although the average lifetime risk for both genders are similar (around 0.5-1%). It represented less than 1% of deaths from cancer between 1980 and 2015.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Most people are diagnosed as having CLL based on the result of a routine blood test that shows a high white blood cell count, specifically a large increase in the number of circulating lymphocytes. Most commonly, patients have no symptoms at first. In a small number of cases, patients with CLL may present with enlarged lymph nodes, partially in areas around the neck, armpit, or groin.  In rare circumstances, the disease is recognized only after the cancerous cells overwhelm the bone marrow, resulting in low red blood cells, neutrophils, or platelets. This can then result in symptoms such as fever, easy bleeding/bruising, night sweats, weight loss, and increased tiredness. In some instances, the cancerous cells can accumulate in the spleen and result in splenomegaly.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "About 25% of patients with CLL have very low levels of antibodies in their bloodstream (hypogammaglobulinemia) at diagnosis, with several more patients developing this throughout the course of their disease. This decrease in antibodies increases the patient's risk of recurrent infections and other autoimmune complications, such as autoimmune hemolytic anemia and immune thrombocytopenia. Autoimmune hemolytic anemia occurs in about 5-10% of CLL patients, which is when one's own immune system attacks its own red blood cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A more serious complication called Richter's transformation (RT) occurs in 2-10% of patients with CLL. This is a process in which the original CLL cells convert to a far more aggressive disease that has the biology and histopathology of diffuse large B cell lymphoma or less commonly Hodgkin's lymphoma. These patients typically present with a sudden clinical deterioration that can be characterized by unexplained fevers or weight loss, asymmetric and rapid growth of lymph nodes, and/or a significant drop in the number of white blood cells, red blood cells, or platelets. Treatment for RT typically consists of various chemotherapy/chemo-immunotherapy protocols.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CLL has also been reported to convert into other more aggressive diseases such as lymphoblastic lymphoma, hairy cell leukemia, high grade T cell lymphomas, acute myeloid leukemia, lung cancer, brain cancer, melanoma of the eye or skin, salivary gland tumors, and Kaposi's sarcomas. While some of these conversions have been termed RTs, the World Health Organization and most reviews have defined RT as a conversion of CLL/SLL into a disease with DLBCL or HL histopathology.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Gastrointestinal (GI) involvement can also rarely occur with chronic lymphocytic leukemia. Some of the reported manifestations include intussusception, small intestinal bacterial contamination, colitis, and bleeding. Usually, GI complications with CLL occur after Richter transformation.  Two cases to date have been reported of GI involvement in chronic lymphocytic leukemia without Richter's transformation.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The exact cause of CLL is unknown. However, family history has been strongly correlated with the development of disease. Environmental factors may also play a role in the development of CLL. For instance, exposure to Agent Orange increases the risk of CLL, and exposure to hepatitis C virus may increase the risk.  There is no clear association between ionizing radiation exposure and the risk of developing CLL. Blood transfusions have been ruled out as a risk factor.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CLL results from an unusual growth and expansion of white blood cells. This manifestation typically begins with a single hematopoietic stem cell that acquires certain mutations over time that allows it to continue to expand and grow at a faster rate than other cells. Each patient with CLL may be affected by a different set of mutations, making these cells sometimes difficult to target and treat. Some of the most common mutations that have been found in CLL-affected cells include the following: NOTCH1, TP53, ATM, and SF3B1.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CLL can also be caused by a number of epigenetic changes, which are adaptations that add a tag to specific DNA sequences, rather than altering the sequence itself. In CLL, these changes can be classified into the addition of three different methyl subgroups (na\u00efve B-cell-like, memory B-cell-like, and intermediate), which impact how much that DNA sequence is transcribed. Some relevant genetic mutations may be inherited. Since there is no one single mutation that is associated with CLL in all cases, an individual's susceptibility may be impacted when multiple mutations that are associated with an increase in the risk of CLL are co-inherited. Up until 2020, 45 susceptibility loci have been identified. Of these loci, 93% are linked to the alteration of 30 gene expressions involved in immune response, cell survival, or Wnt signaling.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As CLL cells accumulate, they begin to promote inflammation and an immunosuppressive environment through the release of different chemical signals.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CLL is commonly preceded by a pre-cancerous state known as monoclonal B-cell lymphocytosis (MBL). This occurs when there is in an increase in a specific type of white blood cells but the number remains less than 5 billion cells per liter (L) (5 billion/L) of blood. This subtype, termed chronic lymphocytic leukemia-type MBL (CLL-type MBL) is an asymptomatic, indolent, and chronic disorder in which people exhibit a mild increase in the number of circulating B-cell lymphocytes. These B-cells are monoclonal, which means they are produced by a single ancestral B-cell. They share some of the same cell marker proteins, chromosome abnormalities, and gene mutations that are found in CLL.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Low-count MBL has monoclonal B-cell blood counts of <0.5 billion cells/liter (i.e. 0.5 billion/L)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "High-count MBL has blood monoclonal B-cell counts \u22650.5 billion/L but <5 billion/L.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Low-count MBL rarely if ever progresses to CLL, while high-count CLL/SLL MBL does so at a rate of around 1% per year. Thus, CLL may present in individuals with a long history of having high-count MBL. There is no established treatment for these individuals except monitoring for development of the disorder's various complications (see treatment of MBL complications) and for their progression to CLL.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The diagnosis of CLL is based on the demonstration of an abnormal population of B lymphocytes in the blood, bone marrow, or tissues that display an unusual but characteristic pattern of molecules on the cell surface. CLL is usually first suspected by a diagnosis of lymphocytosis, an increase in a type of white blood cell, on a complete blood count test. This frequently is an incidental finding on a routine physician visit. Most often the lymphocyte count is greater than 5000 cells per microliter (\u03bcL) of blood but can be much higher. The presence of lymphocytosis in a person who is elderly should raise strong suspicion for CLL, and a confirmatory diagnostic test, in particular flow cytometry should be performed unless clinically unnecessary.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In order to be diagnosed with CLL, the patient must have a white blood cell count greater than 5 billion cells per liter (L) (5 billion/L) of blood. If CLL-type cells are mainly found in the lymph nodes or lymphoid tissue (such as the spleen), a diagnosis of small lymphocytic lymphoma (SLL) is made. When these cancerous cells appear mostly in the blood, the disease is classified as CLL.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Staging, which helps determine the extent of the disease, is done using one of two systems: the Rai staging system (most commonly used in the United States) or the Binet classification(most commonly used in Europe). These systems are simple, requiring the use of only physical examination and blood test results.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Low-risk disease (formerly Stage 0): characterized by lymphocytosis with cancer cells in the blood and/or bone marrow without lymphadenopathy, hepatosplenomegaly, anemia, or thrombocytopenia",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Intermediate-risk disease (formerly Stage I/II): characterized by lymphocytosis, swollen lymph nodes (may be palpable or not), spleen enlargement, and/or liver enlargement",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "High-risk disease (formerly Stage III/IV): characterized by lymphocytosis with associated anemia (hemoglobin <11 g/dL) OR thrombocytopenia (<100,000/mm3) with or without lymphadenopathy, hepatomegaly, splenomegaly, or anemia",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "This classification system is based on the number of areas within the body that have been affected and the presence of anemia or thrombocytopenia. Areas of involvement include the (1) head and neck (considered one), (2) one or both of the armpits, (3) the groin, (4) the spleen, and (5) the liver. They are considered affected if a lymph node greater than 1 cm in diameter is present and/or the spleen or liver are palpable.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Clinical stage A: characterized by no anemia (Hb > 10 g/dL) or thrombocytopenia (platelets > 100 billion/L) and no greater than two areas of lymphoid involvement (described above)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Clinical stage B: characterized by no anemia (Hb > 10 g/dL) or thrombocytopenia (platelets > 100 billion/L) with three or more areas of lymphoid involvement",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Clinical stage C: characterized by anemia (Hb < 10 g/dL) and/or thrombocytopenia (platelets < 100 billion/L) regardless of the number of areas of lymph node or organ enlargement",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Array-based karyotyping is a cost-effective alternative to FISH for detecting chromosomal abnormalities in CLL. Several clinical validation studies have shown >95% concordance with the standard CLL FISH panel.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "=== Molecular examination of peripheral blood and flow cytometry ===",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The combination of the microscopic examination of the peripheral blood and analysis of the lymphocytes by flow cytometry to confirm clonality and molecular expression is needed to establish the diagnosis of CLL. Both are easily accomplished with a small sample of blood.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A flow cytometer instrument can examine the expression of molecules on individual cells. This requires the use of specific antibodies to cell-surface molecules that have fluorescent tags that are recognized by the instrument. In CLL, the lymphocytes are all genetically identical since they are derived from the same B cell lineage. CLL cells can express the typical B-cell markers such as CD19 and CD20, as well as abnormal surface markers such as CD5 and CD23.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On a peripheral blood smear, CLL cells resemble normal lymphocytes, although slightly smaller. They are also very fragile and susceptible to breaking when smeared onto a glass slide, giving rise to \"smudge\" or \"smear\" cells, which are a hallmark of the disease. Smudge cells are a result of CLL cells lacking vimentin, a type of cytoskeleton proteins which is a structural component in a cell which maintains the cell's internal shape and mechanical resilience).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The atypical molecular pattern on the surface of the cell includes the co-expression of cell surface markers clusters of differentiation 5 (CD5) and 23. In addition, all the CLL cells within one individual are clonal, that is, genetically identical. In practice, this is inferred by the detection of only one of the mutually exclusive antibody light chains, kappa or lambda, on the entire population of the abnormal B cells. Normal B lymphocytes consist of a stew of different antibody-producing cells, resulting in a mixture of both kappa- and lambda-expressing cells. The lack of the normal distribution of these B cells is one basis for demonstrating clonality, the key element for establishing a diagnosis of any B cell malignancy (B cell non-Hodgkin lymphoma). The Matutes's CLL score allows the identification of a homogeneous subgroup of classical CLL, that differs from atypical/mixed CLL for the five markers' expression (CD5, CD23, FMC7, CD22, and immunoglobulin light chain)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Matutes's CLL scoring system is very helpful for the differential diagnosis between classical CLL and the other B cell chronic lymphoproliferative disorders, but not for the immunological distinction between mixed/atypical CLL and mantle cell lymphoma (MCL malignant B cells). Discrimination between CLL and MCL can be improved by adding non-routine markers such as CD54 and CD200. Among routine markers, the most discriminating feature is the CD20/CD23 mean fluorescence intensity ratio. FMC7 expression can be misleading for borderline cases.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In the past, cases with similar microscopic appearance in the blood but with a T cell phenotype were referred to as T-cell CLL. However, these are now recognized as a separate disease group and are currently classified as T-cell prolymphocytic leukemias (T-PLL). An accurate diagnosis of T-PLL is important as it is a rare and aggressive disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CLL should not be confused with acute lymphoblastic leukemia, a highly aggressive leukemia most commonly diagnosed in children, and highly treatable in the pediatric setting.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hematologic disorders that may resemble CLL in their clinical presentation, behavior, and microscopic appearance include mantle cell lymphoma, marginal zone lymphoma, B cell prolymphocytic leukemia, and lymphoplasmacytic lymphoma.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "B cell prolymphocytic leukemia, a related, but more aggressive disorder, has cells with similar phenotype, but are significantly larger than normal lymphocytes and have a prominent nucleolus. The distinction is important as the prognosis and therapy differ from CLL.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hairy cell leukemia is also a neoplasm of B lymphocytes, but the neoplastic cells have a distinct morphology under the microscope (hairy cell leukemia cells have delicate, hair-like projections on their surfaces) and unique marker molecule expression.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "All the B cell malignancies of the blood and bone marrow can be differentiated from one another by the combination of cellular microscopic morphology, marker molecule expression, and specific tumor-associated gene defects. This is best accomplished by evaluation of the patient's blood, bone marrow, and occasionally lymph node cells by a pathologist with specific training in blood disorders. A flow cytometer is necessary for cell marker analysis, and the detection of genetic problems in the cells may require visualizing the DNA changes with fluorescent probes by FISH.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CLL treatment focuses on controlling and limiting the progress of the disease and its symptoms, as it remains incurable as of 2017. In patients with few to no symptoms, watchful waiting with close observation is generally appropriate.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Treatment is recommended when patients become symptomatic or experience one of the following:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Dangerous drops in their red blood cell or platelet count",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A doubling of their white blood cells in 6 months or less",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As of 2024, first-line treatment for CLL involves the use of targeted biological therapy. Other treatment options include:  chemotherapy, radiation therapy, bone marrow transplantation, and supportive or palliative care.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Radiation therapy is usually only done in patients with SLL who have symptomatic localized disease, such as bulky lymph nodes. In special circumstances, patients can develop massive splenomegaly that may lead to the destruction of red blood cells, white blood cells, and platelets. In these cases, the patient may be treated with steroids or IVIG; however, if the patient does not respond to these treatments, they may have to undergo a splenectomy, removal of the spleen.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CLL treatment regimens vary depending on the patient's age, physical health, and progression of their disease. There are several agents that may be used for the treatment of CLL.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Treatment approaches for SLL and CLL are usually the same.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "While it is generally considered incurable, CLL progresses slowly in most cases. Many people with CLL lead normal and active lives for many years\u2014in some cases for decades. Because of its slow onset, asymptomatic early-stage CLL (Rai 0, Binet A) is, in general, not treated since it is believed that early-stage CLL intervention does not improve survival time or quality of life. Instead, the condition is monitored over time to detect any change in the disease pattern.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "There are two widely used staging systems in CLL to determine when and how to treat the patient: The Rai staging system, used in the United States, and the Binet system in Europe. Both these systems attempt to characterize the disease based on the bulk and marrow failure.  A \"watchful waiting\" strategy is used for most patients with CLL.  The International Workshop on CLL (iwCLL) has issued guidelines with specific markers that should be met to initiate treatment, generally based on evidence for progressive symptomatic disease (summarized as \"active disease\").",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Targeted therapy attacks cancer cells at a specific target, with the aim of not harming normal cells. In patients with CLL, B-cell receptor (BCR) signaling appears to play a vital role in the growth and survival of CLL cells. BCR signaling is supported by a number of different tyrosine kinase inhibitors (such as BTK, PI3K, etc.), which can all be targeted in order to help interfere with the growth of these CLL cells. Another mechanism that CLL cells use to avoid destruction involves the use of proteins in the B-cell lymphoma (Bcl-2) family. By blocking the function of those Bcl-2 proteins, targeted drugs can prevent further progression of CLL-related tumors.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Some of the most common biological drugs used to treat CLL include:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CD20 is a protein that is found on the surface of B-cells and thus serves as an important target in the treatment of many B-cell malignances, including CLL. Some CD20 antibodies that have been used for the treatment of CLL include:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "These agents are usually used in refractory/relapsed disease or in combination with other agents, like chlorambucil (CLB), fludarabine, or venetoclax.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Alemtuzumab targets the CD52 receptor, which is usually found on the surface of many immune cells. This agent is also primarily used in refractory disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Monotherapy using alkylating agents (i.e.  chlorambucil and bendamustine) served as a front-line therapy for CLL for many years. In fact, chlorambucil (CLB), was the \"gold standard\" treatment for CLL for several decades. However, researchers found that it was not very effective at helping patients achieve remission; thus, it may not be used as frequently in practice anymore.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Combination chemotherapy regimens can be effective in both newly diagnosed and relapsed CLL. Combinations of fludarabine with alkylating agents (cyclophosphamide) produce higher response rates and longer progression-free survival than single agents:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Although the purine analogue fludarabine was shown to give superior response rates to chlorambucil (CLB) as primary therapy, the early use of fludarabine has not been shown to improve overall survival, and some clinicians prefer to reserve fludarabine for relapsed disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Chemoimmunotherapy with FCR has shown to improve response rates, progression-free survival, and overall survival in a large randomized trial in CLL patients selected for good physical fitness.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Autologous stem cell transplantation, using the recipient's own cells, is not curative.  Younger individuals, if at high risk for dying from CLL, may consider allogeneic hematopoietic stem cell transplantation (HSCT). Myeloablative (bone marrow killing) forms of allogeneic stem cell transplantation, a high-risk treatment using blood cells from a healthy donor, may be curative, but treatment-related toxicity is significant. An intermediate level, called reduced-intensity conditioning allogeneic stem cell transplantation, may be better tolerated by older or frail patients.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\"Refractory\" CLL is a disease that no longer responds favorably to treatment within six months following the last cancer therapy. In this case, more aggressive targeted therapies, such as BCR or BCL2 pathway inhibitors, have been associated with increased survival.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Prognosis can be affected by the type of genetic mutation that the person with CLL has. Some examples of genetic mutations and their prognoses are: mutations in the IGHV region are associated with a median overall survival (OS) of more than 20\u201325 years, while no mutations in this region is associated with a median OS of 8\u201310 years; deletion of chromosome 13q is associated with a median OS of 17 years; and trisomy of chromosome 12, as well as deletion of chromosome 11q, is associated with a median OS of 9\u201311 years. While prognosis is highly variable and dependent on various factors including these mutations, the average 5-year relative survival is 89.3% in the US as of 2021. Telomere length has been suggested to be a valuable prognostic indicator of survival. In addition, a person's sex has been found to have an impact on CLL prognosis and treatment efficacy. More specifically, females have been found to survive longer (without disease progression) than males, when treated with certain medications.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As of 2022, the most commonly used prognostic score is the CLL International Prognostic Index (CLL-IPI). This system takes into account the following factors:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Clinical stage (see the Rai and Binet staging systems above)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CLL is the most common type of leukemia in the Western world compared to non-Western regions such as Asia, Latin America, and Africa. It is observed globally that males are twice as likely than females to acquire CLL. CLL is primarily a disease of older adults, with 9 out of 10 cases occurring after the age of 50 years. The median age of diagnosis is 70 years. In young people, new cases of CLL are twice as likely to be diagnosed in men than in women. In older people, however, this difference becomes less pronounced: after the age of 80 years, new cases of CLL are diagnosed equally between men and women.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "According to the American Cancer Society, they estimate that there will about 23,690 new cases of CLL with about 4,460 deaths from CLL in the United States throughout 2025. Five-year survival following diagnosis is approximately 89% in the United States as of 2021. It represents less than 1% of deaths from cancer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Because of the prolonged survival, which was typically about 10 years in past decades, but which can extend to a normal life expectancy, the prevalence (number of people living with the disease) is much higher than the incidence (new diagnoses). CLL is the most common type of leukemia in the UK, accounting for 38% of all leukemia cases. Approximately 3,200 people were diagnosed with the disease in 2011.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In Western populations, subclinical \"disease\" can be identified in 3.5% of normal adults, and in up to 8% of individuals over the age of 70. That is, small clones of B cells with the characteristic CLL phenotype can be identified in many healthy elderly persons. The clinical significance of these cells is unknown.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CLL seems to be more rare in Asian countries, such as Japan, China, and Korea, accounting for less than 10% of all leukemias in those regions. A low incidence is seen in Japanese immigrants to the US, and in African and Asian immigrants to Israel.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Of all cancers involving the same class of blood cell, 7% of cases were CLL/SLL as of 2001.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "People who live near areas with considerable industrial pollution have an elevated risk of developing leukemia, particularly CLL.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In light of newer targeted therapies such as Bruton tyrosine kinase inhibitors and anti-CD20 monoclonal antibodies, the need for bone marrow transplants in patients with CLL has become rare. Bone marrow transplants are only recommended in specific cases when front-line therapies have either failed and/or the patient continues to relapse.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "There have been major advances in the treatment of patients with CLL over the past 10 years or so. Although this disease remains incurable, therapies such as Bruton tyrosine kinase inhibitors (including ibrutinib, acalabrutinib, and zanubrutinib), BCL-2 inhibitors (including venetoclax), and phosphatidylinositol 3-kinase inhibitors (including idelalisib and duvelisib) allow patients with CLL to now live longer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Despite the great success of these new targeted biological therapies so far, more research is needed in order to establish clearer guidelines on the optimal combination and sequence of these agents based on the patient's specific clinical presentation. Furthermore, for patients who do not respond to these agents, treatment options are limited. Thus, further research should be focused on discovering therapies that target other important chemical pathways.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Leukemia is rarely associated with pregnancy, affecting only about one in 10,000 pregnant women.  Treatment for chronic lymphocytic leukemias can often be postponed until after the end of the pregnancy.  If treatment is necessary, then giving chemotherapy during the second or third trimesters is less likely to result in pregnancy loss or birth defects than treatment during the first trimester.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Acute lymphoblastic leukemia (ALL) is a cancer of the lymphoid line of blood cells characterized by the development of large numbers of immature lymphocytes. Symptoms may include feeling tired, pale skin color, fever, easy bleeding or bruising, enlarged lymph nodes, or bone pain. As an acute leukemia, ALL progresses rapidly and is typically fatal within weeks or months if left untreated.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In most cases, the cause is unknown. Genetic risk factors may include Down syndrome, Li\u2013Fraumeni syndrome, or neurofibromatosis type 1. Environmental risk factors may include significant radiation exposure or prior chemotherapy. Evidence regarding electromagnetic fields or pesticides is unclear. Some hypothesize that an abnormal immune response to a common infection may be a trigger. The underlying mechanism involves multiple genetic mutations that results in rapid cell division. The excessive immature lymphocytes in the bone marrow interfere with the production of new red blood cells, white blood cells, and platelets. Diagnosis is typically based on blood tests and bone marrow examination.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Acute lymphoblastic leukemia is typically treated initially with chemotherapy aimed at bringing about remission. This is then followed by further chemotherapy typically over a number of years. Treatment usually also includes intrathecal chemotherapy since systemic chemotherapy can have limited penetration into the central nervous system and the central nervous system is a common site for relapse of acute lymphoblastic leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Treatment can also include radiation therapy if spread to the brain has occurred. Stem cell transplantation may be used if the disease recurs following standard treatment. Additional treatments such as Chimeric antigen receptor T cell immunotherapy are being used and further studied.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Acute lymphoblastic leukemia affected about 876,000 people globally in 2015 and resulted in about 111,000 deaths. It occurs most commonly in children, particularly those between the ages of two and five. In the United States it is the most common cause of cancer and death from cancer among children. Acute lymphoblastic leukemia is notable for being the first disseminated cancer to be cured. Survival for children increased from under 10% in the 1960s to 90% in 2015. Survival rates remain lower for babies (50%) and adults (35%).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Initial symptoms can be nonspecific, particularly in children. Over 50% of children with leukemia had one or more of five features: a liver one can feel (64%), a spleen one can feel (61%), pale complexion (54%), fever (53%), and bruising (52%). Additionally, recurrent infections, feeling tired, arm or leg pain, and enlarged lymph nodes can be prominent features. The B symptoms, such as fever, night sweats, and weight loss, are often present as well.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Central nervous system (CNS) symptoms such as cranial neuropathies due to meningeal infiltration are identified in less than 10% of adults and less than 5% of children, particularly mature B-cell ALL (Burkitt leukemia) at presentation.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The signs and symptoms of acute lymphoblastic leukemia are variable and include:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Headache, vomiting, lethargy, neck stiffness, or cranial nerve palsies (CNS involvement)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Bone pain, joint pain (caused by the spread of \"blast\" cells to the surface of the bone or into the joint from the marrow cavity)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Petechiae, which are tiny red spots or lines in the skin due to low platelet levels",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The cancerous cell in ALL is the lymphoblast. Normal lymphoblasts develop into mature, infection-fighting B-cells or T-cells, also called lymphocytes. Signals in the body control the number of lymphocytes so neither too few nor too many are made. In ALL, the normal development of some lymphocytes and the control over the number of lymphoid cells become defective.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "ALL emerges when a single lymphoblast gains many mutations to genes that affect blood cell development and proliferation. In childhood ALL, this process begins at conception with the inheritance of some of these genes. These genes, in turn, increase the risk that more mutations will occur in developing lymphoid cells. Certain genetic syndromes, like Down Syndrome, have the same effect. Environmental risk factors are also needed to help create enough genetic mutations to cause disease. Evidence for the role of the environment is seen in childhood ALL among twins, where only 10\u201315% of both genetically identical twins get ALL. Since they have the same genes, different environmental exposures explain why one twin gets ALL and the other does not.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Infant ALL is a rare variant that occurs in babies less than one-year-old. KMT2A (formerly MLL) gene rearrangements are most common and happen in the embryo or fetus before birth. These rearrangements result in increased expression of blood cell development genes by promoting gene transcription and through epigenetic changes. In contrast to childhood ALL, environmental factors are not thought to play a significant role. Aside from the KMT2A rearrangement, only one extra mutation is typically found. Environmental exposures are not needed to help create more mutations.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Common inherited risk factors include mutations in ARID5B, CDKN2A/2B, CEBPE, IKZF1, GATA3, PIP4K2A and, more rarely, TP53. These genes play important roles in cellular development, proliferation, and differentiation. Individually, most of these mutations are low risk for ALL. A significant risk of disease occurs when a person inherits several of these mutations together.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The uneven distribution of genetic risk factors may help explain differences in disease rates among ethnic groups. For instance, the ARID5B mutation is less common in ethnic African populations.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Several genetic syndromes also carry an increased risk of ALL. These include: Down syndrome, Fanconi anemia, Bloom syndrome, X-linked agammaglobulinemia, severe combined immunodeficiency, Shwachman\u2013Diamond syndrome, Kostmann syndrome, neurofibromatosis type 1, ataxia-telangiectasia, paroxysmal nocturnal hemoglobinuria, and Li\u2013Fraumeni syndrome. Fewer than 5% of cases are associated with a known genetic syndrome.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rare mutations in ETV6 and PAX5 are associated with a familial form of ALL with autosomal dominant patterns of inheritance.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The environmental exposures that contribute to the emergence of ALL are contentious and a subject of ongoing debate.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "High levels of radiation exposure from nuclear fallout is a known risk factor for developing leukemia. Evidence whether lesser radiation, as from x-ray imaging during pregnancy, increases the risk of disease remains inconclusive. Studies that have identified an association between x-ray imaging during pregnancy and ALL found only a slightly increased risk. Exposure to strong electromagnetic radiation from power lines has also been associated with a slightly increased ALL risk. This result is questioned as no causal mechanism linking electromagnetic radiation with cancer is known.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "High birth weight (greater than 4000 g or 8.8 lbs) is also associated with a small increased risk. The mechanism connecting high birth weight to ALL is also not known.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Evidence suggests that secondary leukemia can develop in individuals treated with certain types of chemotherapy, such as epipodophyllotoxins and cyclophosphamide.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "There is some evidence that a common infection, such as influenza, may indirectly promote the emergence of ALL. The delayed-infection hypothesis states that ALL results from an abnormal immune response to infection in a person with genetic risk factors. Delayed development of the immune system due to limited disease exposure may result in excessive production of lymphocytes and increased mutation rate during an illness.  Several studies have identified lower ALL rates among children with greater exposure to illness early in life. Very young children who attend daycare have lower rates of ALL. Evidence from many other studies looking at disease exposure and ALL is inconclusive. Some researchers have linked the hygiene hypothesis.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Several characteristic genetic changes lead to the creation of a leukemic lymphoblast. These changes include chromosomal translocations, intrachromosomal rearrangements, changes in the number of chromosomes in leukemic cells, and additional mutations in individual genes. Chromosomal translocations involve moving a large region of DNA from one chromosome to another. This move can result in placing a gene from one chromosome that promotes cell division to a more actively transcribed area on another chromosome. The result is a cell that divides more often. An example of this includes the translocation of C-MYC, a gene that encodes a transcription factor that leads to increased cell division, next to the immunoglobulin heavy- or light-chain gene enhancers, leading to increased C-MYC expression and increased cell division. Other large changes in chromosomal structure can result in the placement of two genes directly next to each other. The result is the combination of two usually separate proteins into a new fusion protein. This protein can have a new function that promotes the development of cancer. Examples of this include the ETV6\u2013RUNX1 fusion gene that combines two factors that promote blood cell development and the BCR-ABL1 fusion gene of the Philadelphia chromosome. BCR\u2013ABL1 encodes an always-activated tyrosine kinase that causes frequent cell division. These mutations produce a cell that divides more often, even in the absence of growth factors.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Other genetic changes in B-cell ALL include changes to the number of chromosomes within the leukemic cells. Gaining at least five additional chromosomes, called high hyperdiploidy, occurs more commonly. Less often, chromosomes are lost, called hypodiploidy, which is associated with a poorer prognosis. Additional common genetic changes in B-cell ALL involve non-inherited mutations to PAX5 and IKZF1. In T-cell ALL, LYL1, TAL1, TLX1, and TLX3 rearrangements can occur.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Acute lymphoblastic leukemia results when enough of these genetic changes are present in a single lymphoblast. In childhood ALL, for example, one fusion gene translocation is often found along with six to eight other ALL-related genetic changes. The initial leukemic lymphoblast copies itself into an excessive number of new lymphoblasts, none of which can develop into functioning lymphocytes. These lymphoblasts build up in the bone marrow and may spread to other sites in the body, such as lymph nodes, the mediastinum, the spleen, the testicles, and the brain, leading to the common symptoms of the disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Diagnosing ALL begins with a thorough medical history, physical examination, complete blood count, and blood smears. While many symptoms of ALL can be found in common illnesses, persistent or unexplained symptoms raise suspicion of cancer. Because many features on the medical history and examination are not specific to ALL, further testing is often needed. A large number of white blood cells and lymphoblasts in the circulating blood can be suspicious for ALL because they indicate a rapid production of lymphoid cells in the marrow. The higher these numbers typically point to a worse prognosis. While white blood cell counts at initial presentation can vary significantly, circulating lymphoblast cells are seen on peripheral blood smears in the majority of cases.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A bone marrow biopsy provides conclusive proof of ALL, typically with >20% of all cells being leukemic lymphoblasts. A lumbar puncture (also known as a spinal tap) can determine whether the spinal column and brain have been invaded. Brain and spinal column involvement can be diagnosed either through confirmation of leukemic cells in the lumbar puncture or through clinical signs of CNS leukemia as described above. Laboratory tests that might show abnormalities include blood count, kidney function, electrolyte, and liver enzyme tests.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Pathological examination, cytogenetics (in particular the presence of Philadelphia chromosome), and immunophenotyping establish whether the leukemic cells are myeloblastic (neutrophils, eosinophils, or basophils) or lymphoblastic (B lymphocytes or T lymphocytes). Cytogenetic testing on the marrow samples can help classify disease and predict how aggressive the disease course will be. Different mutations have been associated with shorter or longer survival. Immunohistochemical testing may reveal TdT or CALLA antigens on the surface of leukemic cells. TdT is a protein expressed early in the development of pre-T and pre-B cells, whereas CALLA is an antigen found in 80% of ALL cases and also in the \"blast crisis\" of CML.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Medical imaging (such as ultrasound or CT scanning) can find invasion of other organs, commonly the lungs, liver, spleen, lymph nodes, brain, kidneys, and reproductive organs.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In addition to cell morphology and cytogenetics, immunophenotyping, a laboratory technique used to identify proteins that are expressed on their cell surface, is a key component in the diagnosis of ALL. The preferred method of immunophenotyping is through flow cytometry. In the malignant lymphoblasts of ALL, expression of terminal deoxynucleotidyl transferase (TdT) on the cell surface can help differentiate malignant lymphocyte cells from reactive lymphocytes, white blood cells that are reacting normally to an infection in the body. On the other hand, myeloperoxidase (MPO), a marker for the myeloid lineage, is typically not expressed. Because precursor B cells and precursor T cells look the same, immunophenotyping can help differentiate the subtype of ALL and the level of maturity of the malignant white blood cells. The subtypes of ALL as determined by immunophenotype and according to the stages of maturation.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "An extensive panel of monoclonal antibodies to cell surface markers, particularly CD or cluster of differentiation markers, are used to classify cells by lineage. Below are immunological markers associated with B cell and T cell ALL.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Cytogenetic analysis has shown different proportions and frequencies of genetic abnormalities in cases of ALL from different age groups. This information is particularly valuable for classification and can in part explain the different prognoses of these groups. In regards to genetic analysis, cases can be stratified according to ploidy, a number of sets of chromosomes in the cell, and specific genetic abnormalities, such as translocations. Hyperdiploid cells are defined as cells with more than 50 chromosomes, while hypodiploid are defined as cells with less than 44 chromosomes. Hyperdiploid cases tend to carry a good prognosis while hypodiploid cases do not. For example, the most common specific abnormality in childhood B-ALL is the t(12;21) ETV6\u2013RUNX1 translocation, in which the RUNX1 gene, encoding a protein involved in transcriptional control of hemopoiesis, has been translocated and repressed by the ETV6\u2013RUNX1 fusion protein.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Below is a table with the frequencies of some cytogenetic translocations and molecular genetic abnormalities in ALL.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Historically, before 2008, ALL was classified morphologically using the French-American-British (FAB) system that heavily relied on morphological assessment. The FAB system takes into account information on size, cytoplasm, nucleoli, basophilia (color of cytoplasm), and vacuolation (bubble-like properties).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "While some clinicians still use the FAB scheme to describe tumor cell appearance, much of this classification has been abandoned because of its limited impact on treatment choice and prognostic value.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2008, the World Health Organization (WHO) classification of ALL was developed in an attempt to create a classification system that was more clinically relevant and could produce meaningful prognostic and treatment decisions. This system recognized differences in genetic, immunophenotype, molecular, and morphological features found through cytogenetic and molecular diagnostics tests. This subtyping helps determine the prognosis and the most appropriate treatment for each specific case of ALL.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The aim of treatment is to induce a lasting remission, defined as the absence of detectable cancer cells in the body (usually less than 5% blast cells in the bone marrow) or the absence of minimal residual disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Over the past several decades, there have been strides to increase the efficacy of treatment regimens, resulting in increased survival rates. Possible treatments for acute leukemia include chemotherapy, steroids, radiation therapy, intensive combined treatments (including bone marrow or stem cell transplants), targeted therapy, and/or growth factors.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Chemotherapy is the initial treatment of choice, and most people with ALL receive a combination of medications. There are no surgical options because of the body-wide distribution of the malignant cells. In general, cytotoxic chemotherapy for ALL combines multiple antileukemic drugs tailored to each person. Chemotherapy for ALL consists of three phases: remission induction, intensification, and maintenance therapy.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Adult chemotherapy regimens mimic those of childhood ALL; however, are linked with a higher risk of disease relapse with chemotherapy alone. Two subtypes of ALL (B-cell ALL and T-cell ALL) require special considerations when it comes to selecting an appropriate treatment regimen in adults with ALL. B-cell ALL is often associated with cytogenetic abnormalities (specifically, t(8;14), t (2;8), and t(8;22)), which require aggressive therapy consisting of brief, high-intensity regimens. T-cell ALL responds to cyclophosphamide-containing agents the most.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Recent updates on the treatment of adult acute lymphoblastic leukemia (ALL) include advancements in immunotherapy, particularly the use of monoclonal antibodies like blinatumomab and inotuzumab ozogamicin, which target specific cancer cells and are used alongside stem cell transplantation. Additionally, tyrosine kinase inhibitors (TKIs) such as imatinib and dasatinib are incorporated for Philadelphia chromosome-positive ALL, improving treatment outcomes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Radiation therapy (or radiotherapy) is used on painful bony areas, in high disease burdens, or as part of the preparations for a bone marrow transplant (total body irradiation). In the past, physicians commonly utilized radiation in the form of whole-brain radiation for central nervous system prophylaxis, to prevent the occurrence and/or recurrence of leukemia in the brain. Recent studies showed that CNS chemotherapy provided results as favorable but with fewer developmental side effects. As a result, the use of whole-brain radiation has been more limited. Most specialists in adult leukemia have abandoned the use of radiation therapy for CNS prophylaxis, instead using intrathecal chemotherapy.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Selection of biological targets based on their combinatorial effects on the leukemic lymphoblasts can lead to clinical trials for improvement in the effects of ALL treatment. Tyrosine-kinase inhibitors (TKIs), such as imatinib, are often incorporated into the treatment plan for people with Bcr-Abl1+ (Ph+) ALL. However, this subtype of ALL is frequently resistant to the combination of chemotherapy and TKIs, and allogeneic stem cell transplantation is often recommended upon relapse.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Blinatumomab is not only a promising add-on to chemotherapy in infant ALL, it is also a promising standalone therapy in children.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Chimeric antigen receptors (CARs) have been developed as a promising immunotherapy for ALL. This technology uses a single chain variable fragment (scFv) designed to recognize the cell surface marker CD19 as a method of treating ALL.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CD19 is a molecule found on all B-cells and can be used as a means of distinguishing the potentially malignant B-cell population. In this therapy, mice are immunized with the CD19 antigen and produce anti-CD19 antibodies. Hybridomas developed from mouse spleen cells fused to a myeloma cell line can be developed as a source for the cDNA encoding the CD19-specific antibody. The cDNA is sequenced and the sequence encoding the variable heavy and variable light chains of these antibodies are cloned together using a small peptide linker. This resulting sequence encodes the scFv. This can be cloned into a transgene, encoding what will become the endodomain of the CAR. Varying arrangements of subunits serve as the endodomain, but they generally consist of the hinge region that attaches to the scFv, a transmembrane region, the intracellular region of a costimulatory molecule such as CD28, and the intracellular domain of CD3-zeta containing ITAM repeats. Other sequences frequently included are: 4-1bb and OX40. The final transgene sequence, containing the scFv and endodomain sequences is then inserted into immune effector cells that are obtained from the person and expanded in vitro. In trials these have been a type of T-cell capable of cytotoxicity.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Inserting the DNA into the effector cell can be accomplished by several methods. Most commonly, this is done using a lentivirus that encodes the transgene. Pseudotyped, self-inactivating lentiviruses are an effective method for the stable insertion of a desired transgene into the target cell. Other methods include electroporation and transfection, but these are limited in their efficacy as transgene expression diminishes over time.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The gene-modified effector cells are then transplanted back into the person. Typically this process is done in conjunction with a conditioning regimen such as cyclophosphamide, which has been shown to potentiate the effects of infused T-cells. This effect has been attributed to making an immunologic space within which the cells populate. The process as a whole results in an effector cell, typically a T-cell, that can recognize a tumor cell antigen in a manner that is independent of the major histocompatibility complex and which can initiate a cytotoxic response.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2017, tisagenlecleucel was approved by the FDA as a CAR-T therapy for people with acute B-cell lymphoblastic leukaemia who did not respond adequately to other treatments or have relapsed. In a 22-day process, the \"drug\" is customized for each person. T cells purified from each person are modified by a virus that inserts genes that encode a chimaeric antigen receptor into their DNA, one that recognizes leukemia cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Obecabtagene autoleucel (Aucatzyl) was approved for medical use in the United States in November 2024.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Typically, people who experience a relapse in their ALL after initial treatment have a poorer prognosis than those who remain in complete remission after induction therapy. It is unlikely that recurrent leukemia will respond favorably to the standard chemotherapy regimen that was initially implemented, and instead, these people should be trialed on reinduction chemotherapy followed by allogeneic bone marrow transplantation. These people in relapse may also receive blinatumomab, as it has shown to increase remission rates and overall survival rates, without increased toxic effects.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Low-dose palliative radiation may also help reduce the burden of tumors inside or outside the central nervous system and alleviate some symptoms.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "There has also been evidence and approval of use for dasatinib, a tyrosine kinase inhibitor. It has shown efficacy in cases of people with Ph1-positive and imatinib-resistant ALL, but more research needs to be done on long-term survival and time to relapse.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Chemotherapies or stem cell transplantations may require a platelet transfusion to prevent bleeding. Moreover, patients undergoing a stem cell transplantation can develop a graft-versus-host disease (GvHD). It was evaluated whether mesenchymal stromal cells can be used to prevent a GvHD. The evidence is very uncertain about the therapeutic effect of mesenchymal stromal cells to treat graft-versus-host diseases after a stem cell transplantation on the all-cause mortality and complete disappearance of chronic acute graft-versus-host diseases. Mesenchymal stromal cells may result in little to no difference in the all-cause mortality, relapse of malignant disease, and incidence of acute and chronic graft-versus-host diseases if they are used for prophylactic reasons.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Adding physical exercises to the standard treatment for adult patients with haematological malignancies like ALL may result in little to no difference in mortality, quality of life, and physical functioning. These exercises may result in a slight reduction in depression. Furthermore, aerobic physical exercises probably reduce fatigue. The evidence is very uncertain about the effect on anxiety and serious adverse events.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Brexucabtagene autoleucel (Tecartus) was approved by the FDA in October 2021 for the treatment of adults with relapsed or refractory B-cell precursor ALL, and later by the EMA in December 2021.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Each dose of brexucabtagene autoleucel is a customized treatment created using the recipient's immune system to help fight the leukaeamia. The recipient's T cells, a type of white blood cell, are collected and genetically modified to include a new gene that facilitates the targeting and killing of the lymphoma cells. These modified T cells are then infused back into the recipient.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Helminthic therapy could be an interesting avenue to explore, according to the following study:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\"Impact of pinworm infection on the development of murine B-cell leukemia/lymphoma in the presence and absence of ETV6::RUNX1\"",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Before the development of chemotherapy regimens and hematopoietic stem cell transplants, children were surviving a median length of 3 months, largely due to either infection or bleeding. Since the advent of chemotherapy, the prognosis for childhood leukemia has improved greatly and children with ALL are estimated to have a 95% probability of achieving a successful remission after 4 weeks of initiating treatment. People in pediatric care with ALL in developed countries have a greater than 80% five-year survival rate. It is estimated that 60\u201380% of adults undergoing induction chemotherapy achieve complete remission after 4 weeks, and those over the age of 70 have a cure rate of 5%.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "However, there are differing prognoses for ALL among individuals depending on a variety of factors:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Ethnicity: Caucasians are more likely to develop acute leukemia than African-Americans, Asians, or Hispanics. However, they also tend to have a better prognosis than non-Caucasians.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Age at diagnosis: children 1\u201310 years of age are most likely to develop ALL and to be cured of it. Cases in older people are more likely to result from chromosomal abnormalities (e.g., the Philadelphia chromosome) that make treatment more difficult and prognoses poorer. Older people are also likely to have co-morbid medical conditions that make it even more difficult to tolerate ALL treatment.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "White blood cell count at diagnosis of greater than 30,000 (B-ALL) or 100,000 (T-ALL) is associated with worse outcomes",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Cancer spreading into the central nervous system (brain or spinal cord) has worse outcomes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Person's response to initial treatment and longer length of time required (greater than 4 weeks) to reach complete remission",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Genetic disorders, such as Down syndrome, and other chromosomal abnormalities (aneuploidy and translocations)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Cytogenetics, the study of characteristic large changes in the chromosomes of cancer cells, is an important predictor of outcome. Some cytogenetic subtypes have a worse prognosis than others. These include:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Person with t(9,22) positive-ALL (30% of adult ALL cases) and other Bcr-abl-rearranged leukemias are more likely to have a poor prognosis, but survival rates may rise with treatment consisting of chemotherapy and Bcr-abl tyrosine kinase inhibitors.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A translocation between chromosomes 4 and 11 occurs in about 4% of cases and is most common in infants under 12 months.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hyperdiploidy (>50 chromosomes) and t(12;21) are good prognostic factors and also makeup 50% of pediatric ALL cases.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Unclassified ALL is considered to have an intermediate prognosis risk, somewhere in-between the good and poor risk categories.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Acute lymphoblastic leukemia affected about 876,000 people and resulted in 111,000 deaths globally in 2015. It occurs in both children and adults with the highest rates seen between the ages three and seven years. Around 75% of cases occur before the age of 6 with a secondary rise after the age of 40. It is estimated to affect 1 in 1500 children.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Accounting for the broad age profiles of those affected, ALL newly occurs in about 1.7 per 100,000 people annually. Acute lymphoblastic leukemia represents approximately 20% of adults and 80% of childhood leukemias, making it the most common childhood cancer. Although 80 to 90% of children will have a long-term complete response with treatment, it remains the leading cause of cancer-related deaths among children. 85% of cases are of B-cell lineage and have an equal number of cases in both males and females. The remaining 15% of T-cell lineage have a male predominance.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Globally, ALL typically occurs more often in Caucasians, Hispanics, and Latin Americans than in Africans. In the US, ALL is more common in children from Caucasian (36 cases/million) and Hispanic (41 cases/million) descent when compared to those from African (15 cases/million) descent.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Leukemia is rarely associated with pregnancy, affecting only about 1 in 10,000 pregnant women. The management of leukemia in a pregnant woman depends primarily on the type of leukemia. Acute leukemias normally require prompt, aggressive treatment, despite significant risks of pregnancy loss and birth defects, especially if chemotherapy is given during the developmentally sensitive first trimester.",
+    "date": null,
+    "verdict": null
+  }
+]

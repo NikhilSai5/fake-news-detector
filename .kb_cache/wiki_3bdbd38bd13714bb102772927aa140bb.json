@@ -1,0 +1,596 @@
+[
+  {
+    "source": "wikipedia",
+    "text": "A month is a unit of time, used with calendars, that is approximately as long as a natural phase cycle of the Moon; the words month and Moon are cognates. The traditional concept of months arose with the cycle of Moon phases; such lunar months (\"lunations\") are synodic months and last approximately 29.53 days, making for roughly  12.37 such months in one Earth year. From excavated tally sticks, researchers have deduced that people counted days in relation to the Moon's phases as early as the Paleolithic age. Synodic months, based on the Moon's orbital period with respect to the Earth\u2013Sun line, are still the basis of many calendars today and are used to divide the year.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Calendars that developed from the Roman calendar system, such as the internationally used Gregorian calendar, divide the year into 12 months, each of which lasts between 28 and 31 days. The names of the months were Anglicized from various Latin names and events important to Rome, except for the months 9\u201312, which are named after the Latin numerals 7\u201310 (septem, octo, novem, and decem) because they were originally the seventh through tenth months in the Roman calendar. In the modern Gregorian calendar, the only month with a variable number of days is the second month, February, which has 29 days during a leap year and 28 days otherwise.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The following types of months are mainly of significance in astronomy. Most of them (but not the distinction between sidereal and tropical months) were first recognized in Babylonian lunar astronomy.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The sidereal month is defined as the Moon's orbital period in a non-rotating frame of reference (which on average is equal to its rotation period in the same frame). It is about 27.32166 days (27 days, 7 hours, 43 minutes, 11.6 seconds). It is closely equal to the time it takes the Moon to twice pass a \"fixed\" star (different stars give different results because all have a very small proper motion and are not really fixed in position).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A synodic month is the most familiar lunar cycle, defined as the time interval between two consecutive occurrences of a particular phase (such as new moon or full moon) as seen by an observer on Earth. The mean length of the synodic month is 29.53059 days (29 days, 12 hours, 44 minutes, 2.8 seconds). Due to the eccentricity of the lunar orbit around Earth (and to a lesser degree, the Earth's elliptical orbit around the Sun), the length of a synodic month can vary by up to seven hours.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The tropical month is the average time for the Moon to pass twice through the same equinox point of the sky. It is 27.32158 days, very slightly shorter than the sidereal month (27.32166) days, because of precession of the equinoxes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "An anomalistic month is the average time the Moon takes to go from perigee to perigee\u2014the point in the Moon's orbit when it is closest to Earth. An anomalistic month is about 27.55455 days on average.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The draconic month, draconitic month, or nodal month is the period in which the Moon returns to the same node of its orbit; the nodes are the two points where the Moon's orbit crosses the plane of the Earth's orbit. Its duration is about 27.21222 days on average.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A synodic month is longer than a sidereal month because the Earth-Moon system is orbiting the Sun in the same direction as the Moon is orbiting the Earth. The Sun moves eastward with respect to the stars (as does the Moon) and it takes about 2.2 days longer for the Moon to return to the same apparent position with respect to the Sun.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "An anomalistic month is longer than a sidereal month because the perigee moves in the same direction as the Moon is orbiting the Earth, one revolution in nine years. Therefore, the Moon takes a little longer to return to perigee than to return to the same star.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A draconic month is shorter than a sidereal month because the nodes move in the opposite direction as the Moon is orbiting the Earth, one revolution in 18.6 years. Therefore, the Moon returns to the same node slightly earlier than it returns to the same star.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "At the simplest level, most well-known lunar calendars are based on the initial approximation that 2 lunations last 59 solar days: a 30-day full month followed by a 29-day hollow month \u2014 but this is only roughly accurate and regularly needs intercalation (correction) by a leap day.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Additionally, the synodic month does not fit easily into the solar (or 'tropical') year, which makes accurate, rule-based lunisolar calendars that combine the two cycles complicated. The most common solution to this problem is the Metonic cycle, which takes advantage of the fact that 235 lunations are approximately 19 tropical years (which add up to not quite 6,940 days): 12 years have 12 lunar months, and 7 years are 13 lunar months long. However, a Metonic calendar based year will drift against the seasons by about one day every 2 centuries. Metonic calendars include the calendar used in the Antikythera Mechanism about 21 centuries ago, and the Hebrew calendar.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Alternatively in a pure lunar calendar, years are defined as having always 12 lunations, so a year is 354 or 355 days long: the Islamic calendar is the prime example.  Consequently, an Islamic year is about 11 days shorter than a solar year and cycles through the seasons in about 33 solar = 34 lunar years: the Islamic New Year has a different Gregorian calendar date in each (solar) year.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Purely solar calendars often have months which no longer relate to the phase of the Moon, but are based only on the motion of the Sun relative to the equinoxes and solstices, or are purely conventional like in the widely used Gregorian calendar.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The complexity required in an accurate lunisolar calendar may explain why solar calendars have generally replaced lunisolar and lunar calendars for civil use in most societies.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Hellenic calendars, the Hebrew Lunisolar calendar and the Islamic Lunar calendar started the month with the first appearance of the thin crescent of the new moon.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "However, the motion of the Moon in its orbit is very complicated and its period is not constant. The date and time of this actual observation depends on the exact geographical longitude as well as latitude, atmospheric conditions, the visual acuity of the observers, etc. Therefore, the beginning and lengths of months defined by observation cannot be accurately predicted.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "While some like orthodox Islam and the Jewish Karaites still rely on actual moon observations, reliance on astronomical calculations and tabular methods is increasingly common in practice.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "There are 12 months and an additional leap year month in the Ahom sexagenary calendar known as Lak-ni. The first month is Duin Shing.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Roman calendar was reformed several times, the last three enduring reforms during historical times. The last three reformed Roman calendars are called the Julian, Augustan, and Gregorian; all had the same number of days in their months. Despite other attempts, the names of the months after the Augustan calendar reform have persisted, and the number of days in each month (except February) have remained constant since before the Julian reform. The Gregorian calendar, like the Roman calendars before it, has twelve months, whose Anglicized names are:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The famous mnemonic Thirty days hath September is a common way of teaching the lengths of the months in the English-speaking world. The knuckles of the four fingers of one's hand and the spaces between them can be used to remember the lengths of the months. By making a fist, each month will be listed as one proceeds across the hand. All months landing on a knuckle are 31 days long and those landing between them are 30 days long, with variable February being the remembered exception. When the knuckle of the index finger is reached (July), go over to the first knuckle on the other fist, held next to the first (or go back to the first knuckle) and continue with August. This physical mnemonic has been taught to primary school students for many decades, if not centuries.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "This cyclical pattern of month lengths matches the musical keyboard alternation of wide white keys (31 days) and narrow black keys (30 days). The note F corresponds to January, the note F\u266f corresponds to February, the exceptional 28\u201329 day month, and so on.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The mean month-length in the Gregorian calendar is 30.436875 days.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Any five consecutive months that do not include February contain 153 days.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Intercalaris an intercalary month occasionally embedded into February, to realign the calendar.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Quintilis, later renamed to Julius in honour of Julius Caesar.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Romans divided their months into three parts, which they called the calends, the nones, and the ides. Their system is somewhat intricate.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The ides occur on the thirteenth day in eight of the months, but in March, May, July, and October, they occur on the fifteenth. The nones always occur 8 days (one Roman 'week') before the ides, i.e., on the fifth or the seventh. The calends are always the first day of the month, and before Julius Caesar's reform fell sixteen days (two Roman weeks) after the ides (except the ides of February and the intercalary month).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "==== Relations between dates, weekdays, and months in the Gregorian calendar ====",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Within a month, the following dates fall on the same day of the week:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "01, 08, 15, 22, and 29 (e.g., in January 2022, all these dates fell on a Saturday)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "02, 09, 16, 23, and 30 (e.g., in January 2022, all these dates fell on a Sunday)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "03, 10, 17, 24, and 31 (e.g., in January 2022, all these dates fell on a Monday)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "04, 11, 18, and 25 (e.g., in January 2022, all these dates fell on a Tuesday)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "05, 12, 19, and 26 (e.g., in January 2022, all these dates fell on a Wednesday)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "06, 13, 20, and 27 (e.g., in January 2022, all these dates fell on a Thursday)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "07, 14, 21, and 28 (e.g., in January 2022, all these dates fell on a Friday)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1 January and 31 December fall on the same weekday (e.g. in 2022 on a Saturday)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "29 February (the leap day) falls on the same weekday like 1, 8, 15, 22 February and 1 August (see above; e.g. in 2020 on a Saturday)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Adar 1 is only added 7 times in 19 years. In ordinary years, Adar 2 is simply called Adar.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "There are also twelve months in the Islamic calendar. They are named as follows:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rab\u012b' ath-Th\u0101n\u012b/Rabi' al-Aakhir/Rabi' II (Second spring or Last spring) \u0631\u0628\u064a\u0639 \u0627\u0644\u0622\u062e\u0631 \u0623\u0648 \u0631\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Jumada ath-Th\u0101n\u012b or Jum\u0101d\u0101 al-Th\u0101n\u012b/Jum\u0101d\u0101 II (Second Freeze or Last Freeze) \u062c\u0645\u0627\u062f\u0649 \u0627\u0644\u0622\u062e\u0631 \u0623\u0648 \u062c\u0645\u0627\u062f\u0649 \u0627\u0644\u062b\u0627\u0646\u064a",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "See Islamic calendar for more information on the Islamic calendar.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Hindu calendar has various systems of naming the months. The months in the lunar calendar are:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "These are also the names used in the Indian national calendar for the newly redefined months. Purushottam Maas or Adhik Maas (translit. adhika = 'extra', m\u0101sa = 'month') is an extra month in the Hindu calendar that is inserted to keep the lunar and solar calendars aligned. \"Purushottam\" is an epithet of Vishnu, to whom the month is dedicated.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The names in the solar calendar are just the names of the zodiac sign in which the sun travels. They are",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Bah\u00e1\u02bc\u00ed calendar is the calendar used by the Bah\u00e1\u02bc\u00ed Faith. It is a solar calendar with regular years of 365 days, and leap years of 366 days. Years are composed of 19 months of 19 days each (361 days), plus an extra period of \"Intercalary Days\" (4 in regular and 5 in leap years). The months are named after the attributes of God. Days of the year begin and end at sundown.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Iranian / Persian calendar, currently used in Iran, also has 12 months. The Persian names are included in the parentheses. It begins on the northern Spring equinox.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Bengali calendar, used in Bangladesh, follows solar months and it has six seasons. The months and seasons in the calendar are:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Different from the Hindu calendar, the Khmer calendar consists of both a lunar calendar and a solar calendar. The solar is used more commonly than the lunar calendar.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Khmer lunar calendar most often contains 12 months; however, the eighth month is repeated (as a \"leap month\") every two or three years, making 13 months instead of 12. Each lunar month has 29 or 30 days. The year normally has then 354 or 384 days (when an intercalary month is added), but the calendar follows the rules of the Gregorian calendar to determine leap years and add a lead day to one month, so the Khmer lunar year may have a total of 354, 355, 384 or 385 days.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Tongan calendar is based on the cycles of the Moon around the Earth in one year. The months are:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Pingelapese, a language from Micronesia, also uses a lunar calendar. There are 12 months associated with their calendar. The Moon first appears in March, they name this month Kahlek. This system has been used for hundreds of years and throughout many generations. This calendar is cyclical and relies on the position and shape of the Moon.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Sinhalese calendar is the Buddhist calendar in Sri Lanka with Sinhala names. Each full moon Poya day marks the start of a Buddhist lunar month. The first month is Bak.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The old Icelandic calendar is not in official use anymore, but some Icelandic holidays and annual feasts are still calculated from it. It has 12 months, broken down into two groups of six often termed \"winter months\" and \"summer months\". The calendar is peculiar in that the months always start on the same weekday rather than on the same date. Hence \u00deorri always starts on a Friday sometime between January 22 and January 28 (Old style: January 9 to January 15), G\u00f3a always starts on a Sunday between February 21 and February 27 (Old style: February 8 to February 14).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Harpa (mid-April \u2013 mid-May, Harpa is a female name, probably a forgotten goddess, first day of Harpa is celebrated as Sumardagurinn fyrsti \u2013 first day of summer)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Like the Old Norse calendar, the Anglo-Saxons had their own calendar before they were Christianized which reflected native traditions and deities. These months were attested by Bede in his works On Chronology and The Reckoning of Time written in the 8th century. His Old English month names are probably written as pronounced in Bede's native Northumbrian dialect. The months were named after the Moon; the new moon marking the end of an old month and start of a new month; the full moon occurring in the middle of the month, after which the whole month took its name.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "When an intercalary month was needed, a third Litha month was inserted in mid-summer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Coligny calendar (Gaulish/Celtic) is an Iron Age Metonic lunisolar calendar, with 12 lunar months of either 29 or 30 days. The lunar month is calculated to a precision of within 24 hours of the lunar phase, achieved by a particular arrangement of months, and the month of EQUOS having a variable length of 29 or 30 days to adjust for any lunar slippage.  This setup means the calendar could stay precisely aligned to its lunar phase indefinitely.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The lunar month is divided into two halves, the first of 15 days and the second of 14 or 15 days. The month is calculated to start at the first quarter moon, with the full moon at the centre of the first half-month and the dark moon at the centre of the second half-month.  The calendar does not rely on unreliable visual sightings.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "An intercalary lunar month is inserted before every 30 lunar months to keep in sync with the solar year. Every 276 years this adds one day to the solar point, so if for example the calendar was 1,000 years old, it would only have slipped by less than 4 days against the solar year.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Historically Hungary used a 12-month calendar that appears to have been zodiacal in nature but eventually came to correspond to the Gregorian months as shown below:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "B\u00f6jtel\u0151 hava (February, 'month of early fasting/Lent' or 'month before fasting/Lent')",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\u00danor \u2013 derives from 'no\u0159it' (to dive, referring to the ice sinking into the water due to melting)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\u010cerven \u2013 derives from '\u010derven\u00e1' (red \u2013 for the color of apples and tomatoes)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\u010cervenec \u2013 is the second '\u010derven' (formerly known as 2nd \u010derven)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Srpen \u2013 derives from old Czech word 'sirpsti' (meaning to reflect, referring to the shine on the wheat)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\u0158\u00edjen \u2013 derives from 'jelen\u00ed \u0159\u00edje', which refers to the estrous cycle of female elk",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Prosinec \u2013 derives from old Czech 'prosin\u011bti', which means to shine through (refers to the sun light shining through the clouds)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The ancient civil Egyptian calendar had a year that was 365 days long and was divided into 12 months of 30 days each, plus 5 extra days (epagomenes) at the end of the year. The months were divided into 3 \"weeks\" of ten days each. Because the ancient Egyptian year was almost a quarter of a day shorter than the solar year and stellar events \"wandered\" through the calendar, it is referred to as Annus Vagus or \"Wandering Year\".",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Nisga'a calendar coincides with the Gregorian calendar with each month referring to the type of harvesting that is done during the month.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "K'aliiyee = Going North \u2013 referring to the Sun returning to its usual place in the sky",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Buxwlaks = Needles Blowing About \u2013 February is usually a very windy month in the Nass River Valley",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Xsaak = To Eat Oolichans \u2013 Oolichans are harvested during this month",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Mmaal = Canoes \u2013 The river has defrosted, hence canoes are used once more",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Yansa'alt = Leaves are Blooming \u2013 Warm weather has arrived and leaves on the trees begin to bloom",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Miso'o = Sockeye \u2013 majority of Sockeye Salmon runs begin this month",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Wii Hoon = Great Salmon \u2013 referring to the abundance of Salmon that are now running",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Genuugwwikw = Trail of the Marmot \u2013 Marmots, Ermines and animals as such are hunted",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Xlaaxw = To Eat Trout \u2013 trout are mostly eaten this time of year",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Gwilatkw = To Blanket \u2013 The earth is \"blanketed\" with snow",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Luut'aa = Sit In \u2013 the Sun \"sits\" in one spot for a period of time",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "This calendar was proposed during the French Revolution, and used by the French government for about twelve years from late 1793. There were twelve months of 30 days each, grouped into three ten-day weeks called d\u00e9cades. The five or six extra days needed to approximate the tropical year were placed after the months at the end of each year. A period of four years ending on a leap day was to be called a Franciade. It began at the autumn equinox:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Ojibwe month names are based on the key feature of the month. Consequently, months between various regions have different names based on the key feature of each month in their particular region. In the Eastern Ojibwe, this can be seen in when the sucker makes its run, which allows the Ojibwe to fish for them. Additionally, Rhodes also informs of not only the variability in the month names, but how in Eastern Ojibwe these names were originally applied to the lunar months the Ojibwe originally used, which was a lunisolar calendar, fixed by the date of Akiinaaniwan (typically December 27) that marks when sunrise is the latest in the Northern Hemisphere.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Last Month of the Year is an album of Christmas music by the Kingston Trio, released in 1960 (see 1960 in music). It became the first Kingston Trio album release to fall below expected sales and Capitol withdrew the album from circulation shortly after its release.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Last Month of the Year is considered their most musically ambitious and also one of the Trio's least known. It was recorded in 1960 between shows at The Ambassador Hotel in Los Angeles.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Nick Reynolds stated in an interview for the liner notes of The Guard Years: \"It wasn't your standard Christmas album. That's why we called it The Last Month of the Year. It was a pretty complicated little album, some very intricate stuff. Dave (Guard) brought in a lot of the arrangements with stuff like bouzouki instrumentation; Buckwheat (David Wheat, the Trio's bassist) played some wonderful gut-string guitar. We really worked hard on that one, laying down a lot of the instrumental tracks before we did the vocals, working on harmonies over and over. David (Guard) was responsible for a lot of that album, but we all brought things in... Musically, it came off very well; it just didn't sell.\"",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Sales for the album fell far below expected sales and Capitol withdrew the album from circulation shortly after its release.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In his Allmusic review, critic David A. Milberg called The Last Month of the Year \"An essential part of any Christmas album collection, these are true Christmas folk songs, from spirituals to Old English rounds.\"",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Last Month of the Year was reissued in 1991 on CD by Capitol, with eight other albums from the Dave Guard era.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 1997, all of the tracks from The Last Month of the Year were included in The Guard Years 10-CD box set issued by Bear Family Records.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The album was reissued on CD again in 1999 by Collectors' Choice Music and once more in 2014 by Real Gone Music.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\"Bye Bye Thou Little Tiny Child\" (Dave Guard) \u2013 2:35",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\"The White Snows of Winter\" (Bob Shane, Tom Drake) \u2013 2:34",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\"We Wish You a Merry Christmas\" (Paul Campbell) \u2013 1:34",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\"Go Where I Send Thee\" (Dave Guard, Reynolds, Shane) \u2013 2:31",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\"The Last Month of the Year (What Month Was Jesus Born In)\" (Vera Hall, Ruby Pickens Tartt, Alan Lomax) \u2013 2:37",
+    "date": null,
+    "verdict": null
+  }
+]

@@ -1,0 +1,812 @@
+[
+  {
+    "source": "wikipedia",
+    "text": "Pe\u030dh-\u014de-j\u012b ( pay-way-JEE; Taiwanese Hokkien: \u767d\u8a71\u5b57, pronounced [pe\u02e9\u02c0 o\u032fe\u031e\u02e9 d\u0361\u0291i\u02e7] , lit.\u2009'vernacular writing'; POJ), also known as Church Romanization, is an orthography used to write variants of Hokkien Southern Min, particularly Taiwanese and Amoy Hokkien, and it is widely employed as one of the writing systems for Southern Min. During its peak, it had hundreds of thousands of readers.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Developed by Western missionaries working among the Chinese diaspora in Southeast Asia in the 19th century and refined by missionaries working in Xiamen and Tainan, it uses a modified Latin alphabet and some diacritics to represent the spoken language. After initial success in Fujian, POJ became most widespread in Taiwan and, in the mid-20th century, there were over 100,000 people literate in POJ. A large amount of printed material, religious and secular, has been produced in the script, including Taiwan's first newspaper, the Taiwan Church News.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "During Japanese rule (1895\u20131945), the use of Pe\u030dh-\u014de-j\u012b was suppressed and Taiwanese kana encouraged; it faced further suppression during the Kuomintang martial law period (1947\u20131987). In Fujian, use declined after the establishment of the People's Republic of China (1949) and by the early 21st century the system was not in general use there. However, Taiwanese Christians, non-native learners of Southern Min, and native-speaker enthusiasts in Taiwan are among those that continue to use Pe\u030dh-\u014de-j\u012b. Full computer support was achieved in 2004 with the release of Unicode 4.1.0, and POJ is now implemented in many fonts, input methods, and is used in extensive online dictionaries.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Versions of Pe\u030dh-\u014de-j\u012b have been devised for other Southern Chinese varieties, including Hakka and Teochew Southern Min. Other related scripts include Pha\u030dk-fa-s\u1e73 for Hakka, B\u01fdh-oe-tu for Hainanese, B\u00e0ng-u\u00e2-c\u00ea for Fuzhou, Pe\u030dh-\u016be-j\u012b for Teochew, G\u1e73\u033fing-n\u01ceing L\u00f4\u0324-m\u01ce-c\u012b for Northern Min, and Hing-hua\u030d b\u00e1\u207f-u\u0101-ci\u030d for Pu-Xian Min.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2006, the Taiwanese Romanization System (T\u00e2i-l\u00f4), a government-sponsored successor based on Pe\u030dh-\u014de-j\u012b, was released. Despite this, native language education, and writing systems for Taiwanese, have remained a fiercely debated topic in Taiwan.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "POJ laid the foundation for the creation of new literature in Taiwan. Before the 1920s, many people had already written literary works in POJ, contributing significantly to the preservation of Southern Min vocabulary since the late 19th century. On October 14, 2006, the Ministry of Education in Taiwan announced the Taiwanese Romanization System or T\u00e2i-l\u00f4 based on POJ as the standard spelling system for Southern Min.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The name Pe\u030dh-\u014de-j\u012b (Chinese: \u767d\u8a71\u5b57; pinyin: B\u00e1ihu\u00e0 z\u00ec) means \"vernacular writing\", written characters representing everyday spoken language. The name vernacular writing could be applied to many kinds of writing, romanized and character-based, but the term Pe\u030dh-\u014de-j\u012b is commonly restricted to the Southern Min romanization system developed by Presbyterian missionaries in the 19th century.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The missionaries who invented and refined the system used, instead of the name Pe\u030dh-\u014de-j\u012b, various other terms, such as \"Romanized Amoy Vernacular\" and \"Romanized Amoy Colloquial.\" The origins of the system and its extensive use in the Christian community have led to it being known by some modern writers as \"Church Romanization\" (\u6559\u6703\u7f85\u99ac\u5b57; K\u00e0u-h\u014de L\u00f4-m\u00e1-j\u012b; Ji\u00e0ohu\u00ec Lu\u014dm\u01cez\u00ec) and is often abbreviated in POJ itself to K\u00e0u-l\u00f4. (\u6559\u7f85; Ji\u00e0olu\u014d) There is some debate on whether \"Pe\u030dh-\u014de-j\u012b\" or \"Church Romanization\" is the more appropriate name.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Objections to the name Pe\u030dh-\u014de-j\u012b are that it can refer to more than one system and that both literary and colloquial register Southern Min appear in the system and so describing it as \"vernacular\" writing might be inaccurate. Objections to \"Church Romanization\" are that some non-Christians and some secular writing use it. POJ today is largely disassociated from its former religious purpose. The term \"romanization\" is also disliked by some, who see it as belittling the status of Pe\u030dh-\u014de-j\u012b by identifying it as a supplementary phonetic system instead of a standalone orthography.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The history of Pe\u030dh-\u014de-j\u012b has been heavily influenced by official attitudes towards the Southern Min vernaculars and the Christian organizations that propagated it. Early documents point to the purpose of the creation of POJ as being pedagogical in nature, closely allied to educating Christian converts.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The first people to use a romanized script to write Southern Min were Spanish missionaries in Manila in the 16th century. However, it was used mainly as a teaching aid for Spanish learners of Southern Min, and seems not to have had any influence on the development of Pe\u030dh-\u014de-j\u012b. In the early 19th century, China was closed to Christian missionaries, who instead proselytized to overseas Chinese communities in South East Asia. The earliest origins of the system are found in a small vocabulary first printed in 1820 by Walter Henry Medhurst, who went on to publish the Dictionary of the Hok-k\u00eb\u00e8n Dialect of the Chinese Language, According to the Reading and Colloquial Idioms in 1832.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "This dictionary represents the first major reference work in POJ, although the romanization within was quite different from the modern system, and has been dubbed Early Church Romanization by one scholar of the subject. Medhurst, who was stationed in Malacca, was influenced by Robert Morrison's romanization of Mandarin Chinese, but had to innovate in several areas to reflect major differences between Mandarin and Southern Min. Several important developments occurred in Medhurst's work, especially the application of consistent tone markings (influenced by contemporary linguistic studies of Sanskrit, which was becoming of more mainstream interest to Western scholars). Medhurst was convinced that accurate representation and reproduction of the tonal structure of Southern Min was vital to comprehension:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Respecting these tones of the Chinese language, some difference of opinion has been obtained, and while some have considered them of first importance, others have paid them little or no intention. The author inclines decidedly to the former opinion; having found, from uniform experience, that without strict attention to tones, it is impossible for a person to make himself understood in Hok-k\u00eb\u00e8n.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The system expounded by Medhurst influenced later dictionary compilers with regard to tonal notation and initials, but both his complicated vowel system and his emphasis on the literary register of Southern Min were dropped by later writers. Following on from Medhurst's work, Samuel Wells Williams became the chief proponent of major changes in the orthography devised by Morrison and adapted by Medhurst. Through personal communication and letters and articles printed in The Chinese Repository a consensus was arrived at for the new version of POJ, although Williams' suggestions were largely not followed.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The first major work to represent this new orthography was Elihu Doty's Anglo-Chinese Manual with Romanized Colloquial in the Amoy Dialect, published in 1853. The manual can therefore be regarded as the first presentation of a pre-modern POJ, a significant step onwards from Medhurst's orthography and different from today's system in only a few details. From this point on various authors adjusted some of the consonants and vowels, but the system of tone marks from Doty's Manual survives intact in modern POJ. John Van Nest Talmage has traditionally been regarded as the founder of POJ among the community which uses the orthography, although it now seems that he was an early promoter of the system, rather than its inventor.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 1842 the Treaty of Nanking was concluded, which included among its provisions the creation of treaty ports in which Christian missionaries would be free to preach. Xiamen (then known as Amoy) was one of these treaty ports, and British, Canadian and American missionaries moved in to start preaching to the local inhabitants. These missionaries, housed in the cantonment of Gulangyu, created reference works and religious tracts, including a bible translation. Naturally, they based the pronunciation of their romanization on the speech of Xiamen, which became the de facto standard when they eventually moved into other areas of the Hokkien Sprachraum, most notably Taiwan. The 1858 Treaty of Tianjin officially opened Taiwan to western missionaries, and missionary societies were quick to send men to work in the field, usually after a sojourn in Xiamen to acquire the rudiments of the language.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Quanzhou and Zhangzhou are two major varieties of Southern Min, and in Xiamen they combined to form something \"not Quan, not Zhang\" \u2013 i.e. not one or the other, but rather a fusion, which became known as Amoy Dialect or Amoy Chinese. In Taiwan, with its mixture of migrants from both Quanzhou and Zhangzhou, the linguistic situation was similar; although the resulting blend in the southern city of Tainan differed from the Xiamen blend, it was close enough that the missionaries could ignore the differences and import their system wholesale.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The fact that religious tracts, dictionaries, and teaching guides already existed in the Xiamen tongue meant that the missionaries in Taiwan could begin proselytizing immediately, without the intervening time needed to write those materials.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Missionary opinion was divided on whether POJ was desirable as an end in itself as a full-fledged orthography, or as a means to literacy in Chinese characters. William Campbell described POJ as a step on the road to reading and writing the characters, claiming that to promote it as an independent writing system would inflame nationalist passions in China, where characters were considered a sacred part of Chinese culture. Taking the other side, Thomas Barclay believed that literacy in POJ should be a goal rather than a waypoint:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Soon after my arrival in Formosa I became firmly convinced of three things, and more than fifty years experience has strengthened my conviction. The first was that if you are to have a healthy, living Church it is necessary that all the members, men and women, read the Scriptures for themselves; second, that this end can never be attained by the use of the Chinese character; third, that it can be attained by the use of the alphabetic script, this Romanised Vernacular.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A great boon to the promotion of POJ in Taiwan came in 1880 when James Laidlaw Maxwell, a medical missionary based in Tainan, started promoting POJ for writing the Bible, hymns, newspapers, and magazines. He donated a small printing press to the local church, which Thomas Barclay learned how to operate in 1881 before founding the Presbyterian Church Press in 1884. Subsequently, the Taiwan Prefectural City Church News, which first appeared in 1885 and was produced by Barclay's Presbyterian Church of Taiwan Press, became the first printed newspaper in Taiwan, marking the establishment of POJ in Taiwan, giving rise to numerous literary works written in POJ.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As other authors made their own alterations to the conventions laid down by Medhurst and Doty, Pe\u030dh-\u014de-j\u012b evolved and eventually settled into its current form. Ernest Tipson's 1934 pocket dictionary was the first reference work to reflect this modern spelling. Between Medhurst's dictionary of 1832 and the standardization of POJ in Tipson's time, there were a number of works published, which can be used to chart the change over time of Pe\u030dh-\u014de-j\u012b:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Competition for POJ was introduced during the Japanese era in Taiwan (1895\u20131945) in the form of Taiwanese kana, a system designed as a teaching aid and pronunciation guide, rather than an independent orthography like POJ.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "During the Japanese rule period, the Japanese government began suppressing POJ, banning classes, and forcing the cessation of publications like the Taiwan Church News. From the 1930s onwards, with the increasing militarization of Japan and the K\u014dminka movement encouraging Taiwanese people to \"Japanize\", there were a raft of measures taken against native languages, including Taiwanese. While these moves resulted in a suppression of POJ, they were \"a logical consequence of increasing the amount of education in Japanese, rather than an explicit attempt to ban a particular Taiwanese orthography in favor of Taiwanese kana\".",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Second Sino-Japanese War beginning in 1937 brought stricter measures into force, and along with the outlawing of romanized Taiwanese, various publications were prohibited and Confucian-style shob\u014d (Chinese: \u66f8\u623f; pinyin: sh\u016bf\u00e1ng; Pe\u030dh-\u014de-j\u012b: su-p\u00e2ng) \u2013 private schools which taught Classical Chinese with literary Southern Min pronunciation \u2013 were closed down in 1939. The Japanese authorities came to perceive POJ as an obstacle to Japanization and also suspected that POJ was being used to hide \"concealed codes and secret revolutionary messages\". In the climate of the ongoing war the government banned the Taiwan Church News in 1942 as it was written in POJ.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Initially the Kuomintang government in Taiwan had a liberal attitude towards \"local dialects\" (i.e. non-Mandarin varieties of Chinese). The National Languages Committee produced booklets outlining versions of Zhuyin fuhao for writing the Taiwanese tongue, these being intended for newly arrived government officials from outside Taiwan as well as local Taiwanese. The first government action against native languages came in 1953, when the use of Taiwanese or Japanese for instruction was forbidden. The next move to suppress the movement came in 1955, when the use of POJ for proselytizing was outlawed. At that point in time there were 115,000 people literate in POJ in Taiwan, Fujian, and southeast Asia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Two years later, missionaries were banned from using romanized bibles, and the use of \"native languages\" (i.e. Taiwanese Hokkien, Hakka, and the non-Sinitic Formosan languages) in church work became illegal. The ban on POJ bibles was overturned in 1959, but churches were \"encouraged\" to use character bibles instead. Government activities against POJ intensified in the late 1960s and early 1970s, when several publications were banned or seized in an effort to prevent the spread of the romanization. In 1964, use of Taiwanese in schools or official settings was forbidden, and transgression in schools was punished with beatings, fines and humiliation. The Taiwan Church News (printed in POJ) was banned in 1969, and only allowed to return a year later when the publishers agreed to print it in Chinese characters. In the 1970s, the Nationalist government in Taiwan completely prohibited the use of POJ, causing it to decline.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 1974, the Government Information Office banned A Dictionary of Southern Min, with a government official saying: \"We have no objection to the dictionary being used by foreigners. They could use it in mimeographed form. But we don't want it published as a book and sold publicly because of the Romanization it contains. Chinese should not be learning Chinese through Romanization.\" Also in the 1970s, a POJ New Testament translation known as the \"Red Cover Bible\" (\u00c2ng-pho\u00ea S\u00e8ng-keng) was confiscated and banned by the Nationalist regime. Official moves against native languages continued into the 1980s, the Ministry of Education and the Ministry of the Interior decided in 1984 to forbid missionaries to use \"local dialects\" and romanizations in their work.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "It was not until the late 1980s, with the lifting of martial law, that POJ slowly regained momentum under the influence of the native language movement. With the ending of martial law in 1987, the restrictions on \"local languages\" were quietly lifted, resulting in growing interest in Taiwanese writing during the 1990s. For the first time since the 1950s, Taiwanese language and literature was discussed and debated openly in newspapers and journals. There was also support from the then opposition party, the Democratic Progressive Party, for writing in the language. From a total of 26 documented orthographies for Taiwanese in 1987 (including defunct systems), there were a further 38 invented from 1987 to 1999, including 30 different romanizations, six adaptations of bopomofo and two hangul-like systems. Some commentators believe that the Kuomintang, while steering clear of outright banning of the native language movements after the end of martial law, took a \"divide and conquer\" approach by promoting Taiwanese Language Phonetic Alphabet (TLPA), an alternative to POJ, which was at the time the choice of the majority within the nativization movement.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Native language education has remained a fiercely debated topic in Taiwan into the 21st century and is the subject of much political wrangling.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The current system of Pe\u030dh-\u014de-j\u012b has been stable since the 1930s, with a few minor exceptions (detailed below). There is a fair degree of similarity with the Vietnamese alphabet, including the \u27e8b/p/ph\u27e9 distinction and the use of \u27e8\u01a1\u27e9 in Vietnamese compared with \u27e8o\u0358\u27e9 in POJ. POJ uses the following letters and combinations:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Chinese phonology traditionally divides syllables in Chinese into three parts; firstly the initial, a consonant or consonant blend which appears at the beginning of the syllable, secondly the final, consisting of a medial vowel (optional), a nucleus vowel, and an optional ending; and finally the tone, which is applied to the whole syllable. In terms of the non-tonal (i.e. phonemic) features, the nucleus vowel is the only required part of a licit syllable in Chinese varieties. Unlike Mandarin but like other southern varieties of Chinese, Taiwanese has final stop consonants with no audible release, a feature that has been preserved from Middle Chinese. There is some debate as to whether these stops are a tonal feature or a phonemic one, with some authorities distinguishing between \u27e8-h\u27e9 as a tonal feature, and \u27e8-p\u27e9, \u27e8-t\u27e9, and \u27e8-k\u27e9 as phonemic features. Southern Min dialects also have an optional nasal property, which is written with a superscript \u27e8\u207f\u27e9 and usually identified as being part of the vowel. Vowel nasalisation also occurs in words that have nasal initials (\u27e8m-\u27e9, \u27e8n-\u27e9, \u27e8ng-\u27e9), however in this case superscript \u27e8\u207f\u27e9 is not written, e.g. \u5375 n\u016bi ([nu\u0129]). The letter \u207f appears at the end of a word except in some interjections, such as ha\u207fh ([h\u00e3\u0294]), however more conservative users of Pe\u030dh-\u014de-j\u012b write such words as hah\u207f.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A valid syllable in Hokkien takes the form (initial) + (medial vowel) + nucleus + (stop) + tone, where items in parentheses indicate optional components.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "POJ has a limited amount of legitimate syllables, although sources disagree on some particular instances of these syllables. The following table contains all the licit spellings of POJ syllables, based on a number of sources:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In standard Amoy or Taiwanese Hokkien there are seven distinct tones, which by convention are numbered 1\u20138, with number 6 omitted (tone 6 used to be a distinct tone, but has long since merged with tone 7 or 2 depending on lexical register). Tones 1 and 4 are both represented without a diacritic, and can be distinguished from each other by the syllable ending, which is a vowel, \u27e8-n\u27e9, \u27e8-m\u27e9, or \u27e8-ng\u27e9 for tone 1, and \u27e8-h\u27e9, \u27e8-k\u27e9, \u27e8-p\u27e9, and \u27e8-t\u27e9 for tone 4.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Southern Min dialects undergo considerable tone sandhi, i.e. changes to the tone depending on the position of the syllable in any given sentence or utterance. However, like pinyin for Mandarin Chinese, POJ always marks the citation tone (i.e. the original, pre-sandhi tone) rather than the tone which is actually spoken. This means that when reading aloud the reader must adjust the tone markings on the page to account for sandhi. Some textbooks for learners of Southern Min mark both the citation tone and the sandhi tone to assist the learner.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "There is some debate as to the correct placement of tone marks in the case of diphthongs and triphthongs, particularly those which include \u27e8oa\u27e9 and \u27e8oe\u27e9. Most modern writers follow six rules:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "If the syllable has one vowel, that vowel should be tone-marked; viz. \u27e8t\u012b\u27e9, \u27e8l\u00e1ng\u27e9, \u27e8chhu\u030dt\u27e9",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "If a diphthong contains \u27e8i\u27e9 or \u27e8u\u27e9, the tone mark goes above the other vowel; viz. \u27e8ia\u030dh\u27e9, \u27e8ki\u00f2\u27e9, \u27e8t\u00e1u\u27e9",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "If a diphthong includes both \u27e8i\u27e9 and \u27e8u\u27e9, mark the \u27e8u\u27e9; viz. \u27e8i\u00fb\u27e9, \u27e8\u00f9i\u27e9",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "If the final is made up of three or more letters, mark the second vowel (except when rules 2 and 3 apply); viz. \u27e8go\u00e1n\u27e9, \u27e8o\u0101i\u27e9, \u27e8khi\u00e1u\u27e9",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "If \u27e8o\u27e9 occurs with \u27e8a\u27e9 or \u27e8e\u27e9, mark the \u27e8o\u27e9 (except when rule 4 applies); viz. \u27e8\u00f2a\u27e9, \u27e8th\u00f3e\u27e9",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "If the syllable has no vowel, mark the nasal consonant; viz. \u27e8m\u0304\u27e9, \u27e8\u01f9g\u27e9, \u27e8mn\u0302g\u27e9",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A single hyphen is used to indicate a compound. What constitutes a compound is controversial, with some authors equating it to a \"word\" in English, and others not willing to limit it to the English concept of a word. Examples from POJ include \u27e8s\u00ec-cha\u030dp\u27e9 \"forty\", \u27e8b\u00e9-h\u00ec-th\u00f4an\u27e9 \"circus\", and \u27e8h\u00f4e-ho\u030dk\u27e9 \"recover (from illness)\". The non-final syllables of a compound typically undergo tone sandhi, but exact rules have not been clearly identified by linguists.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A double hyphen \u27e8--\u27e9 is used when POJ is deployed as an orthography (rather than as a transcription system) to indicate that the following syllable should be pronounced in the neutral tone. It also marks to the reader that the preceding syllable does not undergo tone sandhi, as it would were the following syllable non-neutral. Morphemes following a double hyphen are often (but not always) grammatical function words. Some authors use an interpunct \u27e8\u00b7\u27e9 in place of the second hyphen.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In addition to the standard syllables detailed above, there are several regional variations of Hokkien which can be represented with non-standard or semi-standard spellings. In the Zhangzhou-type varieties, spoken in Zhangzhou, parts of Taiwan (particularly the northeastern coast around Yilan City), and parts of Malaysia (particularly in Penang), there is a final \u27e8-ui\u207f\u27e9, for example in \"egg\" \u27e8n\u016bi\u27e9 and \"cooked rice\" \u27e8p\u016bi\u207f\u27e9, which has merged with \u27e8-ng\u27e9 in mainstream Taiwanese.  Zhangzhou-type varieties may also have the vowel /\u025b/, written as \u27e8\u025b\u27e9 or \u27e8e\u0358 \u27e9 (with a dot above right, by analogy with \u27e8o\u0358 \u27e9), which has merged with \u27e8e\u27e9 in Taiwanese.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Due to POJ's origins in the Christian church, much of the material in the script is religious in nature, including several Bible translations, books of hymns, and guides to morality. The Tainan Church Press, established in 1884, has been printing POJ materials ever since, with periods of quiet when POJ was suppressed in the early 1940s and from around 1955 to 1987. In the period to 1955, over 2.3 million volumes of POJ books were printed, and one study in 2002 catalogued 840 different POJ texts in existence. Besides a Southern Min version of Wikipedia in the orthography, there are teaching materials, religious texts, and books about linguistics, medicine and geography.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "L\u00e1n \u00ea Ki\u00f9-ch\u00fa I\u00e2-so\u0358 Ki-tok \u00ea Sin-iok (1873 translation of the New Testament)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Chinese\u2013English dictionary of the vernacular or spoken language of Amoy, by Carstairs Douglas, 1873",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "POJ was initially not well supported by word-processing applications due to the special diacritics needed to write it. Support has now improved and there are now sufficient resources to both enter and display POJ correctly. Several input methods exist to enter Unicode-compliant POJ, including OpenVanilla (macOS and Microsoft Windows), the cross-platform Tai-lo Input Method released by the Taiwanese Ministry of Education, and the Firefox add-on Transliterator, which allows in-browser POJ input. When POJ was first used in word-processing applications it was not fully supported by the Unicode standard, thus necessitating work-arounds. One employed was encoding the necessary characters in the \"Private Use\" section of Unicode, but this required both the writer and the reader to have the correct custom font installed. Another solution was to replace troublesome characters with near equivalents, for example substituting \u27e8\u00e4\u27e9 for \u27e8\u0101\u27e9 or using a standard \u27e8o\u27e9 followed by an interpunct to represent \u27e8o\u0358\u27e9. With the introduction into Unicode 4.1.0 of the combining character U+0358 \u25cc\u0358 COMBINING DOT ABOVE RIGHT in 2004, all the necessary characters were present to write regular POJ without the need for workarounds. However, even after the addition of these characters, there are still relatively few fonts which are able to properly render the script, including the combining characters.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The following are tone characters and their respective Unicode codepoints used in POJ. The tones used by POJ should use Combining Diacritical Marks instead of Spacing Modifier Letters used by bopomofo. As POJ is not encoded in Big5, the prevalent encoding used in Traditional Chinese, some POJ letters are not directly encoded in Unicode, instead should be typed using combining diacritical marks officially.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Superscript n is also required for POJ to indicate nasalisation:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Characters not directly encoded in Unicode (especially O\u0358 series which has 3 different permutations) requires premade glyphs in fonts in order for applications to correctly display the characters.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Fonts modified and release in GitHub repository POJFonts : POJ Phiaute, Gochi Hand POJ, Nunito POJ, POJ Vibes, and POJ Garamond.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Fonts modified and released by But Ko based on Source Han Sans: Genyog, Genseki, Gensen ; based on Source Han Serif: Genyo, Genwan, Genryu.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "One of the most popular modern ways of writing Taiwanese is by using a mixed orthography called H\u00e0n-l\u00f4 (simplified Chinese: \u6c49\u7f57; traditional Chinese: \u6f22\u7f85; pinyin: H\u00e0n-Lu\u00f3; lit. 'Chinese-Roman'), and sometimes Han-Romanization mixed script, a style not unlike written Japanese or (historically) Korean. In fact, the term H\u00e0n-l\u00f4 does not describe one specific system, but covers any kind of writing in Southern Min which features both Chinese characters and romanization. That romanization is usually POJ, although recently some texts have begun appearing with Taiwanese Romanization System (T\u00e2i-l\u00f4) spellings too. The problem with using only Chinese characters to write Southern Min is that there are many morphemes (estimated to be around 15 percent of running text) which are not definitively associated with a particular character. Various strategies have been developed to deal with the issue, including creating new characters, allocating Chinese characters used in written Mandarin with similar meanings (but dissimilar etymology) to represent the missing characters, or using romanization for the \"missing 15%\". There are two rationales for using mixed orthography writing, with two different aims. The first is to allow native speakers (almost all of whom can already write Chinese characters) to make use of their knowledge of characters, while replacing the missing 15% with romanization. The second is to wean character literates off using them gradually, to be replaced eventually by fully romanized text.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Examples of modern texts in H\u00e0n-l\u00f4 include religious, pedagogical, scholarly, and literary works, such as:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "POJ has been adapted for several other varieties of Chinese, with varying degrees of success. For Hakka, missionaries and others have produced a Bible translation, hymn book, textbooks, and dictionaries. Materials produced in the orthography, called Pha\u030dk-fa-s\u1e73, include:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hak-ngi S\u1e73n-kin, Sin-yuk lau S\u1e73-phien: Hien-thoi Thoi-van Hak-ngi Yit-pun (Hakka Bible, New Testament and Psalms: Today's Taiwan Hakka Version). Bible Society. 1993.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Phang Tet-siu (1994). Thai-ka Loi Hok Hak-fa (Everybody Learn Hakka). Taipei: Southern Materials Center. ISBN 957-638-017-0.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Phang Tet-siu (1996). Hak-ka-fa Fat-yim S\u1e73-tien (Hakka Pronunciation Dictionary). Taipei: Southern Materials Center. ISBN 957-638-359-5.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hak-ka S\u1e73n-s\u1e73 (Hakka Hymns). Tainan: PCT Press. 1999. ISBN 957-8349-75-0.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A modified version of POJ has also been created for Teochew.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Most native Southern Min speakers in Taiwan are unfamiliar with POJ or any other writing system, commonly asserting that \"Taiwanese has no writing\", or, if they are made aware of POJ, considering romanization as the \"low\" form of writing, in contrast with the \"high\" form (Chinese characters). For those who are introduced to POJ alongside H\u00e0n-l\u00f4 and completely Chinese character-based systems, a clear preference has been shown for all-character systems, with all-romanization systems at the bottom of the preference list, likely because of the preexisting familiarity of readers with Chinese characters.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "POJ remains the Taiwanese orthography \"with the richest inventory of written work, including dictionaries, textbooks, literature [...] and other publications in many areas\". A 1999 estimate put the number of literate POJ users at around 100,000, and secular organizations have been formed to promote the use of romanization among Taiwanese speakers.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Outside Taiwan, POJ is rarely used. For example, in Fujian, Xiamen University uses a romanization known as Bb\u00e1nl\u00e1m p\u00ecngy\u012bm, based on Pinyin. In other areas where Hokkien is spoken, such as Singapore, the Speak Mandarin Campaign is underway to actively discourage people from speaking Hokkien or other non-Mandarin varieties in favour of switching to Mandarin instead.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2006, Taiwan's Ministry of Education chose an official romanization for use in teaching Southern Min in the state school system. POJ was one of the candidate systems, along with Da\u012b-gh\u00ee t\u014dng-i\u014dng p\u012bng-im, but a compromise system, the Taiwanese Romanization System or T\u00e2i-l\u00f4, was chosen in the end. T\u00e2i-L\u00f4 retains most of the orthographic standards of POJ, including the tone marks, while changing the troublesome \u27e8o\u0358\u27e9 character for \u27e8oo\u27e9, swapping \u27e8ts\u27e9 for \u27e8ch\u27e9, and replacing \u27e8o\u27e9 in diphthongs with \u27e8u\u27e9. Supporters of Taiwanese writing are in general deeply suspicious of government involvement, given the history of official suppression of native languages, making it unclear whether T\u00e2i-l\u00f4 or POJ will become the dominant system in the future.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\"Pe\u030dh-\u014de-j\u012b Unicode Correspondence Table\" (PDF). Tailingua. 2009. \u2013 information on Unicode encodings for POJ text",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\"Taiwanese Romanization Association\". \u2013 group dedicated to the promotion of Taiwanese and Hakka romanization",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\"Tai-lo Input Method\" (in Chinese). \u2013 cross-platform input method released by Taiwan's Ministry of Education.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Gallo (endonym: Galo; French: langue gall\u00e8se) is a regional language of eastern Brittany. It is one of the langues d'o\u00efl, a Romance sub-family that includes French. Today it is spoken only by a minority of the population, as the standard form of French now predominates in this area.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Gallo was originally spoken in the Marches of Neustria, an area now corresponding to the border lands between Brittany, Normandy, and Maine. Gallo was a shared spoken language among many of those who took part in the Norman conquest of England, most of whom originated in Upper (i.e. eastern) Brittany and Lower (i.e. western) Normandy, and thus had its part, together with the much bigger role played by the Norman language, in the development of the Anglo-Norman variety of French which would have such a strong influence on English.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Gallo continued as the everyday language of Upper Brittany, Maine, and some neighbouring portions of Normandy until the introduction of universal education across France, but is spoken today by only a small (and aging) minority of the population, having been almost entirely superseded by standard French.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As a langue d'o\u00efl, Gallo forms part of a dialect continuum which includes Norman, Picard, and the Poitevin dialect among others. One of the features that distinguish it from Norman is the absence of Old Norse influence. There is some limited mutual intelligibility with adjacent varieties of the Norman language along the linguistic frontier and with Guern\u00e9siais and J\u00e8rriais. However, as the dialect continuum shades towards Mayennais, there is a less clear isogloss. The clearest linguistic border is that distinguishing Gallo from Breton, a Brittonic Celtic language traditionally spoken in the western territory of Brittany.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In the west, the vocabulary of Gallo has been influenced by contact with Breton, but remains overwhelmingly Latinate. The influence of Breton decreases eastwards across Gallo-speaking territory.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As of 1980, Gallo's western extent stretches from Plouha (Pl\u00f3ha), in C\u00f4tes-d'Armor, south of Paimpol, passing through Ch\u00e2telaudren (Ch\u00e2ti\u00e9), Corlay (Corla\u00e8), Loud\u00e9ac (Loudia), east of Pontivy, Locmin\u00e9 (Lominoec), Vannes, and ending in the south, east of the Rhuys peninsula, in Morbihan.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "While most often spelled Gallo, the name of the language is sometimes written as Galo or Gallot. It is also referred to as langue gall\u00e8se or britto-roman in Brittany. In south Lower Normandy and in the west of Pays de la Loire it is often referred to as patois, though this is a matter of some contention. Gallo comes from the Breton word gall, meaning 'foreigner', 'French' or 'non-Breton'. The term was first used by Breton speakers, which may explain why it is used rarely by Gallo speakers themselves. Henriette Walter conducted a survey in 1986 which showed that just over 4% of Gallo speakers in C\u00f4tes-d'Armor had ever used the term, and a third of them found it \"had quite a pejorative connotation\". According to the survey, the term patois was the most common way of referring to the language.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The term britto-roman was coined by the linguist Alan-Joseph Raude in 1978 to highlight the fact that Gallo is \"a Romance variety spoken by Bretons\". Gallo should not be confused with Gallo-Roman, a term that refers to the Romance varieties of ancient Gaul.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Gallo is one of the langues d'o\u00efl, a dialect continuum covering the northern half of France. This group includes a wide variety of more or less well-defined and differentiated languages and dialects, which share a Latin origin and some Germanic influence from Frankish, the language spoken by the Franks.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Gallo, like the other langues d'o\u00efl, is neither ancient French nor a distortion of modern French. The langues d'o\u00efl are Gallo-Romance languages, which also includes Franco-Proven\u00e7al, spoken around Savoy. These are in turn Romance languages, a group which also includes, among others, Catalan, Italian, Spanish, Portuguese, Galician and Romanian.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Gallo has not just borrowed words from Breton, but also aspects of grammar; the use of the preposition pour as an auxiliary verb is said to be of Celtic origin. The relationship between the two is comparable to that of the two languages of Scotland: Scots, an Anglic language closely related to English, and Scottish Gaelic, a Celtic language descended from Old Irish.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Gallo is typically not mutually intelligible with French, primarily due to its differing phonology and vocabulary. This is in spite of what Paul S\u00e9billot wrote in 1878: \"[Gallo] is a dialect of French [...]: it contains a considerable quantity of old words, a very small amount of words borrowed from Breton, and is, except for several local expressions [...] very easy to understand.\" The study of language has evolved considerably since the 19th century, however, and there is no longer any universally accepted criterion to distinguish decisively between language and dialect.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "It is true that the entire O\u00efl language area within French consists of closely related varieties, namely, besides French, Poitevin-Saintongeais, Gallo, Norman, Picard, Walloon, Champenois, Lorrain, Burgundian and Franc-Comtois, but lumping them together nevertheless disregards a considerable amount of variety and diversity. \u00bb",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Celts settled in Armorica toward the 8th century BCE. Some of early groups mentioned in the written records of the Greeks were the Redones and the Namnetes. They spoke dialects of the Gaulish language and maintained important economic ties with the British Isles.  Julius Caesar's invasion of Armorica in 56 BCE led to a sort of  Romanization of the population.  Gaulish continued to be spoken in this region until the 6th century CE, especially in less populated, rural areas. When the Bretons emigrated to Armorica around this time, they might have found remnants of a people who had retained their Celtic language and culture.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In contrast to Armorica's western countryside, Nantes and Rennes were Roman cultural centres. Following the Migration Period, these two cities, as well as regions to the east of the Vilaine, including the town Vannes, fell under Frankish rule.  Thus, during the Merovingian dynasty, the population of Armorica was diverse, consisting of Gaulish tribes with assimilated Bretons, as well as Romanized cities and Germanic tribes.  War between the Frank and Breton kingdoms was constant between the 6th and 9th centuries, which made the border between the two difficult to define.  Before the 10th century, Breton was spoken by at least one third of the population up to the cities of Pornic and Avranches.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Historically, France has been a nation with a high degree of linguistic diversity matched with relative tolerance, that is until the French Revolution. Gallo's status as a tolerated regional language of France suffered as a direct consequence of the Revolution. During this time, the Jacobins viewed regional languages as a way in which the structural inequalities of France were perpetuated. Accordingly, they sought to eradicate the regional languages to free their speakers of unconstitutional inequalities.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Under the Third Republic, public education became universal and mandatory in France, and was conducted exclusively in French; students who spoke other languages were punished. Well into the 20th century, government policy focused exclusively on French. In 1962, Charles de Gaulle established the Haut Comit\u00e9 pour la d\u00e9fense et l'expansion de la langue fran\u00e7aise; this committee's purpose was to enforce the use of French, to the detriment of minority languages. Furthermore, in 1994, the Loi Toubon declared that any governmental publications and advertisements must be in French. Gallo did not gain national recognition until the Constitution of France was amended in 2008. Article 75-1 asserts that \"regional languages are part of the French heritage\". Moreover, Gallo is the only langue d'o\u00efl to be recognized as a regional language by the French Ministry of Education. Nevertheless, like all of the other regional languages of France, the use of Gallo has declined since the 19th century.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Similar to speakers of other regional languages, Gallo speakers began to perceive French as the language of intellectuals and social promotion, and Gallo as an impediment to their success. As a result, the rate of children learning the language has diminished, since parents struggle to see the benefit of Gallo in their children's future.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Within recent history, the presence of Gallo has fluctuated in Brittany's school system. Shortly before World War II, the Regional Federation of Bretagne introduced the idea of rejuvenating Gallo's presences in schools. They were primarily motivated in increasing the linguistic competence of children.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 1982, Gallo was officially adopted as an optional subject in secondary schools in Brittany, even appearing on France's secondary school-exit exam, the Baccalaur\u00e9at. It took years for the Gallo language to actually be incorporated into the curriculum, but by the 1990s, the main focus of the curriculum was cultural awareness of the Gallo language and identity. However, in 2002, Gallo's optional-subject status in secondary schools was withdrawn.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In reaction to the 2002 decision, an effective and committed network of Gallo activists advanced Gallo's status in Brittany schools. Gallo is now taught in Upper Brittany's state schools, though the number of students enrolled in Gallo courses remains low. In the 2003\u201304 academic year, there were 569 students learning Gallo at secondary school or university. For comparison, in the same year, 3,791 students were learning Breton at the same levels of schooling.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On December 17, 2004, the Regional Council of Brittany officially recognized Breton and Gallo as \"the official languages of Brittany, alongside the French language.\"",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "One of the metro stations of the Breton capital, Rennes, has bilingual signage in French and Gallo, but generally the Gallo language is not as visibly high-profile as the Breton language, even in its traditional heartland of the Pays Gallo, which includes the two historical capitals of Rennes (Gallo Renn, Breton Roazhon) and Nantes (Gallo Nauntt, Breton Naoned).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Different dialects of Gallo are distinguished, although there is a movement for standardisation on the model of the dialect of Upper Brittany.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "It is difficult to record the exact number of Gallo speakers today. Gallo and vernacular French form a sort of continuum, so speakers may have difficulty determining exactly which language they are speaking. Many people speak Gallo while using a considerable amount of French words and phrases, thus confounding the language question further. Moreover, Gallo speakers may have a tendency to underestimate their competence and choose thus to not report speaking it. This makes estimates of the number of speakers vary widely.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Although a written literary tradition exists, Gallo is more noted for extemporised story-telling and theatrical presentations. Given Brittany's rich musical heritage, contemporary performers produce a range of music sung in Gallo (see Music of Brittany).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The roots of written Gallo literature are traced back to Le Livre des Mani\u00e8res written in 1178 by \u00c9tienne de Foug\u00e8res, a poetical text of 336 quatrains and the earliest known Romance text from Brittany, and to Le Roman d'Aquin, an anonymous 12th century chanson de geste transcribed in the 15th century but which nevertheless retains features typical of the mediaeval Romance of Brittany.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Gallo is a language of oral tradition, whose history is rich with stories, fables, and legends. Gallese legends frequently address recurring characters, such as Gargantua and Morgan le Fay, or questions of how the countryside was created. In the 19th century, oral literature was collected by researchers and folklorists such as Paul S\u00e9billot, Adolphe Orain, Amand Dagnet and Georges Dottin. However, these authors frequently rewrote this literature in French. Paul F\u00e9val wrote certain dialogues in Gallo in his novel Ch\u00e2teaupauvre (1876). Amand Dagnet (1857\u20131933) wrote a number of original works in Gallo, including a play La fille de la Brunelas (1901). In the 1920s, Jeanne Malivel wrote Les Sept Fr\u00e8res, a story which was inspired by her grandmother and was written in Gallo. This, in part, inspired the creation of the artistic movement Seiz Breur.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "It was in the 1970s that a concerted effort to promote Gallo literature started. In 1979 Alan J. Raude published a proposed standardised orthography for Gallo.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The consonants in Gallo are almost the same as in French, but there are many local variants, such as the voicing of [s] into [z] in Pays de Retz and that of [t] into [d] in Pays de la M\u00e9e. Certain consonant combinations are also characteristic of certain regions, such as the plosives [c] and [\u025f], which can be compared to [k] or [g] followed by a light [j] sound. The affricates [d\u0292] and [t\u0283] appear in the western part of Haute-Bretagne, where, for example, the word cur\u00eb [ky\u0281e] is pronounced as [t\u0283y\u0281\u0259], and the word ghepe as [d\u0292ep]. Elsewhere, [cy\u0281\u0259] and [\u025f\u0259p] can be heard. Qhi, meanwhile, can be pronounced [ki], [t\u0283i] or [ci]. These modifications result from an advancement of the place of articulation of the palatal consonants. The semi-consonant [j] is used extensively to palatalize other consonants, notably [fj], [tj], [sj] and [pj]. However, this is not done in all regions, and [j] is often replaced by [l]. The word pll\u00e9e, for example, can be pronounced [pje] or [ple].",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Germanic in origin, [h] generally has not been pronounced since the 13th century, but it is still used in Men\u00e9, a small region around Merdrignac and Pl\u00e9met.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "/m, p, b/ are bilabial, whereas /f, v/ are labiodental.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "/n\u032a, t\u032a, d\u032a/ are dental, whereas /s, z, l/ are alveolar.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "/\u0272, c, \u025f, j/ are palatal, /\u0283, \u0292/ are post-alveolar, and /\u0265/ is labial-palatal.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "/k, g/ are velar, /\u0281/ is uvular, and /w/ is labial-velar.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The vowel system of Gallo is close to French, but they diverged as they evolved, and Gallo has a number of phenomena not found in French, such as the pervasive use of schwa and diphthongs.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In Gallo, as in French, the [a] of Latin in stressed syllables has evolved into [e] or [e\u02d0]. Thus, ads\u00e1tis became ass\u00e9 [ase]. However, while French has combined [e] and [e\u02d0] into just [e], a distinction was preserved in Gallo. For example, when [a] was followed by [s], the [e\u02d0] became either an [e] or a diphthong, most often [ej]. The [e] became a schwa ([\u0259]) in most regions. This distinction between [e] and [e\u02d0] makes it possible to differentiate past participles by gender and number. While in standard French, chass\u00e9, chass\u00e9e, and chass\u00e9s are all pronounced the same, most Gallo speakers make a phonemic distinction between the masculine chass\u00e9 [\u0283as\u0259] and the feminine chass\u00e9e or plural chass\u00e9s [\u0283ase]. In this example, the pronunciation of \u00e9 was changed when the silent feminine or plural endings were added to the word.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Latin verbs with infinitives ending in -are followed the same evolutionary pattern as in French. Capti\u00e1re became chasser [\u0283as\u0259] in Gallo and chasser [\u0283ase] in French. This evolution of the [a] in stressed syllables varies from region to region. While in central Upper Brittany, schwa has replaced [e]. In some outlying regions, it is replaced by [\u025b] or remains [e]. Some words do not obey the rule, such as p\u00e1tre and m\u00e1tre, which have become pere [pe\u0281] and mere [me\u0281] in practically all of Upper Brittany, while [p\u0259\u0281] and [m\u0259\u0281] are only heard in the center-west. The [a] in open stressed syllables before [l] does not follow the [e]/[e\u02d0] pattern either, and has evolved very differently in different regions. S\u00e1le has thus become s\u00e8l, s\u00e9l, s\u00e9 or seu. Schwa is also used to make a syllabic [l] and [\u0281], as in berton [b\u0281\u02cct\u0254\u0303].",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Like all langues d'o\u00efl, Gallo underwent the vowel shift known as Bartsch's law, according to which the Latin [a] in open stressed syllables, when preceded by a palatal consonant, became ie, as in c\u00e1pra, which became chieuvr. As in French, the sound [j] represented by the letter i disappeared around the Renaissance, giving ch\u00e8vre and cheuv, though this sound can still be observed in C\u00f4tes-d'Armor. In eastern Brittany, the disappearance of the sound was even more dramatic than in French, and some speakers say chen (dog), while the French word remains chien (from Latin c\u00e1ne).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Latin [e] in open stressed syllables has also evolved into ie in both Gallo and French, with h\u0115ri becoming yere, for example. In Gallo, the vowel following the y differs from region to region. In most of Upper Brittany, it is a schwa, and elsewhere it is a [\u025b] or an [e] (the geographical distribution is the same as for [e]/[e\u02d0]). The Latin [o] in open stressed syllables became a ue, then monophthonged in both French and Gallo around the 12th century, becoming [\u0153] in French, [\u0259] in Gallo. C\u00f3r thus became qheur. The evolution of the Latin [e] in closed stressed syllables is much more diverse, and the original diphthong \u00e9i has been replaced by a large number of phonemes varying from word to word and region to region. The many pronunciations of mai, from the Latin m\u00e9, illustrate this diversity: [maj], [ma], [me], [m\u025b], etc. The pronunciation of Latin [o]/[u] in closed stressed syllables is more authentic in Gallo than in other langues d\u2019o\u00efl. G\u00f9la, for example, is pronounced [gul] in Gallo, but [g\u0153l] in French. Some terms, however, are influenced by neighboring langues d'o\u00efl, and astour [astu\u0281] (\"now\", from Latin h\u00f3ra) is becoming [ast\u0153\u0281] in eastern Upper Brittany. In the south of Loire-Atlantique, thanks to contact with Poitevin, [\u0254] is common, and guernol [g\u025b\u0281n\u0254l] and parto [pa\u0281t\u0254] are heard instead of guernouille [g\u025b\u0281nuj] and partout [pa\u0281tu].",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Gallo has diphthongs, just like Latin itself, other langues d\u2019o\u00efl, and other Romance languages. Diphthongs in Gallo generally use the semi-vowels [w] and [j], more rarely [\u0265]: [wa], [w\u0259], [wi], [aw], [ja], [ju], [aj], [ej], [\u025b\u0303i], [\u0265i], [\u0265\u025b\u0303], [\u0265\u0259], etc. The triphthong [jaw] is also used.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The very common diphthong [aw] most often is the result of the disappearance of a consonant that existed in Latin. For example, fagu (\"beech\") became fao, and what once was two consecutive, separately pronounced vowels, [fau], has become a diphthong: [faw]. In some words, such as talpa, the [l] became a vowel, [u], and then [w], so [al] thus became [aw]: [tawp], while in French, the [al] merged into [o]: taupe [top]. In northern Upper Brittany, diphthongs are used to express plurals: un mart\u00e8 [ma\u0281t\u0259], des martiaos [ma\u0281tjaw]. In Loire-Atlantique, only the plural form is used.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The nasal diphthong [\u025b\u0303\u0254\u0303], heard for example in grand ([g\u0281\u025b\u0303\u0254\u0303] \"great\") is typical of western langues d\u2019o\u00efl and is also found in Norman, Poitevin-Saintongeais and Angevin, sometimes in slightly different forms ([a\u0254\u0303] in Saintongeais, [\u025b\u0303\u0251\u0303] in Norman).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "There is not yet a single writing system that is unanimously agreed upon, mainly due to regional pronunciation differences. The word for \u201cme\u201d could be pronounced any of the following ways: [maj], [m\u03b5j], [mej], [ma], [m\u03b5] or [me]. This large variance makes it difficult to pick a single written form that would be most suitable. If the orthography of French was used, the word could be written in countless ways: ma\u00ef, maye, maille, m\u00e8\u00ef, mey, meille, ma, m\u00e9, m\u00e8, etc.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "However, the creation of a common writing system is important for ensuring comprehensibility of text across regions and making a dictionary. There are two main strategies that have been employed in past attempts at a writing system. One strategy proposes a single written form for words that will be pronounced differently according to the region. The other strategy proposes allowing a word to be written in multiple different ways, with different letters or letter combinations, to allow for speakers of Gallo to write according to their pronunciation. Another difference separating the proposed systems is their usage of silent letters and non-phonetic spelling. Some systems try to maintain a one-to-one correspondency between letters and sounds, whereas some choose to add silent letters or diagraphs in an attempt to better represent the sounds of Gallo.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The first effort to codify Gallo spelling was undertaken by the Friends of the Gallo Language (Association des Amis du parler gallo) in 1977. It proposed using French spelling as a baseline and adjusting it to fit Gallo's unique phonetic features, such as using lh to indicate palatalization and \u00eb to represent schwa. Since then, other systems have emerged, such as ELG, MOGA, ABCD, and BAP.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The ELG system (short for \"\u00e9crire le gallo\", French for \u201cwrite the Gallo [language]\u201d), the oldest system, was proposed in 1978 by Alan-Joseph Raude and completely eschews French orthography. Raude based his writing system on medieval texts written in Gallo, therefore creating a system authentic to the language without reference to other modern writing systems. Regional differences were less pronounced during the Medieval era, meaning ELG's spelling choices are based on a more standardized form.In the words for finger, evening, and me (in French: doigt, soir, moi), which display regional pronunciation differences, the \u201coi\u201d found in French is written as \u201cei\u201d, giving the forms: deit, seir, mei, though [ei] will not be the pronunciation everywhere.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Rucz\u00e8u (\"stream\", in French: ruisseau) is pronounced [\u0281ys\u0259w] in eastern Upper Brittany and [\u0281yz\u0259w] in the west. The ae in Bertaeyn (\"Brittany\"), can be pronounced [ae], [a\u025b], [a\u0259], or other possibilities. The diagraphs oe, cz, and tz are notable distinguishing elements of ELG.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Word-final e ceased to be pronounced as early as the twelfth century in Gallo, several centuries before French, so Raude proposes to not write them. On the other hand, word-final silent consonants are retained to preserve the continuity between derived forms: fauc (false) (the final c is not pronounced) is related to fauchae (to mow), where the consonant is pronounced. In French, word-final e often serves to indicate an otherwise silent consonant should be pronounced, such as in grand [gr\u0251\u0303] and grande [gr\u0251\u0303d]. ELG indicates this with a doubled consonant: graund and graundd.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "ELG's choices create a visually distinct system for Gallo, but it requires learning and is not immediately intuitive for Gallo speakers, who may not even recognize it as Gallo upon first seeing it.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "ELG is used in some public places, such as for bilingual signage in the Rennes metro system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Aneit system was introduced in 1984 by the Bert\u00e8gn Gal\u00e8zz Association, successor to the organization Friends of the Gallo Language. The system is the result of five years' research throughout Upper Brittany, and takes its name from the brochure presenting it to the public: Nostre lenghe aneit (\"our language today\"). Also called \"unified spelling\", it follows in the footsteps of ELG in terms of its basis on etymology for its spelling.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Aneit system differs from ELG on a number of points, however. For example, every letter must have a purpose, which means that the silent h and double consonants are eliminated, except in certain specific cases (ll to indicate palatalization, etc.). Aneit has the same difficulties as ELG, since a speaker with a different pronunciation needs to know the standardized spelling to be able to decipher the written system. Another problem faced by Aneit is its use of diacritics not easily accessible on a French keyboard (\u00f3, \u00fa and r\u0303).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Vanty\u00e9 spelling system was developed again by the Bert\u00e8gn Gal\u00e8zz association in the early 1980s, and is notable for its attempt to be closer to  Breton. The letters k and w are not native to French, which prefers q and o plus a vowel to represent [k] and [w], respectively. Breton, however, uses k and w regularly, so the Vanty\u00e9 system does as well. For example, ke (\"that') and w\u00e9zyaw (\"bird\"), compared to the French que and oiseau. Silent letters are also avoided in the Vanty\u00e9 system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Unlike ELG and Aneit, Vanty\u00e9 is more of a practical tool than a codified orthography, and is therefore much easier to master. However, it was primarily designed for speakers in the Mitau region, and does not account for the phonemes that exist in other regions, making it less useful as a universal standard.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The MOGA system was introduced in 2007 by B\u00e8rtran \u00d4br\u00e9e and the Chubri Association. Unlike ELG and Aneit, which are based on etymology, it is a phonetic script. It is also intentionally close to French, making it easier for speakers of French to learn. For example, [\u0272] is written with the French diagraph gn instead of less familiar propositions from previous systems such as ny or nh. Similarly, the diphthong [aw] is written ao, instead of the a\u00f9 and au of previous systems, which could create confusion, because au is a diagraph in French corresponding to a single vowel, [o]. Each MOGA letter or diagraph corresponds to a single sound.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Regional varieties are taken into account, and letter combinations are used to represent all Gallo phonemes, even if they are only used by a few speakers. The diagraph lh signifies [\u028e], a rare phoneme that is confined to central C\u00f4tes-d'Armor.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The same word can be written in different ways according to local usage, such as the city of Rennes, which could be written Renn, R\u00e8nn, Rein-n or Rin-n. There is therefore not one MOGA spelling, but many MOGA spellings.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The ABCD system (from the initials of its inventors: R\u00e9gis Auffray, Andr\u00e9 Bienvenu, Andr\u00e9 Le Coq, and Patrice Dr\u00e9ano) is used by the Association of Gallo Teachers and also the University of Rennes. It was created in 2009 and preserves the main principles of MOGA: similarity to French and phonetic spelling. Whereas MOGA allows only one sound per letter or group of letters, ABCD allows several, enabling users to make a choice. This covers regional variants, and a text in ABCD will not be read in the same way by all Gallo speakers. ABCD also mirrors the French trait of silent letters, such as the plural s, and is therefore easier to read without prior learning.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Most consonants are written identically between the variants, and also the same as in French, and are not included in the table. As the pronunciation of ELG and ABCD letters varies greatly from region to region, this list is not exhaustive.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Additionally, MOGA and ABCD use the diagraph ll in words palatalized by certain Gallo speakers. Thus, bll\u00eb is pronounced [bj\u0259] or [bl\u0259] depending on the region.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In ABCD, the combinations mm, nm and nn work differently than in French. When two nasal consonants are written in ABCD, the first consonant nasalizes the preceding vowel, and the second consonant is pronounced as normal. Fenme is pronounced [f\u0251\u0303m] and not [fenm], as French orthography would dictate, and Janne is pronounced [\u0292\u0251\u0303n] and not [\u0292an]. As in French, if the final letter is an e or a consonant, they are generally not pronounced.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In MOGA, [lj] is written lh, and \u00f1 is used in place of n when the preceding consonant should not be nasal: di\u00f1ra is pronounced [din\u0281a].",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In the ELG, certain letters and letter groups are only possible in certain positions, such as oey, which only exists at the ends of words. As in ABCD, final consonants in ELG are generally silent. The sound [s] is written as cz, c, \u00e7 or s, depending on its position in the word and the surrounding letters. Silent s at the end of a word is written tz.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Of Pipers and Wrens (1997).  Produced and directed by Gei Zantzinger, in collaboration with Dastum.  Lois V. Kuter, ethnomusicological consultant.  Devault, Pennsylvania:  Constant Spring Productions.",
+    "date": null,
+    "verdict": null
+  }
+]

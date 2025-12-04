@@ -1,0 +1,90 @@
+#############################
+### PYTHON IGNORE RULES  ###
+#############################
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python local settings
+*.sqlite3
+*.db
+
+# Environment variables
+.env
+*.env
+
+# PyCharm / VSCode
+.idea/
+.vscode/
+
+
+###########################
+### REACT IGNORE RULES  ###
+###########################
+
+# Node modules
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency folders
+.pnp/
+.pnp.js
+
+# Local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+
+###########################
+### OS / SYSTEM FILES   ###
+###########################
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+
+###########################
+### MISC TEMP FILES     ###
+###########################
+
+*.log
+*.tmp
+*.swp
+*.cache/
+
+deep_learning/
+kb_cache/
+embeddings/
+extracted_claims/

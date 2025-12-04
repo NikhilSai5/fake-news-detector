@@ -1,0 +1,1160 @@
+[
+  {
+    "source": "wikipedia",
+    "text": "Reid Garrett Hoffman (born August 5, 1967) is an American internet entrepreneur, venture capitalist, podcaster, and author. Hoffman is the co-founder and former executive chairman of LinkedIn, a business-oriented social network used primarily for professional networking. He is also chairman of venture capital firm Village Global, a co-founder of Inflection AI, a co-founder of Manas AI, and a board member at Arc Institute.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoffman has been an influential figure in political circles, being a member of the Bilderberg Group since at least 2011 and the Council on Foreign Relations since 2015. He has actively participated in political funding and advocacy, contributing to various campaigns and organizations, and has been a vocal proponent of democratic institutions and humanism in technological innovation. As of 2025, Forbes estimates his net worth to be $2.6 billion.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoffman was born on August 5, 1967, in Palo Alto, California. He was a year old when his parents, who were both attorneys, got divorced. Hoffman was an avid table-top role-playing gamer as a child and worked as an editor at the game company Chaosium, then based in Oakland, California, near his home.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoffman attended high school at the progressive Putney School in Vermont, where he engaged in farming activities. He graduated from Stanford University in 1990 with a Bachelor of Science in symbolic systems and cognitive science. He was awarded a Marshall Scholarship for graduate study abroad, and he earned a Master of Studies (MSt) in philosophy from Wolfson College, Oxford, in 1993.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "His paternal great-great-great-grandfather was Theophilus Adam Wylie, a Christian Presbyterian minister and Indiana University president pro tempore. Hoffman's uncle, Eric Hoffman, is a writer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoffman joined Apple Computer in 1994, where he worked on eWorld, an early attempt at building an online service. AOL acquired eWorld in 1996. He later worked at Fujitsu before co-founding his first company, SocialNet.com, in 1997. It focused \"on online dating and matching up people with similar interests, like golfers who were looking for partners in their neighborhood.\"",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoffman was a member of PayPal's board of directors at the time it was founded. In January 2000, he left SocialNet and joined PayPal full-time as the company's COO. In June 2000, Hoffman became PayPal's Senior VP of Business Development, after a re-organization of PayPal's executive structure by then-CEO Elon Musk.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoffman co-founded LinkedIn in December 2002 with two former colleagues from SocialNet (including Allen Blue) and one former colleague from his time at Fujitsu. LinkedIn launched on May 5, 2003, as one of the first business-oriented online social networks. Peter Thiel, a colleague of Hoffman's at PayPal, invested in LinkedIn. At the time of LinkedIn's IPO on May 19, 2011, Hoffman owned a stake worth an estimated $2.34 billion, not including any potential benefits from Greylock Partners, where he was named a partner in 2009.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Microsoft proposed to acquire LinkedIn on June 13, 2016, for $26.2 billion in cash. Hoffman became a Microsoft board member on March 14, 2017.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2016, Reid Hoffman was among the first donors to OpenAI, a non-profit artificial intelligence research organization established by Sam Altman, Elon Musk, and others. In February 2018, Elon Musk departed from OpenAI's board, citing potential conflicts with his role at Tesla, due to Tesla's AI development for self-driving cars.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Following Musk's exit, OpenAI faced financial challenges due to the shortfall in anticipated funding. With Hoffman's help, OpenAI transitioned to a \"capped-profit\" model by establishing a for-profit subsidiary to attract investment while maintaining its commitment to ethical AI development. Hoffman led the investment into the for-profit subsidiary through his family foundation, and joined the company's board of directors.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On March 3, 2023, Hoffman resigned from his board seat at OpenAI, citing a desire to avoid conflicts of interest between his board seat at OpenAI, investments in AI technology companies via Greylock Partners, and role as founder of Inflection AI.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In March 2022, it was announced that Hoffman was co-founding a new startup, Inflection AI, with his long-time friend and Greylock colleague Mustafa Suleyman, the co-founder of DeepMind.  CNBC reported that \"Headquartered in Silicon Valley, Inflection will aim to develop AI software products that make it easier for humans to communicate with computers.\"",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In March 2024, Microsoft licensed Inflection AI's technology and hired Mustafa Suleyman, along with Inflection CSO Kar\u00e9n Simonyan and most of the company's 70 employees, in a deal reportedly worth $650 million. Following this transition, Inflection AI hired Sean White as CEO and shifted its focus to enterprise AI solutions.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In September 2024, the UK Competition and Markets Authority cleared Microsoft's hiring of former staff from Inflection AI, the AI startup Hoffman co-founded, along with associated arrangements between the companies.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In January 2025, Hoffman launched Manas AI, an AI-enabled drug discovery startup, together with cancer researcher Siddhartha Mukherjee, with about $25 million in initial funding.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In April 2024, Hoffman \"sat down\" for an interview with an AI deepfake of himself, one of the first public figures to do so. \"In their conversation, the two Reids discussed AI regulation, its capabilities, and ways Hoffman can improve his LinkedIn profile.\" According to Hoffman, the bot was \"built on OpenAI's GPT-4 and trained on over 20 years' worth of material provided by Hoffman's public speaking engagements and the books he's published.\" It uses ElevenLabs for voice cloning, Hour One or HeyGen for avatars, and RAG over his corpus to ground the answers. Hoffman told Axios' Mike Allen that ReidAI's purpose was to show \"the positive things we can do with all these technologies.\"",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In late 2022, Hoffman and others invested a total of $2.2 million in JusticeText. \"[G]eared towards public defenders,\" the platform \"stores, catalogs, analyzes and then shares video evidence, hoping to increase transparency around criminal matters.\"",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As of May 2023, Hoffman and Greylock Partners have invested in at least 37 AI companies. For example, they were an early investor in Tome, makers of productivity software driven by AI. The company claims it is the fastest productivity software maker in reaching 1 million users.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoffman has dismissed calls to \"pause\" the development of advanced AI systems, calling such ideas \"foolish\" and \"anti-humanist.\" Instead, he has called for the pace of development to be accelerated to help humans solve societal problems. For example, he's pointed to \"its potential to transform areas like health care \u2014 \"giving everyone a medical assistant\"; and education \u2014 \"giving everyone a tutor... I'm a tech optimist, not a tech utopian.\"",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Inc. dubbed Hoffman the \"evangelist in chief\" for Inflection AI and AI in general, citing his meetings with the likes of President Biden and the Pope to discuss his vision and concerns around AI.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "After the PayPal sale to eBay, Hoffman became one of Silicon Valley's most prolific angel investors. Dave Goldberg, former CEO of SurveyMonkey, said that Hoffman \"is the person you want to talk to when you are starting a company.\" In 2009, Hoffman joined Greylock Partners.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "According to David Kirkpatrick's book The Facebook Effect, Hoffman arranged the first meeting between Mark Zuckerberg and Peter Thiel, which led to Thiel's initial $500,000 angel investment in Facebook. Hoffman invested alongside Thiel in Facebook's first financing round.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Since 2009, Hoffman has provided venture capital to dozens of businesses across industries, including consumer and transportation technology, finance, and artificial intelligence. Examples include Airbnb, where he led the company's Series A financing round, Aurora Innovation, Taptap Send, and Helion Energy.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "He served on Zynga's board of directors from March 2008 to June 2014 and currently serves on several public boards, including Aurora, Joby Aviation, and Microsoft.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoffman has made multiple investments in transportation technology companies, including Aurora, Convoy, Nauto, Nuro, and Joby Aviation, among others.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "An early advocate for cryptocurrency, Hoffman led Greylock's 2014 Series A financing round in Xapo, a company that developed a bitcoin wallet product.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In August 2023, Hoffman said he will not serve as a general partner for Greylock's upcoming funds, but will continue to serve as a venture partner.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoffman has invested in California Forever, a company developing a planned city in Solano County, California.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2023, Hoffman delivered the Commencement Speech at Bologna Business School, urging students to prepare for the transformative potential of AI as a tool for amplifying human creativity, collaboration, and progress.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2024, Hoffman delivered a keynote lecture at the International Journalism Festival in Perugia, Italy,  balance progress and responsibility while shaping a future where technology amplifies human potential and interconnectedness.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoffman delivered a lecture at the LSE School of Public Policy focusing on the transformative impact of artificial intelligence on society, governance, and global dynamics. He was appointed a Visiting Senior Fellow at the school in February 2025.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In May 2025, Chiba Institute of Technology conferred an honorary doctorate to Hoffman along with Laurene Powell Jobs and Jigme Khesar Namgyel Wangchuck in honor of their contributions to society.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Together with Prof. Fred Kofman, Senior Leadership Coach at Google, former MIT Professor and Zur Genosar, Israeli businessman and mindfulness teacher, the three founded The Hoffman Kofman Foundation, a non-profit organization that aims to develop leaders into active exemplars of excellence who elicit internal commitment to a shared mission of creating social and economic value from their followers and team members.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoffman is co-author, with Ben Casnocha, of the career book The Start-Up of You: Adapt to the Future, Invest in Yourself, and Transform your Career.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The book was released in the United States on February 14, 2012. It argues that individuals should think of themselves as businesses-of-one \u2013 the \"CEO of their own career\" \u2013 and draws many parallels between lessons learned from the stories of successful Silicon Valley technology companies and an individual's career.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Publishers Weekly reviewed the book positively, saying, \"with plenty of valuable guidance relevant to any career stage, this book will help readers not only survive professionally in times of uncertainty but stand out from the pack and flourish.\" The Economist said that \"Hoffman and Casnocha make a number of astute observations about shifts in the world of work.\"",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The book became both a New York Times and Wall Street Journal bestseller.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoffman is co-author, with Ben Casnocha and Chris Yeh, of the management book The Alliance: Managing Talent in the Networked Age.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The book was released in the United States on July 8, 2014. It argues that previous career models of lifetime employment and free agency no longer work in a business world defined by continuous change. Instead, it proposes that employers and employees should think of each other as \"allies\" and move from a transactional approach to employment to a \"relational\" one.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The book became a New York Times bestseller. Arianna Huffington named The Alliance \"the must-read book of the summer\" in 2014. A Financial Times review was mixed, noting that those who aren't well-versed on the changing nature of the workplace may find the book useful, but readers looking for more surprising or in-depth insights will be disappointed.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoffman is co-author, with Chris Yeh, of the book Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies. The book was released in the United States on October 9, 2018. It argues that the secret to starting and scaling massively valuable companies is \"blitzscaling\", a set of techniques for \"scaling up at a dizzying pace that blows competitors out of the water.\"",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On March 13, 2023, Hoffman released the book \"Impromptu: Amplifying Our Humanity Through AI.\" Hoffman claims to have written the book using the large language model GPT-4. It became a Wall Street Journal bestseller in April of that year.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "=== Superagency: What Could Possibly Go Right With our AI Future ===",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On January 28, 2025, Hoffman released the book \"Superagency: What Could Possibly Go Right With our AI Future\"  with his co-author Greg Beato. The book offers a roadmap for how society can integrate AI inclusively and adaptively to improve our lives and create massive positive change. The book became a New York Times bestseller. Hoffman used AI to create personalized book covers, featuring AI generated images and custom book blurbs for customers.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On April 25, 2017, Reid Hoffman announced the launch of a business and finance podcast called Masters of Scale, with the first episode of the podcast launching on May 3, 2017. The podcast is produced by WaitWhat, a media company led by former TED executives June Cohen and Deron Triff and hosted by Hoffman who interviews notable entrepreneurs and business and political leaders. The Masters of Scale podcast has featured interviews with well-known founders and leaders including Airbnb co-founder and CEO Brian Chesky, Netflix co-founder Reed Hastings, Uber CEO Dara Khosrowshahi, Huffington Post & Thrive Global founder Arianna Huffington, Imagine Entertainment founders, Brian Grazer & Ron Howard, Ariel Investments co-CEO Mellody Hobson, and President Barack Obama.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Since its launch, Masters of Scale has won several Webby and Signal awards.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In March 2023, Hoffman and his Chief of Staff Aria Finger began hosting a podcast called \"Possible\". According to its creators, the podcast \"sketches out the brightest version of the future\u2014and what it will take to get there\". The podcast has won three Webby Awards. In 2024, the episode featuring Trevor Noah won best Individual Episode and the episode featuring Bryan Stevenson won best Crime and Justice episode.In 2025, the episode featuring Kara Swisher won best Individual Episode.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In March of 2025, Reid was appointed a Distinguished Academic Visitor at Queens' College, Cambridge.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In February 2025, Reid was appointed a Visiting Senior Fellow at the London School of Economics.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2024, Reid was appointed a Distinguished Fellow at the Columbia University Institute of Global Politics",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In September 2023, Reid received Sigillum Magnum from University of Bologna during the Bologna Business School's commencement.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2022, Reid delivered the commencement address at Vanderbilt University and received Vanderbilt's Nichols-Chancellor's Medal.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2017 he was appointed an Honorary Commander of the Order of the British Empire (CBE), \"For services to promoting UK business and social networking and the Marshall Scholarship scheme\".",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In September 2014, the American Academy of Achievement awarded Hoffman with the annual Golden Plate award, which honors accomplished individuals \"for significant achievement in their fields.\"",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In April 2014, President Barack Obama named Hoffman as a Presidential Ambassador for Global Entrepreneurship \"to help develop the next generation of entrepreneurs.\"",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In April 2014, Hoffman received the Distinguished Citizen Award from the Commonwealth Club of California.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In May 2012, Hoffman was ranked third on the Forbes Midas List of the top tech investors. Forbes described Hoffman as \"Silicon Valley's uber-investor\" and said Hoffman \"has had a hand in creating nearly every lucrative social media startup.\"",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2012, The Martin Luther King Jr. Center honored Hoffman with their \"Salute to Greatness\" award which \"recognizes individuals and corporations or organizations that exemplify excellence in leadership and a commitment to social responsibility in the spirit of Martin Luther King, Jr.\"",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2012, Hoffman, along with Salman Khan of Khan Academy, was honored by the World Affairs Council and Global Philanthropy Forum in 2012. The council recognizes and honors remarkable leaders who have effected and will continue to effect social change through their private enterprise and social action. The awards in 2012 were dedicated to celebrating Technology for Social Impact.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoffman was awarded the 2012 David Packard Medal of Achievement Award by TechAmerica for his contributions and advances within the high-tech industry, his community, and humankind.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoffman received an Honorary Doctor of Laws from Babson College in 2012.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2011, Hoffman and Jeff Weiner of LinkedIn shared the EY U.S. Entrepreneur of the Year Award.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2004, Hoffman married Michelle Yee. The couple resides in Seattle, Washington. Hoffman is an avid player of board games, including Settlers of Catan, and has said that such games are good training for business.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoffman reportedly first encountered Jeffrey Epstein through the MIT Media Lab when he helped solicit donations to lab from Epstein. In July 2013, Epstein met with Hoffman and others at the MIT campus. In 2019, it was reported that Hoffman had hosted a dinner attended by Epstein along with Elon Musk and Mark Zuckerberg. In September 2023, The Wall Street Journal reported that Hoffman visited Epstein's private island for a weekend in 2014. Hoffman claimed that the purpose of the meeting was to raise funds for the Massachusetts Institute of Technology and that he regretted interacting with Epstein.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In July 2024, The Washington Post reported that Hoffman had made a multimillion-dollar investment in the election technology company Smartmatic, which is currently undertaking defamation action against several press outlets. In October 2025, Hoffman's name was brought up in a Senate hearing on Epstein while questioning attorney general Pam Bondi. Bondi called Reid Hoffman one of Epstein's closest confidants while being questioned by Senator Sheldon Whitehouse.  Whitehouse asked if the FBI found photos of Donald Trump with half naked young women, Bondi did not answer the question.  A photograph of Bondi's notes indicated her plan to not answer question but attack Representatives, was her strategy.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoffman currently serves on the boards of Kiva.org (peer-to-peer microlending pioneer that allows people to lend money via the internet to low-income/underserved entrepreneurs and students), Endeavor Global (an organization that finds and supports high-impact entrepreneurs in emerging markets), and New America (a think tank that focuses on a range of public policy issues, including national security, technology, health, gender, education, and the economy). He's the founding donor and board member at Opportunity@Work, an organization that seeks to eliminate the opportunity gap and provide millions of highly skilled but under-credentialed Americans (often from marginalized, rural and racially diverse backgrounds) better pathways to higher-paying jobs and careers. Hoffman is on the board of Lever for Change, an affiliate of the MacArthur Foundation, which connects donors with problem solvers to find and fund bold, effective solutions to accelerate social change. He's also on the board of the Berggruen Institute, a think tank.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoffman formerly served on the advisory council of the MIT Media Lab and as chair of the advisory board for QuestBridge (a provider of talented low-income students to top colleges/universities). Hoffman was also the first major funder of Crisis Text Line, a free, 24/7 crisis service via SMS in the US.In 2013, Hoffman provided a $250,000 matching grant (equivalent to $331,000 in 2024) to Code for America.In July 2016, Hoffman funded the $250,000 cash-prize (equivalent to $319,300 in 2024) MIT Media Lab MIT Disobedience Award, an award created by Hoffman and Joi Ito to honor and recognize acts of disobedience resulting in positive social impact. In November 2016, Hoffman and his wife, Michelle Yee, donated $20 million (equivalent to $25,550,000 in 2024) to the Chan Zuckerberg Initiative, a charity dedicated to eradicating disease by 2100. Hoffman and Yee's donation was for the Biohub, the Initiative's San Francisco laboratory. Hoffman also joined the board of the Biohub project. In May 2018, Hoffman and Yee joined the Giving Pledge, \"a global effort to help address society's most pressing problems by encouraging the wealthiest individuals and families to give the majority of their wealth to philanthropic causes.\"",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoffman is also a long-time supporter of Second Harvest of Silicon Valley. In 2021, in response to the massive increased need due to the pandemic, he offered to match any donations to the food bank, up to $2 million (equivalent to $2,278,000 in 2024).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoffman is one of the backers of the Ethics and Governance of Artificial Intelligence Fund, a joint venture between the MIT Media Lab and the Berkman Klein Center for Internet & Society at Harvard University. He is on the board of the Stanford Institute for Human-Centered Artificial Intelligence (HAI), whose mission is to \"advance AI research, education, policy and practice to improve the human condition\", and launched the institute's Hoffman-Yee Research Grants to \"fund interdisciplinary teams with research spanning HAI's key areas of focus: understanding the human and societal impact of AI, augmenting human capabilities, and developing AI technologies inspired by human intelligence\".  In 2018, Hoffman made a gift to the University of Toronto's Faculty of Information, to endow a chair \"to study how the new era of artificial intelligence (AI) will affect our lives.\"",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Since at least 2011, Hoffman has been a member and regular attendee of the Bilderberg Group, which gathers 120\u2013150 North American and European \"political leaders and experts from industry, finance, academia and the media\" for an annual invitation-only closed-door conference. Hoffman is also listed as a member of the Council on Foreign Relations, to which he was elected in 2015.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In April 2013, a pro-immigration lobbying group called FWD.us was launched, with Reid Hoffman listed as one of the founders. In 2014, Hoffman donated $150,000 (equivalent to $195,200 in 2024) to the Mayday PAC. Also in 2014, Hoffman contributed $500,000 (equivalent to $650,700 in 2024) toward David Chiu's State Assembly campaign by funding an independent expenditure committee devoted to negative campaigning against his opponent: San Franciscans to Hold Campos Accountable\u2014Vote No for Campos for State Assembly 2014. In 2016, Hoffman contributed $220,000 (equivalent to $281,000 in 2024) in support of Democratic candidate for Vermont governor Matt Dunne, according to a mass-media disclosure filed at the Vermont Secretary of State's Office.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2016, Hoffman created a card game modeled after Cards Against Humanity intended to poke fun at US presidential candidate Donald Trump. In December 2018, the New York Times broke a story alleging that Hoffman had \"put $100,000 into an experiment that adopted Russia-inspired political disinformation tactics on Facebook\" during the 2017 special Senate race in Alabama, which allegedly targeted Roy Moore voters. Hoffman did not immediately respond. He apologized later that month, also stating he was unaware what the non-profit\u2014Washington, D.C.\u2013based American Engagement Technologies, or AET\u2014had been doing. Hoffman helped fund E. Jean Carroll's lawsuit for defamation and battery against Donald Trump. On May 9, 2023, a jury found Trump liable and awarded Carroll $5 million in damages.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2018, Hoffman helped fund Alloy, a company founded to legally exchange data with affiliated Democratic groups like super PACs. Hoffman supplied half of the $35 million to start it. The company shut down in 2021.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoffman has been an outspoken proponent of democratic institutions and voting rights and in 2021 published a piece on LinkedIn entitled Protecting Voting Rights: Good for America, Good for American Business.  In this piece he discusses how \"former American Express CEO Kenneth Chenault and Merck CEO Kenneth Frazier led corporate America to take an active role in this situation, by explicitly advocating for the rights of all American citizens to make their voices heard through the core democratic act of voting\".  In 2020, Hoffman also penned a piece that argued for making Voting Day a holiday.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoffman gave at least $500,000 to the Mainstream Democrats super PAC, which was founded in February 2022 and has since spent more than $1 million supporting the campaigns of moderate Democrats Henry Cuellar and Kurt Schrader.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In October 2022, Hoffman joined the Defense Innovation Board, an independent advisory board for the United States Department of Defense.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "During the 2024 presidential election, Hoffman initially endorsed President Joe Biden's reelection campaign. Hoffman criticized Democratic donors who froze their campaign donations in the aftermath of Biden's performance at the June 2024 debate against Donald Trump. Following Biden's withdrawal from the race, Hoffman endorsed former Vice President Kamala Harris' campaign. Hoffman stated in an interview his desire that a potential Harris administration remove Lina Khan as Federal Trade Commission chair.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoffman has participated in the World Economic Forum's Annual Meeting in Davos.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hoffman has stated his intention of financially backing pro-Abundance candidates.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\"About LinkedIn: Management\". Archived from the original on September 13, 2008. Retrieved January 2, 2006.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\"Hoffman's LinkedIn profile\". Archived from the original on September 13, 2008. Retrieved June 23, 2006.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\"Hoffman's LinkedIn Influencer posts\". Archived from the original on July 28, 2015.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Start-Up of You Archived December 21, 2014, at the Wayback Machine book website",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "OpenAI is an American artificial intelligence (AI) organization headquartered in San Francisco, California. It aims to develop \"safe and beneficial\" artificial general intelligence (AGI), which it defines as \"highly autonomous systems that outperform humans at most economically valuable work\". As a leading organization in the ongoing AI boom, OpenAI is known for the GPT family of large language models, the DALL-E series of text-to-image models, and a text-to-video model named Sora. Its release of ChatGPT in November 2022 has been credited with catalyzing widespread interest in generative AI.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The organization has a complex corporate structure. As of October 2025, it is led by the non-profit OpenAI Foundation, founded in 2015 and registered in Delaware, which holds a 26% equity stake in OpenAI Group PBC, a for-profit public benefit corporation which commercializes its products. Microsoft invested over $13 billion into OpenAI, and provides Azure cloud computing resources. In October 2025, OpenAI conducted a $6.6 billion share sale that valued the company at $500 billion. On 28 October 2025, OpenAI said it had converted its main business into a for-profit corporation, with Microsoft acquiring a 27% stake in the company and the remaining non-profit company (now known as the OpenAI Foundation) owning a 26% stake.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2023 and 2024, OpenAI faced multiple lawsuits for alleged copyright infringement against authors and media companies whose work was used to train some of OpenAI's products. In November 2023, OpenAI's board removed Sam Altman as CEO, citing a lack of confidence in him, but reinstated him five days later following a reconstruction of the board. Throughout 2024, roughly half of then-employed AI safety researchers left OpenAI, citing the company's prominent role in an industry-wide problem.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In December 2015, OpenAI was founded as a not for profit organization by Sam Altman, Elon Musk, Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, John Schulman, Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk as the co-chairs. A total of $1 billion in capital was pledged by Sam Altman, Greg Brockman, Elon Musk, Reid Hoffman, Jessica Livingston, Peter Thiel, Amazon Web Services (AWS), and Infosys. The actual collected total amount of contributions was only $130 million until 2019.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The organization stated it would \"freely collaborate\" with other institutions and researchers by making some of its patents and research open to the public. OpenAI was initially run from Brockman's living room. It was later headquartered at the Pioneer Building in the Mission District, San Francisco.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "According to OpenAI's charter, its founding mission is \"to ensure that artificial general intelligence (AGI)\u2014by which we mean highly autonomous systems that outperform humans at most economically valuable work\u2014benefits all of humanity.\"",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Musk and Altman stated in 2015 that they were partly motivated by concerns about AI safety and existential risk from artificial general intelligence. OpenAI stated that \"it's hard to fathom how much human-level AI could benefit society\", and that it is equally difficult to comprehend \"how much it could damage society if built or used incorrectly\". The startup also wrote that AI \"should be an extension of individual human wills and, in the spirit of liberty, as broadly and evenly distributed as possible\", and that \"because of AI's surprising history, it's hard to predict when human-level AI might come within reach. When it does, it'll be important to have a leading research institution which can prioritize a good outcome for all over its own self-interest.\" Co-chair Sam Altman expected a decades-long project that eventually surpasses human intelligence.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Brockman met with Yoshua Bengio, one of the \"founding fathers\" of deep learning, and drew up a list of great AI researchers. Brockman was able to hire nine of them as the first employees in December 2015. OpenAI did not pay AI researchers salaries comparable to those of Facebook or Google. It also did not pay stock options which AI researchers typically get. Nevertheless, OpenAI spent $7 million on its first 52 employees in 2016. OpenAI's potential and mission drew these researchers to the firm; a Google employee said he was willing to leave Google for OpenAI \"partly because of the very strong group of people and, to a very large extent, because of its mission.\" OpenAI co-founder Wojciech Zaremba stated that he turned down \"borderline crazy\" offers of two to three times his market value to join OpenAI instead.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In April 2016, OpenAI released a public beta of \"OpenAI Gym\", its platform for reinforcement learning research. Nvidia gifted its first DGX-1 supercomputer to OpenAI in August 2016 to help it train larger and more complex AI models with the capability of reducing processing time from six days to two hours. In December 2016, OpenAI released \"Universe\", a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites, and other applications.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2019, OpenAI transitioned from non-profit to \"capped\" for-profit, with the profit being capped at 100 times any investment. According to OpenAI, the capped-profit model allows OpenAI Global, LLC to legally attract investment from venture funds and, in addition, to grant employees stakes in the company. Many top researchers work for Google Brain, DeepMind, or Facebook, which offer stock options that a nonprofit would be unable to. Before the transition, public disclosure of the compensation of top employees at OpenAI was legally required.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The company then distributed equity to its employees and partnered with Microsoft, announcing an investment package of $1 billion into the company. Since then, OpenAI systems have run on an Azure-based supercomputing platform from Microsoft.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "OpenAI Global, LLC then announced its intention to commercially license its technologies. It planned to spend $1 billion \"within five years, and possibly much faster\". Altman stated that even a billion dollars may turn out to be insufficient, and that the lab may ultimately need \"more capital than any non-profit has ever raised\" to achieve artificial general intelligence.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The nonprofit, OpenAI, Inc., is the sole controlling shareholder of OpenAI Global, LLC, which, despite being a for-profit company, retains a formal fiduciary responsibility to OpenAI, Inc.'s nonprofit charter. A majority of OpenAI, Inc.'s board is barred from having financial stakes in OpenAI Global, LLC. In addition, minority members with a stake in OpenAI Global, LLC are barred from certain votes due to conflict of interest. Some researchers have argued that OpenAI Global, LLC's switch to for-profit status is inconsistent with OpenAI's claims to be \"democratizing\" AI.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On February 29, 2024, Elon Musk filed a lawsuit against OpenAI and CEO Sam Altman, accusing them of shifting focus from public benefit to profit maximization\u2014a case OpenAI dismissed as \"incoherent\" and \"frivolous,\" though Musk later revived legal action against Altman and others in August.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On April 9, 2024, OpenAI countersued Musk in federal court, alleging that he had engaged in \"bad-faith tactics\" to slow the company's progress and seize its innovations for his personal benefit. OpenAI also argued that Musk had previously supported the creation of a for-profit structure and had expressed interest in controlling OpenAI himself. The countersuit seeks damages and legal measures to prevent further alleged interference.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On February 10, 2025, a consortium of investors led by Elon Musk submitted a $97.4 billion unsolicited bid to buy the nonprofit that controls OpenAI, declaring willingness to match or exceed any better offer. The offer was rejected on 14 February 2025, with OpenAI stating that it was not for sale, but the offer complicated Altman's restructuring plan by suggesting a lower bar for how much the nonprofit should be valued.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "OpenAI, Inc. was originally designed as a nonprofit in order to ensure that AGI \"benefits all of humanity\" rather than \"the private gain of any person\". In 2019, it created OpenAI Global, LLC, a capped-profit subsidiary controlled by the nonprofit. In December 2024, OpenAI proposed a restructuring plan to convert the capped-profit into a Delaware-based public benefit corporation (PBC), and to release it from the control of the nonprofit. The nonprofit would sell its control and other assets, getting equity in return, and would use it to fund and pursue separate charitable projects, including in science and education. OpenAI's leadership described the change as necessary to secure additional investments, and claimed that the nonprofit's founding mission to ensure AGI \"benefits all of humanity\" would be better fulfilled.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The plan has been criticized by former employees. A legal letter named \"Not For Private Gain\" asked the attorneys general of California and Delaware to intervene, stating that the restructuring is illegal and would remove governance safeguards from the nonprofit and the attorneys general. The letter argues that OpenAI's complex structure was deliberately designed to remain accountable to its mission, without the conflicting pressure of maximizing profits. It contends that the nonprofit is best positioned to advance its mission of ensuring AGI benefits all of humanity by continuing to control OpenAI Global, LLC, whatever the amount of equity that it could get in exchange. PBCs can choose how they balance their mission with profit-making. Controlling shareholders have a large influence on how closely a PBC sticks to its mission.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "According to UCLA Law staff, to change its purpose, OpenAI would have to prove that its current purposes have become unlawful, impossible, impracticable, or wasteful.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On October 28, 2025, OpenAI announced that it had adopted a new corporate structure after receiving approval from the attorneys general of California and Delaware. Under the new structure, OpenAI's for-profit branch became a public benefit corporation known as OpenAI Group PBC, while the non-profit was renamed to the OpenAI Foundation. The OpenAI Foundation holds a 26% stake in the PBC, while Microsoft holds a 27% stake and the remaining 47% is owned by employees and other investors.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "All members of the OpenAI Group PBC board of directors will be appointed by the OpenAI Foundation, which can remove them at any time. Members of the Foundation's board will also serve on the for-profit board. The new structure allows the for-profit PBC to raise investor funds like most traditional tech companies, including through an initial public offering, which Altman claimed was the most likely path forward.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In January 2023, OpenAI Global, LLC was in talks for funding that would value the company at $29 billion, double its 2021 value. On January 23, 2023, Microsoft announced a new US$10 billion investment in OpenAI Global, LLC over multiple years, partially needed to use Microsoft's cloud-computing service Azure.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On September 21, 2023, Microsoft had begun rebranding all variants of its Copilot to Microsoft Copilot, including the former Bing Chat and the Microsoft 365 Copilot. This strategy was followed in December 2023 by adding the MS-Copilot to many installations of Windows 11 and Windows 10 as well as a standalone Microsoft Copilot app released for Android and one released for iOS thereafter.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Following OpenAI's 2025 restructuring, Microsoft owns a 27% stake in the for-profit OpenAI Group PBC, valued at $135 billion. In a deal announced the same day, OpenAI agreed to purchase $250 billion of Azure services, with Microsoft ceding their right of first refusal over OpenAI's future cloud computing purchases. As part of the deal, OpenAI will continue to share 20% of its revenue with Microsoft until it achieves AGI, which must now be verified by an independent panel of experts. The deal also loosened restrictions on both companies working with third parties, allowing Microsoft to pursue AGI independently and allowing OpenAI to develop products with other companies.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2017, OpenAI spent $7.9 million, a quarter of its functional expenses, on cloud computing alone. In comparison, DeepMind's total expenses in 2017 were $442 million. In the summer of 2018, training OpenAI's Dota 2 bots required renting 128,000 CPUs and 256 GPUs from Google for multiple weeks.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In October 2024, OpenAI completed a $6.6 billion capital raise with a $157 billion valuation including investments from Microsoft, Nvidia, and SoftBank.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On January 21, 2025, Donald Trump announced The Stargate Project, a joint venture between OpenAI, Oracle, SoftBank and MGX to build an AI infrastructure system in conjunction with the US government. The project takes its name from OpenAI's existing \"Stargate\" supercomputer project and is estimated to cost $500 billion. The partners plan to fund the project over the next four years. In July, the United States Department of Defense announced that OpenAI had received a $200 million contract for AI in the military, along with Anthropic, Google, and xAI. In the same month, the company made a deal with the UK Government to use ChatGPT and other AI tools in public services. OpenAI subsequently began a $50 million fund to support nonprofit and community organizations.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In April 2025, OpenAI raised $40 billion at a $300 billion post-money valuation, which was the highest-value private technology deal in history. The financing round was led by SoftBank, with other participants including Microsoft, Coatue, Altimeter and Thrive.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In July 2025, the company reported annualized revenue of $12 billion. This was an increase from $3.7 billion in 2024, which was driven by ChatGPT subscriptions, which reached 20 million paid subscribers by April 2025, up from 15.5 million at the end of 2024, alongside a rapidly expanding enterprise customer base that grew to five million business users.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The company cash burn remains high due to the intensive computational costs required to train and run large language models. It projects to lose $8 billion in 2025.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Looking ahead, OpenAI has revised upward its long-term spending projections, now expecting to burn approximately $115 billion through 2029\u2014roughly $80 billion more than the company's previous estimates. The annual cash burn is projected to escalate significantly, with spending expected to reach $17 billion in 2026, $35 billion in 2027, and $45 billion in 2028. These expenditures are primarily allocated toward expanding compute infrastructure, developing proprietary AI chips, constructing data centers, and funding intensive model training programs, with more than half of the spending through the end of the decade expected to support research-intensive compute for model training and development.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The company's financial strategy reflects a strategy of prioritizing market expansion and technological advancement over near-term profitability, with OpenAI targeting cash flow positive operations by 2029 and projecting revenue of approximately $200 billion by 2030. This aggressive spending trajectory underscores both the enormous capital requirements of scaling cutting-edge AI technology and OpenAI's commitment to maintaining its position as a leader in the artificial intelligence industry.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In October 2025, OpenAI completed an employee share sale of up to $10 billion to existing investors which valued the company at $500 billion. The deal values OpenAI as the most valuable privately owned company in the world\u2014surpassing SpaceX as the world's most valuable private company.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On November 17, 2023, Sam Altman was removed as CEO when its board of directors (composed of Helen Toner, Ilya Sutskever, Adam D'Angelo and Tasha McCauley) cited a lack of confidence in him. Chief Technology Officer Mira Murati took over as interim CEO. Greg Brockman, the president of OpenAI, was also removed as chairman of the board and resigned from the company's presidency shortly thereafter. Three senior OpenAI researchers subsequently resigned: director of research and GPT-4 lead Jakub Pachocki, head of AI risk Aleksander M\u0105dry, and researcher Szymon Sidor.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On November 18, 2023, there were reportedly talks of Altman returning as CEO amid pressure placed upon the board by investors such as Microsoft and Thrive Capital, who objected to Altman's departure. Although Altman himself spoke in favor of returning to OpenAI, he has since stated that he considered starting a new company and bringing former OpenAI employees with him if talks to reinstate him didn't work out. The board members agreed \"in principle\" to resign if Altman returned. On November 19, 2023, negotiations with Altman to return failed and Murati was replaced by Emmett Shear as interim CEO. The board initially contacted Anthropic CEO Dario Amodei (a former OpenAI executive) about replacing Altman, and proposed a merger of the two companies, but both offers were declined.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On November 20, 2023, Microsoft CEO Satya Nadella announced Altman and Brockman would be joining Microsoft to lead a new advanced AI research team, but added that they were still committed to OpenAI despite recent events. Before the partnership with Microsoft was finalized, Altman gave the board another opportunity to negotiate with him. About 738 of OpenAI's 770 employees, including Murati and Sutskever, signed an open letter stating they would quit their jobs and join Microsoft if the board did not rehire Altman and then resign. This prompted OpenAI investors to consider legal action against the board as well. In response, OpenAI management sent an internal memo to employees stating that negotiations with Altman and the board had resumed and would take some time.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On November 21, 2023, after continued negotiations, Altman and Brockman returned to the company in their prior roles along with a reconstructed board made up of new members Bret Taylor (as chairman) and Lawrence Summers, with D'Angelo remaining. Concerns about Altman's response to this development, specifically regarding the discovery's potential safety implications, were reportedly raised with the company's board shortly before Altman's firing. On November 29, 2023, OpenAI announced that an anonymous Microsoft employee had joined the board as a non-voting member to observe the company's operations; Microsoft resigned from the board in July 2024.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In February 2024, the Securities and Exchange Commission subpoenaed OpenAI's internal communication to determine if Altman's alleged lack of candor misled investors.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2024, following the temporary removal of Sam Altman and his return, many employees gradually left OpenAI, including most of the original leadership team and a significant number of AI safety researchers.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In August 2023, it was announced that OpenAI had acquired the New York-based start-up Global Illumination, a company that deploys AI to develop digital infrastructure and creative tools.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In June 2024, OpenAI acquired Multi, a startup focused on remote collaboration.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In March 2025, OpenAI reached a deal with CoreWeave to acquire $350 million worth of CoreWeave shares and access to AI infrastructure, in return for $11.9 billion paid over five years. Microsoft was already CoreWeave's biggest customer in 2024. Alongside their other business dealings, OpenAI and Microsoft were renegotiating the terms of their partnership to facilitate a potential future initial public offering by OpenAI, while ensuring Microsoft's continued access to advanced AI models.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On May 21, OpenAI announced the $6.5 billion acquisition of io, an AI hardware start-up founded by former Apple designer Jony Ive in 2024.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In September 2025, OpenAI agreed to acquire the product testing startup Statsig for $1.1 billion in an all-stock deal and appointed Statsig's founding CEO Vijaye Raji as OpenAI's chief technology officer of applications. The company also announced development of an AI-driven hiring service designed to rival LinkedIn.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "OpenAI has been criticized for outsourcing the annotation of data sets to Sama, a company based in San Francisco that employed workers in Kenya. These annotations were used to train an AI model to detect toxicity, which could then be used to moderate toxic content, notably from ChatGPT's training data and outputs. However, these pieces of text usually contained detailed descriptions of various types of violence, including sexual violence. The investigation uncovered that OpenAI began sending snippets of data to Sama as early as November 2021. The four Sama employees interviewed by Time described themselves as mentally scarred. OpenAI paid Sama $12.50 per hour of work, and Sama was redistributing the equivalent of between $1.32 and $2.00 per hour post-tax to its annotators. Sama's spokesperson said that the $12.50 was also covering other implicit costs, among which were infrastructure expenses, quality assurance and management.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "OpenAI began collaborating with Broadcom in 2024 to design a custom AI chip capable of both training and inference targeted for mass production in 2026 and to be manufactured by TSMC in 3 nm node. This initiative intended to reduce OpenAI's dependence on Nvidia GPUs, which are costly and face high demand in the market.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In January 2024, Arizona State University purchased ChatGPT Enterprise in OpenAI's first deal with a university.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In June, Apple Inc. signed a contract with OpenAI to integrate ChatGPT features into its products as part of its new Apple Intelligence initiative.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In June, OpenAI began renting Google Cloud's Tensor Processing Units (TPUs) to support ChatGPT and related services, marking its first meaningful use of non\u2011Nvidia AI chips.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In September 2025, it was revealed that OpenAI signed a contract with Oracle to purchase $300 billion in computing power over the next five years.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In September 2025, OpenAI and NVIDIA announced a partnership that included a potential deployment of at least 10 gigawatts of NVIDIA systems and a $100 billion investment from NVIDIA in OpenAI.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In October 2025, OpenAI announced a multi-billion dollar deal with AMD. OpenAI committed to purchasing six gigawatts worth of AMD chips, starting with the MI450. OpenAI will have the option to buy up to 160 million shares of AMD, about 10% of the company, depending on development, performance and share price targets.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "OpenAI provides LLMs to the Artificial Intelligence Cyber Challenge, and to the Advanced Research Projects Agency for Health. In October 2024, The Intercept revealed that OpenAI's tools are considered \"essential\" for AFRICOM's mission and included in an \"Exception to Fair Opportunity\" contractual agreement between the United States Department of Defense and Microsoft. In December 2024, OpenAI said it would partner with defense-tech company Anduril to build drone defense technologies for the United States and its allies.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2025, OpenAI's Chief Product Officer, Kevin Weil, was commissioned lieutenant colonel in the U.S. Army to join Detachment 201 as senior advisor.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In June 2025, the U.S. Department of Defense awarded OpenAI a $200 million one-year contract to develop AI tools for military and national security applications. OpenAI announced a new program, OpenAI for Government, to give federal, state, and local governments access to its models, including ChatGPT.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In February 2019, GPT-2 was announced, which gained attention for its ability to generate human-like text.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2020, OpenAI announced GPT-3, a language model trained on large internet datasets. GPT-3 is aimed at natural language answering questions, but it can also translate between languages and coherently generate improvised text. It also announced that an associated API, named the API, would form the heart of its first commercial product.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Eleven employees left OpenAI, mostly between December 2020 and January 2021, in order to establish Anthropic.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2021, OpenAI introduced DALL-E, a specialized deep learning model adept at generating complex digital images from textual descriptions, utilizing a variant of the GPT-3 architecture.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In December 2022, OpenAI received widespread media coverage after launching a free preview of ChatGPT, its new AI chatbot based on GPT-3.5. According to OpenAI, the preview received over a million signups within the first five days. According to anonymous sources cited by Reuters in December 2022, OpenAI Global, LLC was projecting $200 million of revenue in 2023 and $1 billion in revenue in 2024.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Google announced a similar AI application (Bard), after ChatGPT was launched, fearing that ChatGPT could threaten Google's place as a go-to source for information.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On February 7, 2023, Microsoft announced that it was building AI technology based on the same foundation as ChatGPT into Microsoft Bing, Edge, Microsoft 365 and other products.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On March 14, 2023, OpenAI released GPT-4, both as an API (with a waitlist) and as a feature of ChatGPT Plus.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On November 6, 2023, OpenAI launched GPTs, allowing individuals to create customized versions of ChatGPT for specific purposes, further expanding the possibilities of AI applications across various industries. On November 14, 2023, OpenAI announced they temporarily suspended new sign-ups for ChatGPT Plus due to high demand. Access for newer subscribers re-opened a month later on December 13.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In December 2024, the company launched the Sora model. It also launched OpenAI o1, an early reasoning model that was internally codenamed strawberry. Additionally, ChatGPT Pro\u2014a $200/month subscription service offering unlimited o1 access and enhanced voice features\u2014was introduced, and preliminary benchmark results for the upcoming OpenAI o3 models were shared.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On January 23, 2025, OpenAI released Operator, an AI agent and web automation tool for accessing websites to execute goals defined by users. The feature was only available to Pro users in the United States. OpenAI released deep research agent, nine days later. It scored a 27% accuracy on the benchmark Humanity's Last Exam (HLE). Altman later stated GPT-4.5 would be the last model without full chain-of-thought reasoning.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In July 2025, reports indicated that AI models by both OpenAI and Google DeepMind solved mathematics problems at the level of top-performing students in the International Mathematical Olympiad. OpenAI's large language model was able to achieve gold medal-level performance, reflecting significant progress in AI's reasoning abilities.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In September 2025, OpenAI released a first-of-its-kind study revealing how people use ChatGPT for everyday tasks. The study found that \"non-work tasks\" (according to an LLM-based classifier) account for more than 72 percent of all ChatGPT usage, with a minority of overall usage related to business productivity.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On October 6, OpenAI unveiled its Agent Builder platform during the company's DevDay event. The platform features a drag-and-drop visual interface that allows developers and businesses to design, test, and deploy agentic workflows without requiring extensive coding expertise.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On October 21 2025, OpenAI introduced ChatGPT Atlas, a browser integrating the ChatGPT assistant directly into web navigation, to compete with existing browsers such as Google Chrome and Apple Safari.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In March 2023, the company was criticized for disclosing particularly few technical details about products like GPT-4, contradicting its initial commitment to openness and making it harder for independent researchers to replicate its work and develop safeguards. OpenAI cited competitiveness and safety concerns to justify this strategic turn. OpenAI's former chief scientist Ilya Sutskever argued in 2023 that open-sourcing increasingly capable models was increasingly risky, and that the safety reasons for not open-sourcing the most potent AI models would become \"obvious\" in a few years.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In July 2023, OpenAI launched the superalignment project, aiming to find within 4 years how to align future superintelligences by automating alignment research using AI. OpenAI promised to dedicate 20% of its computing resources to the project, although the team denied receiving anything close to 20%. OpenAI ended the project in May 2024 after its co-leaders Ilya Sutskever and Jan Leike left the company.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In August 2025, OpenAI was criticized after thousands of private ChatGPT conversations were inadvertently exposed to public search engines like Google due to an experimental \"share with search engines\" feature. The opt-in toggle, intended to allow users to make specific chats discoverable, resulted in some discussions including personal details such as names, locations, and intimate topics appearing in search results when users accidentally enabled it while sharing links. OpenAI announced the feature's permanent removal on August 1, 2025, and the company began coordinating with search providers to remove the exposed content, emphasizing that it was not a security breach but a design flaw that heightened privacy risks. CEO Sam Altman acknowledged the issue in a podcast, noting users often treat ChatGPT as a confidant for deeply personal matters, which amplified concerns about AI handling sensitive data.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CEO and co-founder: Sam Altman, former president of the start-up accelerator Y Combinator",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "President and co-founder: Greg Brockman, former CTO, 3rd employee of Stripe",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Chief Scientist Officer: Jakub Pachocki, former Director of Research at OpenAI",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Chief Operating Officer: Brad Lightcap, previously at Y Combinator and JPMorgan Chase",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Chief Financial Officer: Sarah Friar, former Nextdoor CEO and former CFO at Block, Inc.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Chief Product Officer: Kevin Weil, previously at Twitter, Inc. and Meta Platforms",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Chief Research Officer: Mark Chen, former SVP of Research at OpenAI",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Chief Compliance Officer: Scott Schools, former Chief Compliance Officer of Uber",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Chief Global Affairs Officer: Chris Lehane, former head of global policy at Airbnb",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Chief Economist: Aaron Chatterji, professor of business and public policy at Duke University's Fuqua School of Business",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Bret Taylor (chairman), former chairman of Twitter's board of directors and co-CEO of Salesforce",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Lawrence Summers, former U.S. Secretary of the Treasury and President of Harvard University",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Sue Desmond-Hellmann, former CEO of the Bill & Melinda Gates Foundation",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Nicole Seligman, attorney and former executive vice president of the Sony Corporation",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Paul Nakasone, former Director of the National Security Agency (2018\u20132024)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2018, Musk resigned from his Board of Directors seat, citing \"a potential future conflict [of interest]\" with his role as CEO of Tesla due to Tesla's AI development for self-driving cars. OpenAI stated that Musk's financial contributions were below $45 million.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On March 3, 2023, Reid Hoffman resigned from his board seat, citing a desire to avoid conflicts of interest with his investments in AI companies via Greylock Partners, and his co-founding of the AI startup Inflection AI. Hoffman remained on the board of Microsoft, a major investor in OpenAI.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In May 2024, Chief Scientist Ilya Sutskever resigned and was succeeded by Jakub Pachocki. Co-leader Jan Leike also departed amid concerns over safety and trust. OpenAI then signed deals with Reddit, News Corp, Axios, and Vox Media. Paul Nakasone then joined the board of OpenAI.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In August 2024, cofounder John Schulman left OpenAI to join Anthropic, and OpenAI's president Greg Brockman took extended leave until November.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In May 2023, Sam Altman, Greg Brockman and Ilya Sutskever posted recommendations for the governance of superintelligence. They stated that superintelligence could happen within the next 10 years, allowing a \"dramatically more prosperous future\" and that \"given the possibility of existential risk, we can't just be reactive\". They proposed creating an international watchdog organization similar to IAEA to oversee AI systems above a certain capability threshold, suggesting that relatively weak AI systems on the other side should not be overly regulated. They also called for more technical safety research for superintelligences, and asked for more coordination, for example through governments launching a joint project which \"many current efforts become part of\".",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In July 2023, the FTC issued a civil investigative demand to OpenAI to investigate whether the company's data security and privacy practices to develop ChatGPT were unfair or harmed consumers (including by reputational harm) in violation of Section 5 of the Federal Trade Commission Act of 1914. These are typically preliminary investigative matters and are nonpublic, but the FTC's document was leaked. In July 2023, the FTC launched an investigation into OpenAI over allegations that the company scraped public data and published false and defamatory information. They asked OpenAI for comprehensive information about its technology and privacy safeguards, as well as any steps taken to prevent the recurrence of situations in which its chatbot generated false and derogatory content about people. The agency then reported concern with circular spending in which, for example, Microsoft gives OpenAI credit to Microsoft Azure and the companies provide each other access to engineering talent was of particular concern for its potential negative impacts to the public.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In September 2024, OpenAI's global affairs chief endorsed the UK's \"smart\" AI regulation during testimony to a House of Lords committee.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In February 2025, OpenAI CEO Sam Altman stated that the company is interested in collaborating with the People's Republic of China, despite regulatory restrictions imposed by the U.S. government. This shift comes in response to the growing influence of the Chinese artificial intelligence company DeepSeek, which has disrupted the AI market with open models, including DeepSeek V3 and DeepSeek R1. In response to DeepSeek, OpenAI overhauled its security operations to better guard against industrial espionage, particularly amid allegations that DeepSeek had improperly copied OpenAI's distillation techniques.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "According to Oliver Roberts, in March 2025, the United States had 781 state AI bills or laws. OpenAI advocated for preempting state AI laws with federal laws. According to Scott Kohler, OpenAI has opposed California's AI legislation and suggested that the state bill encroaches on a more competent federal government. Public Citizen opposed a federal preemption on AI and pointed to OpenAI's growth and valuation as evidence that existing state laws have not hampered innovation.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Before May 2025, OpenAI required departing employees to sign a lifelong non-disparagement agreement forbidding them from criticizing OpenAI and acknowledging the existence of the agreement. Daniel Kokotajlo, a former employee, publicly stated that he forfeited his vested equity in OpenAI in order to leave without signing the agreement. Sam Altman stated that he was unaware of the equity cancellation provision, and that OpenAI never enforced it to cancel any employee's vested equity. However, leaked documents and emails refute this claim. On May 23, 2024, OpenAI sent a memo releasing former employees from the agreement.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "OpenAI was sued for copyright infringement by authors Sarah Silverman, Matthew Butterick, Paul Tremblay and Mona Awad in July 2023. In September 2023, 17 authors, including George R. R. Martin, John Grisham, Jodi Picoult and Jonathan Franzen, joined the Authors Guild in filing a class action lawsuit against OpenAI, alleging that the company's technology was illegally using their copyrighted work. The New York Times also sued the company in late December 2023. In May 2024 it was revealed that OpenAI had destroyed its Books1 and Books2 training datasets, which were used in the training of GPT-3, and which the Authors Guild believed to have contained over 100,000 copyrighted books.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2021, OpenAI developed a speech recognition tool called Whisper. OpenAI used it to transcribe more than one million hours of YouTube videos into text for training GPT-4. The automated transcription of YouTube videos raised concerns within OpenAI employees regarding potential violations of YouTube's terms of service, which prohibit the use of videos for applications independent of the platform, as well as any type of automated access to its videos. Despite these concerns, the project proceeded with notable involvement from OpenAI's president, Greg Brockman. The resulting dataset proved instrumental in training GPT-4.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In February 2024, The Intercept as well as Raw Story and Alternate Media Inc. filed lawsuit against OpenAI on copyright litigation ground. The lawsuit is said to have charted a new legal strategy for digital-only publishers to sue OpenAI.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On April 30, 2024, eight newspapers filed a lawsuit in the Southern District of New York against OpenAI and Microsoft, claiming illegal harvesting of their copyrighted articles. The suing publications included The Mercury News, The Denver Post, The Orange County Register, St. Paul Pioneer Press, Chicago Tribune, Orlando Sentinel, Sun Sentinel, and New York Daily News.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In June 2023, a lawsuit claimed that OpenAI scraped 300 billion words online without consent and without registering as a data broker. It was filed in San Francisco, California, by sixteen anonymous plaintiffs. They also claimed that OpenAI and its partner as well as customer Microsoft continued to unlawfully collect and use personal data from millions of consumers worldwide to train artificial intelligence models.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On May 22, 2024, OpenAI entered into an agreement with News Corp to integrate news content from The Wall Street Journal, the New York Post, The Times, and The Sunday Times into its AI platform. Meanwhile, other publications like The New York Times chose to sue OpenAI and Microsoft for copyright infringement over the use of their content to train AI models. In November 2024, a coalition of Canadian news outlets, including the Toronto Star, Metroland Media, Postmedia, The Globe and Mail, The Canadian Press and CBC, sued OpenAI for using their news articles to train its software without permission.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In October 2024 during a New York Times interview, Suchir Balaji accused OpenAI of violating copyright law in developing its commercial LLMs which he had helped engineer. He was a likely witness in a major copyright trial against the AI company, and was one of several of its current or former employees named in court filings as potentially having documents relevant to the case. On November 26, 2024,  Balaji shot himself dead. His death led to conspiracy theories suggesting he had been deliberately silenced. California Congressman Ro Khanna endorsed calls for an investigation.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In April 2023, the EU's European Data Protection Board (EDPB) formed a dedicated task force on ChatGPT \"to foster cooperation and to exchange information on possible enforcement actions conducted by data protection authorities\" based on the \"enforcement action undertaken by the Italian data protection authority against OpenAI about the ChatGPT service\".",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In late April 2024 NOYB filed a complaint with the Austrian Datenschutzbeh\u00f6rde against OpenAI for violating the European General Data Protection Regulation. A text created with ChatGPT gave a false date of birth for a living person without giving the individual the option to see the personal data used in the process. A request to correct the mistake was denied. Additionally, neither the recipients of ChatGPT's work nor the sources used, could be made available, OpenAI claimed.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "OpenAI was criticized for lifting its ban on using ChatGPT for \"military and warfare\". Up until January 10, 2024, its \"usage policies\" included a ban on \"activity that has high risk of physical harm, including\", specifically, \"weapons development\" and \"military and warfare\". Its new policies prohibit \"[using] our service to harm yourself or others\" and to \"develop or use weapons\".",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In August 2025, the parents of a 16-year-old boy who died by suicide filed a wrongful death lawsuit against OpenAI (and CEO Sam Altman), alleging that months of conversations with ChatGPT about mental health and methods of self-harm contributed to their son's death and that safeguards were inadequate for minors. OpenAI expressed condolences and said it was strengthening protections (including updated crisis response behavior and parental controls). Coverage described it as a first-of-its-kind wrongful death case targeting the company's chatbot. The complaint was filed in California state court in San Francisco.",
+    "date": null,
+    "verdict": null
+  }
+]

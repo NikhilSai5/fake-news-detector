@@ -1,0 +1,428 @@
+[
+  {
+    "source": "wikipedia",
+    "text": "A lymphocyte is a type of white blood cell (leukocyte) in the immune system of most vertebrates. Lymphocytes include T cells (for cell-mediated and cytotoxic adaptive immunity), B cells (for humoral, antibody-driven adaptive immunity), and innate lymphoid cells (ILCs; \"innate T cell-like\" cells involved in mucosal immunity and homeostasis), of which natural killer cells are an important subtype (which functions in cell-mediated, cytotoxic innate immunity). They are the main type of cell found in lymph, which prompted the name \"lymphocyte\" (with cyte meaning cell). Lymphocytes make up between 18% and 42% of circulating white blood cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The three major types of lymphocyte are T cells, B cells and natural killer (NK) cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "They can also be classified as small lymphocytes and large lymphocytes based on their size and appearance.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "T cells (thymus cells) and B cells (bone marrow- or bursa-derived cells) are the major cellular components of the adaptive immune response. T cells are involved in cell-mediated immunity, whereas B cells are primarily responsible for humoral immunity (relating to antibodies). The function of T cells and B cells is to recognize specific \"non-self\" antigens, during a process known as antigen presentation. Once they have identified an invader, the cells generate specific responses that are tailored maximally to eliminate specific pathogens or pathogen-infected cells. B cells respond to pathogens by producing large quantities of antibodies which then neutralize foreign objects like bacteria and viruses. In response to pathogens some T cells, called T helper cells, produce cytokines that direct the immune response, while other T cells, called cytotoxic T cells, produce toxic granules that contain powerful enzymes which induce the death of pathogen-infected cells. Following activation, B cells and T cells leave a lasting legacy of the antigens they have encountered, in the form of memory cells. Throughout the lifetime of an animal, these memory cells will \"remember\" each specific pathogen encountered, and are able to mount a strong and rapid response if the same pathogen is detected again; this is known as acquired immunity.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "NK cells are a part of the innate immune system and play a major role in defending the host from tumors and virally infected cells. NK cells modulate the functions of other cells, including macrophages and T cells, and distinguish infected cells and tumors from normal and uninfected cells by recognizing changes of a surface molecule called major histocompatibility complex (MHC) class I. NK cells are activated in response to a family of cytokines called interferons. Activated NK cells release cytotoxic (cell-killing) granules which then destroy the altered cells. They are named \"natural killer cells\" because they do not require prior activation in order to kill cells which are missing MHC class I.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The X lymphocyte is a reported cell type expressing both a B-cell receptor and T-cell receptor and is hypothesized to be implicated in type 1 diabetes.  Its existence as a cell type has been challenged by two studies. However, the authors of original article pointed to the fact that the two studies have detected X cells by imaging microscopy and FACS as described. Additional studies are required to determine the nature and properties of X cells (also called dual expressers).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Mammalian stem cells differentiate into several kinds of blood cell within the bone marrow. This process is called haematopoiesis. All lymphocytes originate, during this process, from a common lymphoid progenitor before differentiating into their distinct lymphocyte types. The differentiation of lymphocytes follows various pathways in a hierarchical fashion as well as in a more plastic fashion. The formation of lymphocytes is known as lymphopoiesis. In mammals, B cells mature in the bone marrow, which is at the core of most bones. In birds, B cells mature in the bursa of Fabricius, a lymphoid organ where they were first discovered by Chang and Glick, (B for bursa) and not from bone marrow as commonly believed. T cells migrate to the blood stream and mature in a distinct primary organ, called the thymus. Following maturation, the lymphocytes enter the circulation and peripheral lymphoid organs (e.g. the spleen and lymph nodes) where they survey for invading pathogens and/or tumor cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The lymphocytes involved in adaptive immunity (i.e. B and T cells) differentiate further after exposure to an antigen; they form effector and memory lymphocytes. Effector lymphocytes function to eliminate the antigen, either by releasing antibodies (in the case of B cells), cytotoxic granules (cytotoxic T cells) or by signaling to other cells of the immune system (helper T cells). Memory T cells remain in the peripheral tissues and circulation for an extended time ready to respond to the same antigen upon future exposure; they live weeks to several years, which is very long compared to other leukocytes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Microscopically, in a Wright's stained peripheral blood smear, a normal lymphocyte has a large, dark-staining nucleus with little to no eosinophilic cytoplasm. In normal situations, the coarse, dense nucleus of a lymphocyte is approximately the size of a red blood cell (about 7 \u03bcm in diameter). Some lymphocytes show a clear perinuclear zone (or halo) around the nucleus or could exhibit a small clear zone to one side of the nucleus. Polyribosomes are a prominent feature in the lymphocytes and can be viewed with an electron microscope. The ribosomes are involved in protein synthesis, allowing the generation of large quantities of cytokines and immunoglobulins by these cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "It is impossible to distinguish between T cells and B cells in a peripheral blood smear. Normally, flow cytometry testing is used for specific lymphocyte population counts. This can be used to determine the percentage of lymphocytes that contain a particular combination of specific cell surface proteins, such as immunoglobulins or cluster of differentiation (CD) markers or that produce particular proteins (for example, cytokines using intracellular cytokine staining (ICCS)). In order to study the function of a lymphocyte by virtue of the proteins it generates, other scientific techniques like the ELISPOT or secretion assay techniques can be used.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In the circulatory system, they move from lymph node to lymph node. This contrasts with macrophages, which are rather stationary in the nodes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A lymphocyte count is usually part of a peripheral complete blood cell count and is expressed as the percentage of lymphocytes to the total number of white blood cells counted.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A general increase in the number of lymphocytes is known as lymphocytosis, whereas a decrease is known as lymphocytopenia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "An increase in lymphocyte concentration is usually a sign of a viral infection (in some rare cases, leukemias are found through an abnormally raised lymphocyte count in an otherwise normal person). A high lymphocyte count with a low neutrophil count might be caused by lymphoma. Pertussis toxin (PTx) of Bordetella pertussis, formerly known as lymphocytosis-promoting factor, causes a decrease in the entry of lymphocytes into lymph nodes, which can lead to a condition known as lymphocytosis, with a complete lymphocyte count of over 4000 per \u03bcl in adults or over 8000 per \u03bcl in children. This is unique in that many bacterial infections illustrate neutrophil-predominance instead.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Lymphoproliferative disorders (LPD) encompass a diverse group of diseases marked by uncontrolled lymphocyte production, leading to issues like lymphocytosis, lymphadenopathy, and bone marrow infiltration. These disorders are common in immunocompromised individuals and involve abnormal proliferation of T and B cells, often resulting in immunodeficiency and immune system dysfunction. Various gene mutations, both iatrogenic and acquired, are implicated in LPD. One subtype, X-linked LPD, is linked to mutations in the X chromosome, predisposing individuals to natural killer cell LPD and T-cell LPD. Additionally, conditions like common variable immunodeficiency (CVID), severe combined immunodeficiency (SCID), and certain viral infections elevate the risk of LPD. Treatment methods, such as immunosuppressive drugs and tissue transplantation, can also increase susceptibility. LPDs encompass a wide array of disorders involving B-cell (e.g., chronic lymphocytic leukemia) and T-cell (e.g., Sezary syndrome) abnormalities, each presenting distinct challenges in diagnosis and management.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A low normal to low absolute lymphocyte concentration is associated with increased rates of infection after surgery or trauma.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "One basis for low T cell lymphocytes occurs when the human immunodeficiency virus (HIV) infects and destroys T cells (specifically, the CD4+ subgroup of T lymphocytes, which become helper T cells). Without the key defense that these T cells provide, the body becomes susceptible to opportunistic infections that otherwise would not affect healthy people. The extent of HIV progression is typically determined by measuring the percentage of CD4+ T cells in the patient's blood \u2013 HIV ultimately progresses to acquired immune deficiency syndrome (AIDS). The effects of other viruses or lymphocyte disorders can also often be estimated by counting the numbers of lymphocytes present in the blood.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In some cancers, such as melanoma and colorectal cancer, lymphocytes can migrate into and attack the tumor. This can sometimes lead to regression of the primary tumor.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Histology image: 01701ooa \u2013 Histology Learning System at Boston University",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\"Overcoming the Rejection Factor: MUSC's First Organ Transplant\". Waring Historical Library.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "T cells (also known as T lymphocytes) are an important part of the immune system and play a central role in the adaptive immune response. T cells can be distinguished from other lymphocytes by the presence of a T-cell receptor (TCR) on their cell surface.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "T cells are born from hematopoietic stem cells, found in the bone marrow. Developing T cells then migrate to the thymus gland to develop (or mature). T cells derive their name from the thymus. After migration to the thymus, getting stimulated by thymosin, the precursor cells mature into several distinct types of T cells. T cell differentiation also continues after they have left the thymus. Groups of specific, differentiated T cell subtypes have a variety of important functions in controlling and shaping the immune response.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "One of these functions is immune-mediated cell death, and it is carried out by two major subtypes: CD8+ \"killer\" (cytotoxic, Effector tumor antigen-specific T cells) and CD4+ \"helper\" T cells. (These are named for the presence of the cell surface proteins CD8 or CD4.) CD8+ T cells, also known as \"killer T cells\", are cytotoxic \u2013 this means that they are able to directly kill virus-infected cells, as well as cancer cells. CD8+ T cells are also able to use small signalling proteins, known as cytokines, to recruit other types of cells when mounting an immune response. A different population of T cells, the CD4+ T cells, function as \"helper cells\". Unlike CD8+ killer T cells, the CD4+ helper T (TH) cells function by further activating memory B cells and cytotoxic T cells, which leads to a larger immune response. The specific adaptive immune response regulated by the TH cell depends on its subtype (such as T-helper1, T-helper2, T-helper17, regulatory T-cell), which is distinguished by the types of cytokines they secrete.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Regulatory T cells are yet another distinct population of T cells that provide the critical mechanism of tolerance, whereby immune cells are able to distinguish invading cells from \"self\". This prevents immune cells from inappropriately reacting against one's own cells, known as an \"autoimmune\" response. For this reason, these regulatory T cells have also been called \"suppressor\" T cells. These same regulatory T cells can also be co-opted by cancer cells to prevent the recognition of, and an immune response against, tumor cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "=== Origin, early development and migration to the thymus ===",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "All T cells originate from c-kit+Sca1+ haematopoietic stem cells (HSC) which reside in the bone marrow. In some cases, the origin might be the foetal liver during embryonic development. The HSC then differentiate into multipotent progenitors (MPP) which retain the potential to become both myeloid ,and lymphoid cells. The process of differentiation then proceeds to a common lymphoid progenitor (CLP), which can only differentiate into T, B or NK cells. These CLP cells then migrate via the blood to the thymus, where they engraft:. Henceforth they are known as thymocytes, the immature stage of a T cell.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The earliest cells which arrived in the thymus are commonly termed double-negative, as they express neither the CD4 nor CD8 co-receptor. The newly arrived CLP cells are CD4\u2212CD8\u2212CD44+CD25\u2212ckit+ cells, and are termed early thymic progenitor (ETP) cells. These cells will then undergo a round of division and downregulate c-kit and are termed double-negative one (DN1) cells. To become T cells, the thymocytes must undergo multiple DN stages as well as positive selection and negative selection.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Double negative thymocytes can be identified by the surface expression of CD2, CD5 and CD7. Still during the double negative stages, CD34 expression stops and CD1 is expressed. Expression of both CD4 and CD8 makes them double positive, and matures into either CD4+ or CD8+ cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A critical step in T cell maturation is making a functional T cell receptor (TCR). Each mature T cell will ultimately contain a unique TCR that reacts to a random pattern, allowing the immune system to recognize many different types of pathogens. This process is essential in developing immunity to threats that the immune system has not encountered before, since due to random variation there will always be at least one TCR to match any new pathogen.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A thymocyte can only become an active T cell when it survives the process of developing a functional TCR. The TCR consists of two major components, the alpha and beta chains. These both contain random elements designed to produce a wide variety of different TCRs, but due to this huge variety they must be tested to make sure they work at all. First, the thymocytes attempt to create a functional beta chain, testing it against a 'mock' alpha chain. Then they attempt to create a functional alpha chain. Once a working TCR has been produced, the cells then must test if their TCR will identify threats correctly, and to do this it is required to recognize the body's major histocompatibility complex (MHC) in a process known as positive selection. The thymocyte must also ensure that it does not react adversely to \"self\" antigens, called negative selection. If both positive and negative selection are successful, the TCR becomes fully operational and the thymocyte becomes a T cell.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "At the DN2 stage (CD44+CD25+), cells upregulate the recombination genes RAG1 and RAG2 and re-arrange the TCR\u03b2 locus, combining V-D-J recombination and constant region genes in an attempt to create a functional TCR\u03b2 chain. As the developing thymocyte progresses through to the DN3 stage (CD44\u2212CD25+), the thymocyte expresses an invariant \u03b1-chain called pre-T\u03b1 alongside the TCR\u03b2 gene. If the rearranged \u03b2-chain successfully pairs with the invariant \u03b1-chain, signals are produced which cease rearrangement of the \u03b2-chain (and silence the alternate allele). Although these signals require the pre-TCR at the cell surface, they are independent of ligand binding to the pre-TCR. If the chains successfully pair a pre-TCR forms, and the cell downregulates CD25 and is termed a DN4 cell (CD25\u2212CD44\u2212). These cells then undergo a round of proliferation, and begin to re-arrange the TCR\u03b1 locus during the double-positive stage.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The process of positive selection takes 3 to 4 days and occurs in the thymic cortex. Double-positive thymocytes (CD4+/CD8+) migrate deep into the thymic cortex, where they are presented with self-antigens. These self-antigens are expressed by thymic cortical epithelial cells on MHC molecules, which reside on the surface of cortical epithelial cells. Only thymocytes that interact well with MHC-I or MHC-II will receive a vital \"survival signal\", while those that cannot interact strongly enough will receive no signal and die from neglect. This process ensures that the surviving thymocytes will have an 'MHC affinity' that means they will exhibit stronger binding affinity for specific MHC alleles in that organism. The vast majority of developing thymocytes will not pass positive selection, and die during this process.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A thymocyte's fate is determined during positive selection. Double-positive cells (CD4+/CD8+) that interact well with MHC class II molecules will eventually become CD4+ \"helper\" cells, whereas thymocytes that interact well with MHC class I molecules mature into CD8+ \"killer\" cells. A thymocyte becomes a CD4+ cell by down-regulating expression of its CD8 cell surface receptors. If the cell does not lose its signal, it will continue downregulating CD8 and become a CD4+, both CD8+ and CD4+ cells are now single positive cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "This process does not filter for thymocytes that may cause autoimmunity. The potentially autoimmune cells are removed by the following process of negative selection, which occurs in the thymic medulla.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Negative selection removes thymocytes that are capable of strongly binding with \"self\" MHC molecules. Thymocytes that survive positive selection migrate towards the boundary of the cortex and medulla in the thymus. While in the medulla, they are again presented with a self-antigen presented on the MHC complex of medullary thymic epithelial cells (mTECs). mTECs must be Autoimmune regulator positive (AIRE+) to properly express tissue-specific antigens on their MHC class I peptides. Some mTECs are phagocytosed by thymic dendritic cells; this makes them AIRE\u2212 antigen presenting cells (APCs), allowing for presentation of self-antigens on MHC class II molecules (positively selected CD4+ cells must interact with these MHC class II molecules, thus APCs, which possess MHC class II, must be present for CD4+ T-cell negative selection). Thymocytes that interact too strongly with the self-antigen receive an apoptotic signal that leads to cell death. However, some of these cells are selected to become Treg cells. The remaining cells exit the thymus as mature naive T cells, also known as recent thymic emigrants. This process is an important component of central tolerance and serves to prevent the formation of self-reactive T cells that are capable of inducing autoimmune diseases in the host.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\u03b2-selection is the first checkpoint, where thymocytes that are able to form a functional pre-TCR (with an invariant alpha chain and a functional beta chain) are allowed to continue development in the thymus. Next, positive selection checks that thymocytes have successfully rearranged their TCR\u03b1 locus and are capable of recognizing MHC molecules with appropriate affinity. Negative selection in the medulla then eliminates thymocytes that bind too strongly to self-antigens expressed on MHC molecules. These selection processes allow for tolerance of self by the immune system. Typical naive T cells that leave the thymus (via the corticomedullary junction) are self-restricted, self-tolerant, and single positive.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "About 98% of thymocytes die during the development processes in the thymus by failing either positive selection or negative selection, whereas the other 2% survive and leave the thymus to become mature immunocompetent T cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The thymus contributes fewer cells as a person ages. As the thymus shrinks by about 3% a year throughout middle age, a corresponding fall in the thymic production of naive T cells occurs, leaving peripheral T cell expansion and regeneration to play a greater role in protecting older people.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "T cells are grouped into a series of subsets based on their function. CD4 and CD8 T cells are selected in the thymus, but undergo further differentiation in the periphery to specialized cells which have different functions. T cell subsets were initially defined by function, but also have associated gene or protein expression patterns.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "T helper cells (TH cells) assist other lymphocytes, including the maturation of B cells into plasma cells and memory B cells, and activation of cytotoxic T cells and macrophages. These cells are also known as CD4+ T cells as they express the CD4 glycoprotein on their surfaces. Helper T cells become activated when they are presented with peptide antigens by MHC class II molecules, which are expressed on the surface of antigen-presenting cells (APCs). Once activated, they divide rapidly and secrete cytokines that regulate or assist the immune response. These cells can differentiate into one of several subtypes, which have different roles. Cytokines direct T cells into particular subtypes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Cytotoxic T cells (TC cells, CTLs, T-killer cells, killer T cells) destroy virus-infected cells and tumor cells, and are also implicated in transplant rejection. These cells are defined by the expression of the CD8 protein on their cell surface. Cytotoxic T cells recognize their targets by binding to short peptides (8-11 amino acids in length) associated with MHC class I molecules, present on the surface of all nucleated cells. Cytotoxic T cells also produce the key cytokines IL-2 and IFN\u03b3. These cytokines influence the effector functions of other cells, in particular macrophages and NK cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Antigen-naive T cells expand and differentiate into memory and effector T cells after they encounter their cognate antigen within the context of an MHC molecule on the surface of a professional antigen presenting cell (e.g. a dendritic cell). Appropriate co-stimulation must be present at the time of antigen encounter for this process to occur. Historically, memory T cells were thought to belong to either the effector or central memory subtypes, each with their own distinguishing set of cell surface markers (see below). Subsequently, numerous new populations of memory T cells were discovered including tissue-resident memory T (Trm) cells, stem memory TSCM cells, and virtual memory T cells. The single unifying theme for all memory T cell subtypes is that they are long-lived and can quickly expand to large numbers of effector T cells upon re-exposure to their cognate antigen. By this mechanism they provide the immune system with \"memory\" against previously encountered pathogens. Memory T cells may be either CD4+ or CD8+ and usually express CD45RO.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Central memory T cells (TCM cells) express CD45RO, C-C chemokine receptor type 7 (CCR7), and L-selectin (CD62L). Central memory T cells also have intermediate to high expression of CD44. This memory subpopulation is commonly found in the lymph nodes and in the peripheral circulation. (Note- CD44 expression is usually used to distinguish murine naive from memory T cells).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Effector memory T cells (TEM cells and TEMRA cells) express CD45RO but lack expression of CCR7 and L-selectin. They also have intermediate to high expression of CD44. These memory T cells lack lymph node-homing receptors and are thus found in the peripheral circulation and tissues. TEMRA stands for terminally differentiated effector memory cells re-expressing CD45RA, which is a marker usually found on naive T cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Tissue-resident memory T cells (TRM) occupy tissues (skin, lung, etc.) without recirculating. One cell surface marker that has been associated with TRM is the intern \u03b1e\u03b27, also known as CD103.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Virtual memory T cells (TVM) differ from the other memory subsets in that they do not originate following a strong clonal expansion event. Thus, although this population as a whole is abundant within the peripheral circulation, individual virtual memory T cell clones reside at relatively low frequencies. One theory is that homeostatic proliferation gives rise to this T cell population. Although CD8 virtual memory T cells were the first to be described, it is now known that CD4 virtual memory cells also exist.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Regulatory T cells are crucial for the maintenance of immune tolerance. Their major role is to shut down T cell\u2013mediated immunity toward the end of an immune reaction and to suppress autoreactive T cells that escaped the process of negative selection in the thymus.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Two major classes of CD4+ Treg cells have been described\u2014FOXP3+ Treg cells and FOXP3\u2212 Treg cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Regulatory T cells can develop either during normal development in the thymus, and are then known as thymic Treg cells, or can be induced peripherally and are called peripherally derived Treg cells. These two subsets were previously called \"naturally occurring\" and \"adaptive\" (or \"induced\"), respectively. Both subsets require the expression of the transcription factor FOXP3 which can be used to identify the cells. Mutations of the FOXP3 gene can prevent regulatory T cell development, causing the fatal autoimmune disease IPEX.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Several other types of T cells have suppressive activity, but do not express FOXP3 constitutively. These include Tr1 and Th3 cells, which are thought to originate during an immune response and act by producing suppressive molecules. Tr1 cells are associated with IL-10, and Th3 cells are associated with TGF-beta. Recently, Th17 cells have been added to this list.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Innate-like T cells or unconventional T cells represent some subsets of T cells that behave differently in immunity. They trigger rapid immune responses, regardless of the major histocompatibility complex (MHC) expression, unlike their conventional counterparts (CD4 T helper cells and CD8 cytotoxic T cells), which are dependent on the recognition of peptide antigens in the context of the MHC molecule. Overall, there are three large populations of unconventional T cells: NKT cells, MAIT cells, and gammadelta T cells. Now, their functional roles are already being well established in the context of infections and cancer. Furthermore, these T cell subsets are being translated into many therapies against malignancies such as leukemia, for example.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Natural killer T cells (NKT cells \u2013 not to be confused with natural killer cells of the innate immune system) bridge the adaptive immune system with the innate immune system. Unlike conventional T cells that recognize protein peptide antigens presented by major histocompatibility complex (MHC) molecules, NKT cells recognize glycolipid antigens presented by CD1d. Once activated, these cells can perform functions ascribed to both helper and cytotoxic T cells: cytokine production and release of cytolytic/cell killing molecules. They are also able to recognize and eliminate some tumor cells and cells infected with herpes viruses.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Mucosal associated invariant T (MAIT) cells display innate, effector-like qualities. In humans, MAIT cells are found in the blood, liver, lungs, and mucosa, defending against microbial activity and infection. The MHC class I-like protein, MR1, is responsible for presenting bacterially-produced vitamin B metabolites to MAIT cells. After the presentation of foreign antigen by MR1, MAIT cells secrete pro-inflammatory cytokines and are capable of lysing bacterially-infected cells. MAIT cells can also be activated through MR1-independent signaling. In addition to possessing innate-like functions, this T cell subset supports the adaptive immune response and has a memory-like phenotype. Furthermore, MAIT cells are thought to play a role in autoimmune diseases, such as multiple sclerosis, arthritis and inflammatory bowel disease, although definitive evidence is yet to be published.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Gamma delta T cells (\u03b3\u03b4 T cells) represent a small subset of T cells which possess a \u03b3\u03b4 TCR rather than the \u03b1\u03b2 TCR on the cell surface. The majority of T cells express \u03b1\u03b2 TCR chains. This group of T cells is much less common in humans and mice (about 2% of total T cells) and are found mostly in the gut mucosa, within a population of intraepithelial lymphocytes. In rabbits, sheep, and chickens, the number of \u03b3\u03b4 T cells can be as high as 60% of total T cells. The antigenic molecules that activate \u03b3\u03b4 T cells are still mostly unknown. However, \u03b3\u03b4 T cells are not MHC-restricted and seem to be able to recognize whole proteins rather than requiring peptides to be presented by MHC molecules on APCs. Some murine \u03b3\u03b4 T cells recognize MHC class IB molecules. Human \u03b3\u03b4 T cells that use the V\u03b39 and V\u03b42 gene fragments constitute the major \u03b3\u03b4 T cell population in peripheral blood. These cells are unique in that they specifically and rapidly respond to a set of nonpeptidic phosphorylated isoprenoid precursors, collectively named phosphoantigens, which are produced by virtually all living cells. The most common phosphoantigens from animal and human cells (including cancer cells) are isopentenyl pyrophosphate (IPP) and its isomer dimethylallyl pyrophosphate (DMPP). Many microbes produce the active compound hydroxy-DMAPP (HMB-PP) and corresponding mononucleotide conjugates, in addition to IPP and DMAPP. Plant cells produce both types of phosphoantigens. Drugs activating human V\u03b39/V\u03b42 T cells comprise synthetic phosphoantigens and aminobisphosphonates, which upregulate endogenous IPP/DMAPP.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Activation of CD4+ T cells occurs through the simultaneous engagement of the T-cell receptor and a co-stimulatory molecule (like CD28, or ICOS) on the T cell by the major histocompatibility complex (MHCII) peptide and co-stimulatory molecules on the APC. Both are required for production of an effective immune response; in the absence of co-stimulation, T cell receptor signalling alone results in anergy. The signalling pathways downstream from co-stimulatory molecules usually engages the PI3K pathway generating PIP3 at the plasma membrane and recruiting PH domain containing signaling molecules like PDK1 that are essential for the activation of PKC-\u03b8, and eventual IL-2 production. Optimal CD8+ T cell response relies on CD4+ signalling. CD4+ cells are useful in the initial antigenic activation of naive CD8 T cells, and sustaining memory CD8+ T cells in the aftermath of an acute infection. Therefore, activation of CD4+ T cells can be beneficial to the action of CD8+ T cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The first signal is provided by binding of the T cell receptor to its cognate peptide presented on MHCII on an APC. MHCII is restricted to so-called professional antigen-presenting cells, like dendritic cells, B cells, and macrophages, to name a few. The peptides presented to CD8+ T cells by MHC class I molecules are 8\u201313 amino acids in length; the peptides presented to CD4+ cells by MHC class II molecules are longer, usually 12\u201325 amino acids in length, as the ends of the binding cleft of the MHC class II molecule are open.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The second signal comes from co-stimulation, in which surface receptors on the APC are induced by a relatively small number of stimuli, usually products of pathogens, but sometimes breakdown products of cells, such as necrotic-bodies or heat shock proteins. The only co-stimulatory receptor expressed constitutively by naive T cells is CD28, so co-stimulation for these cells comes from the CD80 and CD86 proteins, which together constitute the B7 protein, (B7.1 and B7.2, respectively) on the APC. Other receptors are expressed upon activation of the T cell, such as OX40 and ICOS, but these largely depend upon CD28 for their expression. The second signal licenses the T cell to respond to an antigen. Without it, the T cell becomes anergic, and it becomes more difficult for it to activate in future. This mechanism prevents inappropriate responses to self, as self-peptides will not usually be presented with suitable co-stimulation. Once a T cell has been appropriately activated (i.e. has received signal one and signal two) it alters its cell surface expression of a variety of proteins. Markers of T cell activation include CD69, CD71 and CD25 (also a marker for Treg cells), and HLA-DR (a marker of human T cell activation). CTLA-4 expression is also up-regulated on activated T cells, which in turn outcompetes CD28 for binding to the B7 proteins. This is a checkpoint mechanism to prevent over activation of the T cell. Activated T cells also change their cell surface glycosylation profile.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The T cell receptor exists as a complex of several proteins. The actual T cell receptor is composed of two separate peptide chains, which are produced from the independent T cell receptor alpha and beta (TCR\u03b1 and TCR\u03b2) genes. The other proteins in the complex are the CD3 proteins: CD3\u03b5\u03b3 and CD3\u03b5\u03b4 heterodimers and, most important, a CD3\u03b6 homodimer, which has a total of six ITAM motifs. The ITAM motifs on the CD3\u03b6 can be phosphorylated by Lck and in turn recruit ZAP-70. Lck and/or ZAP-70 can also phosphorylate the tyrosines on many other molecules, not least CD28, LAT and SLP-76, which allows the aggregation of signalling complexes around these proteins.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Phosphorylated LAT recruits SLP-76 to the membrane, where it can then bring in PLC-\u03b3, VAV1, Itk and potentially PI3K. PLC-\u03b3 cleaves PI(4,5)P2 on the inner leaflet of the membrane to create the active intermediaries diacylglycerol (DAG), inositol-1,4,5-trisphosphate (IP3); PI3K also acts on PIP2, phosphorylating it to produce phosphatidlyinositol-3,4,5-trisphosphate (PIP3). DAG binds and activates some PKCs. Most important in T cells is PKC-\u03b8, critical for activating the transcription factors NF-\u03baB and AP-1. IP3 is released from the membrane by PLC-\u03b3 and diffuses rapidly to activate calcium channel receptors on the ER, which induces the release of calcium into the cytosol. Low calcium in the endoplasmic reticulum causes STIM1 clustering on the ER membrane and leads to activation of cell membrane CRAC channels that allows additional calcium to flow into the cytosol from the extracellular space. This aggregated cytosolic calcium binds calmodulin, which can then activate calcineurin. Calcineurin, in turn, activates NFAT, which then translocates to the nucleus. NFAT is a transcription factor that activates the transcription of a pleiotropic set of genes, most notable, IL-2, a cytokine that promotes long-term proliferation of activated T cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "PLC-\u03b3 can also initiate the NF-\u03baB pathway. DAG activates PKC-\u03b8, which then phosphorylates CARMA1, causing it to unfold and function as a scaffold. The cytosolic domains bind an adapter BCL10 via CARD (Caspase activation and recruitment domains) domains; that then binds TRAF6, which is ubiquitinated at K63. This form of ubiquitination does not lead to degradation of target proteins. Rather, it serves to recruit NEMO, IKK\u03b1 and -\u03b2, and TAB1-2/ TAK1. TAK 1 phosphorylates IKK-\u03b2, which then phosphorylates I\u03baB allowing for K48 ubiquitination: leads to proteasomal degradation. Rel A and p50 can then enter the nucleus and bind the NF-\u03baB response element. This coupled with NFAT signaling allows for complete activation of the IL-2 gene.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "While in most cases activation is dependent on TCR recognition of antigen, alternative pathways for activation have been described. For example, cytotoxic T cells have been shown to become activated when targeted by other CD8 T cells leading to tolerization of the latter.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In spring 2014, the T-Cell Activation in Space (TCAS) experiment was launched to the International Space Station on the SpaceX CRS-3 mission to study how \"deficiencies in the human immune system are affected by a microgravity environment\".",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A unique feature of T cells is their ability to discriminate between healthy and abnormal (e.g. infected or cancerous) cells in the body. Healthy cells typically express a large number of self derived pMHC on their cell surface and although the T cell antigen receptor can interact with at least a subset of these self pMHC, the T cell generally ignores these healthy cells. However, when these very same cells contain even minute quantities of pathogen derived pMHC, T cells are able to become activated and initiate immune responses. The ability of T cells to ignore healthy cells but respond when these same cells contain pathogen (or cancer) derived pMHC is known as antigen discrimination. The molecular mechanisms that underlie this process are controversial.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Causes of T cell deficiency include lymphocytopenia of T cells and/or defects on function of individual T cells. Complete insufficiency of T cell function can result from hereditary conditions such as severe combined immunodeficiency (SCID), Omenn syndrome, and cartilage\u2013hair hypoplasia. Causes of partial insufficiencies of T cell function include acquired immune deficiency syndrome (AIDS), and hereditary conditions such as DiGeorge syndrome (DGS), chromosomal breakage syndromes (CBSs), and B cell and T cell combined disorders such as ataxia-telangiectasia (AT) and Wiskott\u2013Aldrich syndrome (WAS).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The main pathogens of concern in T cell deficiencies are intracellular pathogens, including Herpes simplex virus, Mycobacterium and Listeria. Also, fungal infections are also more common and severe in T cell deficiencies.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Cancer of T cells is termed T-cell lymphoma, and accounts for perhaps one in ten cases of non-Hodgkin lymphoma. The main forms of T cell lymphoma are:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "T cell exhaustion is a poorly defined or ambiguous term. There are three approaches to its definition. \"The first approach primarily defines as exhausted the cells that present the same cellular dysfunction (typically, the absence of an expected effector response). The second approach primarily defines as exhausted the cells that are produced by a given cause (typically, but not necessarily, chronic exposure to an antigen). Finally, the third approach primarily defines as exhausted the cells that present the same molecular markers (typically, programmed cell death protein 1 [PD-1]).\" Indeed, it is now starting to emerge that exhaustion might not be the only T cell dysfunctional state. In fact, tolerization, anergy, cell death, ignorance, senesence and exclusion have recently emerged as additional sources and/or states of T cell dysfunction in cancer and chronic viral infection.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Dysfunctional T cells are characterized by progressive loss of function, changes in transcriptional profiles and sustained expression of inhibitory receptors. At first, cells lose their ability to produce IL-2 and TNF\u03b1, which is followed by the loss of high proliferative capacity and cytotoxic potential, and eventually leads to their deletion. Exhausted T cells typically indicate higher levels of CD43, CD69 and inhibitory receptors combined with lower expression of CD62L and CD127. Exhaustion can develop during chronic infections, sepsis and cancer. Exhausted T cells preserve their functional exhaustion even after repeated antigen exposure.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "T cell exhaustion can be triggered by several factors like persistent antigen exposure and lack of CD4 T cell help. Antigen exposure also has effect on the course of exhaustion because longer exposure time and higher viral load increases the severity of T cell exhaustion. At least 2\u20134 weeks exposure is needed to establish exhaustion. Another factor able to induce exhaustion are inhibitory receptors including programmed cell death protein 1 (PD1), CTLA-4, T cell membrane protein-3 (TIM3), and lymphocyte activation gene 3 protein (LAG3). Soluble molecules such as cytokines IL-10 or TGF-\u03b2 are also able to trigger exhaustion. Last known factors that can play a role in T cell exhaustion are regulatory cells. Treg cells can be a source of IL-10 and TGF-\u03b2 and therefore they can play a role in T cell exhaustion. Furthermore, T cell exhaustion is reverted after depletion of Treg cells and blockade of PD1. T cell exhaustion can also occur during sepsis as a result of cytokine storm. Later after the initial septic encounter anti-inflammatory cytokines and pro-apoptotic proteins take over to protect the body from damage. Sepsis also carries high antigen load and inflammation. In this stage of sepsis T cell exhaustion increases. Currently there are studies aiming to utilize inhibitory receptor blockades in treatment of sepsis.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "While during infection T cell exhaustion can develop following persistent antigen exposure after graft transplant similar situation arises with alloantigen presence. It was shown that T cell response diminishes over time after kidney transplant. These data suggest T cell exhaustion plays an important role in tolerance of a graft mainly by depletion of alloreactive CD8 T cells. Several studies showed positive effect of chronic infection on graft acceptance and its long-term survival mediated partly by T cell exhaustion. It was also shown that recipient T cell exhaustion provides sufficient conditions for NK cell transfer. While there are data showing that induction of T cell exhaustion can be beneficial for transplantation it also carries disadvantages among which can be counted increased number of infections and the risk of tumor development.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "During cancer T cell exhaustion plays a role in tumor protection. According to research some cancer-associated cells as well as tumor cells themselves can actively induce T cell exhaustion at the site of tumor. T cell exhaustion can also play a role in cancer relapses as was shown on leukemia. Some studies have suggested that it is possible to predict relapse of leukemia based on expression of inhibitory receptors PD-1 and TIM-3 by T cells. Many experiments and clinical trials have focused on immune checkpoint blockers in cancer therapy, with some of these approved as valid therapies that are now in clinical use. Inhibitory receptors targeted by those medical procedures are vital in T cell exhaustion and blocking them can reverse these changes.",
+    "date": null,
+    "verdict": null
+  }
+]

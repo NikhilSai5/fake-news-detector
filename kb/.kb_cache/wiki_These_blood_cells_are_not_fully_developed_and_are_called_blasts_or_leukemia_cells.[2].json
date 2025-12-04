@@ -1,0 +1,458 @@
+[
+  {
+    "source": "wikipedia",
+    "text": "A white blood cell differential is a medical laboratory test that provides information about the types and amounts of white blood cells in a person's blood. The test, which is usually ordered as part of a complete blood count (CBC), measures the amounts of the five normal white blood cell types \u2013 neutrophils, lymphocytes, monocytes, eosinophils and basophils \u2013 as well as abnormal cell types if they are present. These results are reported as percentages and absolute values, and compared against reference ranges to determine whether the values are normal, low, or high. Changes in the amounts of white blood cells can aid in the diagnosis of many health conditions, including viral, bacterial, and parasitic infections and blood disorders such as leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "White blood cell differentials may be performed by an automated analyzer \u2013 a machine designed to run laboratory tests \u2013 or manually, by examining blood smears under a microscope. The test was performed manually until white blood cell differential analyzers were introduced in the 1970s, making the automated differential possible. In the automated differential, a blood sample is loaded onto an analyzer, which samples a small volume of blood and measures various properties of white blood cells to produce a differential count. The manual differential, in which white blood cells are counted on a stained microscope slide, is now performed to investigate abnormal results from the automated differential, or upon request by the healthcare provider. The manual differential can identify cell types that are not counted by automated methods and detect clinically significant changes in the appearance of white   blood cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 1674, Antonie van Leeuwenhoek published the first microscopic observations of blood cells. Improvements in microscope technology throughout the 18th and 19th centuries allowed the three cellular components of blood to be identified and counted. In the 1870s, Paul Ehrlich invented a staining technique that could differentiate between each type of white blood cell. Dmitri Leonidovich Romanowsky later modified Ehrlich's stain to produce a wider range of colours, creating the Romanowsky stain, which is still used to stain blood smears for manual differentials.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Automation of the white blood cell differential began with the invention of the Coulter counter, the first automated hematology analyzer, in the early 1950s. This machine used electrical impedance measurements to count cells and determine their sizes, allowing white and red blood cells to be enumerated. In the 1970s, two techniques were developed for performing automated differential counts: digital image processing of microscope slides and flow cytometry techniques using light scattering and cell staining. These methods remain in use on modern hematology analyzers.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The white blood cell differential is a common blood test that is often ordered alongside a complete blood count. The test may be performed as part of a routine medical examination; to investigate certain symptoms, particularly those suggestive of infection or hematological disorders; or to monitor existing conditions, such as blood disorders and inflammatory diseases.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Five types of white blood cells are normally found in blood: neutrophils, lymphocytes, monocytes, eosinophils and basophils.  Marked shifts in the proportions of these cell types, as measured by the automated or manual differential, can indicate various health conditions. Additionally, cell types which do not normally occur in the blood, such as blast cells, can be identified by the manual differential. These cell types may be found in blood disorders and other pathological states. The manual differential can also identify changes in the appearance of white blood cells, such as  reactive lymphocytes, or features such as toxic granulation and vacuolation in neutrophils. The results of the white blood cell differential are reported as percentages and absolute values. Absolute counts are usually reported in units of cells per microliter (\u03bcL) or 109 cells per liter (L). The result are then compared against reference ranges, which are defined by individual laboratories and may vary due to different patient populations and testing methods.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CBC and differential testing is usually performed on venous or capillary blood. Capillary blood draws are generally used for infants and individuals whose veins are difficult to access. To prevent clotting, the sample is drawn into a tube containing the anticoagulant compound ethylenediaminetetraacetic acid (EDTA)., meaning blood that has not been centrifuged.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In a manual differential, a stained blood smear is examined under a microscope and white blood cells are counted and classified based on their appearance. A manual differential is usually performed when the automated differential is flagged for review or when the healthcare provider requests it. If the manual differential shows findings suggestive of certain serious conditions, such as leukemia, the blood smear is referred to a physician (generally a hematologist or pathologist) for confirmation.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A blood smear is prepared by placing a drop of blood on a microscope slide and using a second slide held at an angle to spread the blood and pull it across the slide, forming a \"feathered edge\" consisting of a single layer of cells at the end of the smear. This may be done by hand or using an automated slide maker coupled to a hematology analyzer. The slide is treated with a Romanowsky stain, commonly Wright's stain or Wright-Giemsa, and examined under the microscope. The smear is examined in a systematic pattern, scanning from side to side within the feathered edge and counting cells consecutively. The differential is typically performed at 400x or 500x magnification, but 1000x magnification may be used if abnormal cells are present. Cells are identified based on their morphologic features, such as the size and structure of their nucleus and the colour and texture of their cytoplasm. This allows abnormal cell types and changes in cellular appearance to be identified. In most cases, the microscopist counts 100 white blood cells, but 200 may be counted for better representation if the white blood cell count is high. The manual differential count produces percentages of each cell type, which can be multiplied by the total white blood cell count from the analyzer to derive the absolute values.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The manual differential can be partially automated with digital microscopy software, which uses artificial intelligence to classify white blood cells from photomicrographs of the blood smear. However, this technique requires confirmation by manual review.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Because relatively few cells are counted in the manual differential, the variability is higher than in automated techniques, especially when cells are present in low amounts. For example, in a sample containing 5 percent monocytes, the manual differential results could be between 1 and 10 percent due to sampling variation. Additionally, cell identification is subjective and the accuracy depends on the skills of the person reading the slide. Poor blood smear preparation can cause an uneven distribution of white blood cells, resulting in inaccurate counting, and improper staining can impede cell identification. Overall, manual differential counts exhibit coefficients of variation (CVs) ranging from 5 to 10 percent, while automated differential counts of normal neutrophils and lymphocytes have CVs of about 3 percent.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In leukemias and other hematologic malignancies, the lineage and genetic characteristics of white blood cells have important implications for treatment and prognosis, and the microscopic appearance of the cells is often insufficient for accurate classification. In these cases, other techniques such as immunophenotyping by flow cytometry or special staining can be used to definitively identify the cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Most hematology analyzers provide a five-part differential, enumerating neutrophils, lymphocytes, monocytes, eosinophils and basophils. Some instruments can also count immature granulocytes and nucleated red blood cells.  If a six-part differential is provided, the IG or immature granulocyte category consists of promyelocytes, myelocytes and metamyelocytes. Hematology analyzers measure various properties of white blood cells, such as impedance, light scattering parameters, and staining reactions. This data is analyzed and plotted on a scattergram, forming distinct clusters which correspond to white blood cell types. The analyzer counts many more cells than are counted in a manual differential, resulting in improved precision. If abnormal features or cell populations that the analyzer cannot identify are present, the instrument can flag the results for manual blood smear review.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Common techniques used by hematology analyzers to identify cells include light scattering, Coulter counting, and cytochemical staining techniques. Some analyzers also use radiofrequency analysis and monoclonal antibody tagging to identify cells. Staining techniques used in differential analyzers include staining of myeloperoxidase, an enzyme found in cells of myeloid lineage, and nucleic acids, which are found in higher concentrations in immature cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A small volume of blood (as low as 150 microliters) is aspirated into the analyzer, where reagents are applied to lyse red blood cells and preserve white blood cells. The sample is diluted and passed into a flow cell, which uses hydrodynamic focusing to isolate single cells for accurate analysis of their properties. Various cellular parameters, such as size, complexity and staining reactions, are measured and analyzed to identify cell populations. Basophils are often quantified using a reagent that lyses the cytoplasm of other white blood cells but leaves basophils intact. Samples that have abnormal results or are suspected to contain abnormal cells are flagged by the analyzer for manual blood smear review.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "To ensure that results from the automated analyzer are correct, quality control samples are run at least once per day. These are samples with known results that are most often provided by the instrument manufacturer. Laboratories compare their differential results to the known values to ensure the instrument is operating correctly. A moving average measurement may also be used, in which the average results for patient samples are measured at certain intervals. Assuming that the characteristics of the patient population remain roughly the same over time, the average should remain constant. Large shifts in the average value can indicate instrument problems.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "When immature or abnormal white blood cells are present, automated differential results may be incorrect, necessitating a manual blood smear review. Overall, 10 to 25 percent of CBC samples are flagged for manual review by the analyzer. Although most abnormal samples are automatically flagged, some may be missed; conversely, analyzers may generate false positive flags when no abnormal cells are present. Hematology laboratories compensate for these issues by requiring a smear review when differential or CBC results fall outside certain numerical thresholds, regardless of the presence of analyzer flags. The sensitivity and specificity of analyzer flagging can be determined by comparing analyzer flags to manual differential results.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The automated basophil count is notoriously unreliable, often underestimating counts in basophilia and producing falsely elevated results in the presence of abnormal cells. The manual differential is therefore considered the reference method for these cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Analyzers may count nucleated red blood cells, giant and clumped platelets,  and red blood cells containing abnormal hemoglobins (such as Hemoglobin S in sickle cell disease) as white blood cells, leading to faulty differential results. Automated differential counts on aged specimens may be incorrect due to cellular degeneration.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Neutrophils are the most common white blood cells in normal adult blood. When stained with a Romanowsky stain, they exhibit a multi-lobed nucleus and pink cytoplasm that contains small purple granules.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The neutrophil count is normally higher in newborns and pregnant women than in other groups. Outside of these conditions, increased neutrophil counts (neutrophilia) are associated with bacterial infection, inflammation, and various forms of physiological stress. Neutrophil counts can become extremely high in response to some infections and inflammatory states, which is termed leukemoid reaction because the high white blood cell count mimics leukemia. Neutrophilia may also occur in myeloproliferative disorders.Neutropenia, meaning a low neutrophil count, may occur as a response to drug treatment (especially chemotherapy) or in certain infections, such as tuberculosis and Gram-negative sepsis. Neutropenia also occurs in many hematologic disorders, such as leukemia and myelodysplastic syndrome, and in a variety of autoimmune and congenital diseases. A neutrophil count below the reference interval may be normal in individuals of certain ethnicities; this is termed benign ethnic neutropenia. Very low neutrophil counts are associated with immunosuppression.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "When stimulated by infection or inflammation, neutrophils may develop abnormal features in their cytoplasm, such as toxic granulation, toxic vacuolation and D\u00f6hle bodies. These features, which are caused by the release of cytokines, are collectively known as toxic changes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Lymphocytes, which are the second most common type of white blood cell in adults, are typically small cells with a round, dark nucleus and a thin strip of pale blue cytoplasm. Some lymphocytes are larger and contain a few blue granules.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Increased lymphocyte counts (lymphocytosis) can be caused by viral infections and may also occur after splenectomy. Children have higher lymphocyte counts than adults. Chronic lymphocytic leukemia presents with an elevated lymphocyte count and abnormal lymphocyte morphology, in which the lymphocytes have extremely dense, clumped nuclei and some cells appear smudged on the blood smear.  Low lymphocyte counts (lymphopenia) may be seen in infections such as HIV/AIDS, influenza and viral hepatitis, as well as in protein-energy malnutrition, acute illnesses and drug reactions.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In response to viral infections (especially infectious mononucleosis), lymphocytes may increase greatly in size, developing unusually shaped nuclei and large amounts of dark blue cytoplasm. Such cells are referred to as reactive or atypical lymphocytes and when present they are either commented on or counted separately from normal lymphocytes in the manual differential.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Monocytes are large cells with a curved or folded nucleus and finely granulated, grey-blue cytoplasm that often contains vacuoles. Monocytes are the third most common white blood cell after neutrophils and lymphocytes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Increased monocyte counts (monocytosis) are seen in chronic infection and inflammation. Extremely high monocyte counts, as well as immature forms of monocytes, occur in chronic myelomonocytic leukemia and acute leukemias of monocytic origin. Monocyte counts may be decreased (monocytopenia) in individuals who are receiving chemotherapy as well as those with aplastic anemia, severe burns, and AIDS.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Eosinophils have large orange granules in their cytoplasm and bi-lobed nuclei. They are found in low amounts in normal blood.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Elevated eosinophil counts (eosinophilia) are associated with allergic reactions, parasitic infections, and asthma. Eosinophil counts may be decreased in pregnancy and in response to physiological stress, inflammation or treatment with certain drugs, such as steroids and epinephrine.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Basophils exhibit large, dark purple granules that often cover the cell's nucleus. They are the rarest of the five normal cell types.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Basophilia and eosinophilia can occur along with other white blood cell abnormalities in chronic myeloid leukemia and other myeloproliferative disorders. An increased basophil count may also be seen in hypersensitivity reactions and after splenectomy. The basophil count may decrease during ovulation, steroid treatment, and periods of physiological stress.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Band neutrophils are young forms of neutrophils which lack segmentation of the nucleus. These cells, which are identified by manual counting, are found in low numbers in normal adult blood.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A left shift, meaning an increase in band neutrophils or immature granulocytes, can indicate infection, inflammation or bone marrow disorders, although it can also be a normal finding in pregnancy. Some laboratories do not separate bands from mature neutrophils in the differential count because the classification is highly subjective and unreliable.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Immature granulocytes are immature forms of neutrophils and other granulocytes (eosinophils and basophils). This classification consists of metamyelocytes, myelocytes and promyelocytes, which may be enumerated separately in the manual differential or reported together as immature granulocytes (IG) by automated methods. Immature granulocytes are normally found in the bone marrow, but not in peripheral blood.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "When present in significant quantities in the blood, immature granulocytes can indicate infection and inflammation,  as well as myeloproliferative disease, leukemia and other conditions affecting the marrow. IGs may also be increased in steroid use and pregnancy. Chronic myeloid leukemia often presents with a high number of immature granulocytes in the peripheral blood. Abnormal promyelocytes with multiple Auer rods, called faggot cells, occur in acute promyelocytic leukemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Blast cells are very immature cells that are normally found in the bone marrow, where they develop into mature cells (hematopoiesis) before being released into the blood. They can be identified by their large overall size, deep blue cytoplasm, and large nucleus with fine chromatin and prominent nucleoli.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "When seen on the blood smear, blast cells are an abnormal finding and may be indicative of acute leukemia or other serious blood disorders. Rarely, they may be seen in severe cases of left shift. The presence of Auer rods inside blast cells indicates that they are of myeloid origin, which has important implications for leukemia treatment. Other morphologic features can provide information about the lineage of blast cells: for example, myeloblasts tend to be large with distinct nucleoli, while lymphoblasts can be smaller with a denser chromatin pattern. However, these features are not diagnostic, and flow cytometry or special staining is generally used to confirm the lineage.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Various other abnormal cells may be present in the blood in certain conditions. For example, lymphoma cells may be found on the manual differential in some cases of lymphoma, and in mast cell leukemia, mast cells, which are normally confined to tissue, circulate in the blood. There is a very rare phenomenon called carcinocythemia in which tumour cells are seen on the peripheral blood smear.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Before automated cell counters were introduced, cell counts were performed manually; white and red blood cells, and platelets were counted using microscopes. The first person to publish microscopic observations of blood cells was Antonie van Leeuwenhoek, who reported on the appearance of red cells in a 1674 letter to the Proceedings of the Royal Society of London; Jan Swammerdam had described red blood cells some years earlier, but had not published his findings at the time. Throughout the 18th and 19th centuries, improvements in microscope technology such as achromatic lenses allowed white blood cells and platelets to be counted in unstained samples. In the 1870s, Paul Ehrlich developed a staining technique that could differentiate between the five white blood cell types. Ehrlich's stain used a combination of an acidic and basic dye to stain white and red blood cells simultaneously. Dmitri Leonidovich Romanowsky improved on this technique in the 1890s by using a mixture of eosin and aged methylene blue, which produced a wide range of hues that was not present when either of the stains was used alone. This was termed the Romanowsky effect and became the basis for Romanowsky staining, the technique that is still used to stain blood smears for manual differentials.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "By the early years of the 20th century, the white blood cell differential had become a common practice in the United States, but difficulties in interpreting the results cast doubt on the test's utility. In 1906, Charles Langdon Gibson introduced the Gibson chart, which compared the total white blood cell count against the neutrophil count to distinguish between \"pyogenic\" and \"non-pyogenic\" conditions and to predict the severity of infections. Around the same time, Josef Arneth proposed a system of classifying neutrophils by their number of nuclear lobes \u2013 termed the \"lobe index\" or Arneth count \u2013 and established a set of reference ranges for neutrophil lobularity. Arneth's analysis of neutrophil segmentation was later found to have limited clinical significance, but the association of hypersegmented neutrophils with vitamin B12 and folate deficiency remains accepted. Viktor Schilling in 1912 proposed a different classification of neutrophils, separating them into \"myelozyten, jugendliche, stabkernige and segmentkernige\" \u2013 that is, myelocytes, \"juveniles\" (metamyelocytes), band neutrophils (sometimes called \"stabs\"), and mature, fully segmented neutrophils \u2013 and remarked on the clinical significance of the neutrophilic left shift in conjunction with the white blood cell count and the presence of toxic changes. Schilling's monograph, Das Blutbild und seine klinische Verwertung (The Blood Picture and its Clinical Significance), was translated into English in 1926, and his neutrophil classification system quickly found acceptance in American laboratories.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The first automated hematology analyzer, the Coulter counter, was invented in the early 1950s by Wallace H. Coulter. The analyzer worked on the Coulter principle, which states that when cells are suspended in a fluid carrying an electric current and passed through an aperture, they cause decreases in current proportional to their volume because of their poor electrical conductivity. The number and magnitude of these decreases can be used to count blood cells and calculate their sizes. The Coulter counter was initially designed for counting red blood cells, but it proved effective for counting white blood cells as well.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "After basic cell counting had been automated, the white blood cell differential remained a challenge. Research into automating the differential count began in the 1970s and took two main approaches: digital image processing and flow cytometry. Using technology developed in the 1950s and 60s to automate the reading of Pap smears, several models of image processing analyzers were produced. These instruments would scan a stained blood smear to find cell nuclei, then take a higher resolution snapshot of the cell to analyze it through densitometry. They were expensive, slow, and did little to reduce workload in the laboratory because they still required blood smears to be prepared and stained, so flow cytometry-based systems became more popular, and by 1990, no digital image analyzers were commercially available in the United States or western Europe. These techniques enjoyed a resurgence in the 2000s with the introduction of more advanced image analysis platforms using artificial neural networks.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Early flow cytometry devices shot beams of light at cells in specific wavelengths and measured the resulting absorbance, fluorescence or light scatter, collecting information about the cells' features and allowing cellular contents such as DNA to be quantified. One such instrument\u2014the Rapid Cell Spectrophotometer, developed by Louis Kamentsky in 1965 to automate cervical cytology\u2014could generate blood cell scattergrams using cytochemical staining techniques. Leonard Ornstein, who had helped to develop the staining system on the Rapid Cell Spectrophotometer, and his colleagues later created the  first commercial flow cytometric white blood cell differential analyzer, the Hemalog D. Introduced in 1974, this analyzer used light scattering, absorbance and cell staining to identify the five normal white blood cell types in addition to \"large unidentified cells\", a classification that usually consisted of atypical lymphocytes or blast cells. The Hemalog D could count 10,000 cells in one run, a marked improvement over the manual differential.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "By 1977 it was estimated that \"at least 200\" automated differential analyzers were in use throughout the world. In 1981, Technicon combined the Hemalog D with the Hemalog-8 analyzer to produce the Technicon H6000, the first combined complete blood count and differential analyzer. This analyzer was unpopular with hematology laboratories because it was labour-intensive to operate, but in the late 1980s to early 1990s similar systems were widely produced by other manufacturers such as Sysmex, Abbott, Roche and Beckman Coulter.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A dendritic cell (DC)  is an antigen-presenting cell (also known as an accessory cell) of the mammalian immune system. A DC's main function is to process antigen material and present it on the cell surface to the T cells of the immune system. They act as messengers between the innate and adaptive immune systems.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Dendritic cells are present in tissues that are in contact with the body's external environment, such as the skin, and the inner lining of the nose, lungs, stomach and intestines. They can also be found in an immature and mature state in the blood.  Once activated, they migrate to the lymph nodes, where they interact with T cells and B cells to initiate and shape the adaptive immune response.  At certain development stages they grow branched projections, the dendrites, that give the cell its name (\u03b4\u03ad\u03bd\u03b4\u03c1\u03bf\u03bd or d\u00e9ndron being Greek for 'tree'). While similar in appearance to the dendrites of neurons, these are structures distinct from them. Immature dendritic cells are also called veiled cells, as they possess large cytoplasmic 'veils' rather than dendrites.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Dendritic cells were first described by Paul Langerhans (hence Langerhans cells) in the late nineteenth century. The term dendritic cells was coined in 1973 by Ralph M. Steinman and Zanvil A. Cohn. For discovering the central role of dendritic cells in the adaptive immune response, Steinman was awarded the Albert Lasker Award for Basic Medical Research in 2007 and the Nobel Prize in Physiology or Medicine in 2011.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The morphology of dendritic cells results in a very large surface-to-volume ratio.  That is, the dendritic cell has a very large surface area compared to the overall cell volume.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The most common division of dendritic cells is conventional dendritic cells (a.k.a. myeloid dendritic cells) vs. plasmacytoid dendritic cell (most likely of lymphoid lineage) as described in the table below:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The markers BDCA-2, BDCA-3, and BDCA-4 can be used to discriminate among the types.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Lymphoid and myeloid DCs evolve from lymphoid and myeloid precursors, respectively, and thus are of hematopoietic origin. By contrast, follicular dendritic cells (FDC) are probably of mesenchymal rather than hematopoietic origin and do not express MHC class II, but are so named because they are located in lymphoid follicles and have long \"dendritic\" processes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The blood DCs are typically identified and enumerated in flow cytometry. Three types of DCs have been defined in human blood: the CD1c+ myeloid DCs, the CD141+ myeloid DCs and the CD303+ plasmacytoid DCs. This represents the nomenclature proposed by the nomenclature committee of the International Union of Immunological Societies.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Dendritic cells that circulate in blood do not have all the typical features of their counterparts in tissue, i.e. they are less mature and have no dendrites. Still, they can perform complex functions including chemokine-production (in CD1c+ myeloid DCs), cross-presentation (in CD141+ myeloid DCs), and IFNalpha production (in CD303+ plasmacytoid DCs).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In some respects, dendritic cells cultured in vitro do not show the same behaviour or capability as dendritic cells isolated ex vivo. Nonetheless, they are often used for research as they are still much more readily available than genuine DCs.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Dendritic cells are derived from hematopoietic bone marrow progenitor cells (HSC). These progenitor cells initially transform into immature dendritic cells.  These cells are characterized by high endocytic activity and low T-cell activation potential.  Immature dendritic cells constantly sample the surrounding environment for pathogens such as viruses and bacteria. This is done through pattern recognition receptors (PRRs) such as the toll-like receptors (TLRs).  TLRs recognize specific chemical signatures found on subsets of pathogens. Immature dendritic cells may also phagocytose small quantities of membrane from live own cells, in a process called nibbling.  Once they have come into contact with a presentable antigen, they become activated into mature dendritic cells and begin to migrate to a lymph node.  Immature dendritic cells phagocytose pathogens and degrade their proteins into small pieces and upon maturation present those fragments at their cell surface using MHC molecules.  Simultaneously, they upregulate cell-surface receptors that act as co-receptors in T-cell activation such as CD80 (B7.1), CD86 (B7.2), and CD40 greatly enhancing their ability to activate T-cells.  They also upregulate CCR7, a chemotactic receptor that induces the dendritic cell to travel through the blood stream to the spleen or through the lymphatic system to a lymph node. Here they act as antigen-presenting cells: they activate helper T-cells and killer T-cells as well as B-cells by presenting them with antigens derived from the pathogen, alongside non-antigen specific costimulatory signals. Dendritic cells can also induce T-cell tolerance (unresponsiveness). Certain C-type lectin receptors (CLRs) on the surface of dendritic cells, some functioning as PRRs, help instruct dendritic cells as to when it is appropriate to induce immune tolerance rather than lymphocyte activation.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Every helper T-cell is specific to one particular antigen. Only professional antigen-presenting cells (APCs: macrophages, B lymphocytes, and dendritic cells) are able to activate a resting helper T-cell when the matching antigen is presented.  However, in non-lymphoid organs, macrophages and B cells can only activate memory T cells whereas dendritic cells can activate both memory and naive T cells, and are the most potent of all the antigen-presenting cells. In the lymph node and secondary lymphoid organs, all three APCs can activate naive T cells. Whereas mature dendritic cells are able to activate antigen-specific naive CD8+ T cells, the formation of CD8+ memory T cells requires the interaction of dendritic cells with CD4+ helper T cells. This help from CD4+ T cells additionally activates the matured dendritic cells and licenses (empowers) them to efficiently induce CD8+ memory T cells, which are also able to be expanded a second time. For this activation of CD8+, concurrent interaction of all three cell types, namely CD4+ T helper cells, CD8+ T cells and dendritic cells, seems to be required.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As mentioned above, mDC probably arise from monocytes, white blood cells which circulate in the body and, depending on the right signal, can turn into either dendritic cells or macrophages. The monocytes in turn are formed from stem cells in the bone marrow.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Monocyte-derived dendritic cells can be generated in vitro from peripheral blood mononuclear cell (PBMCs). Plating of PBMCs in a tissue culture flask permits adherence of monocytes. Treatment of these monocytes with interleukin 4 (IL-4) and granulocyte-macrophage colony stimulating factor (GM-CSF) leads to differentiation to immature dendritic cells (iDCs) in about a week. Subsequent treatment with tumor necrosis factor (TNF) further differentiates the iDCs into mature dendritic cells. Monocytes can be induced to differentiate into dendritic cells by a self-peptide Ep1.B derived from apolipoprotein E. These are primarily tolerogenic plasmacytoid dendritic cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In mice, it has been estimated that dendritic cells are replenished from the blood at a rate of 4000 cells per hour, and undergo a limited number of divisions during their residence in the spleen over 10 to 14 days.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The exact genesis and development of the different types and subsets of dendritic cells and their interrelationship is only marginally understood at the moment, as dendritic cells are so rare and difficult to isolate that only in recent years they have become subject of focused research. Distinct surface antigens that characterize dendritic cells have only become known from 2000 on; before that, researchers had to work with a 'cocktail' of several antigens which, used in combination, result in isolation of cells with characteristics unique to DCs.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The dendritic cells are constantly in communication with other cells in the body. This communication can take the form of direct cell\u2013cell contact based on the interaction of cell-surface proteins. An example of this includes the interaction of the membrane proteins of the B7 family of the dendritic cell with CD28 present on the lymphocyte. However, the cell\u2013cell interaction can also take place at a distance via cytokines.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "For example, stimulating dendritic cells in vivo with microbial extracts causes the dendritic cells to rapidly begin producing IL-12. IL-12 is a signal that helps send naive CD4 T cells towards a Th1 phenotype. The ultimate consequence is priming and activation of the immune system for attack against the antigens which the dendritic cell presents on its surface. However, there are differences in the cytokines produced depending on the type of dendritic cell. The plasmacytoid DC has the ability to produce huge amounts of type-1 IFNs, which recruit more activated macrophages to allow phagocytosis.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Blastic plasmacytoid dendritic cell neoplasm is a rare type of myeloid cancer in which malignant pDCs infiltrate the skin, bone marrow, central nervous system, and other tissues. Typically, the disease presents with skin lesions (e.g. nodules, tumors, papules, bruise-like patches, and/or ulcers) that most often occur on the head, face, and upper torso. This presentation may be accompanied by cPC infiltrations into other tissues to result in swollen lymph nodes, enlarged liver, enlarged spleen, symptoms of central nervous system dysfunction, and similar abnormalities in breasts, eyes, kidneys, lungs, gastrointestinal tract, bone, sinuses, ears, and/or testes. The disease may also present as a pDC leukemia, i.e. increased levels of malignant pDC in blood (i.e. >2% of nucleated cells) and bone marrow and evidence (i.e. cytopenias) of bone marrow failure. Blastic plasmacytoid dendritic cell neoplasm has a high rate of recurrence following initial treatments with various chemotherapy regimens. In consequence, the disease has a poor overall prognosis and newer chemotherapeutic and novel non-chemotherapeutic drug regimens to improve the situation are under study.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "HIV, which causes AIDS, can bind to dendritic cells via various receptors expressed on the cell. The best studied example is DC-SIGN (usually on MDC subset 1, but also on other subsets under certain conditions; since not all dendritic cell subsets express DC-SIGN, its exact role in sexual HIV-1 transmission is not clear). When the dendritic cell takes up HIV and then travels to the lymph node, the virus can be transferred to helper CD4+ T-cells, contributing to the developing infection. This infection of dendritic cells by HIV explains one mechanism by which the virus could persist after prolonged HAART.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Many other viruses, such as the SARS virus, seem to use DC-SIGN to 'hitchhike' to its target cells. However, most work with virus binding to DC-SIGN expressing cells has been conducted using in vitro derived cells such as moDCs.  The physiological role of DC-SIGN in vivo is more difficult to ascertain.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Dendritic cells are usually not abundant at tumor sites, but increased densities of populations of dendritic cells have been associated with better clinical outcome, suggesting that these cells can participate in controlling cancer progression. Lung cancers have been found to include four different subsets of dendritic cells: three classical dendritic cell subsets and one plasmacytoid dendritic cell subset. At least some of these dendritic cell subsets can activate CD4+ helper T cells and CD8+ cytotoxic T cells, which are immune cells that can also suppress tumor growth. However, dendritic cell activity is commonly suppressed by regulatory T cells and multiple other factors. Dendritic cell stimulating treatments, such as dendritic cell based vaccinations, have been emerging as a treatment with varying success. In experimental models, dendritic cells have also been shown to contribute to the success of cancer immunotherapies, for example with the immune checkpoint blocker anti-PD-1.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Altered function of dendritic cells is also known to play a major or even key role in allergy and autoimmune diseases like lupus erythematosus and inflammatory bowel diseases (Crohn's disease and ulcerative colitis).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The above applies to humans. In other organisms, the function of dendritic cells can differ slightly. However, the principal function of dendritic cells as known to date is always to act as an immune sentinel. They survey the body and collect information relevant to the immune system, they are then able to instruct and direct the adaptive arms to respond to challenges.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In addition, an immediate precursor to myeloid and lymphoid dendritic cells of the spleen has been identified. This precursor, termed pre-DC, lacks MHC class II surface expression, and is distinct from monocytes, which primarily give rise to DCs in non-lymphoid tissues.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Dendritic cells have been found in rainbow trout (Oncorhynchus mykiss) and zebrafish (Danio rerio) but their role is still not fully understood",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "List of human clusters of differentiation for a list of CD molecules (such as CD80 and CD86)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "List of distinct cell types in the adult human body",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Website of the Center for Infection and Immunity of Lille\u2014 Contains information on DCs and their study in research, link currently dead",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Dendritic+Cells at the U.S. National Library of Medicine Medical Subject Headings (MeSH)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "www.dc2007.eu 5th International Meeting on Dendritic Cell Vaccination and other Strategies to tip the Balance of the Immune System",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Website of Ralph M. Steinman at The Rockefeller University (Archived 27 June 2009 at the Wayback Machine)\u2014Contains information on DCs, links to articles, pictures and videos",
+    "date": null,
+    "verdict": null
+  }
+]

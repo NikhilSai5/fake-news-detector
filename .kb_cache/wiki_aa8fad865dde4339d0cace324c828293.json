@@ -1,0 +1,1172 @@
+[
+  {
+    "source": "wikipedia",
+    "text": "The Sukhoi Su-30 (Russian: \u0421\u0443\u0445\u043e\u0439 \u0421\u0443-30; NATO reporting name: Flanker-C/G/H) is a twin-engine, two-seat supermaneuverable fighter aircraft developed in the Soviet Union in the 1980s by Russia's Sukhoi Aviation Corporation. It is a multirole fighter for all-weather, air-to-air interdiction missions. The Russian Aerospace Forces (VKS) were reported to have 130 Su-30SMs in operation as of 2024.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Su-30 started as an internal development project in the Sukhoi Su-27 family by Sukhoi. From the Su-27UB two-seat trainer, the Su-27PU heavy interceptor was developed. The design plan was revamped and the Su-27PU was renamed to Su-30 by the Russian Defense Ministry in 1996. Of the Flanker family, the Su-27, Su-30, Su-33, Su-34 and Su-35 have been ordered into limited or serial production by the Russian Defense Ministry.  Later, different export requirements split the Su-30 into two distinct version branches, manufactured by competing organizations: KnAAPO and the Irkut Corporation, both of which come under the Sukhoi aerospace group's umbrella.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "KnAAPO manufactures the Su-30MKK and the Su-30MK2, which were designed for and sold to China, and later Indonesia, Uganda, Venezuela, and Vietnam. Due to KnAAPO's involvement from the early stages of developing the Su-35, these are basically a two-seat version of the mid-1990s Su-35. The Chinese chose an older but lighter radar so the canards could be omitted in return for increased payload. It is a fighter with both air supremacy and attack capabilities, generally similar to the U.S. F-15E Strike Eagle.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Irkut traditionally served the Soviet Air Defense and, in the early years of Flanker development, was responsible for manufacturing the Su-27UB, the two-seat trainer version. When India showed an interest in the Su-30, Irkut offered the multirole Su-30MKI, which originated as the Su-27UB modified with avionics appropriate for fighters. Along with its ground-attack capabilities, the series adds features for the air-superiority role, such as canards, thrust-vectoring, and a long-range phased-array radar. Its derivatives include the Su-30MKM, MKA, and SM for Malaysia, Algeria, and Russia respectively. The VKS operates several Su-30s and has ordered the Su-30SM variant as well.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "While the original Su-27 had good range, it still did not have enough range for the Soviet Air Defense Forces (PVO, as opposed to VVS \u2013 the Soviet Air Force). The Air Defense Forces needed to cover the vast expanse of the Soviet Union. Hence, development began in 1986 on the Su-27PU, an improved-capability variant of the Su-27 capable of serving as a long-range interceptor or airborne command post.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The two-seat Su-27UB combat trainer was selected as the basis for the Su-27PU, because it had the performance of a single-seat Su-27 with seating for two crew members. A \"proof-of-concept\" demonstrator flew on 6 June 1987, and this led to the kick-off of development work on two Su-27PU prototypes. The first Su-27PU flew at Irkutsk on 31 December 1989, and the first of three pre-production models flew on 14 April 1992.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Su-30 is a multirole fighter. It has a two-seat cockpit with an airbrake behind the canopy. It can serve as an air superiority fighter and as a strike fighter.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The integrated aerodynamic configuration, combined with the thrust vectoring control ability, results in high maneuverability and supermaneuverability characteristics. Equipped with a digital fly-by-wire system, the Su-30 can perform some very advanced maneuvers, including the Pugachev's Cobra and the tailslide. These maneuvers quickly decelerate the aircraft, causing a pursuing fighter to overshoot, as well as breaking a Doppler radar-lock, as the relative speed of the aircraft drops below the threshold where the signal registers to the radar.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Some variants of the Su-30, notably the Su-30MKI and its derivatives including the Su-30MKM and Su-30SM, are fitted with canards to enhance maneuverability and also compensate for the heavier N011M Bars radar and mission systems in the nose. The canards and the reshaped leading-edge extensions (LERX) help control the vortices and increase the angle-of-attack limit of the airframe, but they also add drag and reduce the maximum speed to Mach 1.75.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As with the baseline Su-27S/P, the Su-30's powerplant incorporates two Saturn AL-31F afterburning low-bypass turbofan engines, fed through intake ramps. Two AL-31Fs, each rated at 122.6 kN (27,600 lbf) of full afterburning thrust for speeds up to Mach 2 in level flight and 1,350 km/h speed at low altitude for non-canard variants. Canted thrust vectoring is used in some variants to enhance maneuverability.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "With a normal fuel reserve of 5,270 kg, the Su-30MK is capable of performing a 4.5-hour combat mission with a range of 3,000 km. An aerial refueling system increases the range to 5,200 km (3,200 mi) or flight duration up to 10 hours at cruise altitudes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The aircraft features autopilot ability at all flight stages including low-altitude flight in terrain-following radar mode, and individual and group combat employment against air and ground/sea-surface targets. Automatic control system interconnected with the navigation system ensures route flight, target approach, recovery to airfield and landing approach in automatic mode.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As of 2020, the French firm Thales had integrated its holographic Head-Up Display 3022 system into the Su-30SM. The Russians let the Belarusian side acquire this tool in December 2020. This system is used for tactical situation analysis, map presentation, navigation, attack system, and is used to interrogate avionic sensors and to control effectors. Some of the at least $783,000 that Irkut-Yakovlev sourced from Thales in 2022 were for this system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The sanctions policy created as a result of the 2022 Russian invasion of Ukraine caused problems with aftermarket sales and servicing of the French systems that have become an integral part of the Su-30SM. The VKS now needs, via its Rosaviaspetskomplekt partner, to have its warplanes maintained by the Kazakhstani firm ARC Group which is the \"exclusive distributor of Safran Electronics & Defence in the Republic of Kazakhstan\".",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 1994\u20131996, an initial batch of five original Su-30 (Su-27PU) fighters, contracted for the Russian Defence Ministry, were delivered to 54th Guards Fighter Aviation Regiment based at Savasleyka air base. After the regiment was disbanded in 2002, the aircraft became part of 4th Centre for Combat Employment and Retraining of Personnel in Lipetsk where they were flown mostly by Russian Falcons aerobatic team. No further orders of the variant were made. However, the Russian Defence Ministry was impressed with the export Su-30MKI's performance envelope and ordered a local version of the same aircraft for their own use, called the Su-30SM, which is the third adaptation of the MKI after the Malaysian Su-30MKM and the Algerian MKA. A total of 60 Su-30SM fighters, under two contracts signed in March and December 2012, respectively. On 21 September 2012, the Su-30SM performed its maiden flight. The Russian Air Force has received first two serial aircraft on 22 November 2012. By end of 2015, 31st Fighter Aviation Regiment, the last aviation regiment of the Russian Aerospace Forces that operated Soviet-made MiG-29A/UBs (izdeliye 9.12/9.13) was fully rearmed with about twenty new Su-30SM fighters. All aircraft of the first two contracts were delivered by 2016.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Another 36 aircraft were ordered in April 2016, six of which intended for the Russian Naval Aviation. This was to increase the total number to 116 (88 in the Air Force and 28 in the Navy).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In October\u2013November 2016, eight new aircraft were handed to Russian Knights aerobatic team, replacing the team's six Su-27 fighters. The aircraft are stationed at Kubinka air base, Moscow Oblast.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "During the 2017 MAKS International Aviation and Space Salon, it was announced that the Russian Defence Ministry and Irkut Corporation are working on modernization of Russia's Su-30SM fighters to a new \"Su-30SM1\" standard. The modernization is aimed on improvements in aircraft's avionics and armament.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Su-30SM attained full operational capability (FOC) in January 2018, by a resolution of the Russian president.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In August 2019, the Russian Defence Ministry first signed a contract for undisclosed number of modernized Su-30SM2 (then referred to it as Su-30SM1) fighters. First deliveries to the Russian Aerospace Forces are scheduled for late 2020 with serial deliveries to commence in 2021. The aircraft will receive the N035 Irbis radar and AL-41F1S engines of the Su-35S, what is to standardize and reduce operational costs of the two variants. The aircraft's armament will be also enhanced of the new KAB-250 aerial bombs and Kh-59MK2 stealth cruise missiles. It is planned to modernize all Russia's Su-30SMs to the SM2 standard.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 25 August 2020, a contract for 21 modernized Su-30SM2 aircraft for the Russian Naval Aviation was signed at the 'ARMY-2020' military-technical forum.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In September 2015, Russia deployed Su-30SM fighters for the first time to Bassel Al-Assad International Airport in Latakia, Syria. At least four Su-30SM fighters were spotted in a satellite photo. In late December 2015, there were 16 Su-30SMs at Khmeimim Air Base. As part of their combat deployment, they provided target illumination for bombers launching airstrikes against rebel groups.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Su-30SMs were initially tasked with aerial escort of Russian attack jets and strategic bombers but also conducted air to ground duties. On 21 March 2017, rebel forces launched a new offensive in the Hama province; a few days later a video emerged showing a Russian Aerospace Forces Su-30SM striking ground targets with unguided air-to-ground rockets in a dive attack against the rebels.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 3 May 2018, a Russian Aerospace Forces Su-30 crashed shortly after take-off from the Khmeimim Air Base, killing both crew members.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Russian Su-30SM and Su-35s fighters were used for air superiority missions during the war. Combined, at least seven air to air victories were confirmed over Ukrainian jet aircraft and one over a Ukrainian Naval Aviation Mil Mi-14.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A Russian Su-30 was destroyed on the ground by Ukrainian OTR-21 Tochka missiles fired during the Millerovo air base attack.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 5 March 2022 a Russian Naval Aviation Su-30SM, RF-33787, tail number Blue 45 was shot down in Bashtanka area, Mykolayiv Oblast. Both crew members, Major Aleksey Golovensky and Captain Aleksey Kozlov, were captured. The same day another Su-30 was lost in Ochakov, Mykolaiv Oblast, pilot by Lt. Colonel Aleksey Khasanov and Cpt Vasily Gorgulenko were killed while on combat duty in Ukraine.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 13 March 2022, another aircraft, RF-81733, tail number Red 72, was lost over Ukraine; the pilot, Kosyk Serhiy Serhiyovych, survived and was captured.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 15 March 2022, a Su-30SM, serial number RF-81773 tail number Red 62, was shot down near Izium, Kharkiv. Pilots Alexander Pazynych and Evgeny Kislyakov, did not survive and Capt. Aleksander Pozinich from 14th Guards Fighter Aviation Regiment, were killed.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 9 August 2022, explosions at Saky air base in Novofedorivka, Crimea left at least three Su-30s destroyed and one damaged according to satellite imagery. On 18 August a Su-30SM, serial number RF-81771, had its wreckage recorded in Kharkiv region in the Izyum direction.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 18 August 2022, remains of a Su-30 registration number RF-81771 tail number Red 60, were discovered near Mala Komyshuvakha, Izium. The fate of the pilots remained unknown.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 27 August 2023, Ukrainian media, citing claims made by the Security Service of Ukraine, said that 16 Sypaq Corvo Precision Payload Delivery System drones had been used in an attack on the Kursk Vostochny Airport in Russia, with three shot down and the others hitting four Su-30s and one MiG-29 aircraft. An S-300 radar and two Pantsir air defence systems were also reportedly hit.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 12 August 2024 a Ukrainian Air Force MiG-29, callsign 72 White, piloted by Olexander Migulya was shot down in a combat mission by a Russian Su-30.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 2 February 2025, a Ukrainian Air Force Sukhoi Su-27 was shot down in the area of Pokrovsk, Donetsk Oblast. Russian sources claimed it was shot down by an R-37M missile fired from a Su-30SM2. The pilot, kapitan Ivan Bolotov of the 831st Tactical Aviation Brigade, did not survive.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 2 May 2025, a Ukrainian HUR Magura V7 naval drone shot down a Russian Su-30 using an AIM-9X missile, 50 km west of Novorossiysk. The crew of two ended up in the Black Sea, where a civilian ship later recovered them. HUR claimed it was the first time a maritime drone shot down an aircraft.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "First talks about acquiring of new fighter for the Indian Air Force began in 1994. A year later, the Sukhoi Design Bureau started working on the new fighter based on the original Su-30 design, which later evolved into Su-30MK (Modernizirovannyi Kommercheskiy - Modernized Commercial) and ultimately into Su-30MKI (Modernizirovannyi Kommercheskiy Indiski - Modernized Commercial Indian). On 30 November 1996, Russian state company Rosvooruzhenie (now Rosoboronexport) and Indian Defense Ministry signed a contract for development and production of eight Su-30Ks and 32 Su-30MKIs for the Indian Air Force. In March\u2013July 1997, all eight Su-30Ks of the order were delivered at Lohegaon Air Force Base in India. On 28 December 2000, as part of the Russian-Indian cooperation, a contract worth more than US$3 billion was signed for license production of 140 Su-30MKI fighters at Hindustan Aeronautics Limited (HAL) production plant in Nashik. Between 2002 and 2004, in accordance with the 1996 contract, 32 Su-30MKIs were built by Irkutsk Aviation Plant for the Indian Air Force. From 2004 onwards, production is carried by HAL.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2007, India and Russia agreed to a deal for another 40 Su-30MKIs for US$1.6 billion, to be produced in India under license. In March 2010, it was reported India and Russia were negotiating a contract for additional 42 aircraft. The contract worth US$1.6 billion was signed in December 2011, increasing the total number of ordered aircraft up to 272. By March 2020, India had completed the production of all 272 Su-30MKIs licensed under previous contracts. The country was also considering acquisition of 12 more fighters to compensate for Su-30 losses over nearly 20 years of operation. In 2020, due to the 2020\u20132021 China\u2013India skirmishes, India determined to purchase 12 additional Su-30MKIs.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2024, Indian media reported negotiations between HAL and Russia for exporting Indian-produced Su-30MKIs. This may be to circumvent American economic sanctions on the export of Russian weapons and their technology.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "India launched Operation Sindoor in the early hours of 7 May 2025, targeting nine alleged terror camps across Pakistan and Pakistan-occupied Kashmir in response to the Pahalgam attack. During the mission, Su-30MKIs of the Indian Air Force provided air defence cover to ensure that Indian strike aircraft could carry out the mission without threat from Pakistani interceptors. On 10 May 2025, the IAF Su-30MKIs reportedly struck 11 PAF airbases with the BrahMos missile resulting in critical damage to some.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "To better counter USAF's expanding capabilities in the region, in 1996, an agreement worth US$1.8 billion was reached with Russia to purchase some 38 multirole combat aircraft based on the original Su-30 design. Taking into account China's requirements for its new fighter, the aircraft became known as Su-30MKK (Modernizirovannyi Kommercheskiy Kitayski - Modernized Commercial Chinese).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In March 1999, first prototype took off from Gromov Flight Research Institute in Russia and a year later it appeared at Zhuhai Air Show in China. People's Liberation Army Air Force (PLAAF) has received first batch of ten Su-30MKK fighters in December 2000, following by second and third batches of ten fighters in August and December 2001, respectively. In July 2001, China has ordered 38 more Su-30MKK fighters.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A modified variant, known as \"Su-30MK2\", was negotiated for the People's Liberation Army Naval Air Force (PLANAF) in 2002, with contract for 24 aircraft signed in 2003. All the aircraft were delivered to PLANAF in 2004.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Myanmar Air Force ordered six Su-30SMEs in 2018. 2 Su-30SMEs delivered in March 2022 and entered service on 15 December. Between 4 and 6 have arrived as of November 2022. 4 delivered as of 15 December 2023. Another 2 Su-30 SME had been received on 15 December 2024. The Myanmar Air Force has between 8 and 10 Su-30SMEs.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Malaysia ordered 18 Su-30MKMs in May 2003. The first two Su-30MKMs were formally handed over in Irkutsk on 23 May 2007 and arrived in Malaysia at RMAF Gong Kedak Air Base in Terengganu on 21 June 2007. As part of the contract agreement, Russia sent the first Malaysian cosmonaut to the International Space Station in October 2007. In 2014, Malaysia had 18 Su-30MKMs in service.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "According to Malaysian defense Minister Mohamad Sabu, Malaysia has grounded 14 of 18 Su-30MKM due to engine problems and unavailability of spare parts in 2018. To overcome this problem and increase the readiness of the Su-30MKM fleets, Malaysia has approved the budget worth RM2.2 billion for the Su-30MKM to be upgraded locally by Aerospace Technology Systems Corporation. The first upgraded aircraft was received in 2019 in LIMA 2019 exhibition.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Government of Venezuela announced on 14 June 2006 it would purchase 24 Su-30MKV fighters from Russia. The first two Su-30MK2s arrived in early December 2006 while another eight were commissioned during 2007; 14 more aircraft arrived in 2008. In October 2015, Venezuela announced the purchase of 12 more Su-30MKVs from Russia for US$480 million.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As part of wider US$8 billion deal signed with Russia in 2006, that also included 34 MiG-29 fighters and number of Yak-130 trainers, Algeria has ordered 28 Su-30MKAs for its air force. It was to receive additional 16 Su-30MKAs in exchange for the 39 MiG-29s rejected due to quality disputes and old equipment used. By 2015, it had 44 Su-30MKAs in service with 14 more on order.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In September 2019, Algeria ordered 16 more aircraft. As of 2022, it has 70 Su-30MKAs in service.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Uganda signed a contract for six Su-30MK2s in 2010. Deliveries took place between June 2011 and June 2012. In November 2011, one aircraft performed a belly landing at Entebbe International Airport. It was later repaired.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2001, reports emerged that Indonesia had an interest to acquire about 16 Su-30 fighters, as a replacement for its aging fleet of 12 F-16A/B and F-5E/F fighters. From 2003 to 2011, and because of the U.S-imposed arms embargo against it, it has ordered a combined 11 Su-30MKK/MK2s (2 Su-30MKK and 9 Su-30MK2) for the Air Force. In September 2013, it had all Su-30MKK/MK2s in inventory. The aircraft were upgraded by Belarus in 2019.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As part of a US$1 billion deal that also includes other equipment and maintenance services for the country, Angola has ordered 12 out of 18 former Indian Su-30K fighters on 16 October 2013. The Su-30Ks were initially delivered to India in 1997\u20131998, but were returned to Russia in 2007 in exchange for 18 full-fledged Su-30MKI fighters. Angola received first two aircraft in September 2017, four in 2018 and the rest in April 2019. Angolan Su-30Ks were also upgraded to the \"SM\" standard.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Vietnam has received about 20 Su-30MK2s under two contracts signed in 2009 and 2010, respectively. On 21 August 2013, Russia announced it would deliver another batch of 12 Su-30MK2s under a $450 million contract, with deliveries in 2014\u20132015.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 14 June 2016, a Su-30MK2 of the Vietnamese Air Force went missing during a training flight 30\u201340 km off the coast of Ngh\u1ec7 An Province.  One out of the two pilots survived. At the time, there were some 32 Su-30MK2s in service.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Kazakhstan has ordered in total 24 Su-30SM fighters under three contracts. It received first four Su-30SMs under the first contract worth of RUB 5 billion in April 2015. A second contract for eight aircraft was signed in December 2015.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The first two aircraft of the second order were delivered in December 2016 and another two in December 2017. The third order for 12 more aircraft was approved in August 2017 and eight aircraft were ordered in May 2018. The last four aircraft of the second contract were delivered in December 2018. It had 12 Su-30SMs in service as of December 2018.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In January 2016, then Armenian Defense Minister Seyran Ohanyan mentioned that Russia had discussed the possibility of supplying Su-30 fighters to Armenia during a four-day Russian-Armenian intergovernmental commission on bilateral military-technical cooperation. Armenia has ordered four Su-30SMs in February 2019, with deliveries expected to begin in 2020. The country plans to acquire additional Su-30SM aircraft, according to the Armenian Defense Minister David Tonoyan.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 27 December 2019, Armenia has received all four aircraft ahead of schedule. The aircraft landed at the Shirak Airport during a visit of Armenian Defense Minister David Tonoyan and Chief of the General Staff of the Armenian Armed Forces Artak Davtyan. In August 2020, negotiations were under way to acquire a new batch of Su-30SM fighters, according to Armenian Defense Minister David Tonoyan.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In March 2021, Nikol Pashinyan, Prime Minister of Armenia, confirmed that Armenia bought Su-30SM fighters without missiles package from Russia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "These aircraft were left unused in the 2020 Nagorno-Karabakh war as a result of the purchase of aircraft without missiles. On September 16, 2024, Armenia reached out to India for assistance in procuring Astra missiles for their Su-30s. Assistance was also being sought from HAL for their expertise in upgrading the Su-30.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In February 2016, Russia and Belarus concluded a preliminary agreement regarding to the export of an undisclosed number of Su-30s to Belarus. On 20 June 2017, during the Le Bourget international air show, Belarus signed a contract to purchase 12 Su-30SMs under a deal worth US$600 million and were originally planned to be delivered in 2018. Western embargoes on components delayed delivery, with the first four aircraft arriving at Baranovichi Air Base in November 2019, with four more planned to arrive to 2020 with deliveries completed in 2021. 8 additional Su-30s were scheduled to arrive in 2024.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 13 July 2024, a Russian Shahed drone entered Belarusian air space without authorization. A Belarusian Su-30 was sortied to intercept the drone. The drone eventually crashed in western Belarus, 60 miles west of Minsk.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Mongolian Air Forces (MAF) have received a first Sukhoi Su-30SM \"Flanker-H\" multirole fighter aircraft from Russia on 31 March 2019. According Commander Mongolian Air Forces Colonel Enkhbayar said, the delivered aircraft are the remaining four Su-30SMs ordered under this first contract. Mongolian Air Forces a framework agreement signed its intention to buy 12 Su-30SMs from Russia. The total cost of the contract is $600 million.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In February 2016, Iran's then Defense Minister Hossein Dehghan during his visit to Moscow announced that the country intends to buy an undisclosed number of Su-30SM fighters.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2021, Russia offered the Argentine Air Force a batch of 15 MiG-29 fighters and another batch of 12 Su-30 fighters and seeks also the sale of Yak-130 training jet and Mil Mi-17 helicopters.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "PU for Punkt Upravlenija - \"Control Point\" or Perechvatcik Uchebnyj - \"Interceptor Trainer\". Modernized Su-27UB - Uchebno - boyevoy - \"Trainer / combat fighter\". 5 units operated by the Russian Air Defence Forces.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Commercial (export) version of the basic Su-30. Initially 8 + 10 with French avionics were delivered to India with plans to upgrade to final Su-30MKI configuration, but later all 18 were returned to Russia, and 12 were resold to Angola. 2 were sold to Ethiopia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Proposed export version for Indonesia and cancelled because of the 1997 Asian financial crisis. The prototype was converted from a Su-27SK in 1998, and then converted into the Su-27SKM prototype in 2003.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Proposed low-cost mid-life upgrade for the Su-30 including tactical strike. The prototype was converted from a production Su-30 and first flew in March 1999.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Upgraded Su-30 for tactical strike. The prototype was converted from the first production Su-30 and was displayed at the 1993 International Defence Exhibition. Mk stands for \"upgraded export version\" (modernizeerovannyy kommehrcheskiy.)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "MKI for Modernizirovannyi Kommercheskiy Indiski - \"Modernized Commercial Indian\". An export version for India, jointly developed with Hindustan Aeronautics Limited (HAL). It is the first Su-30 family member to feature thrust vectoring control (TVC) and canards. Equipped with a multinational avionics complex sourced from Russia, India, France and Israel.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A version of the Su-30MKI sold to Algeria. All of the Israeli equipment, like the head-up display and the digital map generator, is replaced by Indian equivalents.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A derivative of the Russian-Indian Su-30MKI, the MKM is a highly specialized version for Royal Malaysian Air Force. It includes thrust vectoring control and canards but with avionics from various countries. It will feature head-up displays (HUD), navigational forward-looking IR system (NAVFLIR) and Damocles Laser Designation pod (LDP) from Thales Group of France, MAW-300 missile approach warning sensor (MAWS), RWS-50 RWR and laser warning sensor (LWS) from SAAB AVITRONICS (South Africa) as well as the Russian NIIP N011M Bars Passive electronically scanned array radar, electronic warfare (EW) system, optical-location system (OLS) and a glass cockpit.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "SM for Serijnyi Modernizirovannyi - \"Serial Modernized\". Announced 2011, a specialized version of the thrust-vectoring Su-30MKI for the VKS to be produced by the Irkut Corporation. NATO reporting name Flanker-H. The Su-30SM is considered a 4+ generation fighter jet. The aircraft has been upgraded according to Russian military requirements for radar, radio communications systems, friend-or-foe identification system, ejection seats, weapons, and other aircraft systems. It is equipped with the N011M Bars radar with a maximum detection range 400 km, search range 200 km using a phased array antenna, frontal horizontal fins and steerable thrusters for supermaneuvrability as well as with wide-angle HUD. The aircraft can be used to gain air supremacy same as for targeting adversary on the ground using wide range of weapons including air-to-air, air-to-surface and guided and unguided bombs with total weapons weight up to 8,000 kg. It is also equipped with the one barrel, 30 mm GSh-30-1 autocannon. To ensure operations at major distances from airfield, the ability of in-flight refueling (IFR) is included. Besides that, for electronic warfare purposes two SAP-518 jamming pods can be fitted on the wing tips. The SAP-518 is designed to protect the aircraft from various air-to-air and surface-to-air missiles by creating false targets, jamming missile's guidance, enemy aircraft radars or ground and seaborne air defense.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "By 2020 the Su-30SM was outfitted with a Thales model 3022 HUD control system; at that time the Russians let the Belarusians acquire them.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Su-30SME is the export version of the Su-30SM, with foreign avionics of other Su-30MKI derivatives replaced with Russian systems, and the possible downgrade of certain systems such as the radar modes and fire control. It was unveiled at the Singapore Airshow 2016, and has been offered to Iran, Bangladesh, Uzbekistan, and Myanmar.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Initially referred to it as SM1, is an upgrade project of Russian Su-30SM fighters, equipped with the N035 Irbis radar and more powerful AL-41F1S engines of the Su-35S, with the goal to reduce operational costs when unifying the two fighters. The modernized fighters will also obtain new types of weapons, namely the KAB-250 aerial bombs, R-37M very long range air to air missile and Kh-59MK2 stealth cruise missile. First deliveries are scheduled for end-2020.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "MKK for Modernizirovanniy Kommercheskiy Kitayskiy - \"Modernized Commercial for China\". An export version for China. NATO reporting name Flanker-G.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Modernized Su-30MKK for China, Indonesia and Uganda with advanced avionics and weapons.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Export version of Su-30MK2 for Venezuela is built on the same airframe as the Su-35. To avoid confusion after Vietnam also placed an order for Su-30MK2, the designation for those ordered by Venezuela was changed from the original Su-30MKV to Su-30MK2 AMV with AMV standing for Aviacion Militar Venezolana (Venezuelan Military Aviation).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Export version of Su-30MK2 for Vietnam with modifications such as redesigned ejection seat to accommodate the smaller body frames of Vietnamese pilots, and other minor modification of upgrading communications gear. The original designation Su-30MKV caused confusion with those Su-30MK2s ordered by Venezuela, which already had Su-30MKV designation, so to avoid confusion, Su-30MK2s ordered by Vietnam was redesignated Su-30MK2V. Vietnam still internally designates it Su-30MK2 with the MK2V designation rarely used.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A Su-30MK2 version developed by KnAAPO. The Russian Air Force placed an initial order for the variant in 2009. Factory tests were completed in September 2010. Twenty aircraft have been ordered; 4 in 2009 and 16 in 2012. At least 12 have been produced as of August 2014, all four from the first contract in 2009, and eight from the second contract of 2012. They are mostly to be used as combat training aircraft for Su-30SM/SM2 and Su-35 fighters.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Belarusian Air Force \u2013 8 Su-30SMs and Su-30SM2s in inventory as of August 2025, 4 ordered left for delivery.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Indian Air Force \u2013 261 Su-30MKI (2024) \u2013 12 ordered in late-2024.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Kazakh Air Force \u2013 29 Su-30SM (2024) \u2013 Approximately 8 delivered in 2024 out of an order for 12.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Myanmar Air Force \u2013 6 Su-30SME (2024), ordered in 2018 and delivered from 2022 to 2024",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "People's Liberation Army Air Force \u2013 24 Su-30MK2, 73 Su-30MKK (2024)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Russian Aerospace Forces \u2013 19 Su-30M2, estimated 80 Su-30SM, 4+ Su-30SM2 (2024) New deliveries were conducted in late 2023 and mid 2024.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Russian Naval Aviation \u2013 Approximately 17 Su-30SM, and 8+ Su-30SM2 (2024). 21 Su-30SM2s on order, 12 delivered, 50 aircraft planned in total.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Data from KnAAPO, Sukhoi, Gordon and Davison, deagel.com, Airforce technologyGeneral characteristics",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Powerplant: 2 \u00d7 Saturn AL-31FL/FP Afterburning turbofan engines, 74.5 kN (16,700 lbf) thrust  each dry, 122.58 kN (27,560 lbf) with afterburner",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Maximum speed: 2,120 km/h (1,320 mph, 1,140 kn) at high altitude",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Range: 3,000 km (1,900 mi, 1,600 nmi) at high altitude",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Wing loading: 401 kg/m2 (82 lb/sq ft) with 56% fuel",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Guns: 1 \u00d7 30 mm Gryazev-Shipunov GSh-30-1 autocannon with 150 rounds",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hardpoints: 12 hardpoints with a capacity of up to 8,000 kg (18,000 lb), with provisions to carry combinations of:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 12 June 1999, a Russian Su-30MK crashed at the Paris Air Show, Le Bourget, France. Both pilots ejected safely and no one was hurt on the ground.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 22 September 2020, a Russian Su-30M2 was shot down by a Su-35S during air combat training which pitted two Su-35S against one Su-30M2. When the pilot of a Su-35S pulled the trigger to record the simulated hit, the jet fired a burst from its 30mm GSh-30-1 cannon, hitting the right wing of the Su-30M2, leaving the aircraft uncontrollable and forcing its crew to eject.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Between 1 and 6 of April 2022, a Russian Su-30SM, code 60 Red (RF-81771) was shot down by Ukrainian Forces near Izyums\u2019Kyi District in the Kharkiv region.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 23 October 2022, a Russian Su-30SM crashed into a residential building in the Siberian city of Irkutsk during a test flight. The two pilots died in the crash, but there were no casualties on the ground. Investigators suspect that the aircraft's oxygen system had been refilled with nitrogen, which caused both pilots to become unconscious and lose control of the aircraft in flight.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 12 August 2023, a Russian Su-30 crashed in the Kaliningrad region during a training flight. Both airmen were killed.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 16 October 2025, friendly fire shot down one Sukhoi Su-30SM over Crimea.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "List of military aircraft of the Soviet Union and the CIS",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Gordon, Yefim; Davison, Peter (2006). Sukhoi Su-27 Flanker. Warbird Tech. Vol. 42. Specialty Press, 2006. ISBN 978-1-58007-091-1.{{cite book}}:  CS1 maint: ref duplicates default (link)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Gordon, Yefim (2007). Sukhoi Su-27 Flanker. Famous Russian Aircraft. Hinkley, England: Midland Publishing. ISBN 978-1-85780-247-4.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "International Institute for Strategic Studies (2025). The Military Balance 2025. London: Routledge. ISBN 978-1-041-04967-8.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Eden, Paul, ed. (July 2006). The Encyclopedia of Modern Military Aircraft. London, UK: Amber Books, 2004. ISBN 1-904687-84-9.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Williams, Mel, ed. (2002). \"Sukhoi 'Super Flankers'\". Superfighters: The Next Generation of Combat Aircraft. Norwalk, Connecticut: AIRtime Publishing Inc., 2002. ISBN 1-880588-53-6.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Official Sukhoi Su-30MK page; Official KnAAPO Su-30MK and Su-30MK2 pages",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Sukhoi Flankers \u2013 The Shifting Balance of Regional Air Power",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Sukhoi Su-30MKI (NATO reporting name: Flanker-H) is a two-seater, twinjet multirole air superiority fighter developed by Russian aircraft manufacturer Sukhoi and built under licence by India's Hindustan Aeronautics Limited (HAL) for the Indian Air Force (IAF). A variant of the Sukhoi Su-30, it is a heavy, all-weather, long-range fighter.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Development of the variant started after India signed a deal with Russia in 2000 to manufacture 140 Su-30 fighter aircraft. The first Russian-made Su-30MKI variant was accepted into the Indian Air Force in 2002, while the first Su-30MKI assembled in India entered service with the IAF in November 2004. The IAF has nearly 260 Su-30MKIs in inventory as of January 2020. The Su-30MKI was expected to form the backbone of the IAF's fighter fleet beyond 2020.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The aircraft is tailor-made for Indian specifications and integrates Indian systems and avionics as well as French and Israeli sub-systems. It has abilities similar to the Sukhoi Su-35 with which it shares many features and components.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Su-30MKI was designed by Russia's Sukhoi Corporation beginning in 1995 and built under licence by India's Hindustan Aeronautics Limited (HAL). The Su-30MKI is derived from the Sukhoi Su-27 and has a fusion of technology from the Su-37 demonstrator and Su-30 program, being more advanced than the baseline Su-30. Russia's Defence Ministry was impressed with the type's performance envelope and ordered 30 Su-30SMs, a localised Su-30MKI, for the Russian Air Force. It features state of the art avionics developed by Russia, India and Israel for display, navigation, targeting and electronic warfare; France and South Africa provided other avionics.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "After two years of evaluation and negotiations, on 30 November 1996, India signed a US$1.462 billion deal with Sukhoi for 50 Russian-produced Su-30MKIs in five batches. The first batch were eight Su-30Ks, the basic export version of Su-30 (designated Su-30MKI-I by India). The second batch of 10 were also Su-30Ks, but equipped with French and Israeli avionics (designated Su-30MKI-I by India). The third batch were to be 10 Su-30MKIs featuring canard foreplanes. The fourth batch of 12 Su-30MKIs and fifth batch of 10 Su-30MKIs were to have the AL-31FP turbofans. The Su-30Ks were upgraded to Su-30MKI configuration by HAL later on.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In October 2000, a memorandum of understanding (MoU) was signed for Indian license-production of 140 Su-30MKIs; in December 2000, a deal was sealed at Russia's Irkutsk aircraft plant for full technology transfer. The Indian Air Force (IAF) has ordered 272 aircraft, of which 50 were to be delivered by Russia in 2002-2004 and 2007. The rest of 222 planes are to be produced under license at HAL's Indian facilities in 2004. The first Nasik-built Su-30MKIs were to be delivered by 2004, with staggered production until 2017\u201318. In November 2002, the delivery schedule was expedited with production to be completed by 2015. An estimated 920 AL-31FP turbofans are to be manufactured at HAL's Koraput Division, while the mainframe and other accessories are to be manufactured at HAL's Lucknow and Hyderabad divisions. Final integration and test flights of the aircraft are carried out at HAL's Nasik Division. Four manufacturing phases were outlined with progressively increasing Indian content: Phase I, II, III and IV. In phase I, HAL manufactured the Su-30MKIs from knocked-down kits, transitioning to semi knocked-down kits in phase II and III; in phase IV, HAL produced aircraft from scratch from 2013 onwards.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2007, another order of 40 Su-30MKIs was placed. In 2009, the planned fleet strength was to be 230 aircraft. In 2008, Samtel HAL Display Systems (SHDS), a joint venture between Samtel Display Systems and HAL, won a contract to develop and manufacture multi-function avionics displays for the MKI. A helmet mounted display, Topsight-I, based on technology from Thales and developed by SHDS will be integrated on the Su-30MKI in the next upgrade. In March 2010, it was reported that India and Russia were discussing a contract for 42 more Su-30MKIs. In June 2010, it was reported that the Cabinet Committee on Security had cleared the \u20b915,000 crore (US$1.8 billion) deal and that the 42 aircraft would be in service by 2018.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "By August 2010, the cost increased to $4.3 billion or $102 million each. This increased unit cost compared to the previous unit cost of $40 million in 2007, has led to the rumours that these latest order of 42 Su-30MKIs are for the Strategic Forces Command (SFC) and these aircraft will be optimised and hardwired for nuclear weapons delivery. The SFC had previously submitted a proposal to the Indian Defence Ministry for setting up two dedicated squadrons of fighters consisting of 40 aircraft capable of delivering nuclear weapons.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "HAL expected that indigenisation of the Su-30MKI programme would be completed by 2010; V. Balakrishnan, general manager of the Aircraft Manufacturing Division stated that \"HAL will achieve 100 per cent indigenisation of the Sukhoi aircraft \u2013 from the production of raw materials to the final plane assembly\". As of 2017, HAL manufactures more than 80% of the aircraft. On 11 October 2012, the Indian Government confirmed plans to buy another 42 Su-30MKI aircraft. On 24 December 2012, India ordered assembly kits for 42 Su-30MKIs by signing a deal during President Putin's visit to India. This increases India's order total to 272 Su-30MKIs.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As of 2024, the IAF has received a total of 272 units of Su-30MKI, with phased orders of 50 units directly imported followed by orders of 140 units in December 2000, 40 in March 2007 and 42 in December 2012.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In June 2018, India has reportedly decided not to order any further Su-30s as they feel its cost of maintenance is very high compared to Western aircraft.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In June 2020, India decided to place an order for 12 more Su-30MKI aircraft along with 21 MiG-29s. The Su-30MKI order is to compensate for losses due to crashes to maintain the sanctioned strength of 272 Su-30MKIs. The MiG-29 order was placed to form a fourth MiG-29 squadron to bolster depleted IAF strength. The MiGs were ordered despite being an older platform since they were deliverable within a 2-3-year timeframe, because they were built for an order that was previously canceled and since they were very reasonably priced compared to newer aircraft. On 18 March 2022, it was reported that India would order additional 12 Su-30MKIs.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In May 2022, the Indian government suspended the Su-30MKI order due to concerns over Moscow's ability to deliver parts to Hindustan Aeronautics and issues related to payment transfers. On 15 September 2023, the Indian government preliminarily approved \u20b911,500 crore (US$1.4 billion) to procure 12 Su-30MKIs for the air force with more than 60% indigenous content to replace jets that have crashed. The additional Su30MKIs will be incorporated with the Super Sukhoi upgrades. As of November 2024, the order is expected to be finalised by the end of FY2024-25. On 12 December 2024, the Cabinet Committee on Security cleared the procurement at a cost of \u20b913,500 crore (US$1.6 billion). The contract was signed on the same day. These aircraft will feature an indigenous content of around 62.6%.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "HAL will be restarting operations of its Nashik plant near Nashik Airport for the new potential orders which was previously used for producing 272 units of the jet earlier. The 12 jets are to be delivered at a short span of time.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2004, India signed a deal with Russia to domestically produce the Novator K-100 missile, designed to shoot down airborne early warning and control (AEW&C) and C4ISTAR aircraft, for the Su-30MKI, however the project did not proceed.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In May 2010, India Today reported that Russia had won a contract to upgrade 40 Su-30MKIs with new radars, onboard computers, electronic warfare systems and the ability to carry the BrahMos cruise missile. The first two prototypes with the \"Super-30\" upgrade would be delivered to the IAF in 2012, after which the upgrades would be performed on the last batch of 40 production aircraft. The Brahmos missile integrated on the Su-30MKI will provide the capability to attack ground targets from stand-off ranges of around 300 km. On 25 June 2016, HAL conducted the first test flight of a Su-30MKI fitted with a BrahMos-A missile from Nashik, India. The first air launch of BrahMos from a Su-30MKI was successfully carried out on 22 November 2017.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Indian Defence Ministry proposed several upgrades for the Su-30MKI to the Indian Parliament, including the fitting of Russian Phazotron Zhuk-AE Active electronically scanned array AESA radars starting in 2012. During MMRCA trials the Zhuk-AE AESA radar demonstrated significant capabilities, including ground-mapping modes and the ability to detect and track aerial targets. At the 2011 MAKS air-show, Irkut chairman Alexy Fedorov offered an upgrade package with an improved radar, and reduced radar signature to the Indian fleet to make them \"Super Sukhois\".",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "But the plan for equipping the jets with Russian AESA radar was dropped in favor of phase wise upgradation of the jets with Indian avionics like by equipping the jets with an enlarged variant of Indian made Uttam AESA radar that was developed for the HAL LCA. India also started to replace the Russian made fly-by-wire system with an Indian-made Flight Control system and even adopted a new digital RWR (Radar Warning Receiver) to replace the outdated manual Radar Warning Receiver previously used.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2011, India issued a request for information to MBDA for the integration of the Brimstone ground attack missile and the long-range Meteor air-to-air missile.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2012, upgrades of the earlier 80 Su-30MKIs involved equipping them with stand-off missiles with a range of 300 km; a request for information (ROI) was issued for such weapons.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In August 2017, the Indian government cleared a proposal of \u20b930,000 crore (US$4 billion) to equip the planes with new reconnaissance pods.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "India is currently increasing the Su-30MKI's Beyond Visual Range (BVR) engagement capability by arming its entire fleet with the indigenous Astra missile having a range of 110 km and the Israeli Derby after it was found that the Russian R-77 active-radar homing BVR missile has inadequate performance. In September 2019, the Astra missile was in multiple user-trials by Indian Air Force to validate its lethality for the Su-30MKI.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Although not initially designed to carry nuclear or strategic weapons, India has considered integrating an air-launched version of the nuclear-capable Nirbhay cruise missile.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2024, the Super Sukhoi project \u2014 a programme to upgrade IAF's Su-30MKI, considered the backbone of its fleet \u2014 was first announced. The upgrade included the introduction of AESA radars, long-range weapons and electronic warfare suite (EWS) to the fleet in order to extend its service life by 30 years. Additionally, the Su-30MKI will have Suppression of Enemy Air Defenses (SEAD) capabilities along with offensives against ground targets in contested airspace. The upgrade is to be carried out by Hindustan Aeronautics Limited (HAL) with the support of Defence Research and Development Organisation (DRDO) and several private companies. Overall, 51 systems are to be upgraded including 30 by HAL, 13 by DRDO and 8 by private sector companies. The Indian indigenous content shall be increased to 78%. The upgrade is to allow the fighter to remain in service beyond 2055.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Under this upgrade, many older Russian subsystems will be replaced by more modern Indian subsystems. Initially, around 90 aircraft will be upgraded to these standards. According to a report, \"The project is divided into two phases, focusing initially on installing new avionics and radars, followed by enhancements to the flight control systems.\" \"The upgrade will see significant private sector participation, with HAL as the lead integrator,\" CMD of HAL CB Ananthakrishnan said.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Defence Acquisition Council (DAC) had granted Acceptance of Necessity (AoN) for the \u20b966,829 crore (US$7.9 billion) upgrade programme on 30 November 2023.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As of November 2024, the financial aspects of the upgrade programme is being assessed. This will be followed by government clearance, which is expected early 2025. The first phase of the project, will include the upgradation of 84 jets which will take 15 years including testing and certification process followed by the upgrade process will take 5 to 7 years.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The project is likely to be reviewed in the first week of July 2025, by the DAC under the Ministry of Defence during a scheduled meeting. As of late October 2025, the ministry was examining the proposal to fast-track its clearance from the Cabinet Committee on Security (CCS). The CCS approval will be followed by the design and development phase. HAL has set a timeline to deliver the initial operational clearance (IOC) and final operational clearance (FOC) version within the fifth and seventh year of CCS nod, respectively. The upgraded aircraft will receive a redesigned cockpit along with new avionics, radars and IR sensors, a new electronic warfare suite including jammer pods.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The current radar is to be replaced with a modern AESA radar named DRDO Virupaakhsha (enhanced variant of Uttam AESA Radar) which will increase the detection range by 1.5 to 1.7 times making the jets capable to operate long range weapons like Astra Mk3.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In May 2024, DRDO's CASDIC released an Expression of Interest (EoI) to collaborate with a Development-cum-Production Partner (DccP) to develop an indigenous Electronic Warfare suite. The allocated timeframe for Design and Development (D&D) 32 months. This programme includes integration, testing and trials of the system that is developed. On 3 December 2024, the Defence Acquisition Council (DAC) cleared the procurement of Electronic Warfare Suite (EWS) compromising of External Airborne Self Protection Jammer pods, Dhruti Next Generation Radar Warning Receiver, Dual Color Missile Approach Warning System and associated equipment.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 15 November 2025, the Ministry of Defence released a Request for Information (RFI) to procure 100 sets of Aircraft Self Protection Jammers (ASPJ) complemented by associated equipment for the Su-30MKI aircraft. The last date for a vendor to respond to the RFI is 22 December. The deliveries are to be completed within a timeline of 36 months. The pods must be capable of jamming and spoofing enemy airborne and ground radars.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The jets will also be modified to fire BrahMos-ER missiles. Other missiles which are to be integrated on these jets include Rudram-II, Astra series and R-37M missiles.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In August 2024, a report suggested that the Ministry of Defence (MoD) has prepared to sign a deal with HAL to purchase 230 AL-31FP engines under a \u20b921,000 crore (US$2.5 billion) deal to replace older engines. A total of 950 engines are required. On 2 September, Cabinet Committee on Security (CCS) approved the purchase of 240 such engines for \u20b926,000 crore (US$3.1 billion). The delivery of the engines will continue from 1 year of signing the contract to 8th year of signing the contract. The engines will be manufactured in HAL's Engine Division Koraput and will have an indigenous content of 54%. The contract was signed officially on 9 September 2024. The first engine was delivered on 1 October 2024 while all the engines will be delivered within 8 years at a production rate of 30 units per year.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "IIT Bombay has been engaged in the development of Artificial Intelligence-based engine and asset maintenance solutions for spares, inventory and combat potential optimisation. This will replace the current electronic maintenance management system. Sukhoi will also be involved in the project for the upgrade of fly-by-wire system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2024, Indian media reported negotiations between HAL and Russia for exporting Indian-produced Su-30MKIs. This may be to circumvent American economic sanctions on the export of Russian weapons and their technology.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Su-30MKI is a highly integrated twin-finned aircraft. The airframe is constructed of titanium and high-strength aluminium alloys. The engine intake ramps and nacelles are fitted with trouser fairings to provide a continuous streamlined profile between the nacelles and the tail beams. The fins and horizontal tail consoles are attached to tail beams. The central beam section between the engine nacelles consists of the equipment compartment, fuel tank and the brake parachute container. The fuselage head is of semi-monocoque construction and includes the cockpit, radar compartments and the avionics bay.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Su-30MKI aerodynamic configuration is a longitudinal triplane with relaxed stability. The canard increases the aircraft lift ability and deflects automatically to allow high angle of attack (AoA) flights allowing it to perform Pugachev's Cobra. The integral aerodynamic configuration combined with thrust vectoring results in extremely capable manoeuvrability, taking off and landing characteristics. This high agility allows rapid deployment of weapons in any direction as desired by the crew. The canard notably assists in controlling the aircraft at large angles-of-attack and bringing it to a level flight condition. The aircraft has a fly-by-wire (FBW) with quadruple redundancy. Dependent on flight conditions, signals from the control stick position transmitter or the FCS may be coupled to remote control amplifiers and combined with feedback signals from acceleration sensors and rate gyros. The resultant control signals are coupled to the high-speed electro-hydraulic actuators of the elevators, rudders and the canard. The output signals are compared and, if the difference is significant, the faulty channel is disconnected. FBW is based on a stall warning and barrier mechanism which prevents stalls through dramatic increases of control stick pressure, allowing a pilot to effectively control the aircraft without exceeding the angle of attack and acceleration limitations. Although the maximum angle of attack is limited by the canards, the FBW acts as an additional safety mechanism.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Su-30MKI has a range of 3,000 km with internal fuel which ensures a 3.75 hour combat mission. Also, it has an in-flight refueling (IFR) probe that retracts beside the cockpit during normal operation. The air refueling system increases the flight duration up to 10 hours with a range of 3,000 km combat radius. Su-30MKIs can also use the Cobham 754 buddy refueling pods.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Su-30MKI's radar cross-section (RCS) is reportedly from 4 to 20 square metres.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The displays include a customised version of the Israeli Elbit Su 967 head-up display (HUD) consisting of bi-cubic phase conjugated holographic displays and seven multifunction liquid-crystal displays, six 127 mm \u00d7 127 mm and one 152 mm \u00d7 152 mm. Flight information is displayed on four LCD displays which include one for piloting and navigation, a tactical situation indicator, and two for display systems information including operating modes and overall status. Variants of this HUD have also been chosen for the IAF's Mikoyan MiG-27 and SEPECAT Jaguar upgrades for standardisation. The rear cockpit has a larger monochrome display for air-to-surface missile guidance.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Su-30MKI on-board health and usage monitoring system (HUMS) monitors almost every aircraft system and sub-system, and can also act as an engineering data recorder. From 2010, indigenously designed and built HUDs and Multi-Function Displays (MFD) were produced by the Delhi-based Samtel Group Display Systems.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The crew are provided with zero-zero NPP Zvezda K-36DM ejection seats. The rear seat is raised for better visibility. The cockpit is provided with containers to store food and water reserves, a waste disposal system and extra oxygen bottles. The K-36DM ejection seat is inclined at 30\u00b0, to help the pilot resist aircraft accelerations in air combat.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The forward-facing NIIP N011M Bars (Panther) is a powerful integrated passive electronically scanned array (PESA) radar. The N011M is a digital multi-mode dual frequency band radar. The N011M can function in air-to-air and air-to-land/sea mode simultaneously while being tied into a high-precision laser-inertial or GPS navigation system. It is equipped with a modern digital weapons control system as well as anti-jamming features. N011M has a 400 km search range and a maximum 200 km tracking range, and 60 km in the rear hemisphere. The radar can track 15 air targets and engage 4 simultaneously. These targets can even include cruise missiles and motionless helicopters. The Su-30MKI can function as a mini-AWACS as a director or command post for other aircraft. The target co-ordinates can be transferred automatically to at least four other aircraft. The radar can detect ground targets such as tanks at 40\u201350 km. The Bars radar was planned to be replaced by Zhuk-AESA in all Su-30MKI aircraft, but this has since been abandoned in favor of indigenous upgrades.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "OLS-30 laser-optical Infra-red search and track includes a day and night FLIR capability and is used in conjunction with the helmet mounted sighting system. The OLS-30 is a combined IRST/LR device using a cooled, broad waveband sensor. Detection range is up to 90 km, while the laser ranger is effective to 3.5 km. Targets are displayed on the same LCD display as the radar. Israeli LITENING targeting pod is used to target laser guided munitions. The original Litening pod includes a long range FLIR, a TV camera, laser spot tracker to pick up target designated by other aircraft or ground forces, and an electro-optical point and inertial tracker, which enables engagement of the target even when partly obscured by clouds or countermeasures; it also integrates a laser range-finder and flash-lamp powered laser designator for the delivery of laser-guided bombs, cluster and general-purpose bomb.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The aircraft is fitted with a satellite navigation system (A-737 GPS compatible), which permits it to make flights in all weather, day and night. The navigation complex includes the high accuracy SAGEM Sigma-95 integrated global positioning system and ring laser gyroscope inertial navigation system. Phase 3 of further development of the MKI, will integrate avionic systems being developed for the Indo-Russian Fifth Generation Fighter Aircraft programme.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Sukhoi Su-30MKI has electronic counter-measure systems. The RWR system is of Indian design, developed by India's DRDO, called Tarang, (Wave in English). It has direction finding capability and is known to have a programmable threat library. The RWR is derived from work done on an earlier system for India's MiG-23BNs known as the Tranquil, which is now superseded by the more advanced Tarang series. Elta EL/M-8222 a self-protection jammer developed by Israel Aircraft Industries is the MKI's standard EW pod, which the Israeli Air Force uses on its F-15s. The ELTA El/M-8222 Self Protection Pod is a power-managed jammer, air-cooled system with an ESM receiver integrated into the pod. The pod contains an antenna on the forward and aft ends, which receive the hostile RF signal and after processing deliver the appropriate response.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In April 2022, Bharat Electronics and Hindustan Aeronautics signed a contract for co-development and co-production of long range dual band infra-red search and track system for Su-30MKI. This will replace the current OLS-30 system with an initial order of 100 units. The IRST will feature Television Day Camera, Infrared & LASER sensors in single window for air to air and air to ground target tracking and localization.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Su-30MKI is powered by two Lyulka-Saturn AL-31FP turbofans, each rated at 12,500 kgf (27,550 lbf) of full after-burning thrust, which enable speeds of up to Mach 2 in horizontal flight and a rate of climb of 230 m/s. The mean time between overhaul is reportedly 1,000 hours with a full-life span of 3,000 hours; the titanium nozzle has a mean time between overhaul of 500 hours. In early 2015, Defence Minister Manohar Parrikar stated before Parliament that the AL-31FP had suffered numerous failures, between the end of 2012 and early 2015, a total of 69 Su-30MKI engine-related failures had occurred; commons causes were bearing failures due to metal fatigue and low oil pressure, in response several engine modifications were made to improve lubrication, as well as the use of higher quality oil and adjustments to the fitting of bearings.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Su-30MKI's AL-31FP powerplant built on the earlier AL-31FU, adding two-plane thrust vectoring nozzles are mounted 32 degrees outward to longitudinal engine axis (i.e. in the horizontal plane) and can be deflected \u00b115 degrees in one plane. The canting allows the aircraft to produce both roll and yaw by vectoring each engine nozzle differently; this allows the aircraft to create thrust vectoring moments about all three rotational axes, pitch, yaw and roll. Engine thrust is adjusted via a conventional engine throttle lever as opposed to a strain-gauge engine control stick. The aircraft is controlled by a standard control stick. The pilot can activate a switch for performing difficult maneuvers; while this is enabled, the computer automatically determines the deflection angles of the swiveling nozzles and aerodynamic surfaces.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Sukhoi Su-30MKI is the most potent fighter jet in service with the Indian Air Force in the late 2000s. The MKIs are often fielded by the IAF in bilateral and multilateral air exercises. In 2004, India sent Su-30MKs, the initial variant of the Su-30MKI, to take part in war games with the United States Air Force (USAF) during Cope India 04. The results have been widely publicised, with the Indians winning \"90% of the mock combat missions\" against the USAF's F-15C. The parameters of the exercise heavily favored the IAF; none of the six 3rd Wing F-15Cs were equipped with the newer long-range, active electronically scanned array (AESA) radars and, at India's request, the U.S. agreed to mock combat at 3-to-1 odds and without the use of simulated long-range, radar-guided AIM-120 AMRAAMs for beyond-visual-range kills.  In Cope India 05, the Su-30MKIs reportedly beat the USAF's F-16s.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "India exercised its Su-30MKIs against the Royal Air Force's Tornado ADVs in October 2006. This was the first large-scale bilateral aerial exercise with any foreign air force during which the IAF used its Su-30MKIs extensively. This exercise was also the first in 43 years with the RAF. During the exercise, the RAF Air Chief Marshal Glenn Torpy was given permission by the IAF to fly the MKI. RAF's Air Vice Marshal, Christopher Harper, praised the MKI's dogfight ability, calling it \"absolutely masterful in dogfights\".",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In July 2007, the Indian Air Force fielded the Su-30MKI during the Indra-Dhanush exercise with Royal Air Force's Eurofighter Typhoon. This was the first time that the two fighters took part in such an exercise. The IAF did not allow their pilots to use the radar of the MKIs during the exercise so as to protect the highly classified N011M Bars radar system. Also in the exercise were RAF Tornado F3s and a Hawk.  RAF Tornado pilots were candid in their admission of the Su-30MKI's superior manoeuvring in the air, and the IAF pilots were impressed by the Typhoon's agility.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In July 2008, the IAF sent 6 Su-30MKIs and 2 Il-78MKI aerial-refueling tankers, to participate in the Red Flag exercise. The IAF again did not allow their pilots to use the radar of the MKIs during the exercise so as to protect the highly classified N011M Bars. In October 2008, a video surfaced on the internet which featured a USAF colonel, Terrence Fornof, criticising Su-30MKI's performance against the F-15C, engine serviceability issues, and high friendly kill rate during the Red Flag exercise. Several of his claims were later rebutted by the Indian side and the USAF also distanced itself from his remarks.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In June 2010, India and France began the fourth round of their joint air exercises, \"Garuda\", at the Istres Air Base in France. During Garuda, the IAF and the French Air Force were engaged in various missions ranging from close combat engagement of large forces, slow mover protection, protecting and engaging high value aerial assets. This exercise marked the first time the Su-30MKI took part in a military exercise in France.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The IAF took part in the Red Flag exercise in July 2013, at Nellis Air Force Base, Nevada, United States. For the exercise, it is dispatching eight Su-30MKIs, two Lockheed C-130J Hercules tactical aircraft, two Ilyushin Il-78 (NATO reporting name \"Midas\") mid-air refueling tankers, one Ilyushin Il-76 (NATO reporting name \"Candid\") heavy-lift aircraft, and over 150 personnel.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The IAF again fielded its MKIs in the Garuda-V exercise with France in June 2014, where they manoeuvred in mixed groups with other IAF aircraft and French Rafales.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 21 July 2015, India and UK began the bilateral exercise named Indradhanush with aircraft operating from three Royal Air Force bases. The exercises included both Beyond Visual Range (BVR) and Within Visual Range (WVR) exercises between the Su-30MKI and Eurofighter Typhoon. Indian media reported the results were in favour of the IAF with a score of 12\u20130 at WVR engagements. They also claim that the IAF Su-30MKIs held an edge over the Typhoons in BVR engagements though not in as dominating a manner. The RAF issued a statement that the results being reported by the Indian media did not reflect the results of the exercise. According to Aviation International News, \"In close combat, thrust vector control on the Flankers more than compensated for the greater thrust-to-weight ratio of the Typhoon\".",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 26 February 2019, four Sukhoi Su-30MKIs escorted Mirage 2000s into Pakistan for the Balakot airstrike which destroyed a Jaish-e-Mohammed terrorist camp. The following day, two Su-30MKIs on combat air patrol were attacked by multiple Pakistani F-16s using AMRAAM missiles. The jets successfully dodged and jammed multiple missiles. The debris of an AMRAAM missile was later recovered and displayed by the IAF to disprove the Pakistani claim of not using the F-16 as Pakistan can only use the missile with F-16s. PAF claimed that it had downed an Indian Sukhoi Su-30MKI in the aerial skirmish. The Indian Air Force stated that all dispatched Sukhoi aircraft returned safely with the only confirmed loss was a MiG-21. On 8 October 2019, during the Indian Air Force Day celebrations, the IAF flew the Su-30MKI that Pakistan claimed to have shot down.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2024, IAF deployed four Su-30MKIs to multinational Exercise Pitch Black 2024 hosted by Royal Australian Air Force which will be held from July 12 to August 2. The long distance flight is supported by Il-78MKI mid-air refueller, C-17 Globemaster and a hault in Halim, Indonesia. The Indian contingent conprises of 150 personnel including pilots, engineers, technicians, controllers, and other subject matter experts. This will be the largest version of the exercise since its inception in 1981. The same contingent participated in Exercise Udara Shakti with Sukhoi Su-30MKM of the Royal Malaysian Air Force which was conducted from 5 to 9 August at Kuantan, Malaysia. The contingent returned to India on 10 August 2024.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 9 January 2025, Su-30MKI and Jaguar aircraft of the Indian Air Force conducted joint anti-aircraft drills with Rafale M aircraft of the French Navy. The French Carrier Strike Group (CSG) centered on the Charles de Gaulle, the carrier air wing including Rafale M, her escort ships and fleet support ship Jacques Chevallier were on a visit to India between 4 and 9 January 2025 during the Mission Clemenceau 25. Simultaneously, INS Mormugao conducted joint navigational drills and Maritime Partnership Exercise with the escort ships.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "From 28 August to 10 September 2025, the Indian Air Force deployed five of its Su-30MKI and a C-17 Globemaster for the multilateral, tri-service Exercise Bright Star.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "India launched Operation Sindoor in the early hours of 7 May 2025, targeting nine alleged terror camps across Pakistan and Pakistan-occupied Kashmir in response to the Pahalgam attack. During the mission, Su-30MKIs of the Indian Air Force provided air defence cover to ensure that Indian strike aircraft could carry out the mission without threat from Pakistani interceptors. On 10 May 2025, the IAF Su-30MKIs reportedly struck 11 PAF airbases with the BrahMos missile resulting in extensive damage to some of them. France's air chief told reporters in June and claimed that he had seen evidence of the loss of a fighter and two other aircraft including a Russian-made Sukhoi.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "According to multiple reports, Armenia is expected to sign a deal worth $3 billion for 12 Su-30MKIs of the Super Sukhoi standard with India's Hindustan Aeronautics Limited soon for its Armenian Air Force, as a counter to the acquisition of 40 JF-17 Thunder fighters by the Azerbaijani Air Force from Pakistan.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Indian Air Force \u2013 260 in service. 12 on order.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Since Su-30MKI's entry to service in 2002, the aircraft flew seven years without any major incidents. The first crash occurred in 2009. As of November 2024, 13 Su-30MKIs were lost in crashes including 3 fatalities.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 30 April 2009, an Su-30MKI (SB-021) from the 30 Squadron crashed in Rajasthan. Both the pilots ejected successfully but one of them succumbed to injuries. According to reports. the pilots had inadvertently switched off the aircraft\u2019s flight control system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 30 November 2009, another aircraft from the 31 Squadron crashed over Pokhran, Rajasthan during a training sortie after an engine caught fire. Both pilots ejected successfully.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 13 December 2011, an aircraft (SB-142) of the 20 Squadron crashed at Wade-Bholai village near Pune, Maharashtra. The crash occurred due to human error after servicing of the aircraft at the Nashik facility of Hindustan Aeronautics Limited. The pilots survived.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 19 April 2012, an aircraft crashed during a \"Repaired Routing Training Flight\".",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 19 February 2013, an Su-30MKI crashed in Pokhran region at around 19:20 IST. The crash occurred due to defunctive ordnance onboard the aircraft as the bomb exploded while it was attached on to the underwing pylons. The pilots survived.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 19 May 2015, one Su-30MKI crashed in Tezpur, Assam.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 15 March 2017, an Su-30MKI crashed in the Barmer district of Rajasthan during a training sortie. The pilots ejected safely but three family members were injured as the jet crashed over a residential area. This was the seventh crash of the aircraft.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 23 May 2017, two pilots died after a crash of Su-30MKI (SB-063) from 2 Squadron. The aircraft took off from Tezpur AFS as a part of two aircraft formation. The aircraft later lost radar, radio and air traffic control contact at 11.10 IST. The aircraft was last detected 60 km (37 mi) northwest of Tezpur.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 27 June 2018, a Su-30MKI crashed in Nashik, Maharashtra.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 8 August 2019, a Su-30MKI crashed in a paddy field near Tezpur in Assam.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 28 January 2023, an Su-30MKI and a Mirage 2000H of the TACDE were involved in a mid-air collision. The Mirage-2000H pilot and instructor, Wing Commander Hanumanth Rao Sarathi, was unable to eject and died in the accident, whereas the two pilots flying the Su-30MKI, ejected and were hospitalised with minor injuries. Both fighter jets had taken off from Maharajpur AFS, Gwalior for a training mission.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 4 June 2024, an Su-30MKI (SB-182) crashed in a farm in Shirasgaon village in Nashik district. The pilots including Wing commander Bokil and Second-in-command Biswas ejected safely from the aircraft. An investigation has been ordered by the Indian Air Force about the cause of the accident.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 23 August 2024, reports emerged that an IAF fighter aircraft had \"inadvertently\" released an \"air store\" over Pokhran. An investigation was launched on the matter. Later, it was confirmed that the concerned aircraft was an Su-30MKI while the air store was a Rampage missile.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Powerplant: 2 \u00d7 Lyulka AL-31FP afterburning turbofan engines, 123 kN (28,000 lbf) with afterburner",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Maximum speed: 2,120 km/h (1,320 mph, 1,140 kn) / Mach 2.0 at high altitude",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "1,350 km/h (840 mph; 730 kn) / M1.09 at low altitude",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Range: 3,000 km (1,900 mi, 1,600 nmi) at high altitude",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Ferry range: 8,000 km (5,000 mi, 4,300 nmi) with two in-flight refuellings",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hardpoints: 12 hardpoints (2 \u00d7 wing-tip AAM launch rails, 6 \u00d7 pylons under-wing, 2 \u00d7 pylon under-engine nacelles, and 2 \u00d7 pylons in tandem in the \"arch\" between the engines. It can be increased to 14 using multiple ejector racks.) with a capacity of up to 8,130 kg (17,920 lb), with provisions to carry combinations of:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Virupakhsa active electronically scanned array radar (after Super Sukhoi upgrade)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Sukhoi Su-30MKI was shown in the aerial action India movie Fighter (2024 film). The protagonist of the film flies the Sukhoi Su-30MKI.",
+    "date": null,
+    "verdict": null
+  }
+]

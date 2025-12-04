@@ -1,0 +1,866 @@
+[
+  {
+    "source": "wikipedia",
+    "text": "Chronic lymphocytic leukemia (CLL) is a type of cancer that affects the blood and bone marrow. In CLL, the bone marrow makes too many lymphocytes, which are a type of white blood cell. In patients with CLL, B cell lymphocytes can begin to collect in their blood, spleen, lymph nodes, and bone marrow. These cells do not function well and crowd out healthy blood cells. CLL is divided into two main types:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Many people do not have any symptoms when they are first diagnosed. Those with symptoms (about 5-10% of patients with CLL) may experience the following:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "While the exact cause of CLL is unknown, having a family member with CLL increases one's risk of developing the disease. Environmental risk factors include exposure to Agent Orange, ionizing radiation, and certain insecticides. The use of tobacco is also associated with an increased risk of having CLL.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Diagnosis is typically based on blood tests that find high numbers of mature lymphocytes and smudge cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "When patients with CLL are not experiencing symptoms (i.e. are asymptomatic), they only need careful observation. This is because there is currently no evidence that early intervention can alter the course of the disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Patients with CLL have an increased risk of developing serious infections. Doctors often routinely monitor patients for infections, treating them with antibiotics if a bacterial infection is present.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In patients with significant signs or symptoms, treatment can involve chemotherapy, immunotherapy, or chemoimmunotherapy. The most appropriate treatment is based on the individual's age, physical condition, and whether they have the del(17p) or TP53 mutation.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Bruton tyrosine kinase inhibitors (BTKi), such as ibrutinib, zanubrutinib, and acalabrutinib",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "B-cell lymphoma-2 (BCL-2) inhibitor, venetoclax, plus a CD20 antibody obinutuzumab, OR",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CLL is the most common type of leukemia in the Western world. It most commonly affects individuals over the age of 65, due to the accumulation of genetic mutations that occur over time. CLL is rarely seen in individuals less than 40 years old. Men are more commonly affected than women, although the average lifetime risk for both genders are similar (around 0.5-1%). It represented less than 1% of deaths from cancer between 1980 and 2015.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Most people are diagnosed as having CLL based on the result of a routine blood test that shows a high white blood cell count, specifically a large increase in the number of circulating lymphocytes. Most commonly, patients have no symptoms at first. In a small number of cases, patients with CLL may present with enlarged lymph nodes, partially in areas around the neck, armpit, or groin.  In rare circumstances, the disease is recognized only after the cancerous cells overwhelm the bone marrow, resulting in low red blood cells, neutrophils, or platelets. This can then result in symptoms such as fever, easy bleeding/bruising, night sweats, weight loss, and increased tiredness. In some instances, the cancerous cells can accumulate in the spleen and result in splenomegaly.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "About 25% of patients with CLL have very low levels of antibodies in their bloodstream (hypogammaglobulinemia) at diagnosis, with several more patients developing this throughout the course of their disease. This decrease in antibodies increases the patient's risk of recurrent infections and other autoimmune complications, such as autoimmune hemolytic anemia and immune thrombocytopenia. Autoimmune hemolytic anemia occurs in about 5-10% of CLL patients, which is when one's own immune system attacks its own red blood cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A more serious complication called Richter's transformation (RT) occurs in 2-10% of patients with CLL. This is a process in which the original CLL cells convert to a far more aggressive disease that has the biology and histopathology of diffuse large B cell lymphoma or less commonly Hodgkin's lymphoma. These patients typically present with a sudden clinical deterioration that can be characterized by unexplained fevers or weight loss, asymmetric and rapid growth of lymph nodes, and/or a significant drop in the number of white blood cells, red blood cells, or platelets. Treatment for RT typically consists of various chemotherapy/chemo-immunotherapy protocols.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CLL has also been reported to convert into other more aggressive diseases such as lymphoblastic lymphoma, hairy cell leukemia, high grade T cell lymphomas, acute myeloid leukemia, lung cancer, brain cancer, melanoma of the eye or skin, salivary gland tumors, and Kaposi's sarcomas. While some of these conversions have been termed RTs, the World Health Organization and most reviews have defined RT as a conversion of CLL/SLL into a disease with DLBCL or HL histopathology.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Gastrointestinal (GI) involvement can also rarely occur with chronic lymphocytic leukemia. Some of the reported manifestations include intussusception, small intestinal bacterial contamination, colitis, and bleeding. Usually, GI complications with CLL occur after Richter transformation.  Two cases to date have been reported of GI involvement in chronic lymphocytic leukemia without Richter's transformation.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The exact cause of CLL is unknown. However, family history has been strongly correlated with the development of disease. Environmental factors may also play a role in the development of CLL. For instance, exposure to Agent Orange increases the risk of CLL, and exposure to hepatitis C virus may increase the risk.  There is no clear association between ionizing radiation exposure and the risk of developing CLL. Blood transfusions have been ruled out as a risk factor.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CLL results from an unusual growth and expansion of white blood cells. This manifestation typically begins with a single hematopoietic stem cell that acquires certain mutations over time that allows it to continue to expand and grow at a faster rate than other cells. Each patient with CLL may be affected by a different set of mutations, making these cells sometimes difficult to target and treat. Some of the most common mutations that have been found in CLL-affected cells include the following: NOTCH1, TP53, ATM, and SF3B1.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CLL can also be caused by a number of epigenetic changes, which are adaptations that add a tag to specific DNA sequences, rather than altering the sequence itself. In CLL, these changes can be classified into the addition of three different methyl subgroups (na\u00efve B-cell-like, memory B-cell-like, and intermediate), which impact how much that DNA sequence is transcribed. Some relevant genetic mutations may be inherited. Since there is no one single mutation that is associated with CLL in all cases, an individual's susceptibility may be impacted when multiple mutations that are associated with an increase in the risk of CLL are co-inherited. Up until 2020, 45 susceptibility loci have been identified. Of these loci, 93% are linked to the alteration of 30 gene expressions involved in immune response, cell survival, or Wnt signaling.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As CLL cells accumulate, they begin to promote inflammation and an immunosuppressive environment through the release of different chemical signals.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CLL is commonly preceded by a pre-cancerous state known as monoclonal B-cell lymphocytosis (MBL). This occurs when there is in an increase in a specific type of white blood cells but the number remains less than 5 billion cells per liter (L) (5 billion/L) of blood. This subtype, termed chronic lymphocytic leukemia-type MBL (CLL-type MBL) is an asymptomatic, indolent, and chronic disorder in which people exhibit a mild increase in the number of circulating B-cell lymphocytes. These B-cells are monoclonal, which means they are produced by a single ancestral B-cell. They share some of the same cell marker proteins, chromosome abnormalities, and gene mutations that are found in CLL.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Low-count MBL has monoclonal B-cell blood counts of <0.5 billion cells/liter (i.e. 0.5 billion/L)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "High-count MBL has blood monoclonal B-cell counts \u22650.5 billion/L but <5 billion/L.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Low-count MBL rarely if ever progresses to CLL, while high-count CLL/SLL MBL does so at a rate of around 1% per year. Thus, CLL may present in individuals with a long history of having high-count MBL. There is no established treatment for these individuals except monitoring for development of the disorder's various complications (see treatment of MBL complications) and for their progression to CLL.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The diagnosis of CLL is based on the demonstration of an abnormal population of B lymphocytes in the blood, bone marrow, or tissues that display an unusual but characteristic pattern of molecules on the cell surface. CLL is usually first suspected by a diagnosis of lymphocytosis, an increase in a type of white blood cell, on a complete blood count test. This frequently is an incidental finding on a routine physician visit. Most often the lymphocyte count is greater than 5000 cells per microliter (\u03bcL) of blood but can be much higher. The presence of lymphocytosis in a person who is elderly should raise strong suspicion for CLL, and a confirmatory diagnostic test, in particular flow cytometry should be performed unless clinically unnecessary.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In order to be diagnosed with CLL, the patient must have a white blood cell count greater than 5 billion cells per liter (L) (5 billion/L) of blood. If CLL-type cells are mainly found in the lymph nodes or lymphoid tissue (such as the spleen), a diagnosis of small lymphocytic lymphoma (SLL) is made. When these cancerous cells appear mostly in the blood, the disease is classified as CLL.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Staging, which helps determine the extent of the disease, is done using one of two systems: the Rai staging system (most commonly used in the United States) or the Binet classification(most commonly used in Europe). These systems are simple, requiring the use of only physical examination and blood test results.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Low-risk disease (formerly Stage 0): characterized by lymphocytosis with cancer cells in the blood and/or bone marrow without lymphadenopathy, hepatosplenomegaly, anemia, or thrombocytopenia",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Intermediate-risk disease (formerly Stage I/II): characterized by lymphocytosis, swollen lymph nodes (may be palpable or not), spleen enlargement, and/or liver enlargement",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "High-risk disease (formerly Stage III/IV): characterized by lymphocytosis with associated anemia (hemoglobin <11 g/dL) OR thrombocytopenia (<100,000/mm3) with or without lymphadenopathy, hepatomegaly, splenomegaly, or anemia",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "This classification system is based on the number of areas within the body that have been affected and the presence of anemia or thrombocytopenia. Areas of involvement include the (1) head and neck (considered one), (2) one or both of the armpits, (3) the groin, (4) the spleen, and (5) the liver. They are considered affected if a lymph node greater than 1 cm in diameter is present and/or the spleen or liver are palpable.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Clinical stage A: characterized by no anemia (Hb > 10 g/dL) or thrombocytopenia (platelets > 100 billion/L) and no greater than two areas of lymphoid involvement (described above)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Clinical stage B: characterized by no anemia (Hb > 10 g/dL) or thrombocytopenia (platelets > 100 billion/L) with three or more areas of lymphoid involvement",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Clinical stage C: characterized by anemia (Hb < 10 g/dL) and/or thrombocytopenia (platelets < 100 billion/L) regardless of the number of areas of lymph node or organ enlargement",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Array-based karyotyping is a cost-effective alternative to FISH for detecting chromosomal abnormalities in CLL. Several clinical validation studies have shown >95% concordance with the standard CLL FISH panel.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "=== Molecular examination of peripheral blood and flow cytometry ===",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The combination of the microscopic examination of the peripheral blood and analysis of the lymphocytes by flow cytometry to confirm clonality and molecular expression is needed to establish the diagnosis of CLL. Both are easily accomplished with a small sample of blood.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A flow cytometer instrument can examine the expression of molecules on individual cells. This requires the use of specific antibodies to cell-surface molecules that have fluorescent tags that are recognized by the instrument. In CLL, the lymphocytes are all genetically identical since they are derived from the same B cell lineage. CLL cells can express the typical B-cell markers such as CD19 and CD20, as well as abnormal surface markers such as CD5 and CD23.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On a peripheral blood smear, CLL cells resemble normal lymphocytes, although slightly smaller. They are also very fragile and susceptible to breaking when smeared onto a glass slide, giving rise to \"smudge\" or \"smear\" cells, which are a hallmark of the disease. Smudge cells are a result of CLL cells lacking vimentin, a type of cytoskeleton proteins which is a structural component in a cell which maintains the cell's internal shape and mechanical resilience).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The atypical molecular pattern on the surface of the cell includes the co-expression of cell surface markers clusters of differentiation 5 (CD5) and 23. In addition, all the CLL cells within one individual are clonal, that is, genetically identical. In practice, this is inferred by the detection of only one of the mutually exclusive antibody light chains, kappa or lambda, on the entire population of the abnormal B cells. Normal B lymphocytes consist of a stew of different antibody-producing cells, resulting in a mixture of both kappa- and lambda-expressing cells. The lack of the normal distribution of these B cells is one basis for demonstrating clonality, the key element for establishing a diagnosis of any B cell malignancy (B cell non-Hodgkin lymphoma). The Matutes's CLL score allows the identification of a homogeneous subgroup of classical CLL, that differs from atypical/mixed CLL for the five markers' expression (CD5, CD23, FMC7, CD22, and immunoglobulin light chain)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Matutes's CLL scoring system is very helpful for the differential diagnosis between classical CLL and the other B cell chronic lymphoproliferative disorders, but not for the immunological distinction between mixed/atypical CLL and mantle cell lymphoma (MCL malignant B cells). Discrimination between CLL and MCL can be improved by adding non-routine markers such as CD54 and CD200. Among routine markers, the most discriminating feature is the CD20/CD23 mean fluorescence intensity ratio. FMC7 expression can be misleading for borderline cases.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In the past, cases with similar microscopic appearance in the blood but with a T cell phenotype were referred to as T-cell CLL. However, these are now recognized as a separate disease group and are currently classified as T-cell prolymphocytic leukemias (T-PLL). An accurate diagnosis of T-PLL is important as it is a rare and aggressive disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CLL should not be confused with acute lymphoblastic leukemia, a highly aggressive leukemia most commonly diagnosed in children, and highly treatable in the pediatric setting.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hematologic disorders that may resemble CLL in their clinical presentation, behavior, and microscopic appearance include mantle cell lymphoma, marginal zone lymphoma, B cell prolymphocytic leukemia, and lymphoplasmacytic lymphoma.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "B cell prolymphocytic leukemia, a related, but more aggressive disorder, has cells with similar phenotype, but are significantly larger than normal lymphocytes and have a prominent nucleolus. The distinction is important as the prognosis and therapy differ from CLL.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hairy cell leukemia is also a neoplasm of B lymphocytes, but the neoplastic cells have a distinct morphology under the microscope (hairy cell leukemia cells have delicate, hair-like projections on their surfaces) and unique marker molecule expression.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "All the B cell malignancies of the blood and bone marrow can be differentiated from one another by the combination of cellular microscopic morphology, marker molecule expression, and specific tumor-associated gene defects. This is best accomplished by evaluation of the patient's blood, bone marrow, and occasionally lymph node cells by a pathologist with specific training in blood disorders. A flow cytometer is necessary for cell marker analysis, and the detection of genetic problems in the cells may require visualizing the DNA changes with fluorescent probes by FISH.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CLL treatment focuses on controlling and limiting the progress of the disease and its symptoms, as it remains incurable as of 2017. In patients with few to no symptoms, watchful waiting with close observation is generally appropriate.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Treatment is recommended when patients become symptomatic or experience one of the following:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Dangerous drops in their red blood cell or platelet count",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A doubling of their white blood cells in 6 months or less",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As of 2024, first-line treatment for CLL involves the use of targeted biological therapy. Other treatment options include:  chemotherapy, radiation therapy, bone marrow transplantation, and supportive or palliative care.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Radiation therapy is usually only done in patients with SLL who have symptomatic localized disease, such as bulky lymph nodes. In special circumstances, patients can develop massive splenomegaly that may lead to the destruction of red blood cells, white blood cells, and platelets. In these cases, the patient may be treated with steroids or IVIG; however, if the patient does not respond to these treatments, they may have to undergo a splenectomy, removal of the spleen.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CLL treatment regimens vary depending on the patient's age, physical health, and progression of their disease. There are several agents that may be used for the treatment of CLL.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Treatment approaches for SLL and CLL are usually the same.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "While it is generally considered incurable, CLL progresses slowly in most cases. Many people with CLL lead normal and active lives for many years\u2014in some cases for decades. Because of its slow onset, asymptomatic early-stage CLL (Rai 0, Binet A) is, in general, not treated since it is believed that early-stage CLL intervention does not improve survival time or quality of life. Instead, the condition is monitored over time to detect any change in the disease pattern.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "There are two widely used staging systems in CLL to determine when and how to treat the patient: The Rai staging system, used in the United States, and the Binet system in Europe. Both these systems attempt to characterize the disease based on the bulk and marrow failure.  A \"watchful waiting\" strategy is used for most patients with CLL.  The International Workshop on CLL (iwCLL) has issued guidelines with specific markers that should be met to initiate treatment, generally based on evidence for progressive symptomatic disease (summarized as \"active disease\").",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Targeted therapy attacks cancer cells at a specific target, with the aim of not harming normal cells. In patients with CLL, B-cell receptor (BCR) signaling appears to play a vital role in the growth and survival of CLL cells. BCR signaling is supported by a number of different tyrosine kinase inhibitors (such as BTK, PI3K, etc.), which can all be targeted in order to help interfere with the growth of these CLL cells. Another mechanism that CLL cells use to avoid destruction involves the use of proteins in the B-cell lymphoma (Bcl-2) family. By blocking the function of those Bcl-2 proteins, targeted drugs can prevent further progression of CLL-related tumors.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Some of the most common biological drugs used to treat CLL include:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CD20 is a protein that is found on the surface of B-cells and thus serves as an important target in the treatment of many B-cell malignances, including CLL. Some CD20 antibodies that have been used for the treatment of CLL include:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "These agents are usually used in refractory/relapsed disease or in combination with other agents, like chlorambucil (CLB), fludarabine, or venetoclax.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Alemtuzumab targets the CD52 receptor, which is usually found on the surface of many immune cells. This agent is also primarily used in refractory disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Monotherapy using alkylating agents (i.e.  chlorambucil and bendamustine) served as a front-line therapy for CLL for many years. In fact, chlorambucil (CLB), was the \"gold standard\" treatment for CLL for several decades. However, researchers found that it was not very effective at helping patients achieve remission; thus, it may not be used as frequently in practice anymore.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Combination chemotherapy regimens can be effective in both newly diagnosed and relapsed CLL. Combinations of fludarabine with alkylating agents (cyclophosphamide) produce higher response rates and longer progression-free survival than single agents:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Although the purine analogue fludarabine was shown to give superior response rates to chlorambucil (CLB) as primary therapy, the early use of fludarabine has not been shown to improve overall survival, and some clinicians prefer to reserve fludarabine for relapsed disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Chemoimmunotherapy with FCR has shown to improve response rates, progression-free survival, and overall survival in a large randomized trial in CLL patients selected for good physical fitness.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Autologous stem cell transplantation, using the recipient's own cells, is not curative.  Younger individuals, if at high risk for dying from CLL, may consider allogeneic hematopoietic stem cell transplantation (HSCT). Myeloablative (bone marrow killing) forms of allogeneic stem cell transplantation, a high-risk treatment using blood cells from a healthy donor, may be curative, but treatment-related toxicity is significant. An intermediate level, called reduced-intensity conditioning allogeneic stem cell transplantation, may be better tolerated by older or frail patients.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\"Refractory\" CLL is a disease that no longer responds favorably to treatment within six months following the last cancer therapy. In this case, more aggressive targeted therapies, such as BCR or BCL2 pathway inhibitors, have been associated with increased survival.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Prognosis can be affected by the type of genetic mutation that the person with CLL has. Some examples of genetic mutations and their prognoses are: mutations in the IGHV region are associated with a median overall survival (OS) of more than 20\u201325 years, while no mutations in this region is associated with a median OS of 8\u201310 years; deletion of chromosome 13q is associated with a median OS of 17 years; and trisomy of chromosome 12, as well as deletion of chromosome 11q, is associated with a median OS of 9\u201311 years. While prognosis is highly variable and dependent on various factors including these mutations, the average 5-year relative survival is 89.3% in the US as of 2021. Telomere length has been suggested to be a valuable prognostic indicator of survival. In addition, a person's sex has been found to have an impact on CLL prognosis and treatment efficacy. More specifically, females have been found to survive longer (without disease progression) than males, when treated with certain medications.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As of 2022, the most commonly used prognostic score is the CLL International Prognostic Index (CLL-IPI). This system takes into account the following factors:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Clinical stage (see the Rai and Binet staging systems above)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CLL is the most common type of leukemia in the Western world compared to non-Western regions such as Asia, Latin America, and Africa. It is observed globally that males are twice as likely than females to acquire CLL. CLL is primarily a disease of older adults, with 9 out of 10 cases occurring after the age of 50 years. The median age of diagnosis is 70 years. In young people, new cases of CLL are twice as likely to be diagnosed in men than in women. In older people, however, this difference becomes less pronounced: after the age of 80 years, new cases of CLL are diagnosed equally between men and women.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "According to the American Cancer Society, they estimate that there will about 23,690 new cases of CLL with about 4,460 deaths from CLL in the United States throughout 2025. Five-year survival following diagnosis is approximately 89% in the United States as of 2021. It represents less than 1% of deaths from cancer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Because of the prolonged survival, which was typically about 10 years in past decades, but which can extend to a normal life expectancy, the prevalence (number of people living with the disease) is much higher than the incidence (new diagnoses). CLL is the most common type of leukemia in the UK, accounting for 38% of all leukemia cases. Approximately 3,200 people were diagnosed with the disease in 2011.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In Western populations, subclinical \"disease\" can be identified in 3.5% of normal adults, and in up to 8% of individuals over the age of 70. That is, small clones of B cells with the characteristic CLL phenotype can be identified in many healthy elderly persons. The clinical significance of these cells is unknown.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "CLL seems to be more rare in Asian countries, such as Japan, China, and Korea, accounting for less than 10% of all leukemias in those regions. A low incidence is seen in Japanese immigrants to the US, and in African and Asian immigrants to Israel.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Of all cancers involving the same class of blood cell, 7% of cases were CLL/SLL as of 2001.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "People who live near areas with considerable industrial pollution have an elevated risk of developing leukemia, particularly CLL.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In light of newer targeted therapies such as Bruton tyrosine kinase inhibitors and anti-CD20 monoclonal antibodies, the need for bone marrow transplants in patients with CLL has become rare. Bone marrow transplants are only recommended in specific cases when front-line therapies have either failed and/or the patient continues to relapse.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "There have been major advances in the treatment of patients with CLL over the past 10 years or so. Although this disease remains incurable, therapies such as Bruton tyrosine kinase inhibitors (including ibrutinib, acalabrutinib, and zanubrutinib), BCL-2 inhibitors (including venetoclax), and phosphatidylinositol 3-kinase inhibitors (including idelalisib and duvelisib) allow patients with CLL to now live longer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Despite the great success of these new targeted biological therapies so far, more research is needed in order to establish clearer guidelines on the optimal combination and sequence of these agents based on the patient's specific clinical presentation. Furthermore, for patients who do not respond to these agents, treatment options are limited. Thus, further research should be focused on discovering therapies that target other important chemical pathways.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Leukemia is rarely associated with pregnancy, affecting only about one in 10,000 pregnant women.  Treatment for chronic lymphocytic leukemias can often be postponed until after the end of the pregnancy.  If treatment is necessary, then giving chemotherapy during the second or third trimesters is less likely to result in pregnancy loss or birth defects than treatment during the first trimester.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A complete blood count (CBC), also known as a full blood count (FBC) or full haemogram (FHG), is a set of medical laboratory tests that provide information about the cells in a person's blood. The CBC indicates the counts of white blood cells, red blood cells and platelets, the concentration of hemoglobin, and the hematocrit (the volume percentage of red blood cells). The red blood cell indices, which indicate the average size and hemoglobin content of red blood cells, are also reported, and a white blood cell differential, which counts the different types of white blood cells, may be included.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The CBC is often carried out as part of a medical assessment and can be used to monitor health or diagnose diseases. The results are interpreted by comparing them to reference ranges, which vary with sex and age. Conditions like anemia and thrombocytopenia are defined by abnormal complete blood count results. The red blood cell indices can provide information about the cause of a person's anemia such as iron deficiency and vitamin B12 deficiency, and the results of the white blood cell differential can help to diagnose viral, bacterial and parasitic infections and blood disorders like leukemia. Not all results falling outside of the reference range require medical intervention.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The CBC is usually performed by an automated hematology analyzer, which counts cells and collects information on their size and structure. The concentration of hemoglobin is measured, and the red blood cell indices are calculated from measurements of red blood cells and hemoglobin. Manual tests can be used to independently confirm abnormal results. Approximately 10\u201325% of samples require a manual blood smear review, in which the blood is stained and viewed under a microscope to verify that the analyzer results are consistent with the appearance of the cells and to look for abnormalities. The hematocrit can be determined manually by centrifuging the sample and measuring the proportion of red blood cells, and in laboratories without access to automated instruments, blood cells are counted under the microscope using a hemocytometer.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 1852, Karl Vierordt published the first procedure for performing a blood count, which involved spreading a known volume of blood on a microscope slide and counting every cell. The invention of the hemocytometer in 1874 by Louis-Charles Malassez simplified the microscopic analysis of blood cells, and in the late 19th century, Paul Ehrlich and Dmitri Leonidovich Romanowsky developed techniques for staining white and red blood cells that are still used to examine blood smears. Automated methods for measuring hemoglobin were developed in the 1920s, and Maxwell Wintrobe introduced the Wintrobe hematocrit method in 1929, which in turn allowed him to define the red blood cell indices. A landmark in the automation of blood cell counts was the Coulter principle, which was patented by Wallace H. Coulter in 1953. The Coulter principle uses electrical impedance measurements to count blood cells and determine their sizes; it is a technology that remains in use in many automated analyzers. Further research in the 1970s involved the use of optical measurements to count and identify cells, which enabled the automation of the white blood cell differential.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Blood is composed of a fluid portion, called plasma, and a cellular portion that contains red blood cells, white blood cells and platelets. The complete blood count evaluates the three cellular components of blood. Some medical conditions, such as anemia or thrombocytopenia, are defined by marked increases or decreases in blood cell counts. Changes in many organ systems may affect the blood, so CBC results are useful for investigating a wide range of conditions. Because of the amount of information it provides, the complete blood count is one of the most commonly performed medical laboratory tests.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The CBC is often used to screen for diseases as part of a medical assessment. It is also called for when a healthcare provider suspects a person has a disease that affects blood cells, such as an infection, a bleeding disorder, or some cancers. People who have been diagnosed with disorders that may cause abnormal CBC results or who are receiving treatments that can affect blood cell counts may have a regular CBC performed to monitor their health, and the test is often performed each day on people who are hospitalized. The results may indicate a need for a blood or platelet transfusion.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The complete blood count has specific applications in many medical specialties. It is often performed before a person undergoes surgery to detect anemia, ensure that platelet levels are sufficient, and screen for infection, as well as after surgery, so that blood loss can be monitored. In emergency medicine, the CBC is used to investigate numerous symptoms, such as  fever, abdominal pain, and shortness of breath, and to assess bleeding and trauma. Blood counts are closely monitored in people undergoing chemotherapy or radiation therapy for cancer, because these treatments suppress the production of blood cells in the bone marrow and can produce severely low levels of white blood cells, platelets and hemoglobin. Regular CBCs are necessary for people taking some psychiatric drugs, such as clozapine and carbamazepine, which in rare cases can cause a life-threatening drop in the number of white blood cells (agranulocytosis). Because anemia during pregnancy can result in poorer outcomes for the mother and her baby, the complete blood count is a routine part of prenatal care;  and in newborn babies, a CBC may be needed to investigate jaundice or to count the number of immature cells in the white blood cell differential, which can be an indicator of sepsis.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The complete blood count is an essential tool of hematology, which is the study of the cause, prognosis, treatment, and prevention of diseases related to blood. The results of the CBC and smear examination reflect the functioning of the hematopoietic system\u2014the organs and tissues involved in the production and development of blood cells, particularly the bone marrow. For example, a low count of all three cell types (pancytopenia) can indicate that blood cell production is being affected by a marrow disorder, and a bone marrow examination can further investigate the cause. Abnormal cells on the blood smear might indicate acute leukemia or lymphoma, while an abnormally high count of neutrophils or lymphocytes, in combination with indicative symptoms and blood smear findings, may raise suspicion of a myeloproliferative disorder or lymphoproliferative disorder. Examination of the CBC results and blood smear can help to distinguish between causes of anemia, such as nutritional deficiencies, bone marrow disorders, acquired hemolytic anemias and inherited conditions like sickle cell anemia and thalassemia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The reference ranges for the complete blood count represent the range of results found in 95% of apparently healthy people. By definition, 5% of results will always fall outside this range, so some abnormal results may reflect natural variation rather than signifying a medical issue. This is particularly likely if such results are only slightly outside the reference range, if they are consistent with previous results, or if there are no other related abnormalities shown by the CBC. When the test is performed on a relatively healthy population, the number of clinically insignificant abnormalities may exceed the number of results that represent disease. For this reason, professional organizations in the United States, United Kingdom and Canada recommend against pre-operative CBC testing for low-risk surgeries in individuals without relevant medical conditions. Repeated blood draws for hematology testing in hospitalized patients can contribute to hospital-acquired anemia and may result in unnecessary transfusions.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The sample is collected by drawing blood into a tube containing an anticoagulant\u2014typically EDTA\u2014to stop its natural clotting. The blood is usually taken from a vein, but when this is difficult it may be collected from capillaries by a fingerstick, or by a heelprick in babies. Testing is typically performed on an automated analyzer, but manual techniques such as a blood smear examination or manual hematocrit test can be used to investigate abnormal results. Cell counts and hemoglobin measurements are performed manually in laboratories lacking access to automated instruments.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On board the analyzer, the sample is agitated to evenly distribute the cells, then diluted and partitioned into at least two channels, one of which is used to count red blood cells and platelets, the other to count white blood cells and determine the hemoglobin concentration. Some instruments measure hemoglobin in a separate channel, and additional channels may be used for differential white blood cell counts, reticulocyte counts and specialized measurements of platelets. The cells are suspended in a fluid stream and their properties are measured as they flow past sensors in a technique known as flow cytometry. Hydrodynamic focusing may be used to isolate individual cells so that more accurate results can be obtained: the diluted sample is injected into a stream of low-pressure fluid, which causes the cells in the sample to line up in single file through laminar flow.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "To measure the hemoglobin concentration, a reagent chemical is added to the sample to destroy (lyse) the red cells in a channel separate from that used for red blood cell counts. On analyzers that perform white blood cell counts in the same channel as hemoglobin measurement, this permits white blood cells to be counted more easily. Hematology analyzers measure hemoglobin using spectrophotometry and are based on the linear relationship between the absorbance of light and the amount of hemoglobin present. Chemicals are used to convert different forms of hemoglobin, such as oxyhemoglobin and carboxyhemoglobin, to one stable form, usually cyanmethemoglobin, and to create a permanent colour change. The absorbance of the resulting colour, when measured at a specific wavelength\u2014usually 540 nanometres\u2014corresponds with the concentration of hemoglobin.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Sensors count and identify the cells in the sample using two main principles: electrical impedance and light scattering. Impedance-based cell counting operates on the Coulter principle: cells are suspended in a fluid carrying an electric current, and as they pass through a small opening (an aperture), they cause decreases in current because of their poor electrical conductivity. The amplitude of the voltage pulse generated as a cell crosses the aperture correlates with the amount of fluid displaced by the cell, and thus the cell's volume, while the total number of pulses correlates with the number of cells in the sample. The distribution of cell volumes is plotted on a histogram, and by setting volume thresholds based on the typical sizes of each type of cell, the different cell populations can be identified and counted.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In light scattering techniques, light from a laser or a tungsten-halogen lamp is directed at the stream of cells to collect information about their size and structure. Cells scatter light at different angles as they pass through the beam, which is detected using photometers. Forward scatter, which refers to the amount of light scattered along the beam's axis, is mainly caused by diffraction of light and correlates with cellular size, while side scatter (light scattered at a 90-degree angle) is caused by reflection and refraction and provides information about cellular complexity.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Radiofrequency-based methods can be used in combination with impedance. These techniques work on the same principle of measuring the interruption in current as cells pass through an aperture, but since the high-frequency RF current penetrates into the cells, the amplitude of the resulting pulse relates to factors like the relative size of the nucleus, the nucleus's structure, and the amount of granules in the cytoplasm. Small red cells and cellular debris, which are similar in size to platelets, may interfere with the platelet count, and large platelets may not be counted accurately, so some analyzers use additional techniques to measure platelets, such as fluorescent staining, multi-angle light scatter and monoclonal antibody tagging.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Most analyzers directly measure the average size of red blood cells, which is called the mean cell volume (MCV), and calculate the hematocrit by multiplying the red blood cell count by the MCV. Some measure the hematocrit by comparing the total volume of red blood cells to the volume of blood sampled, and derive the MCV from the hematocrit and red blood cell count. The hemoglobin concentration, the red blood cell count and the hematocrit are used to calculate the average amount of hemoglobin within each red blood cell, the mean corpuscular hemoglobin (MCH); and its concentration, the mean corpuscular hemoglobin concentration (MCHC). Another calculation, the red blood cell distribution width (RDW), is derived from the standard deviation of the mean cell volume and reflects variation in cellular size.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "After being treated with reagents, white blood cells form three distinct peaks when their volumes are plotted on a histogram. These peaks correspond roughly to populations of granulocytes, lymphocytes, and other mononuclear cells, allowing a three-part differential to be performed based on cell volume alone. More advanced analyzers use additional techniques to provide a five- to seven-part differential, such as light scattering or radiofrequency analysis, or using dyes to stain specific chemicals inside cells\u2014for example, nucleic acids, which are found in higher concentrations in immature cells or myeloperoxidase, an enzyme found in cells of the myeloid lineage. Basophils may be counted in a separate channel where a reagent destroys other white cells and leaves basophils intact. The data collected from these measurements is analyzed and plotted on a scattergram, where it forms clusters that correlate with each white blood cell type. Another approach to automating the differential count is the use of digital microscopy software, which uses artificial intelligence to classify white blood cells from photomicrographs of the blood smear. The cell images are displayed to a human operator, who can manually re-classify the cells if necessary.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Most analyzers take less than a minute to run all the tests in the complete blood count. Because analyzers sample and count many individual cells, the results are very precise. However, some abnormal cells may not be identified correctly, requiring manual review of the instrument's results and identification by other means of abnormal cells the instrument could not categorize.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Point-of-care testing refers to tests conducted outside of the laboratory setting, such as at a person's bedside or in a clinic. This method of testing is faster and uses less blood than conventional methods, and does not require specially trained personnel, so it is useful in emergency situations and in areas with limited access to resources. Commonly used devices for point-of-care hematology testing include the HemoCue, a portable analyzer that uses spectrophotometry to measure the hemoglobin concentration of the sample, and the i-STAT, which derives a hemoglobin reading by estimating the concentration of red blood cells from the conductivity of the blood.  Hemoglobin and hematocrit can be measured on point-of-care devices designed for blood gas testing, but these measurements sometimes correlate poorly with those obtained through standard methods. There are simplified versions of hematology analyzers designed for use in clinics that can provide a complete blood count and differential.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The tests can be performed manually when automated equipment is not available or when the analyzer results indicate that further investigation is needed. Automated results are flagged for manual blood smear review in 10\u201325% of cases, which may be due to abnormal cell populations that the analyzer cannot properly count, internal flags generated by the analyzer that suggest the results could be inaccurate, or numerical results that fall outside set thresholds. To investigate these issues, blood is spread on a microscope slide, stained with a Romanowsky stain, and examined under a microscope. The appearance of the red and white blood cells and platelets is assessed, and qualitative abnormalities are reported if present. Changes in the appearance of red blood cells can have considerable diagnostic significance\u2014for example, the presence of sickle cells is indicative of sickle cell disease, and a high number of fragmented red blood cells (schistocytes) requires urgent investigation as it can suggest a microangiopathic hemolytic anemia. In some inflammatory conditions and in paraprotein disorders like multiple myeloma, high levels of protein in the blood may cause red blood cells to appear stacked together on the smear, which is termed rouleaux. Some parasitic diseases, such as malaria and babesiosis, can be detected by finding the causative organisms on the blood smear, and the platelet count can be estimated from the blood smear, which is useful if the automated platelet count is inaccurate.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "To perform a manual white blood cell differential, the microscopist counts 100 cells on the blood smear and classifies them based on their appearance; sometimes 200 cells are counted. This gives the percentage of each type of white blood cell, and by multiplying these percentages by the total number of white blood cells, the absolute number of each type of white cell can be obtained.  Manual counting is subject to sampling error because so few cells are counted compared with automated analysis, but it can identify abnormal cells that analyzers cannot, such as the blast cells seen in acute leukemia. Clinically significant features like toxic granulation and vacuolation can also be ascertained from microscopic examination of white blood cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The hematocrit can performed manually by filling a capillary tube with blood, centrifuging it, and measuring the percentage of the blood that consists of red blood cells. This is useful in some conditions that can cause automated hematocrit results to be incorrect, such as polycythemia (a highly elevated red blood cell count) or severe leukocytosis (a highly elevated white blood cell count, which interferes with red blood cell measurements by causing white blood cells to be counted as red cells).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Red and white blood cells and platelets can be counted using a hemocytometer, a microscope slide containing a chamber that holds a specified volume of diluted blood. The hemocytometer's chamber is etched with a calibrated grid to aid in cell counting. The cells seen in the grid are counted and divided by the volume of blood examined, which is determined from the number of squares counted on the grid, to obtain the concentration of cells in the sample. Manual cell counts are labour-intensive and inaccurate compared to automated methods, so they are rarely used except in laboratories that do not have access to automated analyzers. To count white blood cells, the sample is diluted using a fluid containing a compound that lyses red blood cells, such as ammonium oxalate, acetic acid, or hydrochloric acid. Sometimes a stain is added to the diluent that highlights the nuclei of white blood cells, making them easier to identify. Manual platelet counts are performed in a similar manner, although some methods leave the red blood cells intact. Using a phase-contrast microscope, rather than a light microscope, can make platelets easier to identify. The manual red blood cell count is rarely performed, as it is inaccurate and other methods such as hemoglobinometry and the manual hematocrit are available for assessing red blood cells; but if it is necessary to do so, red blood cells can be counted in blood that has been diluted with saline.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Hemoglobin can be measured manually using a spectrophotometer or colorimeter. To measure hemoglobin manually, the sample is diluted using reagents that destroy red blood cells to release the hemoglobin. Other chemicals are used to convert different types of hemoglobin to one form, allowing it to be easily measured. The solution is then placed in a measuring cuvette and the absorbance is measured at a specific wavelength, which depends on the type of reagent used. A reference standard containing a known amount of hemoglobin is used to determine the relationship between the absorbance and the hemoglobin concentration, allowing the hemoglobin level of the sample to be measured.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In rural and economically disadvantaged areas, available testing is limited by access to equipment and personnel. At primary care facilities in these regions, testing may be limited to examination of red cell morphology and manual measurement of hemoglobin, while more complex techniques like manual cell counts and differentials, and sometimes automated cell counts, are performed at district laboratories. Regional and provincial hospitals and academic centres typically have access to automated analyzers. Where laboratory facilities are not available, an estimate of hemoglobin concentration can be obtained by placing a drop of blood on a standardized type of absorbent paper and comparing it to a colour scale.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Automated analyzers have to be regularly calibrated. Most manufacturers provide preserved blood with defined parameters and the analyzers are adjusted if the results are outside defined thresholds. To ensure that results continue to be accurate, quality control samples, which are typically provided by the instrument manufacturer, are tested at least once per day. The samples are formulated to provide specific results, and laboratories compare their results against the known values to ensure the instrument is functioning properly. For laboratories without access to commercial quality control material, an Indian regulatory organization recommends running patient samples in duplicate and comparing the results. A moving average measurement, in which the average results for patient samples are measured at set intervals, can be used as an additional quality control technique. Assuming that the characteristics of the patient population remain roughly the same over time, the average should remain constant; large shifts in the average value can indicate instrument problems. The MCHC values are particularly useful in this regard.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In addition to analyzing internal quality control samples with known results, laboratories may receive external quality assessment samples from regulatory organizations. While the purpose of internal quality control is to ensure that analyzer results are reproducible within a given laboratory, external quality assessment verifies that results from different laboratories are consistent with each other and with the target values. The expected results for external quality assessment samples are not disclosed to the laboratory. External quality assessment programs have been widely adopted in North America and western Europe, and laboratories are often required to participate in these programs to maintain accreditation. Logistical issues may make it difficult for laboratories in under-resourced areas to implement external quality assessment schemes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The CBC measures the amounts of platelets and red and white blood cells, along with the hemoglobin and hematocrit values. Red blood cell indices\u2014MCV, MCH and MCHC\u2014which describe the size of red blood cells and their hemoglobin content, are reported along with the red blood cell distribution width (RDW), which measures the amount of variation in the sizes of red blood cells. A white blood cell differential, which enumerates the different types of white blood cells, may be performed, and a count of immature red blood cells (reticulocytes) is sometimes included.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Red blood cells deliver oxygen from the lungs to the tissues and on their return carry carbon dioxide back to the lungs where it is exhaled. These functions are mediated by the cells' hemoglobin. The analyzer counts red blood cells, reporting the result in units of 106 cells per microlitre of blood (\u00d7 106/\u03bcL) or 1012 cells per litre (\u00d7 1012/L), and measures their average size, which is called the mean cell volume and expressed in femtolitres or cubic micrometres. By multiplying the mean cell volume by the red blood cell count, the hematocrit (HCT) or packed cell volume (PCV), a measurement of the percentage of blood that is made up of red blood cells, can be derived; and when the hematocrit is performed directly, the mean cell volume may be calculated from the hematocrit and red blood cell count. Hemoglobin, measured after the red blood cells are lysed, is usually reported in units of grams per litre (g/L) or grams per decilitre (g/dL). Assuming that the red blood cells are normal, there is a constant relationship between hemoglobin and hematocrit: the hematocrit percentage is approximately three times greater than the hemoglobin value in g/dL, plus or minus three. This relationship, called the rule of three, can be used to confirm that CBC results are correct.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Two other measurements are calculated from the red blood cell count, the hemoglobin concentration, and the hematocrit: the mean corpuscular hemoglobin and the mean corpuscular hemoglobin concentration. These parameters describe the hemoglobin content of each red blood cell. The MCH and MCHC can be confusing; in essence the MCH is a measure of the average amount of hemoglobin per red blood cell. The MCHC gives the average proportion of the cell that is hemoglobin. The MCH does not take into account the size of the red blood cells whereas the MCHC does. Collectively, the MCV, MCH, and MCHC are referred to as the red blood cell indices. Changes in these indices are visible on the blood smear: red blood cells that are abnormally large or small can be identified by comparison to the sizes of white blood cells, and cells with a low hemoglobin concentration appear pale. Another parameter is calculated from the initial measurements of red blood cells: the red blood cell distribution width or RDW, which reflects the degree of variation in the cells' size.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "An abnormally low hemoglobin, hematocrit, or red blood cell count indicates anemia. Anemia is not a diagnosis on its own, but it points to an underlying condition affecting the person's red blood cells. General causes of anemia include blood loss, production of defective red blood cells (ineffective erythropoeisis), decreased production of red blood cells (insufficient erythropoeisis), and increased destruction of red blood cells (hemolytic anemia). Anemia reduces the blood's ability to carry oxygen, causing symptoms like tiredness and shortness of breath.  If the hemoglobin level falls below thresholds based on the person's clinical condition, a blood transfusion may be necessary.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "An increased number of red blood cells, leading to an increase in the hemoglobin and hematocrit, is called polycythemia. Dehydration or use of diuretics can cause a \"relative\" polycythemia by decreasing the amount of plasma compared to red cells. A true increase in the number of red blood cells, called absolute polycythemia, can occur when the body produces more red blood cells to compensate for chronically low oxygen levels in conditions like lung or heart disease, or when a person has abnormally high levels of erythropoietin, a hormone that stimulates production of red blood cells. In polycythemia vera, the bone marrow produces red cells and other blood cells at an excessively high rate.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Evaluation of red blood cell indices is helpful in determining the cause of anemia. If the MCV is low, the anemia is termed microcytic, while anemia with a high MCV is called macrocytic anemia. Anemia with a low MCHC is called hypochromic anemia. If anemia is present but the red blood cell indices are normal, the anemia is considered normochromic and normocytic. The term hyperchromia, referring to a high MCHC, is generally not used. Elevation of the MCHC above the upper reference value is rare, mainly occurring in conditions such as spherocytosis, sickle cell disease and hemoglobin C disease. An elevated MCHC can also be a false result from conditions like red blood cell agglutination (which causes a false decrease in the red blood cell count, elevating the MCHC) or highly elevated amounts of lipids in the blood (which causes a false increase in the hemoglobin result).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Microcytic anemia is typically associated with iron deficiency, thalassemia, and  anemia of chronic disease, while macrocytic anemia is associated with alcoholism, folate and B12 deficiency, use of some drugs, and some bone marrow diseases. Acute blood loss, hemolytic anemia, bone marrow disorders, and various chronic diseases can result in anemia with a normocytic blood picture. The MCV serves an additional purpose in laboratory quality control. It is relatively stable over time compared to other CBC parameters, so a large change in MCV may indicate that the sample was drawn from the wrong patient.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A low RDW has no clinical significance, but an elevated RDW represents increased variation in red blood cell size, a condition known as anisocytosis. Anisocytosis is common in nutritional anemias such as iron deficiency anemia and anemia due to vitamin B12 or folate deficiency, while people with thalassemia may have a normal RDW. Based on the CBC results, further steps can be taken to investigate anemia, such as a ferritin test to confirm the presence of iron deficiency, or hemoglobin electrophoresis to diagnose a hemoglobinopathy such as thalassemia or sickle cell disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "White blood cells defend against infections and are involved in the inflammatory response. A high white blood cell count, which is called leukocytosis, often occurs in infections, inflammation, and states of physiologic stress. It can also be caused by diseases that involve abnormal production of blood cells, such as myeloproliferative and lymphoproliferative disorders. A decreased white blood cell count, termed leukopenia, can lead to an increased risk of acquiring infections, and occurs in treatments like chemotherapy and radiation therapy and many conditions that inhibit the production of blood cells. Sepsis is associated with both leukocytosis and leukopenia. The total white blood cell count is usually reported in cells per microlitre of blood (/\u03bcL) or 109 cells per litre (\u00d7 109/L).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In the white blood cell differential, the different types of white blood cells are identified and counted. The results are reported as a percentage and as an absolute number per unit volume. Five types of white blood cells\u2014neutrophils, lymphocytes, monocytes, eosinophils, and basophils\u2014are typically measured. Some instruments report the number of immature granulocytes, which is a classification consisting of precursors of neutrophils; specifically, promyelocytes, myelocytes and metamyelocytes. Other cell types are reported if they are identified in the manual differential.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Differential results are useful in diagnosing and monitoring many medical conditions. For example, an elevated neutrophil count (neutrophilia) is associated with bacterial infection, inflammation, and myeloproliferative disorders, while a decreased count (neutropenia) may occur in individuals who are undergoing chemotherapy or taking certain drugs, or who have diseases affecting the bone marrow. Neutropenia can also be caused by some congenital disorders and may occur transiently after viral or bacterial infections in children. People with severe neutropenia and clinical signs of infection are treated with antibiotics to prevent potentially life-threatening disease.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "An increased number of band neutrophils\u2014young neutrophils that lack segmented nuclei\u2014or immature granulocytes is termed left shift and occurs in sepsis and some blood disorders, but is normal in pregnancy. An elevated lymphocyte count (lymphocytosis) is associated with viral infection  and lymphoproliferative disorders like chronic lymphocytic leukemia; elevated monocyte counts (monocytosis) are associated with chronic inflammatory states; and the eosinophil count is often increased (eosinophilia) in parasitic infections and allergic conditions. An increased number of basophils, termed basophilia, can occur in myeloproliferative disorders like chronic myeloid leukemia and polycythemia vera. The presence of some types of abnormal cells, such as blast cells or lymphocytes with neoplastic features, is suggestive of a hematologic malignancy.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Platelets play an essential role in clotting. When the wall of a blood vessel is damaged, platelets adhere to the exposed surface at the site of injury and plug the gap. Simultaneous activation of the coagulation cascade results in the formation of fibrin, which reinforces the platelet plug to create a stable clot.  A low platelet count, known as thrombocytopenia, may cause bleeding if severe. It can occur in individuals who are undergoing treatments that suppress the bone marrow, such as chemotherapy or radiation therapy, or taking certain drugs, such as heparin, that can induce the immune system to destroy platelets. Thrombocytopenia is a feature of many blood disorders, like acute leukemia and aplastic anemia, as well as some autoimmune diseases. If the platelet count is extremely low, a platelet transfusion may be performed. Thrombocytosis, meaning a high platelet count, may occur in states of inflammation or trauma, as well as in iron deficiency, and the platelet count may reach exceptionally high levels in people with essential thrombocythemia, a rare blood disease. The platelet count can be reported in units of cells per microlitre of blood (/\u03bcL), 103 cells per microlitre (\u00d7 103/\u03bcL), or  109 cells per litre (\u00d7 109/L).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The mean platelet volume (MPV) measures the average size of platelets in femtolitres. It can aid in determining the cause of thrombocytopenia; an elevated MPV may occur when young platelets are released into the bloodstream to compensate for increased destruction of platelets, while decreased production of platelets due to dysfunction of the bone marrow can result in a low MPV. The MPV is also useful for differentiating between congenital diseases that cause thrombocytopenia. The immature platelet fraction (IPF) or reticulated platelet count is reported by some analyzers and provides information about the rate of platelet production by measuring the number of immature platelets in the blood.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Reticulocytes are immature red blood cells, which, unlike the mature cells, contain RNA. A reticulocyte count is sometimes performed as part of a complete blood count, usually to investigate the cause of a person's anemia or evaluate their response to treatment. Anemia with a high reticulocyte count can indicate that the bone marrow is producing red blood cells at a higher rate to compensate for blood loss or hemolysis, while anemia with a low reticulocyte count may suggest that the person has a condition that reduces the body's ability to produce red blood cells.  When people with nutritional anemia are given nutrient supplementation, an increase in the reticulocyte count indicates that their body is responding to the treatment by producing more red blood cells. Hematology analyzers perform reticulocyte counts by staining red blood cells with a dye that binds to RNA and measuring the number of reticulocytes through light scattering or fluorescence analysis. The test can be performed manually by staining the blood with new methylene blue and counting the percentage of red blood cells containing RNA under the microscope. The reticulocyte count is expressed as an absolute number or as a percentage of red blood cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Some instruments measure the average amount of hemoglobin in each reticulocyte; a parameter that has been studied as an indicator of iron deficiency in people who have conditions that interfere with standard tests. The immature reticulocyte fraction (IRF) is another measurement produced by some analyzers which quantifies the maturity of reticulocytes: cells that are less mature contain more RNA and thus produce a stronger fluorescent signal. This information can be useful in diagnosing anemias and evaluating red blood cell production following anemia treatment or bone marrow transplantation.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "During their formation in bone marrow, and in the liver and spleen in fetuses, red blood cells contain a cell nucleus, which is usually absent in the mature cells that circulate in the bloodstream. Nucleated red blood cells are normal in newborn babies, but when detected in children and adults, they indicate an increased demand for red blood cells, which can be caused by bleeding, some cancers and anemia. Most analyzers can detect these cells as part of the differential cell count. High numbers of nucleated red cells can cause a falsely high white cell count, which will require adjusting.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Advanced hematology analyzers generate novel measurements of blood cells which have shown diagnostic significance in research studies but have not yet found widespread clinical use. For example, some types of analyzers produce coordinate readings indicating the size and position of each white blood cell cluster. These parameters (termed cell population data) have been studied as potential markers for blood disorders, bacterial infections and malaria. Analyzers that use myeloperoxidase staining to produce differential counts can measure white blood cells' expression of the enzyme, which is altered in various disorders. Some instruments can report the percentage of red blood cells that are hypochromic in addition to reporting the average MCHC value, or provide a count of fragmented red cells (schistocytes), which occur in some types of hemolytic anemia. Because these parameters are often specific to particular brands of analyzers, it is difficult for laboratories to interpret and compare results.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The complete blood count is interpreted by comparing the output to reference ranges, which represent the results found in 95% of apparently healthy people. Based on a statistical normal distribution, the tested samples' ranges vary with sex and age.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On average, adult females have lower hemoglobin, hematocrit, and red blood cell count values than males; the difference lessens, but is still present, after menopause. CBC results for children and newborn babies differ from those of adults. Newborns' hemoglobin, hematocrit, and red blood cell count are extremely high to compensate for low oxygen levels in the womb and the high proportion of fetal hemoglobin, which is less effective at delivering oxygen to tissues than mature forms of hemoglobin, inside their red blood cells. The MCV is also increased, and the white blood cell count is elevated with a preponderance of neutrophils. The red blood cell count and related values begin to decline shortly after birth, reaching their lowest point at about two months of age and increasing thereafter. The red blood cells of older infants and children are smaller, with a lower MCH, than those of adults. In the pediatric white blood cell differential, lymphocytes often outnumber neutrophils, while in adults neutrophils predominate.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Other differences between populations may affect the reference ranges: for example, people living at higher altitudes have higher hemoglobin, hematocrit, and RBC results, and people of African heritage have lower white blood cell counts on average. The type of analyzer used to run the CBC affects the reference ranges as well. Reference ranges are therefore established by individual laboratories based on their own patient populations and equipment.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Some medical conditions or problems with the blood sample may produce inaccurate  results. If the sample is visibly clotted, which can be caused by poor phlebotomy technique, it is unsuitable for testing, because the platelet count will be falsely decreased and other results may be abnormal. Samples stored at room temperature for several hours may give falsely high readings for MCV (mean corpuscular volume), because red blood cells swell as they absorb water from the plasma; and platelet and white blood cell differential results may be inaccurate in aged specimens, as the cells degrade over time.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Samples drawn from individuals with very high levels of bilirubin or lipids in their plasma (referred to as an icteric sample or a lipemic sample, respectively) may show falsely high readings for hemoglobin, because these substances change the colour and opacity of the sample, which interferes with hemoglobin measurement. This effect can be mitigated by replacing the plasma with saline.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Some individuals produce an antibody that causes their platelets to form clumps when their blood is drawn into tubes containing EDTA, the anticoagulant typically used to collect CBC samples. Platelet clumps may be counted as single platelets by automated analyzers, leading to a falsely decreased platelet count. This can be avoided by using an alternative anticoagulant such as sodium citrate or heparin.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Another antibody-mediated condition that can affect complete blood count results is red blood cell agglutination. This phenomenon causes red blood cells to clump together because of antibodies bound to the cell surface. Red blood cell aggregates are counted as single cells by the analyzer, leading to a markedly decreased red blood cell count and hematocrit, and markedly elevated MCV and MCHC (mean corpuscular hemoglobin concentration). Often, these antibodies are only active at room temperature (in which case they are called cold agglutinins), and the agglutination can be reversed by heating the sample to 37 \u00b0C (99 \u00b0F). Samples from people with warm autoimmune hemolytic anemia may exhibit red cell agglutination that does not resolve on warming.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "While blast and lymphoma cells can be identified in the manual differential, microscopic examination cannot reliably determine the cells' hematopoietic lineage. This information is often necessary for diagnosing blood cancers. After abnormal cells are identified, additional techniques such as immunophenotyping by flow cytometry can be used to identify markers that provide additional information about the cells.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Before automated cell counters were introduced, complete blood count tests were performed manually: white and red blood cells and platelets were counted using microscopes. The first person to publish microscopic observations of blood cells was Antonie van Leeuwenhoek, who reported on the appearance of red cells in a 1674 letter to the Proceedings of the Royal Society of London. Jan Swammerdam had described red blood cells some years earlier, but did not publish his findings at the time. Throughout the 18th and 19th centuries, improvements in microscope technology such as achromatic lenses allowed white blood cells and platelets to be counted in unstained samples.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The physiologist Karl Vierordt is credited with performing the first blood count.  His technique, published in 1852, involved aspirating a carefully measured volume of blood into a capillary tube and spreading it onto a microscope slide coated with egg white. After the blood dried, he counted every cell on the slide; this process could take more than three hours to complete. The hemocytometer, introduced in 1874 by Louis-Charles Malassez, simplified the microscopic counting of blood cells. Malassez's hemocytometer consisted of a microscope slide containing a flattened capillary tube. Diluted blood was introduced to the capillary chamber by means of a rubber tube attached to one end, and an eyepiece with a scaled grid was attached to the microscope, permitting the microscopist to count the number of cells per volume of blood. In 1877, William Gowers invented a hemocytometer with a built-in counting grid, eliminating the need to produce specially calibrated eyepieces for each microscope.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In the 1870s, Paul Ehrlich developed a staining technique using a combination of an acidic and basic dye that could distinguish different types of white blood cells and allow red blood cell morphology to be examined. Dmitri Leonidovich Romanowsky improved on this technique in the 1890s, using a mixture of eosin and aged methylene blue to produce a wide range of hues not present when either of the stains was used alone. This became the basis for Romanowsky staining, the technique still used to stain blood smears for manual review.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The first techniques for measuring hemoglobin were devised in the late 19th century, and involved visual comparisons of the colour of diluted blood against a known standard. Attempts to automate this process using spectrophotometry and colorimetry were limited by the fact that hemoglobin is present in the blood in many different forms, meaning that it could not be measured at a single wavelength. In 1920, a method to convert the different forms of hemoglobin to one stable form (cyanmethemoglobin or hemiglobincyanide) was introduced, allowing hemoglobin levels to be measured automatically. The cyanmethemoglobin method remains the reference method for hemoglobin measurement and is still used in many automated hematology analyzers.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Maxwell Wintrobe is credited with the invention of the hematocrit test. In 1929, he undertook a PhD project at the University of Tulane to determine normal ranges for red blood cell parameters, and invented a method known as the Wintrobe hematocrit. Hematocrit measurements had previously been described in the literature, but Wintrobe's method differed in that it used a large tube that could be mass-produced to precise specifications, with a built-in scale. The fraction of red blood cells in the tube was measured after centrifugation to determine the hematocrit. The invention of a reproducible method for determining hematocrit values allowed Wintrobe to define the red blood cell indices.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Research into automated cell counting began in the early 20th century. A method developed in 1928 used the amount of light transmitted through a diluted blood sample, as measured by photometry, to estimate the red blood cell count, but this proved inaccurate for samples with abnormal red blood cells. Other unsuccessful attempts, in the 1930s and 1940s, involved photoelectric detectors attached to microscopes, which would count cells as they were scanned. In the late 1940s, Wallace H. Coulter, motivated by a need for better red blood cell counting methods following the bombing of Hiroshima and Nagasaki, attempted to improve on photoelectric cell counting techniques.  His research was aided by his brother, Joseph R. Coulter, in a basement laboratory in Chicago. Their results using photoelectric methods were disappointing, and in 1948, after reading a paper relating the conductivity of blood to its red blood cell concentration, Wallace devised the Coulter principle\u2014the theory that a cell suspended in a conductive medium generates a drop in current proportional to its size as it passes through an aperture.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "That October, Wallace built a counter to demonstrate the principle. Owing to financial constraints, the aperture was made by burning a hole through a piece of cellophane from a cigarette package. Wallace filed a patent for the technique in 1949, and in 1951 applied to the Office of Naval Research to fund the development of the Coulter counter. Wallace's patent application was granted in 1953, and after improvements to the aperture and the introduction of a mercury manometer to provide precise control over sample size, the brothers founded Coulter Electronics Inc. in 1958 to market their instruments. The Coulter counter was initially designed for counting red blood cells, but with later modifications it proved effective for counting white blood cells. Coulter counters were widely adopted by medical laboratories.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The first analyzer able to produce multiple cell counts simultaneously was the Technicon SMA 4A\u22127A, released in 1965. It achieved this by partitioning blood samples into two channels: one for counting red and white blood cells and one for measuring hemoglobin. However, the instrument was  unreliable and difficult to maintain. In 1968, the Coulter Model S analyzer was released and gained widespread use. Similarly to the Technicon instrument, it used two different reaction chambers, one of which was used for the red cell count, and one of which was used for the white blood cell count and hemoglobin determination. The Model S also determined the mean cell volume using impedance measurements, which allowed the red blood cell indices and hematocrit to be derived. Automated platelet counts were introduced in 1970 with Technicon's Hemalog-8 instrument and were adopted by Coulter's S Plus series analyzers in 1980.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "After basic cell counting had been automated, the white blood cell differential remained a challenge. Throughout the 1970s, researchers explored two methods for automating the differential count: digital image processing and flow cytometry. Using technology developed in the 1950s and 60s to automate the reading of Pap smears, several models of image processing analyzers were produced. These instruments would scan a stained blood smear to find cell nuclei, then take a higher resolution snapshot of the cell to analyze it through densitometry. They were expensive, slow, and did little to reduce workload in the laboratory because they still required blood smears to be prepared and stained, so flow cytometry-based systems became more popular, and by 1990, no digital image analyzers were commercially available in the United States or western Europe. These techniques enjoyed a resurgence in the 2000s with the introduction of more advanced image analysis platforms using artificial neural networks.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Early flow cytometry devices shot beams of light at cells in specific wavelengths and measured the resulting absorbance, fluorescence or light scatter, collecting information about the cells' features and allowing cellular contents such as DNA to be quantified. One such instrument\u2014the Rapid Cell Spectrophotometer, developed by Louis Kamentsky in 1965 to automate cervical cytology\u2014could generate blood cell scattergrams using cytochemical staining techniques. Leonard Ornstein, who had helped to develop the staining system on the Rapid Cell Spectrophotometer, and his colleagues later created the  first commercial flow cytometric white blood cell differential analyzer, the Hemalog D. Introduced in 1974, this analyzer used light scattering, absorbance and cell staining to identify the five normal white blood cell types in addition to \"large unidentified cells\", a classification that usually consisted of atypical lymphocytes or blast cells. The Hemalog D could count 10,000 cells in one run, a marked improvement over the manual differential. In 1981, Technicon combined the Hemalog D with the Hemalog-8 analyzer to produce the Technicon H6000, the first combined complete blood count and differential analyzer. This analyzer was unpopular with hematology laboratories because it was labour-intensive to operate, but in the late 1980s to early 1990s similar systems were widely produced by other manufacturers such as Sysmex, Abbott, Roche and Beckman Coulter.",
+    "date": null,
+    "verdict": null
+  }
+]

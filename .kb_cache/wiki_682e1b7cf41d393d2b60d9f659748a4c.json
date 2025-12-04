@@ -1,0 +1,1142 @@
+[
+  {
+    "source": "wikipedia",
+    "text": "The S-300 (NATO reporting name SA-10 Grumble) is a series of long-range surface-to-air missile systems developed by the former Soviet Union. It was produced by NPO Almaz for the Soviet Air Defence Forces to defend against air raids and cruise missiles.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "It is used by Russia, Ukraine, and other former Eastern Bloc countries, along with Bulgaria and Greece. It is also used by China, Iran, and other countries in Asia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The system is fully automated, though manual observation and operation are also possible. Each targeting radar provides target designation for the central command post. The command post compares the data received from the targeting radars and filters out false targets. The central command post has both active and passive target detection modes. Missiles have a maximum range of 40 kilometres (25 mi) from the command post.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The successor to the S-300 is the S-400 (NATO reporting name SA-21 Growler), which entered service on 28 April 2007.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "There are currently three main variations of the S-300, named S-300V, S-300P, S-300F. The production of the S-300 started in 1975, with the tests for the S-300P variant being completed in 1978. The tests for the S-300V variant were conducted in 1983, and its anti-ballistic capabilities were tested in 1987. Numerous versions have since emerged with different missiles, improved radars, better resistance to countermeasures, longer range, and better capability at targeting aircraft flying at very low altitude as well as incoming munitions, such as anti-radiation missiles or glide bombs.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The total production for the S-300P systems was 3,000 launchers and 28,000 missiles through 2012.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The S-300P/S-300PT (Russian: \u0421-300\u041f/\u0421-300\u041f\u0422, NATO reporting name SA-10A Grumble A) is the original version of the S-300. The P suffix stands for PVO-Strany (Russian: \u043f\u0440\u043e\u0442\u0438\u0432\u043e\u0432\u043e\u0437\u0434\u0443\u0448\u043d\u0430\u044f \u043e\u0431\u043e\u0440\u043e\u043d\u0430\u2013\u0441\u0442\u0440\u0430\u043d\u044b, or country air defence). In 1987, over 80 of these systems were active, mainly around Moscow. An S-300PT unit consists of a 36D6 (NATO reporting name Tin Shield) surveillance radar, a 30N6 (FLAP LID) fire control system, and 5P85-1 launch vehicles. The 5P85-1 vehicles are semi-trailer trucks. A 76N6 (CLAM SHELL) low-altitude detection radar is usually also a part of the unit.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The S-300PT had a passive electronically scanned array radar and had the ability to engage multiple targets with a single fire-control system. Since the original system was semi-mobile, it took just over one hour to set up for firing. It ran the risk of the missile hot launch system scorching the transporter erector launcher (TEL).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "It was originally intended to use a track-via-missile (TVM) guidance system. However, the TVM system had problems tracking targets below 500 metres (1,600 ft), allowing incoming SEAD aircraft to effectively utilize terrain masking to avoid tracking. To improve tracking of low-altitude targets, a command-guidance system was added to guide the missile for the initial part of the flight. This allowed the minimum engagement altitude to be set to 25 metres (82 ft).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Improvements to the S-300P resulted in several sub-versions for both domestic and international markets. The S-300PT-1 and S-300PT-1A are incremental upgrades of the original S-300PT system, using a new 5V55KD missile and a cold launch method. The time it took to set the system up was reduced to 30 minutes and trajectory optimizations allowed the 5V55KD to reach ranges up to 75 kilometres (47 mi).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The S-300PS/S-300PM (Russian \u0421-300\u041fC/\u0421-300\u041f\u041c, NATO reporting name SA-10B Grumble B) was introduced in 1985 (according to Russia) and is the only version thought to have been fitted with a nuclear warhead. This model saw the introduction of the modern TEL and mobile radar and command-post vehicles that were all based on the MAZ-7910 8\u00d78 truck. This model also featured new 5V55R missiles, which increased the maximum engagement range to 75 km (47 mi) and introduced a terminal semi-active radar homing (SARH) guidance mode. The surveillance radar of these systems was designated 30N6. Also introduced with this version was the distinction between self-propelled and towed TELs. The towed TEL is designated 5P85T. Mobile TELs were the 5P85S and 5P85D. The 5P85D was a \"slave\" TEL, being controlled by a 5P85S \"master\" TEL. The \"master\" TEL is identifiable thanks to the large equipment container behind the cabin; in the \"slave\" TEL this area is not enclosed and is used for cable or spare tyre storage.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Development of a modernized variant for export, called the S-300PMU (Russian: \u0421-300\u041f\u041c\u0423, NATO reporting name SA-10C Grumble C), was completed in 1985. The PMU variant was fielded with the 5V55K (range 45\u201347 kilometres (28\u201329 mi)) and 5V55R (range 75\u201390 kilometres (47\u201356 mi)) missiles. Radars used for the S-300PMU complex included the 30N6 (NATO: \"Flap Lid\") target engagement radar, the 76N6 (NATO: \"Clam Shell\") low altitude detection radar, and the ST-68U (NATO: \"Tin Shield\") 3D search radar. In addition, the 64N6 (NATO: \"Big Bird\") radar was used as a search radar at the regimental command post (an S-300PMU regiment typically consisted of three missile batteries). The S-300PMU could engage targets with a radar cross section of at least 0.2 square metres (2.2 sq ft) and a maximum velocity of 1,300 metres per second (4,300 ft/s) at altitudes between 25 metres (82 ft) and 27,000 metres (89,000 ft). It could also engage surface targets at ranges up to 30 kilometres (19 mi).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The S-300PMU-1 (Russian: \u0421-300\u041f\u041c\u0423-1, NATO reporting name SA-20A Gargoyle) was also introduced in 1993, with the new and larger 48N6 missiles for the first time in a land-based system, and keeping all the same performance improvements from the S-300PM version, including the increased speed, range, SAGG guidance, and ABM capability. The warhead is slightly smaller than the naval version at 143 kg (315 lb). This version also saw the introduction of the new and more capable 30N6E TOMB STONE radar.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The S-300PMU-1 was introduced in 1993, using different missile types in a single system for the first time. In addition to the 5V55R and 48N6E missiles, the S-300PMU-1 can utilise two new missiles, the 9M96E1 and 9M96E2. Both are significantly smaller than the previous missiles, at 330 and 420 kg (730 and 930 lb), respectively, and carry a smaller 24 kg (53 lb) warhead. The 9M96E1 has an engagement range of 1\u201340 km (0.62\u201325 mi), and the 9M96E2 of 1\u2013120 km (0.62\u201375 mi). They are still carried 4 per TEL. Rather than just relying on aerodynamic fins for manoeuvring, they use a gas-dynamic system which allows them to have an excellent probability of kill (Pk) despite the much smaller warhead. The Pk is estimated at 0.7 against a tactical ballistic missile, for either missile. The S-300PMU-1 typically uses the 83M6E command-and-control system, although it is also compatible with the older Baikal-1E and Senezh-M1E CCS command-and-control systems. The 83M6E system incorporates the 64N6E (BIG BIRD) surveillance/detection radar. The fire control/illumination and guidance radar used is the 30N6E(1), optionally matched with a 76N6 low-altitude detection radar and a 96L6E all-altitude detection radar. The 83M6E command-and-control system can control up to 12 TELs, both the self-propelled 5P85SE vehicle and the 5P85TE towed launchers. Generally, support vehicles are also included, such as the 40V6M tow vehicle, intended for lifting of the antenna post.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "China developed its own version of the S-300PMU-1, called HQ-15. Previously, the missile was referred to in a Western think tank as the HQ-10, causing confusion with the unrelated HQ-10 short-range point-defense missile system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The S-300PMU-2 Favorit (Russian: \u0421-300\u041f\u041c\u0423-2 \u0424\u0430\u0432\u043e\u0440\u0438\u0442, NATO reporting name SA-20B Gargoyle), introduced in 1997 (presented ready 1996), is an upgrade to the S-300PMU-1 with a range of 195 km (121 mi) with the introduction of the 48N6E2 missile. This system is apparently capable against not just short-range ballistic missiles, but also medium-range ballistic missiles. It uses the 83M6E2 command and control system, consisting of the 54K6E2 command post vehicle and the 64N6E2 surveillance/detection radar. It employs the 30N6E2 fire control/illumination and guidance radar. Like the S-300PMU-1, 12 TELs can be controlled, with any mix of 5P85SE2 self-propelled and 5P85TE2 trailer launchers. Optionally it can make use of the 96L6E all-altitude detection radar and 76N6 low-altitude detection radar.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The S-300F Fort (Russian: \u0421-300\u0424, DoD designation SA-N-6, F suffix for Russian: \u0424\u043b\u043e\u0442\u0441\u043a\u0430\u044f or Naval) was introduced in 1984 as the original ship-based (naval) version of the S-300P system developed by Altair, with the new 5V55RM missile with range extended to 7\u201390 km (4.3\u201356 mi; 3.8\u201349 nmi) and maximum target speed up to Mach 4, while the engagement altitude was reduced to 25\u201325,000 m (82\u201382,021 ft). The naval version utilises the TOP SAIL or TOP STEER, TOP PAIR, and 3R41 Volna (TOP DOME) radar, and utilises command guidance with a terminal SARH mode. Its first installation and sea trials were on a Kara-class cruiser and it is also installed on Slava-class cruisers and Kirov-class battlecruisers. It is stored in eight (Slava) or twelve (Kirov) 8-missile rotary launchers below decks. The export version of this system is known as Rif (Russian: \u0420\u0438\u0444 or reef). The NATO name, found also in colloquial use, is Grumble.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The S-300FM Fort-M (Russian: \u0421-300\u0424\u041c, DoD designation SA-N-20) is another naval version of the system, installed only on the Kirov-class cruiser Pyotr Velikiy, and introducing the new 48N6 missile. It was introduced in 1990 and has a missile speed of approximately Mach 6 for a maximum target engagement speed of up to Mach 8.5, a warhead size of 150 kg (330 lb), an engagement range of 5\u2013150 km (3.1\u201393 mi), and an altitude envelope of 10\u201327 km (6.2\u201316.8 mi). The new missiles also introduced a track-via-missile guidance method and the ability to intercept short-range ballistic missiles. This system makes use of the TOMB STONE MOD rather than TOP DOME radar. The export version is called the Rif-M. Two Rif-M systems were purchased by China in 2002 and installed on the Type 051C air-defence guided-missile destroyers.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The S-300V, starting with the 9M83 missile, entered service in 1983, and it was fully integrated in 1988.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The 9K81 S-300V Antey-300 (Russian: 9\u041a81 \u0421-300\u0412 \u0410\u043d\u0442\u0435\u0439-300 \u2013 named after Antaeus, NATO reporting name SA-12 Gladiator/Giant) varies from the other designs in the series. It was built by Antey rather than Almaz, and its 9M82 and 9M83 missiles were designed by NPO Novator. The V suffix stands for Voyska (ground forces). It was designed to be the top-tier army air defence system, replacing the 2K11 Krug, providing a defence against ballistic missiles, cruise missiles, and aircraft. The 9M83 (SA-12A Gladiator) missiles have a maximum engagement range of around 75 km (47 mi), while the 9M82 (SA-12B Giant) missiles can engage targets out to 100 km (62 mi) and up to altitudes of around 32 km (20 mi). In both cases the warhead is around 150 kg (330 lb).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "While it was created from the same project, hence sharing the common S-300 designation with the S-300P air defense family, the S-300V had different priorities that resulted in a different design. The S-300V system is carried on tracked MT-T transporters, which gives it better cross-country mobility than the S-300Ps moving on 8\u00d78 wheeled transporters. Its search, tracking, and command systems are more distributed than the S-300P's. For example, while both have mechanically scanning radar for target acquisition (9S15 BILL BOARD A), the battery level 9S32 GRILL PAN has an autonomous search ability and SARH delegated to illumination radar on transporter erector launcher and radar (TELAR) vehicles. The early 30N6 FLAP LID on the S-300P handles tracking and illumination, but is not equipped with an autonomous search capability (later upgraded). 9S15 can simultaneously carry out active (3 coordinates) and passive (2 positions) searches for targets.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The S-300V places a greater emphasis on the anti-ballistic missile (ABM) mission, with a dedicated 9M82 (SA-12B Giant) anti-ballistic missile. This missile is larger and only two can be on each TELAR. It also has a dedicated ABM radar: the 9S19 HIGH SCREEN phased-array radar at battalion level. A typical S-300V battalion consists of a target-detection-and-designation unit, a guidance radar, and up to 6 TELARs. The detection-and-designation unit consists of the 9S457-1 command post, a 9S15MV or 9S15MT BILL BOARD all-round surveillance radar, and a 9S19M2 HIGH SCREEN sector surveillance radar. The S-300V uses the 9S32-1 GRILL PAN multi-channel guidance radar. Four types of missile-launcher vehicles can be used with the system:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Transporter erector launcher and radar (TELAR) vehicles, which not only transport the missiles, but also fire and guide them (including radar illumination and targeting.) There are two models: the 9A83-1 TELAR holding four 9M83 Gladiator missiles and the 9A82 TELAR holding two 9M82 Giant missiles.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Launcher/loader vehicles (LLV), which transport the missiles and can reload the TELARs, and also fire missiles under the control of a TELAR. There are two models: the 9A84 LLV holding two 9M83 Gladiator missiles and the 9A85 LLV holding two 9M82 Giant missiles.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The target detection ranges for each radar vary based on the radar cross-section of the target:",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "9S15M \u2013 330 kilometres (210 mi) with a 10-square-metre (110 sq ft) cross section and 240 kilometres (150 mi) with a 3-square-metre (32 sq ft) cross section.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "9S19M2 \u2013 175 kilometres (109 mi) with an unknown cross-section; it contains two passive electronically scanned arrays with a very high resistance to interference.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "9S32M (TELAR 9A82/9A83) \u2013 range is limited to 200 kilometres (120 mi), can work independently, or receive target designation from the S-300V, or a variety of other target designation data systems (AWACS aircraft and various ground-based radar). Targets with a radar cross-section of 0.1-square-metre (1.1 sq ft) are detected at ranges up to 140 kilometres (87 mi) and are locked on at 120 kilometres (75 mi). The 9S32 detection range against MGM-52 Lance missiles is 60 kilometres (37 mi), aircraft missiles 80 kilometres (50 mi), fighter or ballistic missile (MGM-31 Pershing) 140 kilometres (87 mi) (all of which the U.S. removed from service in 1991).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The ability to hit a target with a cross section of 0.05 square metres (0.54 sq ft) at a distance of 30 kilometres (19 mi) (aiming system in the rocket (10/3 seconds before the missiles hit the target)). In addition, the guidance system inside the rocket supplements missile guidance systems commands from the 9A82 / 9A83 and 9S32, and the missile guidance systems to passively work with the radar illumination and radiation of the 9A82 / 9A83.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A S-300V system may be controlled by the upper level command post system 9S52 Polyana-D4 integrating it with the Buk missile system into a brigade.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "China has built its own version of the S-300V called HQ-18.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The S-300VM (Antey 2500) is an upgrade of the S-300V. It consists of a new command-post vehicle, the 9S457ME, and a selection of new radars. These consist of the 9S15M2, 9S15MT2E, and 9S15MV2E all-round surveillance radars, and the 9S19ME sector surveillance radar. The upgraded guidance radar has the GRAU index of 9S32ME. The system can still employ up to six TELARs, the 9A84ME launchers (up to 4 9M83ME missiles), and up to 6 launcher/loader vehicles assigned to each launcher (2 9M83ME missiles each). An upgraded version, dubbed S-300V4, will be delivered to the Russian army in 2011.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Antey-2500 complex is the export version developed separately from the S-300 family and has been exported to Venezuela for an estimated export price of US$1 billion. The system has one type of missile in two versions, basic and amended, with a sustainer stage that doubles the range (up to 200 km (120 mi), according to other data, up to 250 km (160 mi)), and can simultaneously engage up to 24 aircraft or 16 ballistic targets in various combinations.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "It became the first system in the world capable of simultaneously engaging cruise missiles, aircraft, and ballistic targets. It also contains a private-sector radar for countering targets when affected by interference.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "It was developed to target high-value airborne targets, such as AWACS aircraft, at long distances.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Different versions of the NPO Novator 9M82MD S-300V4 missiles have a range of 400 kilometres (250 mi) at Mach 7.5 or a range of 350 kilometres (220 mi) at Mach 9, and can destroy maneuvering targets even at very high altitudes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The S-400 Triumf (Russian: \u0421-400 \u00ab\u0422\u0440\u0438\u0443\u043c\u0444\u00bb, formerly known as the S-300PMU-3/\u0421-300\u041f\u041c\u0423-3, NATO reporting name SA-21 Growler) was introduced in 1999 and featured a new, larger missile and several upgrades and new features. The project encountered delays since its original announcement, and deployment only began on a small scale in 2006. With an engagement range of up to 400 km (250 mi), depending on the missile variant used, it was specifically designed to counter stealth aircraft. It is by far the most advanced version, incorporating the ability to survive PGM threats and counter advanced jammers by using automatic frequency hopping.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "S-300 variants will work together in various combinations, although interoperability between different variants is limited. Various higher-level mobile commands can coordinate certain variants at various locations into a single battery, and also integrate that battery with other air defence systems. A management system, consisting of command control and radars allows for fully automatic initiation and effective management of up to one hundred targets located up to 30\u201340 kilometres (19\u201325 mi) from the base station. Many tasks \u2013 detection, tracking, target setting, target designation,  target acquisition,  missile guidance, and assessment of results \u2013  can be dealt with automatically. The operator controls the target detection and the launch of rockets. In a complex environment, manual intervention is possible. Few of the previous systems possessed such capabilities.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The S-300 is a multi-channel anti-aircraft missile system whose variants can engage ballistic missiles as well as aircraft and are able to allocate up to 12 missiles to up to 6 different targets. The system can destroy ground targets at a range of 120 kilometres (75 mi), and when launched on a ballistic trajectory, can reach up to 400 kilometres (250 mi). Its vertically-launched missiles allow for the engagement of flying targets in any direction without traversing the launcher.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Early versions are guided by the 30N6 FLAP LID or naval 3R41 Volna (TOP DOME) radar using command guidance with terminal semi-active radar homing. Later versions use the 30N6 FLAP LID B or TOMB STONE radar to guide the missiles via command guidance/seeker-aided ground guidance (SAGG), similar to the U.S.-made Patriot's TVM guidance scheme. The earlier 30N6 FLAP LID A can guide up to four missiles at a time to up to four targets, and can track up to 24 targets at once. The 30N6E FLAP LID B can guide up to two missiles per target to up to six targets simultaneously. Early models can successfully engage targets flying at up to Mach 2.5, or around Mach 8.5 for later models, with one missile potentially being launched every three seconds. The mobile control centre is able to manage up to 12 TELs simultaneously.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The original warhead weighed 100 kg (220 lb), intermediate warheads weighed 133 kg (293 lb), and the latest warhead weighs 143 kg (315 lb). Each warhead is equipped with a proximity fuse and a contact fuse. A warhead will expel from 19,000 to 36,000 metal fragments upon detonation, depending on missile type. The missiles themselves weigh between 1,450 and 1,800 kg (3,200 and 3,970 lb). Missiles are catapulted clear of the launching tubes before their rocket motors fire, and can accelerate at up to 100 g (1 km/s2). They launch straight upwards and then tip over towards their target, removing the need to aim the missiles before launch. The missiles are steered with a combination of control fins and thrust vectoring vanes. The sections below give exact specifications of the radar and missiles in the different S-300 versions. Since the S-300PM, most vehicles are interchangeable across variations.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The 30N6 FLAP LID A is mounted on a small trailer. The 64N6 BIG BIRD is mounted on a large trailer along with a generator and is typically towed with an 8-wheeled truck. The 76N6 CLAM SHELL (5N66M etc.) is mounted on a large trailer with a mast that is between 24 and 39 m (79 and 128 ft) tall. It is usually used with a mast. With the mast, it has a target detection range of 90 kilometres (56 mi) if altitude of the target is 500 metres (1,600 ft) above the ground.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The original S-300P utilises a combination of the 5N66M continuous-wave radar Doppler radar for target acquisition and the 30N6 FLAP LID A I/J-band phased-array digitally-steered tracking-and-engagement radar. Both are mounted on trailers. In addition, there is a trailer-mounted command centre and up to twelve trailer-mounted erector/launchers with four missiles each. The S-300PS/PM is similar but uses an upgraded 30N6 tracking-and-engagement radar with an integrated command post and has truck-mounted TELs.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "If the battery was employed in an anti-ballistic-missile or anti-cruise-missile role, the 64N6 BIG BIRD E/F-band radar would also be included. It is capable of detecting ballistic missiles up to 1,000 km (620 mi) away, travelling at up to 10,000 km/h (6,200 mph), and cruise missiles up to 300 km (190 mi) away. It also employs electronic-beam steering and performs a scan once every twelve seconds.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The 36D6 TIN SHIELD radar can also be used to augment the S-300 system to provide earlier target detection than the FLAP LID radar allows. It can detect a missile-sized target flying at an altitude of 60 metres (200 ft) at least 20 km (12 mi) away, at an altitude of 100 m (330 ft) at least 30 km (19 mi) away, and at high altitude up to 175 km (109 mi) away. In addition a 64N6 BIG BIRD E/F band target-acquisition radar can be used, which has a maximum detection range of 300 km (190 mi).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The S-300 FC Radar Flap Lid can be mounted on a standard pylon.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Decoys \u2013 sometimes equipped with additional devices to simulate electromagnetic radiation in the infrared, optical, and radar - are used for imitating components of S-300 system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Additional means of masking are used, such as MKT-2, MKT-3 and Volchitsa-KR camouflage nets.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "34Ya6E Gazetchik-E system might be used for protection against anti-radiation missiles. A combined MAWS/decoy/aerosole/chaff system is claimed by the developer to have the 85% to 95% probability to defeat a single attacking HARM missile. SPN-30 and Pelena-1 radar jamming systems are also used against airborne radars.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "When using a prepared position for prolonged time, revetments might be used for TELs and additional equipment.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Russian officials have stated that the system has performed well in real-world exercises.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 1991, 1992, and 1993, various versions of the S-300 destroyed ballistic missiles and other objects in exercises, with a high success rate (90% or more if 1 missile interceptor is used).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 1995, it was the first system to destroy a R-17 Elbrus Scud missile in the air.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "China is to test the S-300PMU2's effectiveness in destroying targets in real exercises. The planned targets include a UAV (4.6 kilometres (2.9 mi)), a simulated strategic bomber (186 kilometres (116 mi)), tactical missiles (range of the system to the point of interception 34 kilometres (21 mi) and a height of 17.7 kilometres (11.0 mi)), and pinpoint missiles. In April 2005, NATO held a combat exercise in France and Germany called Trial Hammer 05 to practice Suppression of Enemy Air Defenses missions. The Slovak Air Force brought an S-300PMU along, providing an opportunity for NATO to become familiar with the system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Israel's purchase of F-35 Lightning II fighters was allegedly intended in part to nullify the threat of S-300 missiles that were, at the time the fighters were initially sought, part of a potential arms sale to Iran. The fighter jets were eventually deployed by Israel in late October 2024 and disabled Iran's last three S-300 batteries in the first wave in a three-waved airstrike, thereby severely compromising Iran's air defenses.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2010, Russia announced that its military had deployed the S-300 systems in breakaway Abkhazia in 2008, leading to condemnation from the government of Georgia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "After a Russian Sukhoi Su-24 was shot down over Syria in November 2015, Russia deployed S-300 and S-400 systems to the region \u2013 some to the Khmeimim Air Base, some with the Russian cruiser Moskva.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 17 September 2018, a Syrian S-200 system downed a Russian military plane, killing 15 Russian service members. Moscow accused Israel of indirectly causing this incident, and announced that to keep its troops safe, it would supply Syria with modern S-300 anti-missile rocket systems. Israeli Prime Minister Benjamin Netanyahu objected to the move in a telephone call with Russian president Vladimir Putin, stating that the delivery of S-300 anti-missile rocket systems to \"irresponsible players\" would be dangerous for the region.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2020, Syrian military officials criticized the S-300 air defense systems supplied by Russia, saying they failed to protect Syrian sites from Israeli strikes. One official criticized the detection abilities of the system's radar.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 17 May 2022, Israel said that a Russian-operated S-300 missile system fired a missile at a F-16 operated by the IAF. If confirmed, it would be the first time Russian forces have fired on Israeli jets. According to Channel 13 news, Russia fired 13 missiles at an Israeli F-16, but none of the jets were intercepted by the missile salvos. On 26 July, Israeli Defence Minister Benny Gantz confirmed the initial report of one missile being fired by a Russian-operated S-300 system. However, he downplayed the incident as a \"one-off\", further stating that \"our jets weren't even in the area\". As the missile had not locked on, it was no threat to Israeli jets. It still remains the first use of an S-300 against the Israeli Air Force.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "During the 2020 Nagorno-Karabakh conflict, the S-300 system took active part in an armed conflict for the first time, different versions being listed in the active inventory of both sides. The Armenian systems were initially deployed around Yerevan.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 29 September 2020, Azerbaijan reported that Armenia was moving its S-300 systems closer to the conflict zone, and vowed their destruction. On 30 September 2020, Azerbaijani Armed Forces claimed the destruction of an Armenian S-300 system without providing further details.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The first alleged combat firing of the S-300 happened during the night between 1 and 2 October when the Armenian Ministry of Defense claimed that Armenian S-300s had downed three Azerbaijani drones (not missiles as initially claimed) bound for Yerevan.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 17 October 2020, Azerbaijani Armed Forces claimed the destruction of two radar elements that were part of an active Armenian S-300 SAM site being hit by a Bayraktar TB2 UCAV.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "At the time of the Russian invasion of Ukraine on 24 February 2022, Ukraine had around 100 active S-300 batteries with as many as 300 launchers inherited upon the collapse of the Soviet Union in 1991. By 8 April, the Russians had knocked out at least 21 of the S-300 launchers that outside analysts confirmed with photos or videos, with the actual total of destroyed launchers likely higher. Ukrainian President Volodymyr Zelenskyy, in his message of 16 March to the U.S. Congress, had consequently asked specifically for help acquiring more of the long-range missiles. \"You know what kind of defense systems we need: S-300 and other similar systems\", Zelenskyy said.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The United States and its allies tried to figure out how to deliver S-300s to Ukraine. One plan was for Slovakia to transfer to Ukraine its single battery of S-300s, in exchange for the United States or some other country supplying Slovakia with a new air-defense system, such as the American-made Patriot. A few days after Zelenskyy asked for S-300s, Germany agreed to deploy some of its Patriots to Slovakia, as part of a NATO battlegroup.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 30 March, Prime Minister Eduard Heger of Slovakia told CNN that he supported sending some of his country's own S-300s to Ukraine \"because this is the equipment that Ukraine needs the most\". On 8 April, U.S. President Joe Biden confirmed that Slovakia had transferred a Soviet-era S-300 system to Ukraine and said that the U.S. would reposition an American Patriot missile system to Slovakia in return. It appears that only one battery that was donated, which was a system that Slovakia inherited from the dissolution of Czechoslovakia in 1993.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 11 April, the Associated Press reported Russia's claims to have destroyed several air defense systems in Ukraine over the previous two days, indicating a renewed push to gain air superiority and take out weapons Kyiv described as crucial, ahead of a broad new Russian offensive in the east. Moscow claimed to have hit four S-300 missile launchers provided by a European country it did not name, but never showed any concrete evidence of that. Slovakia had given Ukraine such a system the previous week, but denied that it had been destroyed. Russia previously reported two strikes on similar systems in other places.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In early April, Iran also reportedly returned a large number of S-300 systems, for use against Ukraine, which it had purchased from Russia in 2007, along with a quantity of its own Iranian-made version, the Bavar-373, which has similar capabilities. Iran Foreign Minister Amir Abdollahian refuted allegations of arms transfers to Russia in a call with Ukraine Foreign Minister Dmytro Kuleba.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 8 July, the governor of the Mykolaiv Oblast, Vitaly Kim, claimed that Russia had been using S-300 missiles in a land-attack role by fitting them with GPS guidance and that some 12 missiles were fired using such guidance. On 30 September, The Wall Street Journal reported the claim of Kyrylo Tymoshenko, an adviser to President Zelenskyy, that 16 Russian S-300 missiles configured for ground-attack struck near Zaporizhzhia, killing at least 30 civilians and wounding 50 others. Debris from S-300 missiles was found after having struck buildings in Kharkiv on 8 October. Analysts from McKenzie Intelligence Services and the Center for Strategic and International Studies said that these missiles were likely from Russian systems repurposed for ground attack due to the dwindling stock of more precise dedicated anti-surface missiles.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Stationary surface targets do not necessarily require retrofitting, as the original design accommodates them \u2013 particularly those that emit radiation, such as radars, which S-300 missiles can target precisely with onboard radiation tracking. However, some of the reported surface-to-surface missile strikes by S-300 missiles may actually be instances of Ukrainian S-300s failing to intercept targets, and subsequently falling onto civilian areas on the ground. The most notable case of such unintentional strikes occurred on 15 November 2022, when a stray S-300 missile on a ballistic trajectory fell near the village of Przewodow in Poland, killing 2.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 14 April 2023, Sloviansk was hit by seven S-300 missiles, which killed at least 11 people. Russian S-300 strikes in Pokrovsk Raion on 6 January 2024 killed 11 and injured 8 according to local officials.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 10 June 2024, Ukrainian forces launched an attack near Chornomorskiy in Crimea destroying S-300 missile launchers.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 21 August 2024, the Ukrainian military claimed to have struck a Russian S-300 air defense system in Rostov Oblast possibly with a Neptune missile.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The S-300 is mainly used in Eastern Europe and Asia, although sources are inconsistent about which countries possess the system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Azerbaijan bought two S-300PMU2 (SA-20B) SAM battalions for US$300 million in 2010, delivered in 2011",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Belarus \u2013 S-300PS systems delivered from Russia in 2007 to replace older S-300 model in the Belarusian inventory. Four divisions of S-300 missiles to be delivered in 2014.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Bulgaria \u2013 8 S-300 launchers in service as of 2024. Divided into 2 units with 6 launchers each .",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "People's Republic of China \u2013 China first acquired the S-300PMU-1 in 1993, and later became the first customer of the S-300PMU-2, in 2004. China also built the HQ-15 with the maximum range upgraded from 150 to 200 km (93 to 124 mi). The total number of the S-300PMU/1/2 and HQ-15/18 batteries in the PLA are approximately 40 and 60, respectively, as of 2008. The total number of the missiles is well above 1,600, with about 300 launcher platforms. Five such SAM battalions are deployed and in active duty around the Beijing region, six battalions are in the Taiwan strait region, and the rest are in major cities such as Shanghai, Chengdu, and Dalian. Two Rif (SA-N-6) systems were purchased in 2002 for the Chinese Navy's Type 051C destroyers. By 2011, China had obtained 15 battalions (4 systems) of the S-300PMU-2.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Egypt \u2013 The S-300VM \"Antey-2500\" missile system was ordered in 2014, as part of a billion-dollar Egyptian-Russian arms deal signed later that year. The $1 billion contract comprises 4 batteries, a command post and other external elements. In 2015, Russia started delivering the system components, and Egyptian soldiers began their training in Russian training centers. By the end of 2017, all batteries had been delivered to Egypt. Russia is in talks with Egypt on the delivery of additional Antey-2500 systems.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Iran \u2013 Originally purchased in 2007. Russia maintained a self-imposed ban on the sale of the S-300 until the easing of some US sanctions as part of the Iran nuclear deal framework in April 2015 and subsequent Joint Comprehensive Plan of Action. Iran received four S-300PMU2 batteries from Russia in 2016, each consisting of a 96L6E target-acquisition radar, a 30N6E2 target-engagement radar, and four 5P85TE2 towed transporter-erector-launchers (TELs). The systems are supported by two 64N6E2 battle-management radars and linked using FL-95 antenna masts. The S-300s are operated by the Islamic Republic of Iran Air Defense Force.  During air strikes on military targets in Iran in April and on Oct. 26 2024, Israeli aircraft disabled all of Iran's Russian S-300 anti-aircraft missile systems after Iranian radar systems were \u201cbreached\u201d causing their screens to freeze.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Kazakhstan \u2013 10 battalions after the refurbishment (PS \u2013 version) (2009 or later), 5 free of charge (2014), and 5 free of charge (2015).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "North Korea \u2013 North Korea has conducted tests with a system called Pongae-5 (KN-06).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Russia \u2013 All variations. (1900 (S-300PT/PS/PMU, 200 S-300V/S-300V1 in 2010)), 2000 total launchers. All production in 1994 (actually 1990) or older, all the S-300PM complexes have been repairing and upgrading (Favorit-S). The S-300P/PT has been retired before 2008, some S-300PS are in service, but were to be retired in 2012\u20132013. Modernization of all S-300P units to the S-300PM1 version was to end in 2014. The useful life of each was increased by 5 years. PM 1 was upgraded to version PM 2. By 2015, the S-300V4 was to have been delivered. Modernization of all S-300Vs to S-300V4s was to end in 2012.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Ukraine \u2013 S-300PT, S-300PS, S-300PMU, S-300V1. Only six systems were kept in working order between 2004 and 2014; as a result, only 40% of Ukrainian S-300 systems were in good condition prior to 2014. Due to the war with Russia, Ukraine started repairing and bringing back to service several armaments, including several S-300 batteries, with at least 4 batteries overhauled in 2014\u201315. 34 launchers remained in Crimea after the 2014 Russian annexation of Crimea. Prior to the 2022 Russian invasion of Ukraine, the country had around 100 batteries. It received an additional battery from Slovakia in April 2022.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Venezuela \u2013 Ordered 2 battalions of S-300VM \"Antey-2500\", which were delivered in May 2012.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Vietnam \u2013 Bought two S-300PMU-1 systems (12 launchers) for nearly $300 million and RLS 96L6 after 2009. The systems were likely upgraded to the S-300PMU2 standard.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Czechoslovakia \u2013 One battalion created in 1990. Passed to Slovakia in 1993.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "East Germany \u2013 One S-300PMU system delivered in 1989. Inspected by West German Air Force personnel in late August 1990. Returned to the Soviet Union in September 1990 as \"sensitive technology\" after negotiations between East Germany and the USSR.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Greece \u2013 An S-300 PMU1 system acquired after the Cyprus Missile Crisis and operated by HAF on Crete, consisting of 1 regiment/4 systems/8 fire units/32 launchers / 175 missiles. Greece first fired an S-300 during the White Eagle 2013 military exercise, which was the first time it was used since it had been bought 15 years earlier. According to Greek Defence Minister Nikos Panagiotopoulos Greece was prepared to transfer its S-300 system to Ukraine in exchange for a PAC-3 Patriot missile system. Additionally stating that: \"The same procedure applies to any other Russian made air defense system that they may want to send to Ukraine.\" However,  ultimately, the Greek PM Kyriakos Mitsotakis denied Greece's preparedness to send the S-300 to Ukraine for concerns that this move would create a gap in Greece's air defence. Despite initially being wanted by Ukraine, the Hellenic Air Force will be sending the S-300 to Armenia.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Slovakia \u2013 One S-300PMU battery and 48 5V55R missiles inherited from Czechoslovakia. 3 missiles were fired during an exercise in Bulgaria in 2015. The battery was donated to Ukraine in April 2022 in response to the 2022 Russian invasion of Ukraine.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Ba'athist Syria \u2013 An order for 6 systems was signed in 2010. Syrian crews underwent training in Russia, and some of the S-300 components were delivered to Syria in 2013. Later, due to the weapons embargo against Syria and at the request of Israel, the deliveries were halted. After the Russian Su-24 shootdown in November 2015, S-300 missile batteries were officially deployed to Latakia province for the protection of the Russian naval base and warships at Tartus. These are operated by Russian crews. Russia was reconsidering deliveries of the S-300 to Syria after the missile strikes against Syria in April 2018, but this did not happen. Following the Syrian military's downing of a Russian Il-20 aircraft in Syria in September 2018, using a S-200 system (for which Russia held Israel responsible), Russian defense minister Sergei Shoigu on 24 September said that within two weeks, the Syrian Army would receive S-300 systems. Though the S-300 variant was not specified, the stated range of the system was to be 250 kilometres (160 mi). On 2 October 2018, Shoigu told President Putin during a broadcast meeting that the delivery of the S-300 system to Syria had been completed a day prior. On 8 October 2018, the Russian news agency TASS reported that three S-300PM battalions had been given to Syria free of charge, citing \"On 1 October three battalion sets of S-300PM systems of eight launchers each were delivered to Syria\". According to the source, the deliveries also included more than 100 surface-to-air missiles for each battalion. It is operated by the Syrian Air Defense Force. In 2022, the systems were removed from Syria.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "United States \u2013 S-300P, devoid of electronics, purchased from Belarus in 1994. S-300V was purchased in Russia officially in the 1990s (complete set (except for 9S32 GRILL PAN multi-channel guidance radar)).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Cyprus \u2013 S-300 PMU1 system transferred to Greece after the Cyprus Missile Crisis and operated by the HAF on Crete.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "S-300 and various other system (in English language) in the Russia (official developer site).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "S-300PMU2 Favorit Archived 24 July 2008 at the Wayback Machine EnemyForces.com",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "\"Antey 9K81 S-300V \u2013 SA-12A/B Gladiator/Giant\". ausairpower.net: 1. 23 December 2006.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Matching of the Patriot (1/2/3) against the S-300 (v/ Antey 2500). In English. Used 8 parameters. Admonition. This test is not officially authenticated but not refuted.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Aviation Week S-300 Surface-To-Air Missile System Archived 8 August 2019 at the Wayback Machine",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The S-400 Triumf (Russian: C-400 \u0422\u0440\u0438\u0443\u043c\u0444 \u2013 Triumf; translation: Triumph; NATO reporting name: SA-21 Growler), previously known as the S-300 PMU-3, is a mobile surface-to-air missile (SAM) system developed in the 1990s by Russia's NPO Almaz as an upgrade to the S-300 family of missiles. The S-400 was approved for service on 28 April 2007 and the first battalion of the systems assumed combat duty on 6 August 2007. The system is complemented by its successor, the S-500.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The development of the S-400 began in the early 1980s to replace the S-200 missile system, but was rejected by a state commission due to high cost and inability to address the threat of cruise missiles. In the late 1980s, the programme was revived in under the codename Triumf as a system capable of engaging aircraft at long range plus cruise missiles and stealth aircraft. The Soviet government approved the Truimf programme on 22 August 1991, but the collapse of the Soviet Union put development into limbo. It was announced by the Russian Air Force in January 1993. On 12 February 1999 successful tests were reported at Kapustin Yar in Astrakhan, and the S-400 was scheduled for deployment by the Russian army in 2001. The S-400 was officially revived on 7 July 1999, albeit as a modernization of the S-300PM rather than an S-200 replacement. Alexander Lemanskiy of Almaz-Antey was the Chief Engineer on the S-400 project.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2003, it became apparent that the system was not ready for deployment. In August, two high-ranking military officials expressed concern that the S-400 was being tested with older interceptors from the S-300P system and concluded that it was not ready for deployment. The completion of the project was announced in February 2004. In April, a ballistic missile was successfully intercepted in a test of the upgraded 48N6DM missile. The system was approved for service by the government on 28 April 2007. Russia had accepted for service the 40N6 long-range missile for the S-400 air-defence system, a source in the domestic defense industry told TASS news agency in October 2018.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The S-400 Triumf and Pantsir missile system can be integrated into a two-layer defense system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "S-400 missile systems are organized around the 30K6E administration system, which can coordinate eight divizions (battalions).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The 55K6E is a command and control center based on the Ural-532301 vehicle. The 91N6E is a panoramic radar detection system with a 340 km (210 mi) range and protection against jamming, and is mounted on an MZKT-7930 vehicle. Six battalions of 98ZH6E surface-to-air missile systems (an independent combat system) can track no more than six targets on their own, with an additional two battalions if they are within a 40-kilometre (25 mi) range. The 92N6E (or 92N2E) is a multi-functional radar with a 340-kilometre (210 mi) range, which can track 20 targets. The 5P85TE2 transporter-erector-launcher and the 5P85SE2 on a trailer (up to 12 launchers) are used for launch. The 48N6E, 48N6E2, 48N6E3, 48N6DM, 9M96E, 9M96E2, and the ultra-long-range 40N6E missiles have been authorized by a Russian presidential decree.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Optional elements of the S-400 (98ZH6E) include the 15I6ME\u201398ZH6E, which extends coverage 30, 60, and 90 km (19, 38, and 57 mi) from that provided by the 30K6E. The 96L6E has a 300-kilometre (190 mi) detection range. The 40B6M is housing for the 92N6E or 96L6E radar. The Protivnik-GE is an anti-stealth UHF radar with a 400-kilometre (250 mi) range. The Moscow-1 passive sensor is 2+1\u20442 times more effective than the Protivnik, with a 400-kilometre (250 mi) range Orion for a target-designation on-the-air defense system, and the Avtobaza-M and Orion+ Avtobaza add high-precision detection. The 1RL220BE versions were reportedly used for jamming. The 400-kilometre (250 mi)-range S-200D Dubna (SA-5c) missiles and S-300 P-family radar systems can be used without additional command-and-control centers. S-300 (SA-20A, SA-20B) missiles may also be guided.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A-50 and A-50U aircraft provide early warning and command-and-control target designation.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The 30\u041a6\u0415 control system can be integrated with the S-400 Triumf 98ZH6E system; the S-300PMU2 (through the 83\u041c6\u04152 control system); the S-300PMU1 (through the 83\u041c6\u0415 control system); the Tor-M1 through the Ranzhir-M battery-command post; the Pantsir-S1 through the lead battery vehicle. The Protivnik-GE and Gamma-DE radars, integrated with the 92H6E radar system, enables communication between each battery with Baikal-E senior command posts and similar types; nearby 30\u041a6\u0415, 83\u041c6\u0415 and 83\u041c6\u04152 administration systems; the Polyana-D4\u041c1 command post; fighter-aircraft command post, and mobile long-range radars. The system's VHF component provides sector search-and-tracking, with the X- and L-band components providing fine-tracking capability. Good placement of the radars relative to the threat axis enables the L- and X-band components to illuminate the incoming target from angles where the target radar cross-section (RCS) is sub-optimal. The RLM-S and RLM-D have better elevation-tracking accuracy than the RLM-M, and the Nebo-M should be capable of producing high-quality tracks suitable for mid-course guidance of modern surface-to-air missiles and trajectory guidance of legacy SAMs.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Gamma-C1E SHF mobile radar station has a 300-kilometre (190 mi) detection range. The Nebo-M VHF mobile radar station and the Resonance-NE radar station have a detection range of 400 kilometres (250 mi), and 40 kilometres (25 mi) to an altitude of 500 metres (1,600 ft). All Nebo-family locators are doubled for army air defense. During the 1970s, the long-range mobile UHF 5H87, and SHF 5H69 low-altitude locators were used. A goal of the 1980s was detection at an altitude of 10 metres (33 ft) at a distance of 40 km (25 mi). The Elbrus-90 computer is used to control the system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "According to the Almaz-Antey product brochure, the 92N6E multi-function radar acts as the primary radar with an actual detection range of 340 km. An interceptor missile is highly dependent on 92N6E multi-function radar rather than Nebo-SVU high-altitude VHF radar.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The 91N6E panoramic radar has a declared targeting range of 150 km (93 mi)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "For a ballistic target (speed of 4800 m/s and a RCS of 0.4 square metres): 200 km (120 mi)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "For a target with RCS of 4 square metres: 340 km (210 mi)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "For targeting of strategic-bomber sized types: 340 km (210 mi)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The 96L6 high-altitude detector (TSBS) radar and equipment operates independently of the 96L6E low-level radar detector. The 96L6E2 export version can track a maximum of 20 targets, and is resistant to false returns of clutter in mountainous terrain. It can perform the functions of a command post for battalions of S-300 (SA20/20A/20B) or S-400. The 96L6-1 serves as command of S-400 and S-500 batteries.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "PBU 55K6E command center with a maximum distance between the command center and the battalion of 98ZH6E when re-transmitters are being used is 100 km (62 mi).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Missiles are launched from 5P85TE2 self-propelled launchers or 5P85SE2 trailer launchers operating in conjunction with a BAZ-64022 or MAZ-543M tractor-trailer. A new type of transporter was introduced in 2014 to improve mobility while reducing fuel consumption. The cost of transporters in 2014 is 8.7 million rubles. The MAZ launcher chassis are reportedly of higher quality than the domestic equivalent.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "One system comprising eight divizion (battalions) can control 72 launchers, with a maximum of 384 missiles (including missiles with a range of less than 250 km [160 mi]). A gas system launches missiles from launch tubes. At 30 metres (98 ft) downrange rocket motor ignition activates. In April 2015, a successful test firing of the missile was conducted at an airborne target at a range of 400 km (250 mi); transporter erector launchers (TELs) carrying the long-range 40N6 may only hold two missiles instead of the typical four due to their large size. Another test recorded a 9M96 missile using an active radar homing head that reached an altitude of 56 km (35 mi). All missiles are equipped with directed explosion warheads, which increases the probability of complete destruction of aerial targets but are less effective against ballistic targets. In 2016, Russian anti-aircraft missile troops received upgraded guided missiles for S-300 and S-400 defense systems. The anti-aircraft version of the missile system, designed to destroy aircraft, cruise, and ballistic missiles, can also be used against ground targets. The S-400 is able to intercept cruise missiles at a range of only about 40 km (25 mi) due to their low-altitude flight paths.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The anti-ballistic missile (ABM) capabilities of the S-400 system are near the maximum allowed under the (now void) Anti-Ballistic Missile Treaty.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The new anti-ballistic missiles 77N6-N and 77N6-N1 to enter service in 2022 supposedly add inert/kinetic anti-ballistic capability to the S-400 system and are too large for the SA-20. The same missiles will also be used by the S-500, which has a clearly stated ABM role.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A separate independent air defense system, the 42S6 Morfey (Morpheus) is being developed. This system is designated as a short-range air defense system to protect the S-400 from various threats during its terminal phase, and will also act together with the S-350E as a supplement to the S-400. Together, these systems form part of the Russian Aerospace Defence Forces.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Development of Morfey started in 2007 and was planned to be introduced in 2013, but was delayed until at least 2015, in 2023 the development is not completed. The missile system consists of omnidirectional 29YA6 radar and 36 missiles. The missiles have up to 10 km (6.2 mi) range and an altitude of up to 3500 m.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "An external independent target system is in the works (RLS \"Niobium\"). Mobility looks to be in the 5 minute range. It uses multiple frequency capability (band S and UHF) with a declared detection parameter of a 1 square meter RCS at 430 km (270 mi) including a target speed of 8000 km/h (4791 mph, Mach 6.35). The detection system requires the operator to transfer command of targeting to subordinate systems; in this application, the maximum target speed is obtained by use of the subordinate systems.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Ballistic missiles with low probability (range up to 3,500 km)",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "All-purpose maximum radial velocity is 4.8 kilometres per second (17,000 km/h; 11,000 mph; Mach 14); absolute limit 5 kilometres per second (18,000 km/h; 11,000 mph; Mach 15), the minimum target speed is zero.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The complex can move on roads at 60 km/h (37 mph) and off-road at speeds up to 25 km/h (16 mph).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "According to the Pravda state newspaper, the price of one battalion (about 7\u20138 launchers) is US$200 million.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 21 May 2007 the Russian Air Force announced that S-400 systems would be put on combat duty near the town of Elektrostal in Moscow Oblast, to defend Moscow and Central Russia, by 1 July 2007. On 6 August 2007 the first regiment equipped with S-400 systems entered active service near Elektrostal, according to Channel One Russia. The regiment was the 606th Guards Anti-air Rocket Regiment, 9th PVO Division, 1st PVO Corps, of the Special Purpose Command.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 8 February 2008 Lt. Gen. Vladimir Sviridov announced that Russia would be replacing the S-300 systems in the northwest of Russia with the S-400. Military experts expect Russia's use of the system as a major component of their ballistic missile defense until 2020.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In September 2006 Deputy Prime Minister Sergei Ivanov announced the purchase of 18 S-400 battalions for internal defense for the period 2007\u20132015.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Baltic Fleet in Kaliningrad received S-400 SAM systems which went into operational status in April 2012. One S-400 divizion is deployed on combat duty in the Russian far east city of Nakhodka.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As of 2012, one system (in Electrostal) was operational, with three more S-400 battalions being deployed. All 56 battalions will be delivered by 2020.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Russia plans to recommission the Kirov-class battlecruiser Admiral Nakhimov in 2023. Plans called for the installation of the 48N6DMK anti-aircraft missile derived from the land-based S-400. This will extend the Kirov's air defense from 100 km (62 mi; 54 nmi) to 250 km (160 mi; 130 nmi).  Adm. Vladimir Korolev stated at that time that Russia's Northern Fleet's Coastal Forces had deployed S-400s.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 1 March 2016 the acting commander of the 14th Air Force and Air Defense Army, major general Vladimir Korytkov, said that six S-400 units had been activated at the air defense formation in Russia's Novosibirsk Oblast. TASS also reported that as of the end of 2015, a total of eleven Russian missile regiments were armed with S-400, and by the end of 2016 their number was expected to increase to sixteen.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "It was reported in November 2015 that S-400s would be deployed to Syria along with the contingent of Russian troops and other military hardware in the course of the air campaign conducted by the Russian forces in support of the Syrian government. However, those claims were refuted by Russia. On 25 November 2015 the Russian government announced it would deploy S-400s in Syria as a response to the downing of its Su-24M jet by Turkey. By the next day, deployment of S-400 air defense systems to Syria was underway. The first S-400 unit was activated at the Khmeimim Air Base in Latakia Governorate. In April and July 2017 a second S-400 unit was activated 13 km (8.1 mi) northwest of Masyaf, Hama Governorate. Although these systems are located in Syria, they are under the command of the Russian military and not the Syrian (nor Iranian) military, making the Russian government liable if used against another state (that is, its use would be considered an attack by Russia rather than Syria).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 22 May 2018 Israeli Air Force commander Major General Amikam Norkin reported that Israel became the first country in the world to use the F-35I Adir in combat during recent clashes with Iran in Syria. In mid-2020, several media outlets, including Turkish media, questioned the combat capability of the S-400 air defense system. In late December 2021, the Israeli Air Force flew military jets over areas protected by S-400 and Pantsir SAM in Syria and bombed Iran-backed Hezbollah militia based in Latakia. Russia operates a naval base in the port of Tartus, 85 km (53 mi) to the south near the port of Latakia. Considering the engagement range advertised by the Russians, the S-400 could have engaged Israeli aircraft but did not. Neither Russian fighter jets nor the S-400 systems attempted to intercept the Israeli aircraft. It is widely believed that Russia and Israel have an agreement that Israel will guarantee the safety of Russian personnel and assets during its strikes on non-Russian targets in Syria and in return, Russia will not target Israeli aircraft nor repel Israeli strikes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Initial Ukrainian sources claimed that, on 25 February 2022, the Su-27 of Ukrainian Colonel Oleksandr Oksanchenko was shot down by an S-400 over Kyiv.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 14 April 2022, the Russian Defence Ministry claimed that a Ukrainian Mi-8 was shot down by a S-400 near Horodnia, Chernihiv Oblast on its way to an air base following an attack on Russian territory near Klimovo, Bryansk Oblast.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In August 2022, Ukraine claimed that a 92N6E radar used in the S-400 SAM system was destroyed in Kherson region.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 16 October 2023, units from the Ukrainian Special Operations Forces carried out precision strikes targeting two key Russian airbases in Berdiansk and Luhansk destroying S-400 surface-to-air missiles.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 30 October 2023, Ukraine launched ATACMS missiles with M39 munition that destroyed Russia's S-400 surface-to-air missile in Luhansk Oblast.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 23 August 2023, GRU released a video of two alleged elements of an S-400 battery being destroyed in Olenivka, Crimea, 120 km (75 mi) south of Kherson, by a barrage of Ukrainian missiles. Ukrainian forces, according to Ukrainian media, used a R-360 Neptune and a drone to destroy the missile's radar.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 14 September 2023, Ukraine claimed to have destroyed a Russian S-400's radar near Yevpatoria, Crimea. On 4 October 2023, Ukrainian kamikaze drone destroyed one radar and a missile launcher of S-400 system in Belgorod region.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In late October 2023, Russian sources claimed that the S-400 was used in conjunction with the Beriev A-50 flying radar to shoot at Ukrainian air targets with new warheads of anti-aircraft guided missiles.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 9 November 2023, the UK MoD intelligence assessment indicated that due to the destruction of \"several\" Russian S-400s in Ukraine, Russia may have to redeploy S-400 systems from \"distant parts\" of Russia's borders to Ukraine.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 19 April 2024, Ukraine launched ATACMS missiles at Russian military airfield in Crimea and destroyed Russia's S-400 launchers, three radars and Fundament-M air surveillance system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 23 April 2024, Ukraine's Tivaz Artillery Battery launched American-made HIMARS at Russia's S-400 missile system's 92N2 radar and 96L6 high-altitude radar and destroyed both of the radar system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 28 April 2024, Ukraine launched multiple ATACMS missiles at Russian based in the occupied Crimean peninsula and destroyed Russian S-400 air defence systems.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 6 May 2024, Ukrainian forces reportedly destroyed a tracked version of Russian S-400 missile launcher in the occupied Zaporizhzhia region.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 30 May 2024, the Security Service of Ukraine (SBU) destroyed a Russian Nebo-SVU long-range VHF surveillance radar system in Crimea. The Nebo-SVU is a surveillance radar deployed as part of the S-400 missile system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Russians have been reported to use reprogrammed S-400 missiles to launch ballistic ground-to-ground attacks. In one such attack on 13 December 2023 out of 10 missiles fired at Kyiv, all were supposedly downed, but falling debris still caused some damage in residential regions. The missiles were most likely reprogrammed 48N6.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 3 June 2024, Ukrainian forces destroyed for the first time an S-400 air defence missile system in Belgorod using a U.S.-supplied M142 HIMARS rocket launcher.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 10 June 2024, Ukrainian forces struck a Russian antiaircraft missile system, including S-400 missile launchers in the Dzhankoy area in Crimea. According to a Newsweek report, visual confirmation and satellite mapping confirmed that Russia lost fifteen air defence systems in Crimea, including missile launchers, power supply units and radar stations to Ukrainian ATACMS and drone strikes.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 2 August 2024, Ukraine struck four Russian S-400 surface-to-air missile systems in Crimea. According to CNN news, four S-400 systems were severely damaged by the Ukrainian attacks.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 24 November 2024, Ukraine struck one Russian S-400 surface-to-air missile systems in Kursk region. The S-400 missile launchers were targeted by U.S.-made ATACMS missile.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 27 January 2025, videos emerged of a 96L6E radar of the S-400 reportedly being hit by a Ukrainian HIMARS missile.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 29 August 2025, a video emerged of a Russian 91N6E radar of the S-400 reportedly being hit in Crimea by a Ukrainian drone.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In 2011 State Secretary of the Union State of Russia and Belarus Pavel Borodin stated that Russia will supply the S-400 air defense system to Belarus. On 1 December 2021 Belarus President Alexander Lukashenko, in response to a reporter's question, replied that a Belarusian training center already has S-400 systems. The president said: \"Yes. We train our guys in this training center. I'd like to ask the president [of Russia] to leave this system here.\"",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In March 2014, it was announced that Russian President Vladimir Putin had given authorization to sell the S-400 system to China. On 13 April 2015, the chief executive of the Russian state-run arms trader Rosoboronexport confirmed that China secured a contract for the purchase of the S-400 air defense system. Delivery of the system began in January 2018. China test fired Russian S-400 systems for the first time in early August 2018. Deliveries were reportedly postponed after the delivery of two S-400 units.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The acquisition of S-400, reported to initially consist of six batteries, improves China's air space defense. A reported 400 km (250 mi) coverage range would allow China's defense to cover all of the Taiwan Straits and the Diaoyu Islands. Taiwan plans countermeasures using signals intelligence units to locate and destroy S-400 systems before they can be used.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In late 2017 Turkish and Russian officials signed a US$2.5 billion agreement for delivery of the S-400 air defense system to Turkey. The US Secretary of State raised concerns over the deal, which were rebuffed by President Erdogan and other Turkish officials, citing the US refusal to sell the upgraded MIM-104 Patriot to Turkey, considered to be an important American ally by the US. Turkey received its first installment of the Russian S-400 missile defense system on 12 July 2019. On 17 July 2019, Turkey was suspended from the F-35 program, the US stating \"F-35 cannot coexist with a Russian intelligence collection platform that will be used to learn about its advanced capabilities\" and on 14 December 2020, the US imposed CAATSA sanctions on Turkey. As of 2020, 4 batteries consisting of 36 fire units and 192 or more missiles were delivered to Turkey.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A deal to purchase S-400 systems by India was first reported in October 2015. On 15 October 2016, during the BRICS Summit, India and Russia signed an Inter-governmental Agreement (IGA) for the supply of five S-400 regiments to India. On 1 July 2018, the Defence Acquisition Council (DAC), chaired by the then Defence Minister Nirmala Sitharaman, cleared the procurement. The deliveries were expected to commence within 24 months after contract signing (October 2020) while they would complete all deliveries within 60 months (April 2023). On 26 September 2018, the Cabinet Committee on Security (CCS), headed by the Prime Minister Narendra Modi further cleared the acquisition. The US$5.43 billion deal (\u20b940,000 crore) was formally signed on 5 October 2018, ignoring the threat of US sanctions.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In March 2021, U.S. Secretary of Defense Lloyd Austin discussed India's planned purchase of Russia's S-400 air missile system and warned that the purchase of S-400 could trigger CAATSA sanctions.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 5 August 2025, the Defence Acquisition Council (DAC) accorded the Acceptance of Necessity (AoN) for the comprehensive annual maintenance contract of S-400 missile systems.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In October, it was reported that top officials from the Indian defence ministry is expected to meet their Russian counterparts for the purchase of five additional systems of S-400. These systems will be either directly delivered from Russia or jointly manufactured in India. The cost of these systems will be based on the 2018 deal except for compensating the annual price escalations. The deal is expected to be cleared before the scheduled visit of Russian President, Vladimir Putin, to India on 5 December. Reports also debunked the purchase of any S-500 missile system by India.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "As reported on 21 October 2025, the DAC is expected to approve a deal worth \u20b910,000 crore (US$1.2 billion) to procure missiles to equip the S-400 systems. The approval is expected to be granted during the DAC meet scheduled on 23 October.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Delivery of the remaining two systems are likely to be dependent on the resolution of issues such as insurance and establishment of mechanism for balance payments which are delayed due to sanctions on Russia following the 2022 Russian Invasion of Ukraine. Delivery expectations were later revised to August 2026.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In February 2025, it was reported that in the fourth regiment is to be delivered by the end of the year while the last regiment would be delivered by 2026, later revised to February and August 2026.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The S-400 system is named Sudarshan Chakra in Indian service, after Sudarshan Chakra and is unified with the Integrated Air Command and Control System (IACCS). Each battalion is composed of two batteries. Each battery (or firing unit) is equipped with 6 launchers, a radar and a control center with 128 missiles. A battalion has a total of 16 vehicles. India bought a total of 60 launchers with around 6,000 missiles including 9M96E2 (120 km), 48N6E2 (200 km), 48N6E3 (240 km) and 40N6E (380 km).",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In July 2024, during an air defence exercise of the Indian Air Force, the S-400 system 'shot down' 80% of the 'aggressor aircraft'. Some Indian jets were used as aggressor jets which were tracked, targeted and locked on by the S-400 system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "On 10 May 2025, it was claimed by several media outlets that an IAF S\u2011400 system intercepted and destroyed a PAF AWACS aircraft approximately 314\u202fkm inside Pakistani airspace.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In August 2025, Indian Air Chief Marshal Amar Preet Singh claimed India had, in May, shot down five Pakistani fighters. Singh also stated that in addition, a \"large aircraft\" had been shot down at a distance of 300 km, and described it as the \"largest-ever recorded surface-to-air kill that we can talk about\". The Marshall attributed most of the downed aircraft to the S-400 system. Pakistan has rejected these claims.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "During the 2025 India\u2013Pakistan conflict, the Pakistan Air Force had claimed they destroyed components of India's S\u2011400 air defence system deployed at Adampur Air Force Station.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "The Indian Ministry of External Affairs (MEA) however rejected Pakistan's claim of damage to the S-400 system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Prime Minister Narendra Modi visited the Adampur Air Force Station in Punjab on 13 May 2025, and posed in front of an S-400 system that appeared visually undamaged.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In September 2009 the S-400 was reportedly part of a US$2 billion arms deal between Russia and Saudi Arabia. The Saudis wanted to acquire the S-400, but Russia was only willing to sell S-300 air defense system at the time. By November 2019 the deal had still not been finalized. Saudi Arabia is no longer considering the Russian S-400 air defense system, following the kingdom's deal for an American alternative. The American Terminal High Altitude Area Defense (THAAD) system has been cleared for sale to the Saudis by the U.S. State Department. The sale of the THAAD package sold to Saudi Arabia is estimated at $15 billion in 2017 dollars.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In June 2019 some Iranian officials expressed interest in procuring the S-400 missile system to further improve its defense capabilities along with the previously purchased S-300PMU2. Russia stated at the time it was ready to sell the S-400 system to Iran if an official request was made. In November 2024, Davood Sheikhian, deputy for operations of the IRGC Aerospace Force, stated that Iran never requested the S-400 systems, and that Iran's current capabilities were far superior to them, additionally stating that Iran is actively using the S-300. This is in contradiction both to reports from Iran's media outlets addressing its attempts to acquire the S-400, and to other reports of the disabling of all active S-300 systems belonging to Iran during Israeli airstrikes. An Iranian lawmaker said on 23 September 2025 that S-400s are being supplied to Iran \"in significant numbers\".",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In February 2017 Sergey Chemezov, CEO of Rostec, stated that Egypt was interested in the S-400 air defense system. He explained that Russia offered to sell Egypt either the Antey-2500 or S-400. According to Chemezov, the negotiations were delayed due to Egypt's financial issues.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In February 2018 Iraqi Minister of Foreign Affairs Ibrahim al-Jaafari confirmed ongoing rumors that his country had shown interest in the S-400 and that negotiations with Russia were underway. In May 2019 Iraq's ambassador to Russia, Haidar Mandour Hadi, said the Iraqi government had decided to procure the S-400 air defense system.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "In June 2020 United States senator John Thune proposed an amendment to the (ultimately unsuccessful) Senate version of the 2021 National Defense Authorization Act to allow the US Department of Defense to purchase Turkey's S-400 system with funds from the U.S. Army's missile procurement account, thus negating Turkey's contravention of the CAATSA sanctions. This was an attempt to allow Turkey to re-enter the F-35 Lightning II acquisition and ownership program.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "South Korea is developing the KM-SAM, a medium-range SAM system based on technology from the 9M96 missile, with assistance from NPO Almaz. The prime contractor is Hanwha Group (formerly Samsung-Thales, a defunct joint venture between South Korea's Samsung and France's Thales). The KM-SAM will consist of an X-band multifunction radar vehicle built by Hanwha in technical cooperation with Almaz, with fire control and TEL vehicles built by Doosan.  Missiles will be provided by LIG Nex1.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Algerian Territorial Air Defence Forces \u2013 First S-400 units delivered in September 2021.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Belarusian Air Force \u2013 Contract signed in May 2022 and executed in December.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "People's Liberation Army Air Force \u2013 Contract signed in September 2014, deliveries of units began in January 2018, and are being introduced.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Indian Air Force \u2013 A contract was signed in October 2018 during an official meeting between Russia's President Vladimir Putin and India's Prime Minister Narendra Modi in New Delhi. The deal, worth of $US5.43 billion, includes delivery of the 1st regiment of the S-400 beginning November 2021. India  deployed the 1st regiment of the S-400 in April 2022. 3 regiments delivered, with 2 more to join by August 2026.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "2 battalions of the 1545th Anti-Aircraft Rocket Regiment, Kaliningrad Oblast",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "2 battalions of the 18th Anti-Aircraft Rocket Regiment, Feodosia, Crimea",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "2 battalions of the 12th Anti-Aircraft Rocket Regiment, Sevastopol, Crimea",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "Radar S-400 (basic and potential as Protivnik-GE, Gamma-DE) their exact specifications and photos, indicated target size, height and distance, resistance to interference and anti-stealth capabilities, time to deployment, and other details.",
+    "date": null,
+    "verdict": null
+  },
+  {
+    "source": "wikipedia",
+    "text": "A lot of photos of all elements S-400 from various foreshortenings (copy prohibited). Photos can be enlarged fullscreen",
+    "date": null,
+    "verdict": null
+  }
+]
